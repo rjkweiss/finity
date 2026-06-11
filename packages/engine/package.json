@@ -1,0 +1,16 @@
+{
+  "name": "@finity/engine",
+  "version": "0.1.0",
+  "description": "Pure game engine — no browser dependencies, runs in Node.js, Web Workers, and browser",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.1"
+  }
+}

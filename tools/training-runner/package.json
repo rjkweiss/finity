@@ -1,0 +1,20 @@
+{
+  "name": "@finity/training-runner",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Headless game runner — mass AI-vs-AI game generation for ML training data",
+  "type": "module",
+  "scripts": {
+    "run": "tsx src/runner.ts",
+    "export": "tsx src/export.ts"
+  },
+  "dependencies": {
+    "@finity/engine": "workspace:*",
+    "@finity/agents": "workspace:*",
+    "@finity/recorder": "workspace:*"
+  },
+  "devDependencies": {
+    "tsx": "^4.15.0",
+    "typescript": "^5.4.0"
+  }
+}

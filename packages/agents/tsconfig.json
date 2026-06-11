@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "composite": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "declaration": true,
+    "lib": ["ES2022", "WebWorker"]
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["tests", "dist"],
+  "references": [
+    { "path": "../engine" }
+  ]
+}

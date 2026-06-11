@@ -1,0 +1,19 @@
+{
+  "name": "@finity/parsers",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Data parsers — BGA game logs and HTML path patterns to GameRecord format",
+  "type": "module",
+  "scripts": {
+    "parse:bga": "tsx src/bga-parser.ts",
+    "parse:paths": "tsx src/html-path-parser.ts"
+  },
+  "dependencies": {
+    "@finity/engine": "workspace:*",
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.15.0",
+    "typescript": "^5.4.0"
+  }
+}

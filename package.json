@@ -1,0 +1,32 @@
+{
+  "name": "finity",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Finity AI Playground — a platform for human and AI players of the board game Finity",
+  "workspaces": [
+    "packages/engine",
+    "packages/agents",
+    "packages/recorder",
+    "packages/client",
+    "server",
+    "tools/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=packages/client",
+    "build": "npm run build --workspace=packages/client",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:engine": "vitest run --project engine",
+    "test:agents": "vitest run --project agents",
+    "test:server": "vitest run --project server",
+    "lint": "eslint . --ext .ts,.tsx",
+    "server:dev": "npm run dev --workspace=server"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0",
+    "eslint": "^8.57.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0",
+    "@typescript-eslint/parser": "^7.0.0"
+  }
+}
