@@ -83,3 +83,14 @@ export {
     isRedundant,
     canMakeArrowMoveInSlot,
 } from './engine';
+
+// Path analysis
+export {
+    basePostStation,
+    reachableStations,
+    hasFullPath,
+    legalPaths,
+    longestLegalPathLength,
+    longestSupportedPathLength,
+    reachableStationCount,
+} from './path_analyzer';

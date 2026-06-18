@@ -9,9 +9,9 @@
     "export": "tsx src/export.ts"
   },
   "dependencies": {
-    "@finity/engine": "workspace:*",
-    "@finity/agents": "workspace:*",
-    "@finity/recorder": "workspace:*"
+    "@finity/engine": "*",
+    "@finity/agents": "*",
+    "@finity/recorder": "*"
   },
   "devDependencies": {
     "tsx": "^4.15.0",

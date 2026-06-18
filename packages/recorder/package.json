@@ -9,7 +9,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@finity/engine": "workspace:*"
+    "@finity/engine": "*"
   },
   "devDependencies": {
     "typescript": "^5.4.0",

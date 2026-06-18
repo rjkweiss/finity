@@ -9,7 +9,7 @@
     "parse:paths": "tsx src/html-path-parser.ts"
   },
   "dependencies": {
-    "@finity/engine": "workspace:*",
+    "@finity/engine": "*",
     "cheerio": "^1.0.0"
   },
   "devDependencies": {
