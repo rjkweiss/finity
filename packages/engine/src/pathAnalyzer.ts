@@ -119,7 +119,7 @@ export function reachableStationCount(state: FinityGameState, color: PlayerColor
  * no ring support check). Starts from the player's base post or a
  * specified station.
  */
-function rawPaths(
+export function rawPaths(
     state: FinityGameState,
     color: PlayerColor,
     fromStation?: StationName,

@@ -1,10 +1,21 @@
 /* Finity AI Playground — ported from original App.css */
 
 html, body {
-  margin: 0;
+  margin: 7.5px 0;
   padding: 0;
   background-color: lightslategray;
   zoom: 90%;
+}
+
+#root {
+  width: 100%;
+  max-width: none;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 body {
@@ -19,9 +30,10 @@ canvas {
 /* Header */
 #header {
   width: 100%;
-  height: 60px;
-  margin-bottom: 5px;
+  position: static;
+  box-sizing: border-box;
   background-color: slategray;
+  margin-bottom: 15px;
 }
 
 #header-container {
@@ -90,8 +102,9 @@ canvas {
 
 /* Game container */
 #game_container {
-  margin: auto;
-  width: 1200px;
+  margin: 5px auto;
+  float: none;
+  position: static;
   display: inline-flex;
 }
 
@@ -118,6 +131,13 @@ canvas {
   margin-top: 0px;
   border: white 2pt solid;
   opacity: 0.6;
+}
+
+.play-view {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .to-play {
@@ -192,7 +212,7 @@ canvas {
   font-size: 13px;
   font-family: monospace;
   color: #ddd;
-  width: 1200px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }

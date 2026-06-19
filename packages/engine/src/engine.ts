@@ -40,6 +40,11 @@ import {
     getSlotNeighbors,
 } from './topology';
 
+import {
+    reachableStations,
+    hasFullPath
+} from './pathAnalyzer';
+
 // =============================================================
 // Game Creation
 // =============================================================
@@ -444,11 +449,21 @@ function removeArrow(state: FinityGameState, arrow: ArrowState): void {
     reevaluateRingSupport(state);
 }
 
-function placeRing(state: FinityGameState, ring: RingState, _move: MoveAction): void {
-    // We need to know which station — this comes from the move context
-    // For now, the ring's station must be encoded in the move.
-    // This requires the MoveAction to carry station info for rings.
-    // TODO: extend MoveAction or RingState to include station
+function placeRing(state: FinityGameState, ring: RingState, move: MoveAction): void {
+    // target station is carried on the move (rings don't store their own station; once placed
+    // position in board.stations[name].rings is the truth)
+    const stationName = move.station;
+    if (!stationName) return;
+
+    const station = state.board.stations[stationName];
+    if (!station) return;
+
+    // ring's size determine its slot: [small, medium, large] => [0, 1, 2]
+    // applyMove assumes the move was already validated by possibleMoves
+    const sizeIndex = ring.size === 's' ? 0: ring.size === 'm' ? 1: 2;
+    if (station.rings[sizeIndex]) return;  // slot already occupied
+    station.rings[sizeIndex] = { type: 'ring', color: ring.color, size: ring.size };
+
     state.turnsSinceRingChange = 0;
 }
 
@@ -490,9 +505,22 @@ function reevaluateRingSupport(state: FinityGameState): void {
 }
 
 function clearOrphans(state: FinityGameState, color: PlayerColor): void {
-    // TODO: integrate with pathAnalyzer to find reachable stations
-    // and remove rings that are no longer supported
-    // This is a critical function that needs the path analysis module
+    // A ring is "orphaned" when its station can no longer be reached by any legal
+    // path from the player's base post. Removing an arrow, reversing one, or
+    // moving a base post can sever support, so this runs after every structural change
+    const supported = reachableStations(state, color);
+    for (const [name, station] of Object.entries(state.board.stations)) {
+        if (name === 'C') continue;
+        if (supported.has(name as StationName)) continue;
+
+        for (let i = 0; i < station.rings.length; i++) {
+            const ring = station.rings[i];
+            if (ring && ring.color === color) {
+                station.rings[i] = null;
+                state.turnsSinceRingChange = 0;
+            }
+        }
+    }
 }
 
 // =============================================================
@@ -518,13 +546,13 @@ function advanceTurn(state: FinityGameState): void {
 
 function checkVictory(state: FinityGameState): void {
     for (const color of state.config.playerColors) {
-        if (ringCount(state, color) >= 7) {
-            // TODO: check hasFullPath via pathAnalyzer
-            // if (hasFullPath(state, color)) {
-            //   if (!state.winners.includes(color)) {
-            //     state.winners.push(color);
-            //   }
-            // }
+        // skip if current color is in the winner's list
+        if (state.winners.includes(color)) continue;
+
+        //  victory requires both the ring threshold and a complete supported path
+        // (9 stations ending at center)
+        if (ringCount(state, color) >= 7 && hasFullPath(state, color)) {
+            state.winners.push(color);
         }
     }
 

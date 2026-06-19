@@ -115,20 +115,20 @@ export type GamePiece = ArrowState | RingState | BlockerState | BasePostMove;
 // Type Guards
 // =============================================================
 
-export function isArrow(p: GamePiece): p is ArrowState {
-    return p.type === 'arrow';
+export function isArrow(piece: GamePiece): piece is ArrowState {
+    return piece.type === 'arrow';
 }
 
-export function isRing(p: GamePiece): p is RingState {
-    return p.type === 'ring';
+export function isRing(piece: GamePiece): piece is RingState {
+    return piece.type === 'ring';
 }
 
-export function isBlocker(p: GamePiece): p is BlockerState {
-    return p.type === 'blocker';
+export function isBlocker(piece: GamePiece): piece is BlockerState {
+    return piece.type === 'blocker';
 }
 
-export function isBasePost(p: GamePiece): p is BasePostMove {
-    return p.type === 'basePost';
+export function isBasePost(piece: GamePiece): piece is BasePostMove {
+    return piece.type === 'basePost';
 }
 
 // =============================================================
@@ -139,6 +139,7 @@ export interface MoveAction {
     type: 'place' | 'remove' | 'replace';
     pieceToAdd?: ArrowState | RingState | BlockerState | BasePostMove;
     pieceToRemove?: ArrowState | BlockerState;
+    station?: StationName;  // target station for ring placement
 }
 
 export interface RecordedMove {

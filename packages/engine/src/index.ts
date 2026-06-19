@@ -93,4 +93,4 @@ export {
     longestLegalPathLength,
     longestSupportedPathLength,
     reachableStationCount,
-} from './path_analyzer';
+} from './pathAnalyzer';
