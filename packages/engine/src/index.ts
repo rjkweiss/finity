@@ -94,3 +94,7 @@ export {
     longestSupportedPathLength,
     reachableStationCount,
 } from './path-analyzer';
+
+export {
+    possibleMoves
+} from './possible-moves'
