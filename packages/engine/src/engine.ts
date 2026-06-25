@@ -43,7 +43,7 @@ import {
 import {
     reachableStations,
     hasFullPath
-} from './pathAnalyzer';
+} from './path-analyzer';
 
 // =============================================================
 // Game Creation

@@ -16,7 +16,7 @@
 
 import type { FinityGameState, PlayerColor, StationName, StationNumber } from "./types";
 import { getAllArrows, occupiesHighPoint, stationControlledBy } from "./engine";
-import { basePostStation, reachableStations, legalPaths, rawPaths } from "./pathAnalyzer";
+import { basePostStation, reachableStations, legalPaths, rawPaths } from "./path-analyzer";
 
 // =============================================================
 // 1. Longest bridge path (offense)
