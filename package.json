@@ -19,6 +19,7 @@
     "test:engine": "vitest run --project engine",
     "test:agents": "vitest run --project agents",
     "test:server": "vitest run --project server",
+    "test:client": "vitest run --project client",
     "lint": "eslint . --ext .ts,.tsx",
     "server:dev": "npm run dev --workspace=server"
   },
@@ -27,6 +28,7 @@
     "@typescript-eslint/parser": "^7.0.0",
     "@vitest/coverage-v8": "^1.6.1",
     "eslint": "^8.57.0",
+    "tsx": "^4.22.4",
     "typescript": "^5.4.0",
     "vitest": "^1.6.0"
   }
