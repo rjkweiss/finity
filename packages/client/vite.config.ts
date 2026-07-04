@@ -5,4 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: { port: 3000 },
   worker: { format: 'es' },
+  test: {
+    name: 'client',
+  },
 });
