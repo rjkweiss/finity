@@ -1,44 +1,37 @@
 // packages/client/src/components/PlayView.tsx
 //
-// STEP 8 — The first visible layer. Pure wiring: consumes useOrchestrator and routes
-// data to the REAL FinityCanvas + PlayerPanel. It owns NO game logic.
+// STEP 8 — Play screen wiring. Restores the ORIGINAL intended layout that App.css
+// styles: #game_container is a flex row with #players_1_3 (left column) | #finity
+// (board) | #players_2_4 (right column). Play/pause/step/reset live in the Header
+// (wired at App level), so this view no longer renders its own controls bar.
 //
-// Reconciled against the actual components (FinityCanvas.tsx, PlayerPanel.tsx):
-//   - FinityCanvas takes `gameState` + pixel `onCanvasClick(x,y)`; it does NOT take
-//     legal-move highlights. Highlighting legal targets needs DisplayHandler support
-//     (out of scope here) — see notes.
-//   - PlayerPanel takes `isTurn` + `winners`; its move-type dropdown maps onto
-//     input.setCategoryFilter, and "Concede" maps onto controls.resign.
-//
-// ONE SEAM REMAINS UNBUILT — [SEAM-HITTEST]:
-//   The canvas reports a pixel (x,y). Turning that into a BoardTarget (which station /
-//   which slot was clicked) needs the board geometry in rendering/layout.ts. That file
-//   wasn't available here, so the hit-test is INJECTED as a prop. Implement it in the
-//   layout layer (it already has computeLayout) and pass it in.
+// Clickability: FinityCanvas reports a pixel (x,y). We snap it to the nearest
+// currently-SELECTABLE target (via boardHitTest) and feed that to the input handler.
+// The board highlights those selectable targets so the player can aim.
 
-import { useCallback, useMemo } from 'react';
-import type { ArrowColor, FinityGameState, GameConfig, PlayerColor } from '@finity/engine';
-import { LocalHumanAgent } from '@finity/agents';
+import { useCallback, useEffect, useMemo } from 'react';
+import type { ArrowColor, GameConfig, PlayerColor } from '@finity/engine';
+import { LocalHumanAgent, type PlayerAgent } from '@finity/agents';
 import { GameOrchestrator, type AgentMap } from '../orchestrator';
 import { useOrchestrator } from '../hooks/useOrchestrator';
-import type { BoardTarget, MoveCategory } from '../rendering/moveInputHandler';
+import { computeLayout } from '../rendering/layout';
+import { nearestTarget } from '../rendering/boardHitTest';
+import type { MoveCategory } from '../rendering/moveInputHandler';
 
 import FinityCanvas from './FinityCanvas';
 import PlayerPanel from './PlayerPanel';
 
-/** Resolves a canvas pixel to a board target. Implement against rendering/layout.ts. */
-export type BoardHitTester = (x: number, y: number, state: FinityGameState) => BoardTarget | null;
+/** Click tolerance in px. Slots (L/C/R channels) sit ~30px apart, so keep this modest
+ *  and rely on snapping to the nearest *legal* target. Tune to taste. */
+const SNAP_RADIUS = 45;
 
 export interface PlayViewProps {
-  /** Pass an orchestrator in, OR pass config+agents to have PlayView build one. */
+  /** Pass an orchestrator in (App owns it so the Header can drive controls), OR pass
+   *  config+agents to have PlayView build one for standalone use. */
   orchestrator?: GameOrchestrator;
   config?: GameConfig;
   agents?: AgentMap;
-  /** The 8-cone pattern. The engine does NOT generate it; if omitted, PlayView makes a
-   *  random one. For replaying a known game, pass the recorded pattern. */
   pathPattern?: ArrowColor[];
-  /** [SEAM-HITTEST] pixel -> BoardTarget. Until provided, board clicks are ignored. */
-  hitTest?: BoardHitTester;
 }
 
 /** The engine takes the cone pattern as input, so pattern generation is a client concern. */
@@ -46,10 +39,10 @@ function randomPattern(): ArrowColor[] {
   return Array.from({ length: 8 }, () => (Math.random() < 0.5 ? 'b' : 'w'));
 }
 
-/** PlayerPanel's move-type dropdown -> MoveInputHandler category filter. */
+/** PlayerPanel's move-type dropdown -> input category filter. */
 const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
   select: null,
-  'b-arrow': 'arrow', // color is chosen at the disambiguation step
+  'b-arrow': 'arrow',
   'w-arrow': 'arrow',
   ring: 'ring',
   'base-post': 'basePost',
@@ -59,107 +52,107 @@ const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
   'opp-blocker': 'remove',
 };
 
-export function PlayView({ orchestrator, config, agents, pathPattern, hitTest }: PlayViewProps) {
+export function PlayView({ orchestrator, config, agents, pathPattern }: PlayViewProps) {
   const orch = useMemo(() => {
     if (orchestrator) return orchestrator;
     if (!config || !agents) throw new Error('PlayView needs either an orchestrator or config+agents');
     return new GameOrchestrator({ config, agents, pathPattern: pathPattern ?? randomPattern() });
   }, [orchestrator, config, agents, pathPattern]);
 
-  const { state, currentColor, isOver, result, playMode, input, controls } = useOrchestrator(orch);
-  const phase = input.getPhase();
+  const { state, currentColor, isOver, result, isAwaitingHumanInput, input } = useOrchestrator(orch);
 
-  // Stable handler: reads the LATEST state/agent at click time. This matters because
-  // FinityCanvas binds its mouse handler ONCE in setup() — a callback closing over a
-  // state snapshot would go stale. Reading through the (stable) orchestrator avoids that.
+  // Same geometry the renderer uses, so pixel clicks line up with drawn pieces.
+  const layout = useMemo(() => computeLayout(state.config.boardSize), [state.config.boardSize]);
+
+  // Kick off the turn loop; it parks on each human turn. Pause on unmount (e.g. tab away).
+  useEffect(() => {
+    void orch.play();
+    return () => orch.pause();
+  }, [orch]);
+
+  const phase = input.getPhase();
+  const highlights = isAwaitingHumanInput ? input.selectableTargets() : [];
+
+  // Stable click handler: reads the LATEST state/agent through the (stable) orchestrator,
+  // because FinityCanvas binds its mouse handler once in setup().
   const handleCanvasClick = useCallback(
     (x: number, y: number) => {
       const color = orch.currentColor();
       const agent = orch.agentFor(color);
-      const awaiting = agent instanceof LocalHumanAgent && agent.isAwaitingInput();
-      if (!awaiting || !hitTest) return;
-      const target = hitTest(x, y, orch.getState());
+      if (!(agent instanceof LocalHumanAgent && agent.isAwaitingInput())) return;
+      const target = nearestTarget(x, y, input.selectableTargets(), layout, SNAP_RADIUS);
       if (target) input.selectTarget(target);
     },
-    [orch, input, hitTest],
+    [orch, input, layout],
   );
 
   const handleMoveSelect = (color: PlayerColor, moveType: string) => {
     if (moveType === 'concede') {
-      controls.resign(color);
+      orch.abortCurrentTurn({ kind: 'resign', color });
       return;
     }
     input.setCategoryFilter(MOVE_TYPE_TO_CATEGORY[moveType] ?? null);
   };
 
+  const colors = state.config.playerColors;
+  const left = colors.filter((_, i) => i % 2 === 0);   // players 1 & 3
+  const right = colors.filter((_, i) => i % 2 === 1);  // players 2 & 4
+
+  const panel = (color: PlayerColor) => (
+    <PlayerPanel
+      key={color}
+      color={color}
+      isTurn={!isOver && color === currentColor}
+      winners={state.winners}
+      onMoveSelect={handleMoveSelect}
+    />
+  );
+
   return (
-    <div className="finity-play-view">
-      <div className="finity-players">
-        {state.config.playerColors.map((color) => (
-          <PlayerPanel
-            key={color}
-            color={color}
-            isTurn={!isOver && color === currentColor}
-            winners={state.winners}
-            onMoveSelect={handleMoveSelect}
-          // onAgentChange is intentionally unwired here — switching an agent means
-          // reconfiguring the orchestrator's agent map (a setup-screen / App concern,
-          // and Phase 6 for custom agents). See notes.
+    <div className="play-view">
+      <div id="game_container">
+        <div id="players_1_3">{left.map(panel)}</div>
+
+        <div id="finity">
+          <FinityCanvas
+            gameState={state}
+            onCanvasClick={handleCanvasClick}
+            highlightTargets={highlights}
           />
-        ))}
-      </div>
 
-      <FinityCanvas gameState={state} onCanvasClick={handleCanvasClick} />
+          {phase.phase === 'disambiguating' && (
+            <div className="finity-disambig" role="dialog" aria-label="Choose move">
+              {phase.options.map((opt) => (
+                <button key={opt.id} type="button" onClick={() => input.selectOption(opt.id)}>
+                  {opt.label}
+                </button>
+              ))}
+              <button type="button" onClick={() => input.cancelSelection()}>
+                Cancel
+              </button>
+            </div>
+          )}
 
-      {phase.phase === 'disambiguating' && (
-        <div className="finity-disambig" role="dialog" aria-label="Choose move">
-          {phase.options.map((opt) => (
-            <button key={opt.id} type="button" onClick={() => input.selectOption(opt.id)}>
-              {opt.label}
-            </button>
-          ))}
-          <button type="button" onClick={() => input.cancelSelection()}>
-            Cancel
-          </button>
+          {isOver && result && (
+            <div className="finity-result" role="status">
+              {result.winners.length > 0
+                ? `${result.winners.join(', ')} wins (${result.reason})`
+                : `Game over: ${result.reason}`}
+            </div>
+          )}
         </div>
-      )}
 
-      {/* NOTE: Header.tsx already owns play/pause/step/reset. If App wires Header to this
-          orchestrator (lift the orchestrator to App and pass it via the `orchestrator`
-          prop), drop this controls bar. Kept here so PlayView is usable standalone. */}
-      <div className="finity-controls">
-        {playMode === 'paused' ? (
-          <button type="button" onClick={controls.play} disabled={isOver}>
-            Play
-          </button>
-        ) : (
-          <button type="button" onClick={controls.pause}>
-            Pause
-          </button>
-        )}
-        <button type="button" onClick={controls.step} disabled={isOver || playMode === 'playing'}>
-          Step
-        </button>
-        <button type="button" onClick={controls.reset}>
-          Reset
-        </button>
+        <div id="players_2_4">{right.map(panel)}</div>
       </div>
-
-      {isOver && result && (
-        <div className="finity-result" role="status">
-          {result.winners.length > 0
-            ? `${result.winners.join(', ')} wins (${result.reason})`
-            : `Game over: ${result.reason}`}
-        </div>
-      )}
     </div>
   );
 }
 
-// Helper for the common case: two local humans on one device (step 9 playtest UI).
+// Helper for the common case: two local humans on one device.
 export function twoLocalHumans(playerColors: [PlayerColor, PlayerColor]): AgentMap {
-  return {
-    [playerColors[0]]: new LocalHumanAgent({ id: `human-${playerColors[0]}`, label: `${playerColors[0]} (human)` }),
-    [playerColors[1]]: new LocalHumanAgent({ id: `human-${playerColors[1]}`, label: `${playerColors[1]} (human)` }),
-  };
+  const map: AgentMap = {};
+  const [a, b] = playerColors;
+  map[a] = new LocalHumanAgent({ id: `human-${a}`, label: `${a} (human)` }) as PlayerAgent;
+  map[b] = new LocalHumanAgent({ id: `human-${b}`, label: `${b} (human)` }) as PlayerAgent;
+  return map;
 }

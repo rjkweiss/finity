@@ -5,7 +5,7 @@
 // AI-vs-AI game updates many times per second. The hook also owns one MoveInputHandler
 // instance, bound to whichever LocalHumanAgent is currently on the clock.
 
-import { useCallback, useEffect, useMemo, useRef, useSyncExternalStore } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from 'react';
 import type { FinityGameState, GameResult, MoveAction, PlayerColor } from '@finity/engine';
 import { LocalHumanAgent, type AbortReason } from '@finity/agents';
 import type { GameOrchestrator, PlayMode } from '../orchestrator';
@@ -69,6 +69,15 @@ export function useOrchestrator(orch: GameOrchestrator): UseOrchestrator {
     const isAwaitingHumanInput = human?.isAwaitingInput() ?? false;
     const legalMoves = !isOver && human ? orch.legalMoves() : [];
 
+    // MoveInputHandler mutates internally (refresh, category filter, disambiguation
+    // phase). Those changes must re-render so the board highlights and disambiguation UI
+    // stay in sync. useSyncExternalStore only fires on orchestrator events, so we add a
+    // small force-render wired to the handler's onChange. forceRef keeps the closure
+    // stable even though useMemo builds the handler once.
+    const [, setTick] = useState(0);
+    const forceRef = useRef<() => void>(() => {});
+    forceRef.current = () => setTick((t) => t + 1);
+
     // One input handler for the hook's lifetime; submit routes to whoever is on the clock.
     const input = useMemo(
         () =>
@@ -78,6 +87,7 @@ export function useOrchestrator(orch: GameOrchestrator): UseOrchestrator {
                     const a = orch.agentFor(c);
                     return a instanceof LocalHumanAgent ? a.submitMove(move) : false;
                 },
+                onChange: () => forceRef.current(),
             }),
         [orch],
     );

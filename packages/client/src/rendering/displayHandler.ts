@@ -21,6 +21,7 @@ import type {
   GamePiece,
 } from '@finity/engine';
 import type { LayoutData } from './layout';
+import type { BoardTarget } from './moveInputHandler';
 
 export interface GameImages {
   cs: p5.Image;        // center station
@@ -72,7 +73,12 @@ export class DisplayHandler {
     this.bgColor = bgColor;
   }
 
-  display(state: FinityGameState, layout: LayoutData, movePreview?: GamePiece | null): void {
+  display(
+    state: FinityGameState,
+    layout: LayoutData,
+    movePreview?: GamePiece | null,
+    highlights?: readonly BoardTarget[],
+  ): void {
     // p5.background overloads don't accept a plain number[] spread in TS, so handle by length
     if (this.bgColor.length === 1) {
       this.p.background(this.bgColor[0]);
@@ -85,10 +91,38 @@ export class DisplayHandler {
       this.p.background(0);
     }
     this.drawBoard(state, layout);
+    if (highlights && highlights.length > 0) {
+      this.drawHighlights(highlights, layout);
+    }
     if (movePreview) {
       this.drawMovePreview(movePreview, state, layout);
     }
   }
+
+  /** Ring/circle markers on the legal targets the player can click this turn.
+   *  Colors are in the canvas's colorMode(RGB, 1) space (0..1 channels + alpha). */
+  private drawHighlights(targets: readonly BoardTarget[], layout: LayoutData): void {
+    const p = this.p;
+    p.push();
+    p.noFill();
+    p.strokeWeight(3);
+    p.stroke(1, 0.82, 0.15, 0.95); // gold
+    for (const t of targets) {
+      let pos: [number, number] | null | undefined;
+      let d: number;
+      if (t.kind === 'station') {
+        pos = layout.stationPositions[t.station];
+        d = 70;
+      } else {
+        pos = layout.slotLayouts[t.slotId]?.midpoint;
+        d = 34;
+      }
+      if (!pos) continue;
+      p.ellipse(pos[0], pos[1], d, d);
+    }
+    p.pop();
+  }
+
 
   // ===============================
   // Board Drawing

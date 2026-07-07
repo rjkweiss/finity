@@ -1,4 +1,3 @@
-// packages/agents/src/human-local.test.ts
 import { describe, it, expect, vi } from 'vitest';
 import type { FinityGameState, MoveAction, PlayerColor } from '@finity/engine';
 import { LocalHumanAgent } from './human-local';

@@ -1,9 +1,7 @@
 // packages/agents/src/human-local.ts
 //
-// STEP 5 — The one genuinely tricky agent: it bridges the synchronous, event-driven
-// world of mouse clicks to the async agent contract. `move()` does not compute — it
-// parks a promise and hands its resolver to the UI. `submitMove()` (called by the
-// MoveInputHandler in step 6) unblocks the orchestrator.
+// it bridges the synchronous, event-driven world of mouse clicks to the async agent contract. `move()`
+// does not compute — it parks a promise and hands its resolver to the UI. `submitMove()`
 
 import type { FinityGameState, MoveAction, PlayerColor } from '@finity/engine';
 import {

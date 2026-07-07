@@ -227,3 +227,23 @@ canvas {
 .placeholder-view h2 {
   margin-bottom: 8px;
 }
+
+/* Phase 2 additions — move disambiguation chooser + result banner (rendered in #finity) */
+.finity-disambig {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.35);
+}
+.finity-disambig button {
+  padding: 4px 10px;
+  cursor: pointer;
+}
+.finity-result {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+}
