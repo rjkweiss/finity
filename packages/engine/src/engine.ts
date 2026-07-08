@@ -434,7 +434,7 @@ export function applyMove(state: FinityGameState, move: MoveAction): FinityGameS
     if (getAllRings(next).length !== getAllRings(state).length) {
         next.turnsSinceRingChange = 0;
     } else {
-        next.turnsSinceRingChange = state.turnsSinceRingChange;
+        next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
     }
 
 
@@ -588,6 +588,7 @@ function checkVictory(state: FinityGameState): void {
     // Game is over when all but one player has won
     if (state.winners.length >= state.config.playerColors.length - 1) {
         state.playStatus = 'over';
+        return;
     }
 
     // deadlock / draw -- if the board has gone too long with no change in
