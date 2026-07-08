@@ -45,6 +45,20 @@ import {
     hasFullPath
 } from './path-analyzer';
 
+import { computeZobristHash } from './zobrist';
+
+// =============================================================
+// Tunables
+// =============================================================
+
+/**
+ * Number of full rounds without any change to the total ring count after which
+ * the game is declared a draw (deadlock). Scaled by player count into a turn
+ * limit inside checkVictory. Provisional — confirm against BGA's rule with Tony.
+ */
+export const DRAW_ROUND_LIMIT = 10;
+
+
 // =============================================================
 // Game Creation
 // =============================================================
@@ -62,7 +76,7 @@ export function createGame(
     const topology = buildTopology(boardSize);
     const board = createInitialBoard(topology.stations, playerColors, topology.startStations);
 
-    return {
+    const game: FinityGameState =  {
         version: 1,
         gsId: '',  // assigned externally (by orchestrator or DB)
         config,
@@ -73,8 +87,11 @@ export function createGame(
         winners: [],
         pathPattern,
         turnsSinceRingChange: 0,
-        zobristHash: '0',  // TODO: compute initial hash
+        zobristHash: '0',  // set just below
     };
+
+    game.zobristHash = computeZobristHash(game);
+    return game;
 }
 
 /**
@@ -90,7 +107,7 @@ function createInitialBoard(
     for (const name of stations) {
         stationMap[name] = {
             id: name,
-            coord: '', // populated below if needed
+            coord: '',
             rings: [null, null, null],
             basePost: null,
         };
@@ -251,7 +268,7 @@ export function outArrows(state: FinityGameState, stationName: StationName, arro
     const stationSlots = STATION_SLOTS[stationName];
     if (!stationSlots) return arrows;
 
-    for (const [neighbor, channels] of Object.entries(stationSlots)) {
+    for (const [_neighbor, channels] of Object.entries(stationSlots)) {
         for (const [_channel, slotId] of Object.entries(channels as Record<string, number>)) {
             const slot = state.board.slots[slotId];
             if (
@@ -412,10 +429,22 @@ export function applyMove(state: FinityGameState, move: MoveAction): FinityGameS
     };
     next.moveHistory = [...next.moveHistory, recorded];
 
+    // Deadlock / draw bookkeeping - A productive move is one that changes
+    // the TOTAL number of rings on the board - a ring placement or orphan sweep that removed one
+    if (getAllRings(next).length !== getAllRings(state).length) {
+        next.turnsSinceRingChange = 0;
+    } else {
+        next.turnsSinceRingChange = state.turnsSinceRingChange;
+    }
+
+
     // Advance turn
     if (next.playStatus !== 'over') {
         advanceTurn(next);
     }
+
+    // Refresh the position hash last, so side-to-move (turnIndex) is final
+    next.zobristHash = computeZobristHash(next);
 
     return next;
 }
@@ -558,6 +587,13 @@ function checkVictory(state: FinityGameState): void {
 
     // Game is over when all but one player has won
     if (state.winners.length >= state.config.playerColors.length - 1) {
+        state.playStatus = 'over';
+    }
+
+    // deadlock / draw -- if the board has gone too long with no change in
+    // the total ring count, no one can make progress
+    const drawTurnLimit = DRAW_ROUND_LIMIT * state.config.playerColors.length;
+    if (state.turnsSinceRingChange >= drawTurnLimit) {
         state.playStatus = 'over';
     }
 }

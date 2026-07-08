@@ -97,4 +97,10 @@ export {
 
 export {
     possibleMoves
-} from './possible-moves'
+} from './possible-moves';
+
+export { evaluate, DEFAULT_WEIGHTS, type EvalWeights } from './evaluation';
+
+export { computeZobristHash } from './zobrist';
+
+// optional -- make individual heuristics public from evaluation
