@@ -53,8 +53,8 @@ export default function PlayerPanel({
         <option value="human-rem" disabled>Remote Human</option>
         <option value="ai-random">Random Moves AI</option>
         <option value="ai-easy">Easy AI</option>
-        <option value="ai-medium" disabled>Medium AI</option>
-        <option value="ai-hard" disabled>Hard AI</option>
+        <option value="ai-medium">Medium AI</option>
+        <option value="ai-hard">Hard AI</option>
         <option value="ai-custom" disabled>Custom AI</option>
       </select>
 

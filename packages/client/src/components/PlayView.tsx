@@ -20,6 +20,7 @@ import type { MoveCategory } from '../rendering/moveInputHandler';
 
 import FinityCanvas from './FinityCanvas';
 import PlayerPanel from './PlayerPanel';
+import MoveLog from './MoveLog';
 
 /** Click tolerance in px. Slots (L/C/R channels) sit ~30px apart, so keep this modest
  *  and rely on snapping to the nearest *legal* target. Tune to taste. */
@@ -32,6 +33,7 @@ export interface PlayViewProps {
   config?: GameConfig;
   agents?: AgentMap;
   pathPattern?: ArrowColor[];
+  onAgentChange?: (color: PlayerColor, sel: string) => void;
 }
 
 /** The engine takes the cone pattern as input, so pattern generation is a client concern. */
@@ -52,7 +54,7 @@ const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
   'opp-blocker': 'remove',
 };
 
-export function PlayView({ orchestrator, config, agents, pathPattern }: PlayViewProps) {
+export function PlayView({ orchestrator, config, agents, pathPattern, onAgentChange }: PlayViewProps) {
   const orch = useMemo(() => {
     if (orchestrator) return orchestrator;
     if (!config || !agents) throw new Error('PlayView needs either an orchestrator or config+agents');
@@ -105,6 +107,7 @@ export function PlayView({ orchestrator, config, agents, pathPattern }: PlayView
       isTurn={!isOver && color === currentColor}
       winners={state.winners}
       onMoveSelect={handleMoveSelect}
+      onAgentChange={onAgentChange}
     />
   );
 
@@ -140,6 +143,7 @@ export function PlayView({ orchestrator, config, agents, pathPattern }: PlayView
                 : `Game over: ${result.reason}`}
             </div>
           )}
+          <MoveLog orchestrator={orch} />
         </div>
 
         <div id="players_2_4">{right.map(panel)}</div>

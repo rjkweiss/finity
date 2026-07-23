@@ -247,3 +247,18 @@ canvas {
   color: white;
   padding: 10px;
 }
+
+.move-log {
+  max-height: 140px;
+  overflow-y: auto;
+  background: rgba(0, 0, 0, 0.35);
+  color: #ddd;
+  font-family: monospace;
+  font-size: 12px;
+  text-align: left;
+  padding: 6px 10px;
+  margin-top: 6px;
+}
+.move-log div {
+  padding: 1px 0;
+}
