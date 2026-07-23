@@ -25,6 +25,7 @@ export interface BuildSummary {
     matched: string[];                              // had both log + pattern
     validated: string[];                            // matched AND replay-validated
     invalid: { id: string; failures: string[] }[];  // matched but replay mismatched
+    errored: {id: string; error: string }[]         // replay CRASHED (parser/engine threw)
     logOnly: string[];                              // log present, no scraped pattern
     patternOnly: string[];                          // pattern present, no log
 }
@@ -41,7 +42,7 @@ export function buildGameRecords(
     if (outDir && !existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 
     const summary: BuildSummary = {
-        matched: [], validated: [], invalid: [], logOnly: [], patternOnly: [],
+        matched: [], validated: [], invalid: [], errored: [], logOnly: [], patternOnly: [],
     };
     const logIds = new Set<string>();
 
@@ -53,14 +54,17 @@ export function buildGameRecords(
         if (!pattern) { summary.logOnly.push(id); continue; }
 
         const game = parseGameLog(readFileSync(join(logsDir, file), 'utf8'));
-        const record = toGameRecord(game, pattern, { gameId: id });
-
-        const report = validateReplay(game, pattern);
-        if (report.ok) summary.validated.push(id);
-        else summary.invalid.push({ id, failures: report.failures });
-
         summary.matched.push(id);
-        if (outDir) writeFileSync(join(outDir, `${id}.json`), JSON.stringify(record, null, 2));
+
+        try {
+            const record = toGameRecord(game, pattern, { gameId: id });
+            const report = validateReplay(game, pattern);
+            if (report.ok) summary.validated.push(id);
+            else summary.invalid.push({ id, failures: report.failures });
+            if (outDir) writeFileSync(join(outDir, `${id}.json`), JSON.stringify(record, null, 2));
+        } catch (err) {
+            summary.errored.push({ id, error: err instanceof Error ? err.message: String(err) });
+        }
     }
 
     for (const id of patterns.keys()) {
