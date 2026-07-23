@@ -67,6 +67,20 @@ export interface OrchestratorOptions {
      *  validateMove(), and possibleMoves IS the legality oracle, so this is the check.
      *  Default false: Phase 2 sources (human picks, scripted replays) are already legal. */
     validateMoves?: boolean;
+    /**
+     * Pause between auto-played (play() loop only; step() is never delayed).
+     *  Makes AI-vs-AI games watchable move by move. Default 0 (no pacing).
+     */
+    turnDelayMs?: number;
+    /**
+     * End game as a draw when the same position (state.zobristHash) recurs this many
+     * times. CONFIRM W/ TONY
+     */
+    repetitionLimit?: number | null;
+    /**
+     * Absolute safety net: force a draw at this many total moves - default 1000
+     */
+    maxMoves?: number | null;
     now?: () => number; // injectable clock for deterministic tests
 }
 
@@ -87,6 +101,10 @@ export class GameOrchestrator {
     private readonly now: () => number;
     private readonly initialState: FinityGameState;
     private readonly validateMoves: boolean;
+    private readonly turnDelayMs: number;
+    private readonly repetitionLimit: number | null;
+    private readonly maxMoves: number | null;
+    private readonly positionCounts = new Map<string, number>();
 
     private playMode: PlayMode = 'paused';
     private turnInFlight = false;
@@ -117,6 +135,9 @@ export class GameOrchestrator {
         this.recorder = opts.recorder;
         this.timeouts = { ...DEFAULT_TIMEOUTS, ...(opts.timeouts ?? {}) };
         this.validateMoves = opts.validateMoves ?? false;
+        this.turnDelayMs = Math.max(0, opts.turnDelayMs ?? 0);
+        this.repetitionLimit = opts.repetitionLimit === undefined ? 3 : opts.repetitionLimit;
+        this.maxMoves = opts.maxMoves === undefined ? 1000 : opts.maxMoves;
         this.startedAt = this.now();
         for (const agent of this.allAgents()) agent.onGameStart?.(opts.config);
     }
@@ -168,16 +189,20 @@ export class GameOrchestrator {
     // ---- control ---------------------------------------------------------------
 
     async play(): Promise<GameResult | null> {
-        if (this.running) return this.result;
+        // set the mode first so play() acts as "resume" when a loop is already running
         this.playMode = 'playing';
+        if (this.running) return this.result
         this.running = true;
+
         try {
             while (this.playMode === 'playing' && !this.isOver()) {
                 await this.playTurn();
+                await this.interTurnDelay();
             }
         } finally {
             this.running = false;
         }
+
         return this.result;
     }
 
@@ -203,9 +228,12 @@ export class GameOrchestrator {
         this.startedAt = this.now();
         this.state = toState ?? this.initialState;
         this.notifyState();
+        this.positionCounts.clear();
     }
 
     dispose(): void {
+        // stop the play() loop once the aborted turn unwinds
+        this.playMode = 'paused';
         this.abortCurrentTurn({ kind: 'disposed' });
         for (const agent of this.allAgents()) agent.dispose?.();
         (Object.keys(this.listeners) as (keyof OrchestratorEvents)[]).forEach((k) =>
@@ -257,6 +285,22 @@ export class GameOrchestrator {
             }
 
             this.state = applyMove(this.state, move);
+
+            // Repetition tracking: ZobristHash is a full-fold of the hashes mean equal positions
+            if (this.repetitionLimit != null && this.state.winners.length === 0) {
+                const n = (this.positionCounts.get(this.state.zobristHash) ?? 0) + 1;
+                this.positionCounts.set(this.state.zobristHash, n);
+                if (n >= this.repetitionLimit) {
+                    this.state = { ...this.state, playStatus: 'over' };
+                }
+            }
+
+            // Absolute cap so no agent pairing can produce an unbounded game
+            if (this.maxMoves != null && this.state.winners.length === 0
+                && this.state.moveHistory.length >= this.maxMoves) {
+                    this.state = { ...this.state, playStatus: 'over' };
+            }
+
             this.recorder?.recordMove(move, color, this.state);
             this.broadcastOpponentMove(color, move, moveIndex);
             this.emit('turn:end', { color, moveIndex, move });
@@ -273,6 +317,13 @@ export class GameOrchestrator {
             this.currentAbort = null;
             this.turnInFlight = false;
         }
+    }
+
+    private async interTurnDelay(): Promise<void> {
+        if (this.turnDelayMs <= 0) return;
+        if (this.playMode !== 'playing' || this.isOver()) return;
+        if (this.agents[this.currentColor()]?.type === 'human-local') return;
+        await new Promise((resolve) => setTimeout(resolve, this.turnDelayMs));
     }
 
     private abortedByTimeout(ac: AbortController): boolean {
