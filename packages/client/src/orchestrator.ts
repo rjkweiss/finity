@@ -287,7 +287,7 @@ export class GameOrchestrator {
             this.state = applyMove(this.state, move);
 
             // Repetition tracking: ZobristHash is a full-fold of the hashes mean equal positions
-            if (this.repetitionLimit != null && this.state.winners.length === 0) {
+            if (this.repetitionLimit != null && this.state.playStatus === 'playing') {
                 const n = (this.positionCounts.get(this.state.zobristHash) ?? 0) + 1;
                 this.positionCounts.set(this.state.zobristHash, n);
                 if (n >= this.repetitionLimit) {
@@ -296,7 +296,7 @@ export class GameOrchestrator {
             }
 
             // Absolute cap so no agent pairing can produce an unbounded game
-            if (this.maxMoves != null && this.state.winners.length === 0
+            if (this.maxMoves != null && this.state.playStatus === 'playing'
                 && this.state.moveHistory.length >= this.maxMoves) {
                     this.state = { ...this.state, playStatus: 'over' };
             }
