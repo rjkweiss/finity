@@ -65,10 +65,7 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
   const layout = useMemo(() => computeLayout(state.config.boardSize), [state.config.boardSize]);
 
   // Kick off the turn loop; it parks on each human turn. Pause on unmount (e.g. tab away).
-  useEffect(() => {
-    void orch.play();
-    return () => orch.pause();
-  }, [orch]);
+  useEffect(() => () => orch.pause(), [orch]);
 
   const phase = input.getPhase();
   const highlights = isAwaitingHumanInput ? input.selectableTargets() : [];
