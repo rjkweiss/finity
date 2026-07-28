@@ -389,8 +389,6 @@ export function canMakeArrowMoveInSlot(
 export function applyMove(state: FinityGameState, move: MoveAction): FinityGameState {
     // Deep clone the state
     const next: FinityGameState = structuredClone(state) as unknown as FinityGameState;
-    // structuredClone doesn't handle bigint in all envs; restore it
-    next.zobristHash = state.zobristHash;
 
     const { type, pieceToAdd, pieceToRemove } = move;
 

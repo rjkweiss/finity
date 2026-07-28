@@ -66,6 +66,14 @@ export class DisplayHandler {
   private p: p5;
   private imgs: GameImages;
   private bgColor: number[];
+  /** Board scale from the current layout (see LayoutData.scale). Fixed-size pieces
+   *  (rings, posts, arrows, blockers, highlights, labels) multiply by this so they
+   *  stay proportional to the stations on shrunk 3p/4p boards. */
+  private scale = 1;
+
+  private sz(n: number): number {
+    return n * this.scale;
+  }
 
   constructor(p5Instance: p5, imgs: GameImages, bgColor: number[]) {
     this.p = p5Instance;
@@ -79,6 +87,7 @@ export class DisplayHandler {
     movePreview?: GamePiece | null,
     highlights?: readonly BoardTarget[],
   ): void {
+    this.scale = layout.scale ?? 1;
     // p5.background overloads don't accept a plain number[] spread in TS, so handle by length
     if (this.bgColor.length === 1) {
       this.p.background(this.bgColor[0]);
@@ -105,17 +114,17 @@ export class DisplayHandler {
     const p = this.p;
     p.push();
     p.noFill();
-    p.strokeWeight(3);
+    p.strokeWeight(Math.max(1.5, this.sz(3)));
     p.stroke(1, 0.82, 0.15, 0.95); // gold
     for (const t of targets) {
       let pos: [number, number] | null | undefined;
       let d: number;
       if (t.kind === 'station') {
         pos = layout.stationPositions[t.station];
-        d = 70;
+        d = this.sz(70);
       } else {
         pos = layout.slotLayouts[t.slotId]?.midpoint;
-        d = 34;
+        d = this.sz(34);
       }
       if (!pos) continue;
       p.ellipse(pos[0], pos[1], d, d);
@@ -151,7 +160,7 @@ export class DisplayHandler {
       const topCone = state.pathPattern[state.pathPattern.length - 1];
       this.p.image(
         topCone === 'b' ? this.imgs.ind_top_b : this.imgs.ind_top_w,
-        centerPos[0], centerPos[1], 100, 100,
+        centerPos[0], centerPos[1], this.sz(100), this.sz(100),
       );
     }
 
@@ -201,10 +210,10 @@ export class DisplayHandler {
     this.p.image(img, pos[0], pos[1], ...size);
 
     // Station label
-    this.p.textSize(28);
+    this.p.textSize(this.sz(28));
     this.p.textAlign(this.p.CENTER, this.p.CENTER);
     this.p.fill(0, 0, 0, 0.4);
-    this.p.text(name, pos[0], pos[1] - 50);
+    this.p.text(name, pos[0], pos[1] - this.sz(50));
   }
 
   private drawRing(ring: RingState, stationPos: [number, number]): void {
@@ -215,13 +224,13 @@ export class DisplayHandler {
     const crop = COLOR_CROPS[ring.color];
     if (!crop) return;
 
-    this.p.image(img, stationPos[0], stationPos[1], 100, 100, ...crop);
+    this.p.image(img, stationPos[0], stationPos[1], this.sz(100), this.sz(100), ...crop);
   }
 
   private drawBasePost(color: PlayerColor, stationPos: [number, number]): void {
     const crop = COLOR_CROPS[color];
     if (!crop) return;
-    this.p.image(this.imgs.bp, stationPos[0], stationPos[1], 100, 100, ...crop);
+    this.p.image(this.imgs.bp, stationPos[0], stationPos[1], this.sz(100), this.sz(100), ...crop);
   }
 
   private drawArrowPiece(arrow: ArrowState, layout: LayoutData, isPreview: boolean): void {
@@ -235,7 +244,7 @@ export class DisplayHandler {
     const img = isPreview
       ? (arrow.color === 'b' ? this.imgs.ab_prev : this.imgs.aw_prev)
       : (arrow.color === 'b' ? this.imgs.ab : this.imgs.aw);
-    img.resize(90, 90);
+    img.resize(Math.round(this.sz(90)), Math.round(this.sz(90)));
 
     const rise = toPos[1] - fromPos[1];
     const run = toPos[0] - fromPos[0];
@@ -262,7 +271,7 @@ export class DisplayHandler {
 
     this.p.translate(mx, my);
     this.p.rotate(angle);
-    this.p.image(img, 0, 0, 100, 100, ...crop);
+    this.p.image(img, 0, 0, this.sz(100), this.sz(100), ...crop);
     this.p.rotate(-angle);
     this.p.translate(-mx, -my);
   }
@@ -280,7 +289,7 @@ export class DisplayHandler {
       if (pos) {
         const crop = COLOR_CROPS[piece.color];
         if (crop) {
-          this.p.image(this.imgs.bp_prev, pos[0], pos[1], 100, 100, ...crop);
+          this.p.image(this.imgs.bp_prev, pos[0], pos[1], this.sz(100), this.sz(100), ...crop);
         }
       }
     } else if (piece.type === 'arrow') {

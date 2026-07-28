@@ -11,10 +11,10 @@ import type p5 from 'p5';
 
 import type { FinityGameState, GamePiece } from '@finity/engine';
 import { DisplayHandler } from '../rendering/displayHandler';
-import { computeLayout } from '../rendering/layout';
 import type { GameImages } from '../rendering/displayHandler';
 import type { LayoutData } from '../rendering/layout';
 import type { BoardTarget } from '../rendering/moveInputHandler';
+import { useEffect } from 'react';
 
 const PIXEL_WIDTH = 950;
 const PIXEL_HEIGHT = 650;
@@ -22,6 +22,8 @@ const BG_COLOR = [0.4, 0.6, 0.5];
 
 interface FinityCanvasProps {
   gameState: FinityGameState;
+  /** Geometry for the CURRENT board size. Owned by the parent (PlayView computes it) */
+  layout: LayoutData;
   movePreview?: GamePiece | null;
   /** Legal targets to highlight for the player on the clock. */
   highlightTargets?: BoardTarget[];
@@ -31,16 +33,23 @@ interface FinityCanvasProps {
 
 let imgs: Partial<GameImages> = {};
 let displayHandler: DisplayHandler | null = null;
-let layout: LayoutData | null = null;
 let p5Setup = false;
 
 const FinityCanvas = ({
   gameState,
+  layout,
   movePreview,
   highlightTargets,
   onCanvasClick,
   onCanvasMouseMove,
 }: FinityCanvasProps) => {
+  // The p5 wiring lives in module-level singletons
+  // react-p5 should remove its p5 instance when THIS component unmounts
+  useEffect(() => () => {
+    p5Setup = false;
+    displayHandler = null;
+  }, []);
+
   const preload = (p: any) => {
     const load = (path: string, key: keyof GameImages) => {
       p.loadImage(path, (img: any) => {
@@ -80,7 +89,6 @@ const FinityCanvas = ({
       p.imageMode(p.CENTER);
 
       displayHandler = new DisplayHandler(p, imgs as GameImages, BG_COLOR);
-      layout = computeLayout(gameState.config.boardSize, PIXEL_WIDTH, PIXEL_HEIGHT);
 
       // Mouse handlers bound once here. They call the latest prop via a ref-free
       // indirection: the handler passed by PlayView reads live state through the
@@ -88,6 +96,7 @@ const FinityCanvas = ({
       cnv.mousePressed(() => {
         if (onCanvasClick) onCanvasClick(p.mouseX, p.mouseY);
       });
+
       cnv.mouseMoved(() => {
         if (onCanvasMouseMove) onCanvasMouseMove(p.mouseX, p.mouseY);
       });
@@ -95,7 +104,7 @@ const FinityCanvas = ({
   };
 
   const draw = (_p: any) => {
-    if (displayHandler && layout) {
+    if (displayHandler) {
       displayHandler.display(gameState, layout, movePreview, highlightTargets);
     }
   };

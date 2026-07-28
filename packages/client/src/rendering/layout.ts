@@ -23,6 +23,11 @@ export interface SlotLayout {
 export interface LayoutData {
   stationPositions: Record<StationName, [number, number]>;
   stationSize: [number, number];
+  /** Uniform board scale (<= 1). 1 for the 2-player board (the reference framing);
+   *  taller boards (3p/4p include FNW/FSW rows) shrink to fit the canvas. The
+   *  DisplayHandler multiplies its fixed piece sizes (rings, posts, arrows,
+   *  highlights) by this so pieces stay proportional to stations. */
+  scale: number;
   slotLayouts: SlotLayout[];   // indexed 0-71
   canvasWidth: number;
   canvasHeight: number;
@@ -53,23 +58,59 @@ export function computeLayout(
   canvasWidth = 950,
   canvasHeight = 650,
 ): LayoutData {
-  const cx = 400;
-  const cy = 325;
+  // Base geometry (the original board_setup.js constants). These describe the
+  // 2-player board at scale 1; other board sizes reuse the same proportions.
   const near = 145;
   const far = 290;
   const vsm = 83;
+  const STATION_HALF = 100; // station image is 200x200, drawn centered
 
-  // Compute station positions
   const activeStations = STATIONS_BY_PLAYER_COUNT[boardSize];
-  const stationPositions: Record<string, [number, number]> = {};
 
-  // Always include center
-  stationPositions['C'] = ALL_STATION_POSITIONS['C'](cx, cy, near, far, vsm);
-
+  // --- Unit positions around the origin ------------------------------------
+  const unitPositions: Record<string, [number, number]> = {
+    C: ALL_STATION_POSITIONS['C'](0, 0, near, far, vsm),
+  };
   for (const name of activeStations) {
     if (ALL_STATION_POSITIONS[name]) {
-      stationPositions[name] = ALL_STATION_POSITIONS[name](cx, cy, near, far, vsm);
+      unitPositions[name] = ALL_STATION_POSITIONS[name](0, 0, near, far, vsm);
     }
+  }
+
+  // --- Fit and center -------------------------------------------------------
+  // Drawable region: full canvas minus small margins, minus the right-hand strip
+  // where drawBoard renders the cone-pattern indicator column (images centered at
+  // x=850, 100 wide, i.e. from x=800 on a 950 canvas -> keep the board left of it).
+  const MARGIN = 10;
+  const INDICATOR_STRIP = 160; // 950 - 160 = 790, clear of the column at x >= 800
+  const availLeft = MARGIN;
+  const availRight = canvasWidth - INDICATOR_STRIP;
+  const availTop = MARGIN;
+  const availBottom = canvasHeight - MARGIN;
+
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+  for (const [x, y] of Object.values(unitPositions)) {
+    minX = Math.min(minX, x - STATION_HALF);
+    maxX = Math.max(maxX, x + STATION_HALF);
+    minY = Math.min(minY, y - STATION_HALF);
+    maxY = Math.max(maxY, y + STATION_HALF);
+  }
+
+  // Uniform scale, capped at 1: the 2p board already fits at scale 1 and its
+  // framing is the visual reference, so it must come out pixel-identical.
+  const scale = Math.min(
+    1,
+    (availRight - availLeft) / (maxX - minX),
+    (availBottom - availTop) / (maxY - minY),
+  );
+
+  // Center the (scaled) bounding box in the drawable region.
+  const cx = (availLeft + availRight) / 2 - (scale * (minX + maxX)) / 2;
+  const cy = (availTop + availBottom) / 2 - (scale * (minY + maxY)) / 2;
+
+  const stationPositions: Record<string, [number, number]> = {};
+  for (const [name, [ux, uy]] of Object.entries(unitPositions)) {
+    stationPositions[name] = [cx + scale * ux, cy + scale * uy];
   }
 
   // Compute slot layouts (midpoints, to_points, rise/run)
@@ -128,7 +169,8 @@ export function computeLayout(
 
   return {
     stationPositions: stationPositions as Record<StationName, [number, number]>,
-    stationSize: [200, 200],
+    stationSize: [200 * scale, 200 * scale],
+    scale,
     slotLayouts,
     canvasWidth,
     canvasHeight,

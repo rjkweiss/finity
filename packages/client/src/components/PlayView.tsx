@@ -1,6 +1,4 @@
-// packages/client/src/components/PlayView.tsx
-//
-// STEP 8 — Play screen wiring. Restores the ORIGINAL intended layout that App.css
+//  Play screen wiring. Restores the ORIGINAL intended layout that App.css
 // styles: #game_container is a flex row with #players_1_3 (left column) | #finity
 // (board) | #players_2_4 (right column). Play/pause/step/reset live in the Header
 // (wired at App level), so this view no longer renders its own controls bar.
@@ -119,6 +117,7 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
         <div id="finity">
           <FinityCanvas
             gameState={state}
+            layout={layout}
             onCanvasClick={handleCanvasClick}
             highlightTargets={highlights}
           />
