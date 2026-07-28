@@ -33,6 +33,8 @@ const DIFFICULTY_BY_SEL: Record<string, Difficulty> = {
   'ai-hard': 'hard',
 };
 
+const ALL_COLORS: PlayerColor[] = ['cyan', 'yellow', 'red', 'purple'];
+
 /**
  * Map a PlayerPanel dropdown value to a concrete agent.
  * Search AIs (easy/medium/hard) run in a Web Worker; 2-player -> minimax,
@@ -54,16 +56,19 @@ function makeAgent(color: PlayerColor, sel: string, playerCount: number): Player
 
 export default function App() {
   const [activeView, setActiveView] = useState<View>('play');
+  const [playerCount, setPlayerCount] = useState<2|3|4>(2);
 
   const config = useMemo<GameConfig>(
-    () => ({ playerColors: ['cyan', 'yellow'], boardSize: 2 }),
-    [],
+    () => ({ playerColors: ALL_COLORS.slice(0, playerCount), boardSize: playerCount }),
+    [playerCount],
   );
 
   // Which agent plays each seat. Defaults to two local humans.
   const [agentSel, setAgentSel] = useState<Record<string, string>>({
     cyan: 'human-loc',
     yellow: 'human-loc',
+    red: 'human-loc',
+    purple: 'human-loc',
   });
 
   const agents = useMemo(() => {
@@ -109,6 +114,8 @@ export default function App() {
           void orch.step().catch(() => { });
         }}
         onReset={() => orch.reset()}
+        playerCount={playerCount}
+        onPlayerCountChange={setPlayerCount}
       />
       <main>
         {activeView === 'play' && (

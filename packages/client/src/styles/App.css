@@ -262,3 +262,8 @@ canvas {
 .move-log div {
   padding: 1px 0;
 }
+.player-count-select {
+  margin-left: 20px;
+  padding: 4px 8px;
+  font-size: 13px;
+}

@@ -12,6 +12,8 @@ interface HeaderProps {
   onPlay?: () => void;
   onPause?: () => void;
   onStep?: () => void;
+  playerCount?: number;
+  onPlayerCountChange?: (n: 2 | 3 | 4) => void;
 }
 
 const NAV_ITEMS: { view: View; label: string }[] = [
@@ -24,6 +26,7 @@ const NAV_ITEMS: { view: View; label: string }[] = [
 export default function Header({
   activeView, onNavigate,
   onReset, onPlay, onPause, onStep,
+  playerCount, onPlayerCountChange
 }: HeaderProps) {
   return (
     <div id="header">
@@ -45,6 +48,17 @@ export default function Header({
             </button>
           ))}
         </nav>
+        {onPlayerCountChange && (
+          <select
+            className="player-count-select"
+            value={playerCount}
+            onChange={(e) => onPlayerCountChange(Number(e.target.value) as 2 | 3 | 4)}
+          >
+            <option value={2}>2 Players</option>
+            <option value={3}>3 Players</option>
+            <option value={4}>4 Players</option>
+          </select>
+        )}
 
         {/* Play controls */}
         <div id="controls">
