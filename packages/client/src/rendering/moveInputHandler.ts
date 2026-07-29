@@ -1,6 +1,4 @@
-// packages/client/src/rendering/moveInputHandler.ts
-//
-// STEP 6 — Turns board interactions into legal MoveActions and hands the finished
+// Turns board interactions into legal MoveActions and hands the finished
 // move to the LocalHumanAgent. It NEVER calls applyMove or mutates state; it only
 // produces move intents drawn from possibleMoves().
 //
@@ -9,10 +7,7 @@
 //   - getLegalMoves: defaults to possibleMoves() but is injectable for unit tests.
 //   - primaryTarget / moveCategory / disambig: extract a "what did you click" target
 //     and secondary options FROM a MoveAction. These MUST be reconciled with the real
-//     possibleMoves() output shapes. See PHASE2-NOTES.md "MISS #7".
-//
-// The pixel -> BoardTarget hit-test (which station/slot a click landed on) lives in
-// the layout/p5 layer and is NOT here — this module consumes already-resolved targets.
+//     possibleMoves() output shapes.
 
 import {
     possibleMoves,

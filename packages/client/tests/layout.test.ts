@@ -22,7 +22,7 @@ import {
     type PlayerColor,
     type StationName,
 } from '@finity/engine';
-import { computeLayout } from './layout';
+import { computeLayout } from '../src/rendering/layout';
 
 const PATTERN: ArrowColor[] = ['b', 'w', 'b', 'w', 'b', 'w', 'b', 'w'];
 const COLORS: PlayerColor[] = ['cyan', 'yellow', 'red', 'purple'];

@@ -1,11 +1,6 @@
-// packages/client/src/orchestrator.ts
-//
-// STEP 3 — The turn loop. Replaces the old GameManager. It is the single source of
+// The turn loop. Replaces the old GameManager. It is the single source of
 // truth for game state, and it depends ONLY on the engine + agent interface — no
 // React, no p5, no pixels. That is what lets step 4 prove it headlessly.
-//
-// LOCATION NOTE: the design doc puts this at packages/client/src/orchestrator.ts.
-// It imports nothing from React/p5, so it could be promoted to its own package later.
 
 import {
     applyMove,
@@ -32,6 +27,7 @@ import {
 
 /** Phase 3 will provide the real recorder; the orchestrator only needs this slice. */
 export interface GameRecorderLike {
+    begin?(initialState: FinityGameState): void;
     recordMove(move: MoveAction, color: PlayerColor, state: FinityGameState): void;
     finalize(result: GameResult): void;
 }
@@ -133,6 +129,7 @@ export class GameOrchestrator {
         this.state = this.initialState;
         this.agents = opts.agents;
         this.recorder = opts.recorder;
+        this.recorder?.begin?.(this.initialState);
         this.timeouts = { ...DEFAULT_TIMEOUTS, ...(opts.timeouts ?? {}) };
         this.validateMoves = opts.validateMoves ?? false;
         this.turnDelayMs = Math.max(0, opts.turnDelayMs ?? 0);
@@ -227,6 +224,7 @@ export class GameOrchestrator {
         this.result = null;
         this.startedAt = this.now();
         this.state = toState ?? this.initialState;
+        this.recorder?.begin?.(this.state);
         this.notifyState();
         this.positionCounts.clear();
     }

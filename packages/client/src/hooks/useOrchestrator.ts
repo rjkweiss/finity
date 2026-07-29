@@ -1,6 +1,4 @@
-// packages/client/src/hooks/useOrchestrator.ts
-//
-// STEP 7 — React binding. The orchestrator remains the single source of truth; this
+// React binding. The orchestrator remains the single source of truth; this
 // hook only MIRRORS it. We use useSyncExternalStore so there is no tearing when an
 // AI-vs-AI game updates many times per second. The hook also owns one MoveInputHandler
 // instance, bound to whichever LocalHumanAgent is currently on the clock.

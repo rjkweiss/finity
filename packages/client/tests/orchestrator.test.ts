@@ -19,7 +19,7 @@ import {
     type MoveContext,
     type PlayerAgent,
 } from '@finity/agents';
-import { GameOrchestrator, type AgentMap } from './orchestrator';
+import { GameOrchestrator, type AgentMap } from '../src/orchestrator';
 
 const CONFIG: GameConfig = { playerColors: ['cyan', 'yellow'], boardSize: 2 };
 // Any valid 8-cone sequence — the engine takes the pattern as input (it doesn't generate it).

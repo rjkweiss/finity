@@ -1,12 +1,10 @@
-// packages/client/src/rendering/moveInputHandler.test.ts
-//
 // The state machine is tested with an INJECTED legal-move list, so it doesn't depend
 // on the real possibleMoves() output. (The extractor functions are exercised
 // indirectly; reconcile them separately against the real engine — MISS #7.)
 
 import { describe, it, expect, vi } from 'vitest';
 import type { FinityGameState, MoveAction, PlayerColor, StationName } from '@finity/engine';
-import { MoveInputHandler, primaryTarget, moveCategory } from './moveInputHandler';
+import { MoveInputHandler, primaryTarget, moveCategory } from '../src/rendering/moveInputHandler';
 
 const state = {} as FinityGameState;
 const color: PlayerColor = 'cyan';

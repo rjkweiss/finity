@@ -5,6 +5,6 @@
     "lib": ["ES2022", "DOM", "DOM.Iterable"],
     "noEmit": true, "allowImportingTsExtensions": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "tests/layout.test.ts"],
   "references": [{ "path": "../engine" }, { "path": "../agents" }, { "path": "../recorder" }]
 }

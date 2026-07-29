@@ -9,7 +9,7 @@ import type { MoveAction } from '@finity/engine';
 import type { GameOrchestrator } from '../orchestrator';
 import { moveCategory, primaryTarget } from '../rendering/moveInputHandler';
 
-function describeMove(move: MoveAction): string {
+export function describeMove(move: MoveAction): string {
     const target = primaryTarget(move);
     const where =
         target == null

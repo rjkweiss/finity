@@ -185,7 +185,7 @@ export interface GameResult {
 
 export interface AgentInfo {
     id: string;
-    type: 'human-local' | 'human-remote' | 'ai-builtin' | 'ai-custom' | 'ai-ml';
+    type: 'human-local' | 'human-remote' | 'ai-builtin' | 'ai-custom' | 'ai-ml' | 'scripted';
     label: string;
     author: string;
     version?: string;

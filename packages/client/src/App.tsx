@@ -9,7 +9,7 @@
  */
 
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { ArrowColor, GameConfig, PlayerColor } from '@finity/engine';
+import type { ArrowColor, GameConfig, GameRecord, PlayerColor } from '@finity/engine';
 import {
   LocalHumanAgent,
   WeightedRandomAgent,
@@ -19,7 +19,9 @@ import {
 } from '@finity/agents';
 import Header from './components/Header';
 import { PlayView } from './components/PlayView';
+import ReplayView from './components/ReplayView';
 import { GameOrchestrator, type AgentMap } from './orchestrator';
+import { GameRecorder, agentInfoMap } from '@finity/recorder';
 import { WorkerSearchAgent } from './agents/workerSearchAgent';
 
 type View = 'play' | 'agents' | 'history' | 'lobby';
@@ -85,9 +87,22 @@ export default function App() {
   );
 
   // Rebuilds when the agent map changes -> selecting an agent for a seat starts a new game.
-  const orch = useMemo(
-    () => new GameOrchestrator({ config, agents, pathPattern: pattern, turnDelayMs: TURN_DELAY_MS }),
-    [config, agents, pattern],
+  // The recorder shares the orchestrator's lifetime; the orchestrator drives it through
+  // the GameRecorderLike seam (begin on construction/reset, recordMove, finalize).
+  const { orch, recorder } = useMemo(() => {
+    const recorder = new GameRecorder({ agents: agentInfoMap(agents) });
+    const orch = new GameOrchestrator({
+      config, agents, pathPattern: pattern, turnDelayMs: TURN_DELAY_MS, recorder,
+    });
+    return { orch, recorder };
+  }, [config, agents, pattern]);
+
+  // The last FINISHED game's record — feeds the History tab. `on` returns the
+  // unsubscribe, so the effect cleanup is the return value itself.
+  const [lastRecord, setLastRecord] = useState<GameRecord | null>(null);
+  useEffect(
+    () => orch.on('game:over', () => setLastRecord(recorder.toRecord())),
+    [orch, recorder],
   );
 
   // Dispose the PREVIOUS orchestrator when a seat change replaces it: stops its play
@@ -130,7 +145,7 @@ export default function App() {
           <div className="placeholder-view"><h2>Agent Editor</h2><p>Coming in Phase 6</p></div>
         )}
         {activeView === 'history' && (
-          <div className="placeholder-view"><h2>Game History</h2><p>Coming in Phase 3</p></div>
+          <ReplayView latestRecord={lastRecord} getLiveRecord={() => recorder.toRecord()} />
         )}
         {activeView === 'lobby' && (
           <div className="placeholder-view"><h2>Game Lobby</h2><p>Coming in Phase 5</p></div>

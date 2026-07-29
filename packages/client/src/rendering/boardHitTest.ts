@@ -1,5 +1,3 @@
-// packages/client/src/rendering/boardHitTest.ts
-//
 // Pixel -> BoardTarget resolution against the same geometry the renderer uses
 // (computeLayout in layout.ts). Rather than a pure geometric "what's under the
 // cursor", we snap a click to the nearest CURRENTLY-SELECTABLE target. That does two
