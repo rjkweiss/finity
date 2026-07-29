@@ -1,0 +1,2373 @@
+{
+  "version": 1,
+  "gameId": "185463262",
+  "timestamp": 1625922226000,
+  "config": {
+    "playerColors": [
+      "cyan",
+      "yellow"
+    ],
+    "boardSize": 2
+  },
+  "pathPattern": [
+    "b",
+    "b",
+    "w",
+    "w",
+    "w",
+    "b",
+    "b",
+    "w"
+  ],
+  "initialState": {
+    "version": 1,
+    "gsId": "",
+    "config": {
+      "playerColors": [
+        "cyan",
+        "yellow"
+      ],
+      "boardSize": 2
+    },
+    "board": {
+      "stations": {
+        "C": {
+          "id": "C",
+          "coord": "",
+          "rings": [
+            {
+              "type": "ring",
+              "color": "yellow",
+              "size": "l"
+            },
+            {
+              "type": "ring",
+              "color": "cyan",
+              "size": "l"
+            },
+            null
+          ],
+          "basePost": null
+        },
+        "N": {
+          "id": "N",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": "cyan"
+        },
+        "NE": {
+          "id": "NE",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        },
+        "SE": {
+          "id": "SE",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        },
+        "S": {
+          "id": "S",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": "yellow"
+        },
+        "SW": {
+          "id": "SW",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        },
+        "NW": {
+          "id": "NW",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        },
+        "W": {
+          "id": "W",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        },
+        "E": {
+          "id": "E",
+          "coord": "",
+          "rings": [
+            null,
+            null,
+            null
+          ],
+          "basePost": null
+        }
+      },
+      "slots": [
+        {
+          "id": 0,
+          "contains": {
+            "type": "blocker",
+            "color": "cyan",
+            "slotId": 0
+          },
+          "blocked": false
+        },
+        {
+          "id": 1,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 2,
+          "contains": {
+            "type": "blocker",
+            "color": "cyan",
+            "slotId": 2
+          },
+          "blocked": false
+        },
+        {
+          "id": 3,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 4,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 5,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 6,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 7,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 8,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 9,
+          "contains": {
+            "type": "blocker",
+            "color": "yellow",
+            "slotId": 9
+          },
+          "blocked": false
+        },
+        {
+          "id": 10,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 11,
+          "contains": {
+            "type": "blocker",
+            "color": "yellow",
+            "slotId": 11
+          },
+          "blocked": false
+        },
+        {
+          "id": 12,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 13,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 14,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 15,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 16,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 17,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 18,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 19,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 20,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 21,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 22,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 23,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 24,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 25,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 26,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 27,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 28,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 29,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 30,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 31,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 32,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 33,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 34,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 35,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 36,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 37,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 38,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 39,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 40,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 41,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 42,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 43,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 44,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 45,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 46,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 47,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 48,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 49,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 50,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 51,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 52,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 53,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 54,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 55,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 56,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 57,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 58,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 59,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 60,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 61,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 62,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 63,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 64,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 65,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 66,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 67,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 68,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 69,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 70,
+          "contains": null,
+          "blocked": false
+        },
+        {
+          "id": 71,
+          "contains": null,
+          "blocked": false
+        }
+      ]
+    },
+    "turnIndex": 0,
+    "playStatus": "playing",
+    "moveHistory": [],
+    "winners": [],
+    "pathPattern": [
+      "b",
+      "b",
+      "w",
+      "w",
+      "w",
+      "b",
+      "b",
+      "w"
+    ],
+    "turnsSinceRingChange": 0,
+    "zobristHash": "0"
+  },
+  "agents": {
+    "cyan": {
+      "id": "bga:tony1021",
+      "type": "human-remote",
+      "label": "tony1021",
+      "author": "tony1021"
+    },
+    "yellow": {
+      "id": "bga:Ralphfico",
+      "type": "human-remote",
+      "label": "Ralphfico",
+      "author": "Ralphfico"
+    }
+  },
+  "moves": [
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "N",
+          "toStation": "NE",
+          "slotId": 27
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625922226000,
+      "moveIndex": 0
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "S",
+          "toStation": "SE",
+          "slotId": 46
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625923078000,
+      "moveIndex": 1
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "N",
+          "toStation": "NW",
+          "slotId": 18
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625927343000,
+      "moveIndex": 2
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SE",
+          "toStation": "E",
+          "slotId": 40
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625927562000,
+      "moveIndex": 3
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "NE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "s"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625927867000,
+      "moveIndex": 4
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "SE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "m"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625928152000,
+      "moveIndex": 5
+    },
+    {
+      "move": {
+        "type": "replace",
+        "pieceToRemove": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "S",
+          "toStation": "SE",
+          "slotId": 46
+        },
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SE",
+          "toStation": "S",
+          "slotId": 46
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625928922000,
+      "moveIndex": 6
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "SE",
+          "toStation": "NE",
+          "slotId": 37
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625929778000,
+      "moveIndex": 7
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "NE",
+          "toStation": "N",
+          "slotId": 28
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625935824000,
+      "moveIndex": 8
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "E",
+          "toStation": "SE",
+          "slotId": 41
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625936010000,
+      "moveIndex": 9
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "E",
+          "toStation": "NE",
+          "slotId": 35
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625941591000,
+      "moveIndex": 10
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "S",
+          "toStation": "SE",
+          "slotId": 47
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625941821000,
+      "moveIndex": 11
+    },
+    {
+      "move": {
+        "type": "replace",
+        "pieceToAdd": {
+          "type": "basePost",
+          "color": "cyan",
+          "toStation": "E"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625942302000,
+      "moveIndex": 12
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "SE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "s"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625951991000,
+      "moveIndex": 13
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "NE",
+          "toStation": "E",
+          "slotId": 34
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1625956065000,
+      "moveIndex": 14
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "E",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "m"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1625972855000,
+      "moveIndex": 15
+    },
+    {
+      "move": {
+        "type": "remove",
+        "pieceToRemove": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SE",
+          "toStation": "E",
+          "slotId": 40
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626058750000,
+      "moveIndex": 16
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SE",
+          "toStation": "E",
+          "slotId": 40
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626085687000,
+      "moveIndex": 17
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "N",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "s"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626097883000,
+      "moveIndex": 18
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "NE",
+          "toStation": "N",
+          "slotId": 29
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626098111000,
+      "moveIndex": 19
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "NW",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "s"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626100383000,
+      "moveIndex": 20
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "SE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "m"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626101061000,
+      "moveIndex": 21
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "NW",
+          "toStation": "N",
+          "slotId": 19
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626101520000,
+      "moveIndex": 22
+    },
+    {
+      "move": {
+        "type": "replace",
+        "pieceToRemove": {
+          "type": "blocker",
+          "color": "yellow",
+          "slotId": 9
+        },
+        "pieceToAdd": {
+          "type": "blocker",
+          "color": "yellow",
+          "slotId": 1
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626109961000,
+      "moveIndex": 23
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "NE",
+          "toStation": "C",
+          "slotId": 5
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626123925000,
+      "moveIndex": 24
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "E",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "m"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626138520000,
+      "moveIndex": 25
+    },
+    {
+      "move": {
+        "type": "remove",
+        "pieceToRemove": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SE",
+          "toStation": "E",
+          "slotId": 40
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626138882000,
+      "moveIndex": 26
+    },
+    {
+      "move": {
+        "type": "remove",
+        "pieceToRemove": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "E",
+          "toStation": "SE",
+          "slotId": 41
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626151247000,
+      "moveIndex": 27
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "NW",
+          "toStation": "N",
+          "slotId": 20
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626152462000,
+      "moveIndex": 28
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "S",
+          "toStation": "SW",
+          "slotId": 56
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626153237000,
+      "moveIndex": 29
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "NW",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "m"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626188455000,
+      "moveIndex": 30
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "SW",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "s"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626188582000,
+      "moveIndex": 31
+    },
+    {
+      "move": {
+        "type": "replace",
+        "pieceToRemove": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "S",
+          "toStation": "SW",
+          "slotId": 56
+        },
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "b",
+          "fromStation": "SW",
+          "toStation": "S",
+          "slotId": 56
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626188758000,
+      "moveIndex": 32
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "SE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "yellow",
+          "size": "l"
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626188853000,
+      "moveIndex": 33
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "N",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "m"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626204564000,
+      "moveIndex": 34
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "S",
+          "toStation": "SE",
+          "slotId": 45
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626204854000,
+      "moveIndex": 35
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "NE",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "m"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626205930000,
+      "moveIndex": 36
+    },
+    {
+      "move": {
+        "type": "place",
+        "pieceToAdd": {
+          "type": "arrow",
+          "color": "w",
+          "fromStation": "S",
+          "toStation": "SW",
+          "slotId": 55
+        }
+      },
+      "color": "yellow",
+      "timestamp": 1626206387000,
+      "moveIndex": 37
+    },
+    {
+      "move": {
+        "type": "place",
+        "station": "N",
+        "pieceToAdd": {
+          "type": "ring",
+          "color": "cyan",
+          "size": "l"
+        }
+      },
+      "color": "cyan",
+      "timestamp": 1626206960000,
+      "moveIndex": 38
+    }
+  ],
+  "result": {
+    "winners": [
+      "cyan"
+    ],
+    "reason": "path_complete",
+    "finalState": {
+      "version": 1,
+      "gsId": "",
+      "config": {
+        "playerColors": [
+          "cyan",
+          "yellow"
+        ],
+        "boardSize": 2
+      },
+      "board": {
+        "stations": {
+          "C": {
+            "id": "C",
+            "coord": "",
+            "rings": [
+              {
+                "type": "ring",
+                "color": "yellow",
+                "size": "l"
+              },
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "l"
+              },
+              null
+            ],
+            "basePost": null
+          },
+          "N": {
+            "id": "N",
+            "coord": "",
+            "rings": [
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "s"
+              },
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "m"
+              },
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "l"
+              }
+            ],
+            "basePost": null
+          },
+          "NE": {
+            "id": "NE",
+            "coord": "",
+            "rings": [
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "s"
+              },
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "m"
+              },
+              null
+            ],
+            "basePost": null
+          },
+          "SE": {
+            "id": "SE",
+            "coord": "",
+            "rings": [
+              {
+                "type": "ring",
+                "color": "yellow",
+                "size": "s"
+              },
+              {
+                "type": "ring",
+                "color": "yellow",
+                "size": "m"
+              },
+              {
+                "type": "ring",
+                "color": "yellow",
+                "size": "l"
+              }
+            ],
+            "basePost": null
+          },
+          "S": {
+            "id": "S",
+            "coord": "",
+            "rings": [
+              null,
+              null,
+              null
+            ],
+            "basePost": "yellow"
+          },
+          "SW": {
+            "id": "SW",
+            "coord": "",
+            "rings": [
+              null,
+              null,
+              null
+            ],
+            "basePost": null
+          },
+          "NW": {
+            "id": "NW",
+            "coord": "",
+            "rings": [
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "s"
+              },
+              {
+                "type": "ring",
+                "color": "cyan",
+                "size": "m"
+              },
+              null
+            ],
+            "basePost": null
+          },
+          "W": {
+            "id": "W",
+            "coord": "",
+            "rings": [
+              null,
+              null,
+              null
+            ],
+            "basePost": null
+          },
+          "E": {
+            "id": "E",
+            "coord": "",
+            "rings": [
+              null,
+              null,
+              null
+            ],
+            "basePost": "cyan"
+          }
+        },
+        "slots": [
+          {
+            "id": 0,
+            "contains": {
+              "type": "blocker",
+              "color": "cyan",
+              "slotId": 0
+            },
+            "blocked": true
+          },
+          {
+            "id": 1,
+            "contains": {
+              "type": "blocker",
+              "color": "yellow",
+              "slotId": 1
+            },
+            "blocked": false
+          },
+          {
+            "id": 2,
+            "contains": {
+              "type": "blocker",
+              "color": "cyan",
+              "slotId": 2
+            },
+            "blocked": true
+          },
+          {
+            "id": 3,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 4,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 5,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NE",
+              "toStation": "C",
+              "slotId": 5
+            },
+            "blocked": false
+          },
+          {
+            "id": 6,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 7,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 8,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 9,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 10,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 11,
+            "contains": {
+              "type": "blocker",
+              "color": "yellow",
+              "slotId": 11
+            },
+            "blocked": false
+          },
+          {
+            "id": 12,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 13,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 14,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 15,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 16,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 17,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 18,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "N",
+              "toStation": "NW",
+              "slotId": 18
+            },
+            "blocked": false
+          },
+          {
+            "id": 19,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NW",
+              "toStation": "N",
+              "slotId": 19
+            },
+            "blocked": false
+          },
+          {
+            "id": 20,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NW",
+              "toStation": "N",
+              "slotId": 20
+            },
+            "blocked": false
+          },
+          {
+            "id": 21,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 22,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 23,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 24,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 25,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 26,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 27,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "N",
+              "toStation": "NE",
+              "slotId": 27
+            },
+            "blocked": false
+          },
+          {
+            "id": 28,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NE",
+              "toStation": "N",
+              "slotId": 28
+            },
+            "blocked": false
+          },
+          {
+            "id": 29,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NE",
+              "toStation": "N",
+              "slotId": 29
+            },
+            "blocked": false
+          },
+          {
+            "id": 30,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 31,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 32,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 33,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 34,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NE",
+              "toStation": "E",
+              "slotId": 34
+            },
+            "blocked": false
+          },
+          {
+            "id": 35,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "E",
+              "toStation": "NE",
+              "slotId": 35
+            },
+            "blocked": false
+          },
+          {
+            "id": 36,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 37,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "SE",
+              "toStation": "NE",
+              "slotId": 37
+            },
+            "blocked": false
+          },
+          {
+            "id": 38,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 39,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 40,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 41,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 42,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 43,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 44,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 45,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 45
+            },
+            "blocked": false
+          },
+          {
+            "id": 46,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "S",
+              "slotId": 46
+            },
+            "blocked": false
+          },
+          {
+            "id": 47,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 47
+            },
+            "blocked": false
+          },
+          {
+            "id": 48,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 49,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 50,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 51,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 52,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 53,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 54,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 55,
+            "contains": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "S",
+              "toStation": "SW",
+              "slotId": 55
+            },
+            "blocked": false
+          },
+          {
+            "id": 56,
+            "contains": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SW",
+              "toStation": "S",
+              "slotId": 56
+            },
+            "blocked": false
+          },
+          {
+            "id": 57,
+            "contains": null,
+            "blocked": true
+          },
+          {
+            "id": 58,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 59,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 60,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 61,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 62,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 63,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 64,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 65,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 66,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 67,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 68,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 69,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 70,
+            "contains": null,
+            "blocked": false
+          },
+          {
+            "id": 71,
+            "contains": null,
+            "blocked": true
+          }
+        ]
+      },
+      "turnIndex": -1,
+      "playStatus": "over",
+      "moveHistory": [
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "N",
+              "toStation": "NE",
+              "slotId": 27
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890379,
+          "moveIndex": 0
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 46
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 1
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "N",
+              "toStation": "NW",
+              "slotId": 18
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 2
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "E",
+              "slotId": 40
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 3
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "NE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "s"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 4
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "SE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "m"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 5
+        },
+        {
+          "move": {
+            "type": "replace",
+            "pieceToRemove": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 46
+            },
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "S",
+              "slotId": 46
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 6
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "SE",
+              "toStation": "NE",
+              "slotId": 37
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 7
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NE",
+              "toStation": "N",
+              "slotId": 28
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 8
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "E",
+              "toStation": "SE",
+              "slotId": 41
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 9
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "E",
+              "toStation": "NE",
+              "slotId": 35
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 10
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 47
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 11
+        },
+        {
+          "move": {
+            "type": "replace",
+            "pieceToAdd": {
+              "type": "basePost",
+              "color": "cyan",
+              "toStation": "E"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 12
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "SE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "s"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 13
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NE",
+              "toStation": "E",
+              "slotId": 34
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 14
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "E",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "m"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 15
+        },
+        {
+          "move": {
+            "type": "remove",
+            "pieceToRemove": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "E",
+              "slotId": 40
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 16
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "E",
+              "slotId": 40
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 17
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "N",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "s"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890380,
+          "moveIndex": 18
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NE",
+              "toStation": "N",
+              "slotId": 29
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890380,
+          "moveIndex": 19
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "NW",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "s"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 20
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "SE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "m"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 21
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NW",
+              "toStation": "N",
+              "slotId": 19
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 22
+        },
+        {
+          "move": {
+            "type": "replace",
+            "pieceToRemove": {
+              "type": "blocker",
+              "color": "yellow",
+              "slotId": 9
+            },
+            "pieceToAdd": {
+              "type": "blocker",
+              "color": "yellow",
+              "slotId": 1
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 23
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "NE",
+              "toStation": "C",
+              "slotId": 5
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 24
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "E",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "m"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 25
+        },
+        {
+          "move": {
+            "type": "remove",
+            "pieceToRemove": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SE",
+              "toStation": "E",
+              "slotId": 40
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 26
+        },
+        {
+          "move": {
+            "type": "remove",
+            "pieceToRemove": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "E",
+              "toStation": "SE",
+              "slotId": 41
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 27
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "NW",
+              "toStation": "N",
+              "slotId": 20
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 28
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SW",
+              "slotId": 56
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 29
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "NW",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "m"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 30
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "SW",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "s"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890381,
+          "moveIndex": 31
+        },
+        {
+          "move": {
+            "type": "replace",
+            "pieceToRemove": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "S",
+              "toStation": "SW",
+              "slotId": 56
+            },
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "b",
+              "fromStation": "SW",
+              "toStation": "S",
+              "slotId": 56
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890381,
+          "moveIndex": 32
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "SE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "yellow",
+              "size": "l"
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890382,
+          "moveIndex": 33
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "N",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "m"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890382,
+          "moveIndex": 34
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "S",
+              "toStation": "SE",
+              "slotId": 45
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890382,
+          "moveIndex": 35
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "NE",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "m"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890382,
+          "moveIndex": 36
+        },
+        {
+          "move": {
+            "type": "place",
+            "pieceToAdd": {
+              "type": "arrow",
+              "color": "w",
+              "fromStation": "S",
+              "toStation": "SW",
+              "slotId": 55
+            }
+          },
+          "color": "yellow",
+          "timestamp": 1782407890382,
+          "moveIndex": 37
+        },
+        {
+          "move": {
+            "type": "place",
+            "station": "N",
+            "pieceToAdd": {
+              "type": "ring",
+              "color": "cyan",
+              "size": "l"
+            }
+          },
+          "color": "cyan",
+          "timestamp": 1782407890382,
+          "moveIndex": 38
+        }
+      ],
+      "winners": [
+        "cyan"
+      ],
+      "pathPattern": [
+        "b",
+        "b",
+        "w",
+        "w",
+        "w",
+        "b",
+        "b",
+        "w"
+      ],
+      "turnsSinceRingChange": 0,
+      "zobristHash": "0"
+    },
+    "totalMoves": 39,
+    "durationMs": 284734000
+  },
+  "metadata": {
+    "source": "bga",
+    "players": [
+      "tony1021",
+      "Ralphfico"
+    ],
+    "winnerName": "tony1021"
+  }
+}
