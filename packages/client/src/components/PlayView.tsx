@@ -7,7 +7,7 @@
 // currently-SELECTABLE target (via boardHitTest) and feed that to the input handler.
 // The board highlights those selectable targets so the player can aim.
 
-import { useCallback, useEffect, useMemo } from 'react';
+import { useCallback, useEffect, useMemo, useState, useRef } from 'react';
 import type { ArrowColor, GameConfig, PlayerColor } from '@finity/engine';
 import { LocalHumanAgent, type PlayerAgent } from '@finity/agents';
 import { GameOrchestrator, type AgentMap } from '../orchestrator';
@@ -39,18 +39,45 @@ function randomPattern(): ArrowColor[] {
   return Array.from({ length: 8 }, () => (Math.random() < 0.5 ? 'b' : 'w'));
 }
 
-/** PlayerPanel's move-type dropdown -> input category filter. */
-const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
-  select: null,
-  'b-arrow': 'arrow',
-  'w-arrow': 'arrow',
-  ring: 'ring',
-  'base-post': 'basePost',
-  blocker: 'blocker',
-  'rev-arrow': 'reverse',
-  'rem-arrow': 'remove',
-  'opp-blocker': 'remove',
+/** PlayerPanel's move-type dropdown -> input category filter (+ arrow color). */
+const MOVE_TYPE_TO_FILTER: Record<string, { cat: MoveCategory | null; arrowColor?: ArrowColor }> = {
+  select: { cat: null },
+  'b-arrow': { cat: 'arrow', arrowColor: 'b' },
+  'w-arrow': { cat: 'arrow', arrowColor: 'w' },
+  ring: { cat: 'ring' },
+  'base-post': { cat: 'basePost' },
+  blocker: { cat: 'blocker' },
+  'rev-arrow': { cat: 'reverse' },
+  'rem-arrow': { cat: 'remove' },
+  'opp-blocker': { cat: 'remove' },
 };
+
+/** Human-readable name for the active filter, used in feedback messages. */
+const MOVE_TYPE_LABEL: Record<string, string> = {
+  'b-arrow': 'black-arrow placement',
+  'w-arrow': 'white-arrow placement',
+  ring: 'ring placement',
+  'base-post': 'base-post move',
+  blocker: 'blocker move',
+  'rev-arrow': 'arrow reversal',
+  'rem-arrow': 'arrow removal',
+  'opp-blocker': 'blocker removal',
+};
+
+const MSG_DISMISS_MS = 2600;
+
+/** PlayerPanel's move-type dropdown -> input category filter. */
+// const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
+//   select: null,
+//   'b-arrow': 'arrow',
+//   'w-arrow': 'arrow',
+//   ring: 'ring',
+//   'base-post': 'basePost',
+//   blocker: 'blocker',
+//   'rev-arrow': 'reverse',
+//   'rem-arrow': 'remove',
+//   'opp-blocker': 'remove',
+// };
 
 export function PlayView({ orchestrator, config, agents, pathPattern, onAgentChange }: PlayViewProps) {
   const orch = useMemo(() => {
@@ -64,23 +91,76 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
   // Same geometry the renderer uses, so pixel clicks line up with drawn pieces.
   const layout = useMemo(() => computeLayout(state.config.boardSize), [state.config.boardSize]);
 
-  // Kick off the turn loop; it parks on each human turn. Pause on unmount (e.g. tab away).
+  // Games start PAUSED - nothing moves until the Header's "Play" button is pressed
   useEffect(() => () => orch.pause(), [orch]);
+
+  // Use re-apply the seat's filter after the input handler's per-turn refresh
+  // otherwise the dropdown would SAY "Place Ring" while the filter had been reset
+  const [moveTypeBySeat, setMoveTypeBySeat] = useState<Partial<Record<PlayerColor, string>>>({});
+
+  // Transient feedback for invalid clicks ("no legal move there", "press play ..")
+  const [inputMsg, setInputMsg] = useState<string | null>(null);
+  const msgTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const flash = useCallback((msg: string) => {
+    setInputMsg(msg);
+    if (msgTimer.current) clearTimeout(msgTimer.current);
+    msgTimer.current = setTimeout(() => setInputMsg(null), MSG_DISMISS_MS);
+  }, []);
+
+  useEffect(() => () => {
+    if (msgTimer.current) clearTimeout(msgTimer.current);
+  }, []);
+
+  const applyFilterForSeat = useCallback((color: PlayerColor) => {
+    const mt = moveTypeBySeat[color] ?? 'select';
+    const f = MOVE_TYPE_TO_FILTER[mt] ?? { cat: null };
+    input.setCategoryFilter(f.cat, { arrowColor: f.arrowColor ?? null });
+  }, [input, moveTypeBySeat]);
+
+  // The hook's effect call input.refresh() which resets the filter whenever a human turn starts or the state
+  // changes mid-turn
+  useEffect(() => {
+    if (isAwaitingHumanInput) applyFilterForSeat(currentColor);
+  }, [isAwaitingHumanInput, currentColor, state, applyFilterForSeat]);
 
   const phase = input.getPhase();
   const highlights = isAwaitingHumanInput ? input.selectableTargets() : [];
+
+  // Persistent hint when the chosen move type has NO legal moves this turn
+  const activeMoveType = isAwaitingHumanInput ? (moveTypeBySeat[currentColor] ?? 'select') : 'select';
+  const filterHasNoMoves = isAwaitingHumanInput && input.getCategoryFilter() !== null && highlights.length === 0;
+  const persistentHint = filterHasNoMoves
+    ? `No legal ${MOVE_TYPE_LABEL[activeMoveType] ?? 'move'} available - choose another move type.`
+    : null;
 
   // Stable click handler: reads the LATEST state/agent through the (stable) orchestrator,
   // because FinityCanvas binds its mouse handler once in setup().
   const handleCanvasClick = useCallback(
     (x: number, y: number) => {
+      if (orch.isOver()) return;
       const color = orch.currentColor();
       const agent = orch.agentFor(color);
-      if (!(agent instanceof LocalHumanAgent && agent.isAwaitingInput())) return;
+      if (!(agent instanceof LocalHumanAgent && agent.isAwaitingInput())) {
+        if (orch.getPlayMode() === 'paused') flash('Game is paused - press Play button to play.');
+        else flash(`Waiting for ${color} to move.`);
+        return;
+      }
+
       const target = nearestTarget(x, y, input.selectableTargets(), layout, SNAP_RADIUS);
-      if (target) input.selectTarget(target);
+      if (!target || !input.selectTarget(target)) {
+        const mt = moveTypeBySeat[color] ?? 'select';
+        const what = MOVE_TYPE_LABEL[mt];
+        flash(
+          what
+          ? `Not a legal ${what} target - the highlighted circles show where you can play.`
+          : 'No legal move there - the highlighted circles show where you can play.'
+        );
+
+        return ;
+      }
+      setInputMsg(null); // a valid selection clears any stale message
     },
-    [orch, input, layout],
+    [orch, input, layout, moveTypeBySeat, flash],
   );
 
   const handleMoveSelect = (color: PlayerColor, moveType: string) => {
@@ -88,7 +168,10 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
       orch.abortCurrentTurn({ kind: 'resign', color });
       return;
     }
-    input.setCategoryFilter(MOVE_TYPE_TO_CATEGORY[moveType] ?? null);
+    setMoveTypeBySeat((prev) => ({ ...prev, [color]: moveType }));
+    setInputMsg(null);
+    const f = MOVE_TYPE_TO_FILTER[moveType] ?? { cat: null };
+    input.setCategoryFilter(f.cat, { arrowColor: f.arrowColor ?? null });
   };
 
   const colors = state.config.playerColors;
@@ -101,6 +184,7 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
       color={color}
       isTurn={!isOver && color === currentColor}
       winners={state.winners}
+      moveType={moveTypeBySeat[color] ?? 'select'}
       onMoveSelect={handleMoveSelect}
       onAgentChange={onAgentChange}
     />
@@ -112,6 +196,11 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
         <div id="players_1_3">{left.map(panel)}</div>
 
         <div id="finity">
+          {(inputMsg ?? persistentHint) && (
+            <div className="finity-input-msg" role="status">
+              {inputMsg ?? persistentHint}
+            </div>
+          )}
           <FinityCanvas
             gameState={state}
             layout={layout}

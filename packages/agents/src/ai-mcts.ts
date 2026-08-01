@@ -173,6 +173,7 @@ export class MCTSAgent implements PlayerAgent {
     }
 
     // Truncated weighted-random playout; returns per-player reward shares
+    // uses random moves to play game from expanded state until game is over (deadline, depth passed etc)
     private rollout(state: FinityGameState, deadline: number): Reward {
         let cur = state;
         let depth = 0;

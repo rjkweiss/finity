@@ -80,10 +80,18 @@ export default function ReplayView({ latestRecord, getLiveRecord }: ReplayViewPr
         return () => clearTimeout(t);
     }, [playing, index, loaded]);
 
-    // Keep the current move visible in the list.
+    // Keep the current move visible in the list by adjusting ONLY the list box's own scrollTop.
+    // scrollIntoView() scrolls ancestor containers and the page too
     useEffect(() => {
-        const el = listRef.current?.querySelector('.replay-move.current');
-        el?.scrollIntoView({ block: 'nearest' });
+        const box = listRef.current;
+        if (!box) return;
+
+        const el = box.querySelector('.replay-move.current') as HTMLElement | null;
+        if (!el) return;
+        const top = el.offsetTop;
+        const bottom = top + el.offsetHeight;
+        if (top < box.scrollTop) box.scrollTop = top;
+        else if (bottom > box.scrollTop + box.clientHeight) box.scrollTop = bottom - box.clientHeight;
     }, [index]);
 
     const onImportFile = (e: { target: { files: FileList | null; value: string } }) => {
@@ -113,6 +121,7 @@ export default function ReplayView({ latestRecord, getLiveRecord }: ReplayViewPr
         () => (record ? computeLayout(record.config.boardSize) : null),
         [record],
     );
+
     const last = states.length - 1;
     const atEnd = index >= last;
 

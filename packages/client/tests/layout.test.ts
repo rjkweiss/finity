@@ -63,10 +63,67 @@ describe('computeLayout — station completeness per board size', () => {
         expect(computeLayout(2).stationPositions['FNW']).toBeUndefined();
         expect(computeLayout(3).stationPositions['FNW']).toBeDefined();
         expect(computeLayout(3).stationPositions['FSW']).toBeDefined();
-        expect(computeLayout(3).stationPositions['E']).toBeUndefined();
+        expect(computeLayout(3).stationPositions['E']).toBeDefined();
+        expect(computeLayout(3).stationPositions['W']).toBeUndefined();
         for (const f of ['FNW', 'FNE', 'FSE', 'FSW'] as const) {
             expect(computeLayout(4).stationPositions[f], f).toBeDefined();
         }
+    });
+
+    it('2-player board is pixel-identical to the original constants (the reference framing)', () => {
+        // Original hardcoded geometry: cx=400, cy=325, near=145, far=290, vsm=83.
+        const l = computeLayout(2);
+        expect(l.scale).toBe(1);
+        expect(l.stationPositions['C']).toEqual([400, 325]);
+        expect(l.stationPositions['N']).toEqual([400, 325 - 166]);
+        expect(l.stationPositions['S']).toEqual([400, 325 + 166]);
+        expect(l.stationPositions['W']).toEqual([400 - 290, 325]);
+        expect(l.stationPositions['E']).toEqual([400 + 290, 325]);
+        expect(l.stationPositions['NW']).toEqual([400 - 145, 325 - 83]);
+        expect(l.stationSize).toEqual([200, 200]);
+    });
+
+    it('3p/4p boards shrink to fit: nothing clipped, clear of the indicator column', () => {
+        for (const n of [3, 4] as const) {
+            const l = computeLayout(n);
+            expect(l.scale).toBeLessThan(1);
+            expect(l.scale).toBeGreaterThan(0.8); // sanity: mild shrink, not a postage stamp
+            const half = l.stationSize[0] / 2;
+            for (const [name, pos] of Object.entries(l.stationPositions)) {
+                const [x, y] = pos as [number, number];
+                expect(x - half, `${n}p ${name} left`).toBeGreaterThan(0);
+                expect(x + half, `${n}p ${name} right (indicator column starts ~800)`).toBeLessThan(800);
+                expect(y - half, `${n}p ${name} top`).toBeGreaterThan(0);
+                expect(y + half, `${n}p ${name} bottom`).toBeLessThan(l.canvasHeight);
+            }
+        }
+    });
+
+    it('boards are centered in the drawable region (2p framing carried over)', () => {
+        // Drawable region is x in [10, 790], y in [10, 640] -> center (400, 325).
+        for (const n of [2, 3, 4] as const) {
+            const l = computeLayout(n);
+            const xs = Object.values(l.stationPositions).map((p) => (p as [number, number])[0]);
+            const ys = Object.values(l.stationPositions).map((p) => (p as [number, number])[1]);
+            const cx = (Math.min(...xs) + Math.max(...xs)) / 2;
+            const cy = (Math.min(...ys) + Math.max(...ys)) / 2;
+            expect(Math.abs(cx - 400), `${n}p horizontal center`).toBeLessThan(1e-6);
+            expect(Math.abs(cy - 325), `${n}p vertical center`).toBeLessThan(1e-6);
+        }
+    });
+
+    it('scaled geometry stays proportional (slot midpoints between scaled stations)', () => {
+        const l = computeLayout(4);
+        // For any two adjacent stations, their connecting slots' midpoints must sit
+        // at the segment midpoint offset by the channel distance — spot-check C<->N
+        // via the geometric midpoint falling between the two scaled centers.
+        const c = l.stationPositions['C'] as [number, number];
+        const nPos = l.stationPositions['N'] as [number, number];
+        const midY = (c[1] + nPos[1]) / 2;
+        const mids = l.slotLayouts
+            .filter((sl) => sl.midpoint && Math.abs(sl.midpoint[0] - 400) < l.scale * 40)
+            .map((sl) => sl.midpoint![1]);
+        expect(mids.some((y) => Math.abs(y - midY) < 1)).toBe(true);
     });
 
     it('documents the bug: a 3p/4p state paired with a STALE 2p layout drops stations', () => {

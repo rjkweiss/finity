@@ -5,7 +5,7 @@
  * Reads from the new engine's FinityGameState + LayoutData.
  * Now also draws legal-target highlights for the local human's turn.
  */
-
+import { useEffect } from 'react';
 import Sketch from 'react-p5';
 import type p5 from 'p5';
 
@@ -14,7 +14,6 @@ import { DisplayHandler } from '../rendering/displayHandler';
 import type { GameImages } from '../rendering/displayHandler';
 import type { LayoutData } from '../rendering/layout';
 import type { BoardTarget } from '../rendering/moveInputHandler';
-import { useEffect } from 'react';
 
 const PIXEL_WIDTH = 950;
 const PIXEL_HEIGHT = 650;
@@ -35,6 +34,10 @@ let imgs: Partial<GameImages> = {};
 let displayHandler: DisplayHandler | null = null;
 let p5Setup = false;
 
+// p5 canvas event handlers are registered ONCE in setup()
+let clickHandlerRef: ((x: number, y: number) => void) | null = null;
+let moveHandlerRef: ((x: number, y: number) => void) | null = null;
+
 const FinityCanvas = ({
   gameState,
   layout,
@@ -48,7 +51,13 @@ const FinityCanvas = ({
   useEffect(() => () => {
     p5Setup = false;
     displayHandler = null;
+    clickHandlerRef = null;
+    moveHandlerRef = null;
   }, []);
+
+  // Keep the once-bound p5 event closures pointed at THIS render's props
+  clickHandlerRef = onCanvasClick ?? null;
+  moveHandlerRef = onCanvasMouseMove ?? null;
 
   const preload = (p: any) => {
     const load = (path: string, key: keyof GameImages) => {
@@ -93,12 +102,22 @@ const FinityCanvas = ({
       // Mouse handlers bound once here. They call the latest prop via a ref-free
       // indirection: the handler passed by PlayView reads live state through the
       // orchestrator, so binding once is safe.
+
+      // When no scaling is in effect, the ratio is exactly 1, so this is a no-op
+      const toCanvasCoords = (mx: number, my: number): [number, number] => {
+        const rect = (cnv as any).elt?.getBoundingClientRect?.();
+        if (!rect || rect.width === 0 || rect.height === 0) return [mx, my];
+        return [mx * (PIXEL_WIDTH / rect.width), my * (PIXEL_HEIGHT / rect.height)];
+      };
+
       cnv.mousePressed(() => {
-        if (onCanvasClick) onCanvasClick(p.mouseX, p.mouseY);
+        const [x, y] = toCanvasCoords(p.mouseX, p.mouseY);
+        clickHandlerRef?.(x, y);
       });
 
       cnv.mouseMoved(() => {
-        if (onCanvasMouseMove) onCanvasMouseMove(p.mouseX, p.mouseY);
+        const [x, y] = toCanvasCoords(p.mouseX, p.mouseY);
+        moveHandlerRef?.(x, y);
       });
     }
   };

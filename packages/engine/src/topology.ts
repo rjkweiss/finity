@@ -74,7 +74,7 @@ export function toCoord(name: StationName): StationCoord {
 /** Which stations exist for each player count (always includes Center) */
 export const STATIONS_BY_PLAYER_COUNT: Record<number, StationName[]> = {
     2: ['C', 'N', 'NE', 'SE', 'S', 'SW', 'NW', 'W', 'E'],
-    3: ['C', 'N', 'NE', 'SE', 'S', 'SW', 'NW', 'FNW', 'FSW'],
+    3: ['C', 'N', 'NE', 'SE', 'S', 'SW', 'NW', 'FNW', 'FSW', 'E'],
     4: ['C', 'N', 'NE', 'SE', 'S', 'SW', 'NW', 'W', 'E', 'FNW', 'FNE', 'FSE', 'FSW'],
 };
 

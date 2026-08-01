@@ -1,8 +1,8 @@
 import { describe, it, expect } from 'vitest';
 import { createGame, possibleMoves, type ArrowColor, type GameConfig } from '@finity/engine';
-import { RandomAgent, WeightedRandomAgent } from './ai-random';
-import { MoveAbortedError, type MoveContext } from './interface';
-import { seededRng, moveCategory } from './ai-common';
+import { RandomAgent, WeightedRandomAgent } from '../src/ai-random';
+import { MoveAbortedError, type MoveContext } from '../src/interface';
+import { seededRng, moveCategory } from '../src/ai-common';
 
 const CONFIG: GameConfig = { playerColors: ['cyan', 'yellow'], boardSize: 2 };
 const PATTERN: ArrowColor[] = ['b', 'w', 'b', 'w', 'b', 'w', 'b', 'w'];

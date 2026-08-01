@@ -10,6 +10,10 @@ interface PlayerPanelProps {
   color: PlayerColor;
   isTurn: boolean;
   winners: PlayerColor[];
+  /** Controlled move-type value (PlayView owns per-seat selections so the choice
+   *  survives turn changes and can be re-applied to the input filter). Falls back
+   * to internal state when omitted */
+  moveType?: string;
   onAgentChange?: (color: PlayerColor, agent: string) => void;
   onMoveSelect?: (color: PlayerColor, moveType: string) => void;
 }
@@ -20,11 +24,14 @@ export default function PlayerPanel({
   color,
   isTurn,
   winners,
+  moveType: moveTypeProp,
   onAgentChange,
   onMoveSelect,
 }: PlayerPanelProps) {
   const [agent, setAgent] = useState<AgentType>('human-loc');
-  const [moveType, setMoveType] = useState<string>('select');
+  const [internalMoveType, setInternalMoveType] = useState<string>('select');
+  // const [moveType, setMoveType] = useState<string>('select');
+  const moveType = moveTypeProp ?? internalMoveType;
 
   const winIndex = winners.indexOf(color);
 
@@ -34,7 +41,7 @@ export default function PlayerPanel({
   };
 
   const handleMoveSelect = (value: string) => {
-    setMoveType(value);
+    setInternalMoveType(value);
     onMoveSelect?.(color, value);
   };
 
@@ -112,7 +119,7 @@ function HumanControlPanel({
         <option value="blocker">Move Blocker</option>
         <option value="rev-arrow">Reverse Arrow</option>
         <option value="rem-arrow">Remove Arrow</option>
-        <option value="opp-blocker" disabled>Remove Opponent's Blocker</option>
+        <option value="opp-blocker">Remove Opponent's Blocker</option>
         <option value="concede">Concede the Game</option>
       </select>
 

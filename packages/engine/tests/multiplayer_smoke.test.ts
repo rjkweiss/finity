@@ -48,7 +48,7 @@ function smoke(playerColors: PlayerColor[], count: 2 | 3 | 4) {
 }
 
 describe('multi-player gameplay smoke', () => {
-  it('3-player: 150 moves, every offered move stays on the 9-station board', () => {
+  it('3-player: 150 moves, every offered move stays on the 10-station board', () => {
     smoke(['cyan', 'yellow', 'red'], 3);
   });
 
@@ -56,12 +56,14 @@ describe('multi-player gameplay smoke', () => {
     smoke(['cyan', 'yellow', 'red', 'purple'], 4);
   });
 
-  it('3-player board really excludes W/E/FNE/FSE', () => {
+  it('3-player board is the 10-station triangle: excludes W/FNE/FSE, includes E corner', () => {
     const state = createGame({ playerColors: ['cyan', 'yellow', 'red'], boardSize: 3 }, PATTERN);
-    for (const absent of ['W', 'E', 'FNE', 'FSE']) {
+    for (const absent of ['W', 'FNE', 'FSE']) {
       expect(state.board.stations[absent as StationName]).toBeUndefined();
     }
-    expect(state.board.stations['FNW']).toBeDefined();
-    expect(state.board.stations['FSW']).toBeDefined();
+    for (const present of ['E', 'FNW', 'FSW']) {
+      expect(state.board.stations[present as StationName]).toBeDefined();
+    }
+    expect(Object.keys(state.board.stations)).toHaveLength(10);
   });
 });

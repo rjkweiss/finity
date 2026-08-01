@@ -7,10 +7,10 @@ import {
     type PlayerColor,
     type FinityGameState,
 } from '@finity/engine';
-import { MinimaxAgent } from './ai-minimax';
-import { MCTSAgent } from './ai-mcts';
-import { createBuiltinAgent } from './ai-builtin';
-import { MoveAbortedError, type MoveContext } from './interface';
+import { MinimaxAgent } from '../src/ai-minimax';
+import { MCTSAgent } from '../src/ai-mcts';
+import { createBuiltinAgent } from '../src/ai-builtin';
+import { MoveAbortedError, type MoveContext } from '../src/interface';
 
 const PATTERN: ArrowColor[] = ['b', 'w', 'b', 'w', 'b', 'w', 'b', 'w'];
 const CONFIG_2P: GameConfig = { playerColors: ['cyan', 'yellow'], boardSize: 2 };

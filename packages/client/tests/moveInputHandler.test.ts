@@ -65,6 +65,27 @@ describe('MoveInputHandler', () => {
         expect(handler.selectableTargets().length).toBe(2);
     });
 
+    it('arrow filter narrows further by color ("Place Black Arrow" vs white)', () => {
+        const { handler } = makeHandler([arrowOn(5, 'b'), arrowOn(6, 'w'), ringAt('N')]);
+        handler.setCategoryFilter('arrow', { arrowColor: 'b' });
+        expect(handler.selectableTargets()).toEqual([{ kind: 'slot', slotId: 5 }]);
+        expect(handler.getCategoryFilter()).toBe('arrow');
+        expect(handler.getArrowColorFilter()).toBe('b');
+        handler.setCategoryFilter('arrow', { arrowColor: 'w' });
+        expect(handler.selectableTargets()).toEqual([{ kind: 'slot', slotId: 6 }]);
+        handler.setCategoryFilter('arrow'); // no color -> both
+        expect(handler.selectableTargets().length).toBe(2);
+    });
+
+    it('refresh resets both category and arrow-color filters', () => {
+        const { handler } = makeHandler([arrowOn(5, 'b'), arrowOn(6, 'w')]);
+        handler.setCategoryFilter('arrow', { arrowColor: 'b' });
+        handler.refresh(state, color);
+        expect(handler.getCategoryFilter()).toBeNull();
+        expect(handler.getArrowColorFilter()).toBeNull();
+        expect(handler.selectableTargets().length).toBe(2);
+    });
+
     it('cancelSelection backs out of disambiguation', () => {
         const { handler } = makeHandler([arrowOn(5, 'b'), arrowOn(5, 'w')]);
         handler.selectTarget({ kind: 'slot', slotId: 5 });

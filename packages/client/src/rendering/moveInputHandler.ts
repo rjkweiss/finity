@@ -10,6 +10,7 @@
 //     possibleMoves() output shapes.
 
 import {
+    ArrowColor,
     possibleMoves,
     type FinityGameState,
     type MoveAction,
@@ -49,6 +50,7 @@ export class MoveInputHandler {
     private state: FinityGameState | null = null;
     private legal: MoveAction[] = [];
     private categoryFilter: MoveCategory | null = null;
+    private arrowColorFilter: ArrowColor | null = null;
     private phase: InputPhase = { phase: 'selecting' };
 
     private readonly submit: (move: MoveAction) => boolean;
@@ -66,6 +68,7 @@ export class MoveInputHandler {
         this.state = state;
         this.legal = this.getLegalMoves(state, color);
         this.categoryFilter = null;
+        this.arrowColorFilter = null;
         this.phase = { phase: 'selecting' };
         this.onChange?.();
     }
@@ -75,6 +78,7 @@ export class MoveInputHandler {
         this.state = null;
         this.legal = [];
         this.categoryFilter = null;
+        this.arrowColorFilter = null;
         this.phase = { phase: 'selecting' };
         this.onChange?.();
     }
@@ -84,15 +88,31 @@ export class MoveInputHandler {
     }
 
     /** Optional move-type pre-filter (mirrors the old HumanControlPanel dropdown). */
-    setCategoryFilter(cat: MoveCategory | null): void {
+    setCategoryFilter(cat: MoveCategory | null, opts?: {arrowColor ?: ArrowColor | null }): void {
         this.categoryFilter = cat;
+        this.arrowColorFilter = opts?.arrowColor ?? null;
         this.phase = { phase: 'selecting' };
         this.onChange?.();
     }
 
+    getCategoryFilter(): MoveCategory | null {
+        return this.categoryFilter;
+    }
+
+    getArrowColorFilter(): ArrowColor | null {
+        return this.arrowColorFilter;
+    }
+
     private filteredLegal(): MoveAction[] {
         if (!this.categoryFilter) return this.legal;
-        return this.legal.filter((m) => moveCategory(m) === this.categoryFilter);
+        return this.legal.filter((m) => {
+            if (moveCategory(m) !== this.categoryFilter) return false;
+            if (this.categoryFilter === 'arrow' && this.arrowColorFilter) {
+                return m.pieceToAdd?.type === 'arrow' &&
+                    m.pieceToAdd.color === this.arrowColorFilter;
+            }
+            return true;
+        });
     }
 
     /** Targets the player may click right now — used to highlight the board. */
@@ -131,7 +151,11 @@ export class MoveInputHandler {
         this.phase = {
             phase: 'disambiguating',
             target,
-            options: candidates.map((move, i) => ({ id: `opt-${i}`, label: disambigLabel(move), move })),
+            options: candidates.map((move, i) => ({
+                id: `opt-${i}`,
+                label: disambigLabel(move),
+                move
+            })),
         };
         this.onChange?.();
         return true;

@@ -1,8 +1,8 @@
 // packages/agents/src/scripted-agent.test.ts
 import { describe, it, expect, vi } from 'vitest';
 import type { FinityGameState, MoveAction, PlayerColor, StationName } from '@finity/engine';
-import { ScriptedAgent } from './scripted-agent';
-import { MoveAbortedError, type MoveContext } from './interface';
+import { ScriptedAgent } from '../src/scripted-agent';
+import { MoveAbortedError, type MoveContext } from '../src/interface';
 
 // Minimal fakes — the agent never inspects state, only the move list.
 const fakeState = {} as FinityGameState;

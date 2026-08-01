@@ -262,8 +262,147 @@ canvas {
 .move-log div {
   padding: 1px 0;
 }
+
 .player-count-select {
   margin-left: 20px;
   padding: 4px 8px;
   font-size: 13px;
+}
+
+.replay-view {
+  padding: 12px 20px;
+}
+
+.replay-toolbar {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.replay-toolbar button,
+.replay-import-btn,
+.replay-controls button {
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 13px;
+  border: 1px solid #8a8f8c;
+  border-radius: 4px;
+  background: #f6f7f6;
+  color: #23282e;
+  line-height: 1.2;
+}
+
+.replay-toolbar button:hover,
+.replay-import-btn:hover,
+.replay-controls button:hover:not(:disabled) {
+  background: #e8ecea;
+}
+
+.replay-controls button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.replay-import-btn {
+  display: inline-block;
+}
+
+.replay-error {
+  background: rgba(160, 30, 30, 0.85);
+  color: white;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+}
+
+.replay-body {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.replay-board {
+  flex: 0 0 auto;
+}
+
+.replay-controls {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.replay-controls button {
+  min-width: 44px;
+  text-align: center;
+}
+
+.replay-controls input[type='range'] {
+  flex: 1;
+  min-width: 200px;
+}
+
+.replay-position {
+  font-family: monospace;
+  font-size: 13px;
+  min-width: 70px;
+  text-align: right;
+}
+
+.replay-sidebar {
+  flex: 1 1 260px;
+  min-width: 240px;
+}
+
+.replay-meta {
+  background: rgba(0, 0, 0, 0.35);
+  color: #ddd;
+  font-size: 13px;
+  text-align: left;
+  padding: 8px 12px;
+}
+
+.replay-meta div {
+  padding: 2px 0;
+}
+
+.replay-result {
+  font-weight: bold;
+}
+
+.replay-movelist {
+  position: relative; /* required: current-move autoscroll uses box-relative offsetTop */
+  max-height: 520px;
+  overflow-y: auto;
+  overscroll-behavior: contain; /* wheel at list edges must not scroll the page */
+  background: rgba(0, 0, 0, 0.35);
+  color: #ddd;
+  font-family: monospace;
+  font-size: 12px;
+  text-align: left;
+  padding: 6px 10px;
+  margin-top: 8px;
+}
+
+.replay-move {
+  padding: 1px 4px;
+  cursor: pointer;
+}
+
+.replay-move:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.replay-move.current {
+  background: rgba(255, 255, 255, 0.22);
+  font-weight: bold;
+}
+
+/* Human-input feedback (invalid clicks, paused hints, empty-filter hints) */
+.finity-input-msg {
+  background: rgba(176, 118, 58, 0.92);
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  padding: 6px 10px;
 }

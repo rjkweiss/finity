@@ -91,11 +91,14 @@ describe('Board configurations per player count', () => {
     expect(STATIONS_BY_PLAYER_COUNT[2]).toContain('E');
   });
 
-  it('3-player board has 9 stations (center + 6 inner + FNW + FSW)', () => {
-    expect(STATIONS_BY_PLAYER_COUNT[3]).toHaveLength(9);
+  it('3-player board has 10 stations (center + 6 inner + E/FNW/FSW corners)', () => {
+    expect(STATIONS_BY_PLAYER_COUNT[3]).toHaveLength(10);
     expect(STATIONS_BY_PLAYER_COUNT[3]).toContain('FNW');
     expect(STATIONS_BY_PLAYER_COUNT[3]).toContain('FSW');
-    expect(STATIONS_BY_PLAYER_COUNT[3]).not.toContain('E');
+    expect(STATIONS_BY_PLAYER_COUNT[3]).toContain('E');
+    expect(STATIONS_BY_PLAYER_COUNT[3]).not.toContain('W');
+    expect(STATIONS_BY_PLAYER_COUNT[3]).not.toContain('FNE');
+    expect(STATIONS_BY_PLAYER_COUNT[3]).not.toContain('FSE');
   });
 
   it('4-player board has 13 stations (all)', () => {
@@ -300,9 +303,9 @@ describe('buildTopology', () => {
     expect(topo.stations).toHaveLength(9);
   });
 
-  it('3-player topology has 9 stations', () => {
+  it('3-player topology has 10 stations', () => {
     const topo = buildTopology(3);
-    expect(topo.stations).toHaveLength(9);
+    expect(topo.stations).toHaveLength(10);
   });
 
   it('4-player topology has 13 stations', () => {

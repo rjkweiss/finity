@@ -1,7 +1,7 @@
 import { describe, it, expect, vi } from 'vitest';
 import type { FinityGameState, MoveAction, PlayerColor } from '@finity/engine';
-import { LocalHumanAgent } from './human-local';
-import { MoveAbortedError, type MoveContext } from './interface';
+import { LocalHumanAgent } from '../src/human-local';
+import { MoveAbortedError, type MoveContext } from '../src/interface';
 
 const fakeState = {} as FinityGameState;
 const color: PlayerColor = 'cyan';
