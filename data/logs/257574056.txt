@@ -1,0 +1,71 @@
+Game log
+Move 1 :4/10/2022 2:09:15 PM
+The colors of tony1021, Papa Cedar have been chosen according to their preferences. Change my preferences.
+Move 2 :4/11/2022 8:13:19 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :12:01:43 PM
+Papa Cedar: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :2:00:28 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :2:05:28 PM
+Papa Cedar: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :2:16:03 PM
+tony1021: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 7 :3:44:36 PM
+Papa Cedar: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :7:45:56 PM
+tony1021: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 9 :8:12:36 PM
+Papa Cedar: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 10 :8:31:17 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 11 :8:34:50 PM
+Papa Cedar: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 12 :9:41:41 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 13 :9:43:38 PM
+Papa Cedar: Added a Small Ring at Station [0,-1]
+Move 14 :4/12/2022 7:35:50 AM
+tony1021: Added a Large Ring at Station [0,1]
+Move 15 :8:28:10 AM
+Papa Cedar: Added a Medium Ring at Station [-1,0]
+Move 16 :4/14/2022 8:19:45 AM
+tony1021: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Papa Cedar has to remove 1 orphaned rings
+Move 17 :9:15:59 AM
+Papa Cedar: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 18 :10:06:56 AM
+tony1021: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Middle
+Move 19 :10:13:00 AM
+Papa Cedar: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 20 :10:23:46 AM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 21 :10:32:10 AM
+Papa Cedar: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 22 :4/15/2022 3:59:43 AM
+tony1021: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 23 :8:20:07 AM
+Papa Cedar: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 24 :4/18/2022 5:41:26 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 25 :5:53:53 AM
+Papa Cedar: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 26 :6:03:42 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 27 :6:57:41 AM
+Papa Cedar: Added a Medium Ring at Station [1,0]
+Move 28 :7:17:18 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 29 :7:05:39 PM
+Papa Cedar: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 30 :4/19/2022 2:24:15 PM
+tony1021: Added a Medium Ring at Station [1,1]
+Move 31 :8:37:32 PM
+Papa Cedar: Added a Large Ring at Station [0,-1]
+Move 32 :4/21/2022 6:35:17 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 33 :7:02:28 AM
+Papa Cedar: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 34 :7:25:48 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+The end of the game: tony1021 wins!

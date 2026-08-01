@@ -1,0 +1,49 @@
+Move 2 : 7/12/2022 7:34:47 AM
+Alias: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 : 7:35:05 AM
+Emphyrio: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 : 7:35:21 AM
+Alias: Added a Small Ring at Station [-1,0]
+Move 5 : 7:35:32 AM
+Emphyrio: Added a Small Ring at Station [0,-1]
+Move 6 : 7:35:52 AM
+Alias: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 7 : 7:36:07 AM
+Emphyrio: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 8 : 7:36:20 AM
+Alias: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 9 : 7:36:33 AM
+Emphyrio: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 10 : 7:36:54 AM
+Alias: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 11 : 7:37:11 AM
+Emphyrio: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 12 : 7:37:29 AM
+Alias: Added a Small Ring at Station [-1,-1]
+Move 13 : 7:37:42 AM
+Emphyrio: Added a Medium Ring at Station [-1,-1]
+Move 14 : 7:37:56 AM
+Alias: Added a Medium Ring at Station [0,-1]
+Move 15 : 7:38:09 AM
+Emphyrio: Added a Medium Ring at Station [-1,0]
+Move 16 : 7:38:21 AM
+Alias: Added a Medium Ring at Station [1,-1]
+Move 17 : 7:38:33 AM
+Emphyrio: Added a Medium Ring at Station [-1,1]
+Move 18 : 7:38:54 AM
+Alias: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 19 : 7:39:16 AM
+Emphyrio: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 20 : 7:39:41 AM
+Alias: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 21 : 7:39:52 AM
+Emphyrio: Added a Small Ring at Station [0,1]
+Move 22 : 7:40:23 AM
+Alias: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 23 : 7:40:35 AM
+Emphyrio: Added a Small Ring at Station [1,1]
+Move 24 : 7:40:47 AM
+Alias: Added a Medium Ring at Station [0,1]
+Move 25 : 7:40:57 AM
+Emphyrio: Added a Small Ring at Station [1,0]
+The end of the game: Emphyrio wins!

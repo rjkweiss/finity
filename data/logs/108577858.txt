@@ -1,0 +1,143 @@
+Move 1 :
+8/27/2020 1:48:04 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+1:48:19 AM
+LadyAlison: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+2:08:26 AM
+GamingOne: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+2:11:13 AM
+LadyAlison: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :
+2:12:11 AM
+GamingOne: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+2:12:23 AM
+LadyAlison: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 7 :
+2:12:34 AM
+GamingOne: Added a Small Ring at Station [1,0]
+Move 8 :
+2:12:45 AM
+LadyAlison: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 9 :
+2:13:03 AM
+GamingOne: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :
+2:13:13 AM
+LadyAlison: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 11 :
+2:13:35 AM
+GamingOne: Added a Medium Ring at Station [1,0]
+Move 12 :
+2:13:50 AM
+LadyAlison: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 13 :
+2:13:56 AM
+GamingOne: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 14 :
+2:14:35 AM
+LadyAlison: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :
+2:18:34 AM
+GamingOne: Added a Small Ring at Station [1,1]
+Move 16 :
+2:19:14 AM
+LadyAlison: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 17 :
+2:19:40 AM
+GamingOne: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 18 :
+2:19:52 AM
+LadyAlison: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 19 :
+2:20:06 AM
+GamingOne: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 20 :
+2:20:21 AM
+LadyAlison: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 21 :
+2:20:45 AM
+GamingOne: Removed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 22 :
+2:21:08 AM
+LadyAlison: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 23 :
+2:21:17 AM
+GamingOne: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 24 :
+2:21:35 AM
+LadyAlison: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 25 :
+2:22:45 AM
+GamingOne: Moved a Base Post at Station [1,0]
+GamingOne has to remove 1 orphaned rings
+Move 26 :
+2:22:58 AM
+LadyAlison: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 27 :
+2:23:25 AM
+GamingOne: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 28 :
+2:23:40 AM
+LadyAlison: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 29 :
+2:24:10 AM
+GamingOne: Moved a Base Post at Station [1,-1]
+Move 30 :
+2:24:22 AM
+LadyAlison: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 31 :
+2:25:43 AM
+GamingOne: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 32 :
+2:55:35 AM
+LadyAlison: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 33 :
+2:55:54 AM
+GamingOne: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 34 :
+2:56:08 AM
+LadyAlison: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 35 :
+2:56:17 AM
+GamingOne: Added a Small Ring at Station [1,1]
+Move 36 :
+2:56:50 AM
+LadyAlison: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 37 :
+2:57:11 AM
+GamingOne: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 38 :
+2:57:26 AM
+LadyAlison: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 39 :
+2:57:32 AM
+GamingOne: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 40 :
+2:57:44 AM
+LadyAlison: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 41 :
+2:57:58 AM
+GamingOne: Removed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 42 :
+2:59:24 AM
+LadyAlison: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 43 :
+2:59:32 AM
+GamingOne: Added a Small Ring at Station [0,1]
+Move 44 :
+3:00:53 AM
+LadyAlison: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 45 :
+3:01:04 AM
+GamingOne: Added a Medium Ring at Station [1,1]
+Move 46 :
+3:01:14 AM
+LadyAlison: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 47 :
+3:01:31 AM
+GamingOne: Added a Medium Ring at Station [0,1]
+The end of the game: GamingOne wins!

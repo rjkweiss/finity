@@ -1,0 +1,128 @@
+Move 1 :
+8/9/2020 1:28:07 AM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:32:41 AM
+lucacerrato: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+1:43:21 AM
+SixPigeons: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+7:38:45 AM
+lucacerrato: Added a Small Ring at Station [-1,0]
+Move 5 :
+7:14:42 PM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :
+11:29:16 PM
+lucacerrato: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 7 :
+11:32:41 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+11:33:12 PM
+lucacerrato: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 9 :
+11:34:55 PM
+SixPigeons: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 10 :
+8/10/2020 12:52:28 AM
+lucacerrato: Added a Small Ring at Station [-1,-1]
+Move 11 :
+1:07:57 AM
+SixPigeons: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+lucacerrato has to remove 2 orphaned rings
+Move 12 :
+6:02:47 AM
+lucacerrato: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 13 :
+6:14:35 AM
+SixPigeons: Added a Small Ring at Station [0,-1]
+Move 14 :
+7:16:41 AM
+lucacerrato: Added a Large Ring at Station [-1,0]
+Move 15 :
+6:16:31 PM
+SixPigeons: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+lucacerrato has to remove 1 orphaned rings
+Move 16 :
+10:52:53 PM
+lucacerrato: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+11:12:03 PM
+SixPigeons: Added a Medium Ring at Station [0,-1]
+Move 18 :
+11:50:30 PM
+lucacerrato: Added a Large Ring at Station [-1,0]
+Move 19 :
+8/12/2020 5:15:44 AM
+SixPigeons: Added a Large Ring at Station [0,-1]
+Move 20 :
+8:07:17 AM
+lucacerrato: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 21 :
+5:55:42 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 22 :
+8/13/2020 9:56:42 AM
+lucacerrato: Added a Small Ring at Station [-1,0]
+Move 23 :
+7:32:47 PM
+SixPigeons: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 24 :
+11:04:40 PM
+lucacerrato: Added a Small Ring at Station [-1,-1]
+Move 25 :
+11:27:04 PM
+SixPigeons: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+lucacerrato has to remove 1 orphaned rings
+Move 26 :
+8/14/2020 12:04:03 AM
+lucacerrato: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 27 :
+2:58:57 AM
+SixPigeons: Moved a Base Post at Station [0,-1]
+Move 28 :
+3:32:39 AM
+lucacerrato: Moved a Blocker at Station [0,0] => [1,0] Position:Left
+Move 29 :
+3:53:03 AM
+SixPigeons: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 30 :
+4:26:13 AM
+lucacerrato: Added a Large Ring at Station [-1,-1]
+Move 31 :
+8/15/2020 1:54:12 AM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 32 :
+3:58:09 AM
+lucacerrato: Added a Medium Ring at Station [-1,0]
+Move 33 :
+8:21:08 PM
+SixPigeons: Added a Medium Ring at Station [1,-1]
+Move 34 :
+11:03:59 PM
+lucacerrato: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 35 :
+8/16/2020 3:01:08 AM
+SixPigeons: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 36 :
+4:20:55 AM
+lucacerrato: Added a Large Ring at Station [0,1]
+Move 37 :
+4:42:51 AM
+SixPigeons: Moved a Base Post at Station [1,-1]
+Move 38 :
+10:51:02 AM
+lucacerrato: Moved a Base Post at Station [-1,0]
+lucacerrato has to remove 1 orphaned rings
+Move 39 :
+8:23:08 PM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+Move 40 :
+8/17/2020 7:45:15 AM
+lucacerrato: Added a Medium Ring at Station [-1,1]
+Move 41 :
+4:40:20 PM
+SixPigeons: Added a Small Ring at Station [1,0]
+The end of the game: SixPigeons wins!

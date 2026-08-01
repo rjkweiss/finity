@@ -1,0 +1,141 @@
+Game log
+Move 2 :12/19/2022 5:15:52 AM
+GGGori: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 3 :5:16:19 AM
+makkun8740: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 4 :5:16:28 AM
+GGGori: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 5 :5:16:59 AM
+makkun8740: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 6 :5:17:42 AM
+GGGori: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 7 :5:17:53 AM
+makkun8740: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 8 :5:18:40 AM
+GGGori: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 9 :5:19:09 AM
+makkun8740: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :5:19:39 AM
+GGGori: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 11 :5:19:48 AM
+makkun8740: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 12 :5:20:06 AM
+GGGori: Added a Small Ring at Station [-1,0]
+Move 13 :5:20:31 AM
+makkun8740: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 14 :5:20:38 AM
+GGGori: Added a Medium Ring at Station [-1,0]
+Move 15 :5:21:22 AM
+makkun8740: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 16 :5:21:34 AM
+GGGori: Added a Large Ring at Station [-1,0]
+Move 17 :5:22:19 AM
+makkun8740: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 18 :5:22:57 AM
+GGGori: Moved a Base Post at Station [-1,0]
+Move 19 :5:23:27 AM
+makkun8740: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 20 :5:23:36 AM
+GGGori: Added a Small Ring at Station [-1,-1]
+Move 21 :5:24:03 AM
+makkun8740: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+GGGori has to remove 1 orphaned rings
+Move 22 :5:24:29 AM
+GGGori: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 23 :5:24:54 AM
+makkun8740: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 24 :5:25:07 AM
+GGGori: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 25 :5:25:31 AM
+makkun8740: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 26 :5:25:52 AM
+GGGori: Added a Small Ring at Station [-1,1]
+Move 27 :5:26:32 AM
+makkun8740: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 28 :5:26:46 AM
+GGGori: Added a Medium Ring at Station [-1,1]
+Move 29 :5:27:07 AM
+makkun8740: Added a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 30 :5:27:14 AM
+GGGori: Added a Large Ring at Station [-1,1]
+Move 31 :5:27:35 AM
+makkun8740: Removed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 32 :5:27:57 AM
+GGGori: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 33 :5:28:05 AM
+makkun8740: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 34 :5:28:26 AM
+GGGori: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 35 :5:28:52 AM
+makkun8740: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 36 :5:29:02 AM
+GGGori: Added a Small Ring at Station [0,-1]
+Move 37 :5:29:11 AM
+makkun8740: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+GGGori has to remove 1 orphaned rings
+Move 38 :5:29:30 AM
+GGGori: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 39 :5:29:54 AM
+makkun8740: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 40 :5:30:12 AM
+GGGori: Added a Small Ring at Station [0,-1]
+Move 41 :5:30:26 AM
+makkun8740: Removed a Blocker at Station [-1,1] => [0,0] Position:Left
+Move 42 :5:31:24 AM
+GGGori: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Right
+Move 43 :5:32:01 AM
+makkun8740: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 44 :5:32:28 AM
+GGGori: Added a Medium Ring at Station [0,-1]
+Move 45 :5:32:44 AM
+makkun8740: Added a Large Ring at Station [0,-1]
+Move 46 :5:32:55 AM
+GGGori: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+makkun8740 has to remove 1 orphaned rings
+Move 47 :5:33:43 AM
+makkun8740: Added a Small Ring at Station [1,0]
+Move 48 :5:33:54 AM
+GGGori: Added a Large Ring at Station [0,-1]
+Move 49 :5:34:03 AM
+makkun8740: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 50 :5:34:26 AM
+GGGori: Moved a Base Post at Station [0,-1]
+Move 51 :5:34:39 AM
+makkun8740: Added a Medium Ring at Station [1,0]
+Move 52 :5:34:47 AM
+GGGori: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+makkun8740 has to remove 2 orphaned rings
+Move 53 :5:35:18 AM
+makkun8740: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+GGGori has to remove 3 orphaned rings
+Move 54 :5:35:33 AM
+GGGori: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 55 :5:35:53 AM
+makkun8740: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 56 :5:36:40 AM
+GGGori: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 57 :5:37:07 AM
+makkun8740: Added a Small Ring at Station [1,0]
+Move 58 :5:37:27 AM
+GGGori: Added a Black Bridge at Station [0,0] => [-1,1] Position:Right
+Move 59 :5:37:50 AM
+makkun8740: Added a Medium Ring at Station [1,0]
+Move 60 :5:37:55 AM
+GGGori: Added a Small Ring at Station [1,-1]
+Move 61 :5:38:08 AM
+makkun8740: Added a Large Ring at Station [1,0]
+Move 62 :5:38:14 AM
+GGGori: Added a Medium Ring at Station [1,-1]
+Move 63 :5:38:55 AM
+makkun8740: Added a Small Ring at Station [1,1]
+Move 64 :5:39:01 AM
+GGGori: Added a Large Ring at Station [1,-1]
+Move 65 :5:39:13 AM
+makkun8740: Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 66 :5:39:42 AM
+GGGori: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 67 :5:40:31 AM
+makkun8740: Added a Medium Ring at Station [1,1]
+Move 68 :5:42:55 AM
+GGGori: Added a Small Ring at Station [-1,-1]
+The end of the game: GGGori wins!

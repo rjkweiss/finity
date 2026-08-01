@@ -1,0 +1,135 @@
+Move 3 :
+8/11/2020 2:56:07 PM
+Maackaan: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+2:56:56 PM
+Macludde: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 5 :
+2:58:43 PM
+Maackaan: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 6 :
+2:58:55 PM
+Macludde: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 7 :
+2:59:02 PM
+Maackaan: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 8 :
+2:59:37 PM
+Macludde: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 9 :
+2:59:46 PM
+Maackaan: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 10 :
+2:59:53 PM
+Macludde: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 11 :
+3:00:03 PM
+Maackaan: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 12 :
+3:00:11 PM
+Macludde: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 13 :
+3:00:34 PM
+Maackaan: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 14 :
+3:00:53 PM
+Macludde: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 15 :
+3:01:03 PM
+Maackaan: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :
+3:01:30 PM
+Macludde: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 17 :
+3:01:45 PM
+Maackaan: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 18 :
+3:02:05 PM
+Macludde: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+No rings placed or orphaned. 4 moves until a forced draw
+Move 19 :
+3:02:12 PM
+Maackaan: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+No rings placed or orphaned. 3 moves until a forced draw
+Move 20 :
+3:05:00 PM
+Macludde: Added a Small Ring at Station [1,0]
+Move 21 :
+3:05:21 PM
+Maackaan: Added a Small Ring at Station [-1,0]
+Move 22 :
+3:05:55 PM
+Macludde: Moved a Base Post at Station [1,0]
+Move 23 :
+3:06:07 PM
+Maackaan: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 24 :
+3:06:14 PM
+Macludde: Added a Small Ring at Station [1,-1]
+Move 25 :
+3:06:20 PM
+Maackaan: Added a Medium Ring at Station [-1,0]
+Move 26 :
+3:06:26 PM
+Macludde: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 27 :
+3:06:51 PM
+Maackaan: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 28 :
+3:07:01 PM
+Macludde: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 29 :
+3:07:37 PM
+Maackaan: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 30 :
+3:07:52 PM
+Macludde: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 31 :
+3:07:59 PM
+Maackaan: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 32 :
+3:08:04 PM
+Macludde: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 33 :
+3:08:13 PM
+Maackaan: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 34 :
+3:08:42 PM
+Macludde: Added a Medium Ring at Station [1,-1]
+Move 35 :
+3:09:03 PM
+Maackaan: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 36 :
+3:09:12 PM
+Macludde: Removed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 37 :
+3:10:37 PM
+Maackaan: Added a Large Ring at Station [-1,0]
+Move 38 :
+3:10:42 PM
+Macludde: Added a Small Ring at Station [0,-1]
+Move 39 :
+3:10:55 PM
+Maackaan: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 40 :
+3:11:03 PM
+Macludde: Added a Small Ring at Station [-1,-1]
+Move 41 :
+3:11:18 PM
+Maackaan: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 42 :
+3:11:30 PM
+Macludde: Added a Medium Ring at Station [0,-1]
+Move 43 :
+3:13:43 PM
+Maackaan: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 44 :
+3:13:48 PM
+Macludde: Added a Large Ring at Station [1,-1]
+Move 45 :
+3:14:34 PM
+Maackaan: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 46 :
+3:14:40 PM
+Macludde: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: Macludde wins!

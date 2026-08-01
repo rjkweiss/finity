@@ -1,0 +1,210 @@
+Move 2 :
+8/10/2020 10:36:03 AM
+bear_777: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 3 :
+10:37:12 AM
+sigsigma: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 4 :
+10:37:58 AM
+konoha0330: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+10:38:40 AM
+bear_777: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+10:40:49 AM
+sigsigma: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 7 :
+10:41:01 AM
+konoha0330: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 8 :
+10:41:20 AM
+bear_777: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 9 :
+10:41:28 AM
+sigsigma: Added a Small Ring at Station [-2,1]
+Move 10 :
+10:41:36 AM
+konoha0330: Added a Medium Ring at Station [-1,1]
+Move 11 :
+10:41:43 AM
+bear_777: Added a Small Ring at Station [1,0]
+Move 12 :
+10:41:57 AM
+sigsigma: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 13 :
+10:42:09 AM
+konoha0330: Added a Small Ring at Station [-1,1]
+Move 14 :
+10:42:31 AM
+bear_777: Added a Small Ring at Station [1,1]
+Move 15 :
+10:43:31 AM
+sigsigma: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 16 :
+10:43:45 AM
+konoha0330: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 17 :
+10:44:12 AM
+bear_777: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 18 :
+10:44:55 AM
+sigsigma: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 19 :
+10:45:04 AM
+konoha0330: Added a Medium Ring at Station [-2,1]
+Move 20 :
+10:45:43 AM
+bear_777: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :
+10:46:45 AM
+sigsigma: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 22 :
+10:46:59 AM
+konoha0330: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 23 :
+10:47:39 AM
+bear_777: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 24 :
+10:47:51 AM
+sigsigma: Added a Small Ring at Station [0,-1]
+Move 25 :
+10:48:02 AM
+konoha0330: Added a Medium Ring at Station [-1,0]
+Move 26 :
+10:48:10 AM
+bear_777: Added a Small Ring at Station [0,1]
+Move 27 :
+10:48:19 AM
+sigsigma: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 28 :
+10:48:33 AM
+konoha0330: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 29 :
+10:48:43 AM
+bear_777: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 30 :
+10:48:54 AM
+sigsigma: Added a Small Ring at Station [1,-2]
+Move 31 :
+10:49:04 AM
+konoha0330: Added a Medium Ring at Station [0,-1]
+Move 32 :
+10:50:12 AM
+bear_777: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Right
+Move 33 :
+10:50:39 AM
+sigsigma: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :
+10:50:49 AM
+konoha0330: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 35 :
+10:51:07 AM
+bear_777: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+sigsigma has to remove 1 orphaned rings
+Move 36 :
+10:52:56 AM
+sigsigma: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+bear_777 has to remove 2 orphaned rings
+Move 37 :
+10:53:35 AM
+konoha0330: Added a Large Ring at Station [0,-1]
+Move 38 :
+10:53:44 AM
+bear_777: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+konoha0330 has to remove 6 orphaned rings
+Move 39 :
+10:54:43 AM
+sigsigma: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 40 :
+10:55:18 AM
+konoha0330: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 41 :
+10:55:36 AM
+bear_777: Added a Small Ring at Station [1,-2]
+Move 42 :
+10:56:21 AM
+sigsigma: Reversed a Black Bridge at Station [1,-1] => [1,-2] Position:Right
+bear_777 has to remove 1 orphaned rings
+Move 43 :
+10:56:28 AM
+konoha0330: Added a Small Ring at Station [1,1]
+Move 44 :
+10:57:11 AM
+bear_777: Moved a Base Post at Station [1,0]
+Move 45 :
+10:57:20 AM
+sigsigma: Added a Large Ring at Station [-1,1]
+Move 46 :
+10:57:33 AM
+konoha0330: Added a Medium Ring at Station [1,0]
+Move 47 :
+10:57:42 AM
+bear_777: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 48 :
+10:57:49 AM
+sigsigma: Added a Large Ring at Station [0,1]
+Move 49 :
+10:58:08 AM
+konoha0330: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 50 :
+10:58:17 AM
+bear_777: Added a Small Ring at Station [0,1]
+Move 51 :
+10:58:33 AM
+sigsigma: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 52 :
+11:00:24 AM
+konoha0330: Added a Medium Ring at Station [1,1]
+Move 53 :
+11:00:37 AM
+bear_777: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+konoha0330 has to remove 3 orphaned rings
+Move 54 :
+11:02:20 AM
+sigsigma: Added a Medium Ring at Station [1,1]
+Move 55 :
+11:02:44 AM
+konoha0330: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 56 :
+11:02:53 AM
+bear_777: Added a Small Ring at Station [1,1]
+Move 57 :
+11:03:00 AM
+sigsigma: Added a Small Ring at Station [1,-2]
+Move 58 :
+11:03:24 AM
+konoha0330: Added a Small Ring at Station [-1,1]
+Move 59 :
+11:03:58 AM
+bear_777: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 60 :
+11:04:44 AM
+sigsigma: Moved a Blocker at Station [0,0] => [-1,1] Position:Right
+Move 61 :
+11:04:54 AM
+konoha0330: Added a Medium Ring at Station [-2,1]
+Move 62 :
+11:05:14 AM
+bear_777: Added a Small Ring at Station [1,-1]
+Move 63 :
+11:05:27 AM
+sigsigma: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 64 :
+11:05:34 AM
+konoha0330: Added a Medium Ring at Station [-1,0]
+Move 65 :
+11:05:46 AM
+bear_777: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 66 :
+11:05:54 AM
+sigsigma: Added a Medium Ring at Station [1,0]
+Move 67 :
+11:06:00 AM
+konoha0330: Added a Medium Ring at Station [0,-1]
+Move 68 :
+11:06:20 AM
+bear_777: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 69 :
+11:06:25 AM
+sigsigma: Added a Medium Ring at Station [1,-1]
+The end of the game: sigsigma wins!

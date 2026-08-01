@@ -1,0 +1,138 @@
+Game log
+Move 1 :10/2/2022 8:12:23 AM
+The colors of madgicsysteme, Spernax have been chosen according to their preferences. Change my preferences.
+Move 2 :10/5/2022 9:40:00 AM
+njfan: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 3 :11:08:45 AM
+S0uly: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 4 :10/6/2022 11:28:55 AM
+madgicsysteme: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :10/7/2022 4:56:01 AM
+Spernax: Added a White Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 6 :8:27:08 AM
+njfan: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :9:36:25 AM
+S0uly: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 8 :10/8/2022 3:07:04 AM
+madgicsysteme: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 9 :3:24:36 AM
+Spernax: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 10 :9:32:02 AM
+njfan: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 11 :11:49:36 AM
+S0uly: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 12 :11:53:51 AM
+madgicsysteme: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 13 :10/9/2022 2:18:07 AM
+Spernax: Reversed a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 14 :5:47:05 AM
+njfan: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 15 :8:23:22 AM
+S0uly: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :9:32:44 AM
+madgicsysteme: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 17 :10:04:13 AM
+Spernax: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :10:27:46 AM
+njfan: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 19 :11:56:03 AM
+S0uly: Added a Black Bridge at Station [-1,1] => [0,0] Position:Right
+Move 20 :12:20:09 PM
+madgicsysteme: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 21 :1:35:39 PM
+Spernax: Added a Small Ring at Station [2,-1]
+Move 22 :11:47:03 PM
+njfan: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 23 :10/10/2022 12:34:22 AM
+S0uly: Added a Small Ring at Station [1,-1]
+Move 24 :2:47:55 PM
+madgicsysteme: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 25 :2:50:06 PM
+Spernax: Added a Medium Ring at Station [1,-1]
+Move 26 :11:37:14 PM
+njfan: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 27 :10/11/2022 12:52:22 AM
+S0uly: Added a Large Ring at Station [1,-2]
+Move 28 :5:00:06 AM
+madgicsysteme: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 29 :8:25:11 AM
+Spernax: Added a Small Ring at Station [1,-2]
+Move 30 :8:46:33 AM
+njfan: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 31 :10:35:48 AM
+S0uly: Moved a Base Post at Station [1,-2]
+S0uly has to remove 1 orphaned rings
+Move 32 :10:49:54 AM
+madgicsysteme: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 33 :11:01:46 AM
+Spernax: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 34 :11:20:11 AM
+njfan: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 35 :11:21:15 AM
+S0uly: Added a Small Ring at Station [0,-1]
+Move 36 :2:33:12 PM
+madgicsysteme: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 37 :7:26:34 PM
+Spernax: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 38 :11:53:25 PM
+njfan: Added a Small Ring at Station [-1,-1]
+Move 39 :10/12/2022 12:47:34 AM
+S0uly: Added a Large Ring at Station [-1,0]
+Move 40 :4:56:22 AM
+madgicsysteme: Added a Large Ring at Station [1,0]
+Move 41 :6:24:13 AM
+Spernax: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 42 :7:00:41 AM
+njfan: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 43 :7:26:39 AM
+S0uly: Added a Medium Ring at Station [-2,1]
+Move 44 :8:21:55 AM
+madgicsysteme: Added a Small Ring at Station [1,-1]
+Move 45 :10:27:18 AM
+Spernax: Added a Medium Ring at Station [0,1]
+Move 46 :10:32:27 AM
+njfan: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 47 :10:42:49 AM
+S0uly: Added a Small Ring at Station [-1,1]
+Move 48 :12:04:55 PM
+madgicsysteme: Added a Medium Ring at Station [1,-2]
+Move 49 :3:23:17 PM
+Spernax: Added a Medium Ring at Station [0,-1]
+Move 50 :11:39:40 PM
+njfan: Added a Large Ring at Station [0,-1]
+Move 51 :11:48:10 PM
+S0uly: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 52 :10/13/2022 5:00:02 AM
+madgicsysteme: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 53 :8:22:24 AM
+Spernax: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 54 :8:36:58 AM
+njfan: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 55 :8:41:01 AM
+S0uly: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 56 :11:46:17 AM
+madgicsysteme: Added a Medium Ring at Station [1,0]
+Move 57 :12:24:05 PM
+Spernax: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+madgicsysteme has to remove 2 orphaned rings
+Move 58 :12:58:26 PM
+njfan: Added a Large Ring at Station [1,-1]
+Move 59 :1:06:54 PM
+S0uly: Added a Small Ring at Station [0,1]
+Move 60 :1:36:57 PM
+madgicsysteme: Added a Small Ring at Station [1,0]
+Move 61 :2:30:06 PM
+Spernax: Added a Small Ring at Station [1,-1]
+Move 62 :10:33:36 PM
+njfan: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 63 :10/14/2022 12:04:51 AM
+S0uly: Added a Medium Ring at Station [-1,1]
+Move 64 :4:40:46 AM
+madgicsysteme: Removed a Blocker at Station [1,0] => [0,0] Position:Left
+Move 65 :5:34:24 AM
+Spernax: Added a Large Ring at Station [-1,1]
+Move 66 :7:31:47 AM
+njfan: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 67 :7:48:00 AM
+S0uly: Added a Large Ring at Station [0,1]
+The end of the game: S0uly wins!

@@ -1,0 +1,107 @@
+Move 1 :
+9/8/2020 7:50:39 PM
+The colors of Fiftyralph have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9/9/2020 4:49:36 AM
+Fiftyralph: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+8:22:18 AM
+averagegamercat: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+9:10:04 AM
+Fiftyralph: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :
+4:38:11 PM
+averagegamercat: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+6:55:11 PM
+Fiftyralph: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 7 :
+7:05:39 PM
+averagegamercat: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :
+7:59:38 PM
+Fiftyralph: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 9 :
+8:00:27 PM
+averagegamercat: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :
+8:00:46 PM
+Fiftyralph: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 11 :
+8:00:54 PM
+averagegamercat: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 12 :
+8:01:34 PM
+Fiftyralph: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 13 :
+8:01:46 PM
+averagegamercat: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 14 :
+8:02:01 PM
+Fiftyralph: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :
+8:02:26 PM
+averagegamercat: Added a Small Ring at Station [1,0]
+Move 16 :
+8:04:16 PM
+Fiftyralph: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 17 :
+8:04:31 PM
+averagegamercat: Moved a Base Post at Station [1,0]
+Move 18 :
+8:06:06 PM
+Fiftyralph: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 19 :
+8:06:13 PM
+averagegamercat: Added a Large Ring at Station [1,-1]
+Move 20 :
+11:22:36 PM
+Fiftyralph: Added a Small Ring at Station [-1,0]
+Move 21 :
+11:25:22 PM
+averagegamercat: Added a Medium Ring at Station [1,-1]
+Move 22 :
+11:26:14 PM
+Fiftyralph: Added a Small Ring at Station [-1,-1]
+Move 23 :
+11:26:22 PM
+averagegamercat: Added a Large Ring at Station [0,-1]
+Move 24 :
+11:26:45 PM
+Fiftyralph: Added a Medium Ring at Station [-1,0]
+Move 25 :
+11:27:21 PM
+averagegamercat: Added a Medium Ring at Station [0,-1]
+Move 26 :
+11:28:41 PM
+Fiftyralph: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 27 :
+11:29:34 PM
+averagegamercat: Added a Large Ring at Station [-1,0]
+Move 28 :
+9/10/2020 3:46:59 AM
+Fiftyralph: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 29 :
+5:19:39 PM
+averagegamercat: Added a Small Ring at Station [0,-1]
+Move 30 :
+11:09:48 PM
+Fiftyralph: Added a Small Ring at Station [0,1]
+Move 31 :
+9/11/2020 5:44:43 AM
+averagegamercat: Added a Black Bridge at Station [0,0] => [-1,0] Position:Right
+Move 32 :
+12:31:57 PM
+Fiftyralph: Added a Medium Ring at Station [0,1]
+Move 33 :
+7:05:21 PM
+averagegamercat: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Fiftyralph has to remove 3 orphaned rings
+Move 34 :
+9/12/2020 3:48:06 AM
+Fiftyralph: Reversed a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 35 :
+3:50:41 AM
+averagegamercat: Added a Medium Ring at Station [-1,0]
+The end of the game: averagegamercat wins!

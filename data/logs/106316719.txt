@@ -1,0 +1,136 @@
+Move 2 :
+8/11/2020 4:50:40 AM
+Petitebette: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+4:50:47 AM
+Pon pon pon: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+4:50:56 AM
+Petitebette: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+4:51:04 AM
+Pon pon pon: Added a Small Ring at Station [1,0]
+Move 6 :
+4:51:17 AM
+Petitebette: Added a Large Ring at Station [-1,0]
+Move 7 :
+4:51:27 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+4:51:48 AM
+Petitebette: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 9 :
+4:51:57 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 10 :
+4:52:06 AM
+Petitebette: Added a Medium Ring at Station [0,1]
+Move 11 :
+4:52:12 AM
+Pon pon pon: Added a Large Ring at Station [0,1]
+Move 12 :
+4:52:27 AM
+Petitebette: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 13 :
+4:52:34 AM
+Pon pon pon: Added a Small Ring at Station [1,1]
+Move 14 :
+4:52:42 AM
+Petitebette: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 15 :
+4:53:18 AM
+Pon pon pon: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Petitebette has to remove 1 orphaned rings
+Move 16 :
+4:53:38 AM
+Petitebette: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 17 :
+4:54:34 AM
+Pon pon pon: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :
+4:54:43 AM
+Petitebette: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 19 :
+4:55:04 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :
+4:55:14 AM
+Petitebette: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :
+4:55:24 AM
+Pon pon pon: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 22 :
+4:55:45 AM
+Petitebette: Added a Small Ring at Station [-1,0]
+Move 23 :
+4:55:57 AM
+Pon pon pon: Added a Large Ring at Station [1,0]
+Move 24 :
+4:56:05 AM
+Petitebette: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 25 :
+4:56:17 AM
+Pon pon pon: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 26 :
+4:56:29 AM
+Petitebette: Added a Small Ring at Station [0,1]
+Move 27 :
+4:56:37 AM
+Pon pon pon: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 28 :
+4:56:51 AM
+Petitebette: Added a Medium Ring at Station [0,1]
+Move 29 :
+4:57:11 AM
+Pon pon pon: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 30 :
+4:57:46 AM
+Petitebette: Added a Medium Ring at Station [-1,0]
+Move 31 :
+4:58:15 AM
+Pon pon pon: Added a Medium Ring at Station [0,-1]
+Move 32 :
+4:58:53 AM
+Petitebette: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 33 :
+4:59:30 AM
+Pon pon pon: Moved a Base Post at Station [0,-1]
+Pon pon pon has to remove 4 orphaned rings
+Move 34 :
+5:00:07 AM
+Petitebette: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 35 :
+5:01:29 AM
+Pon pon pon: Added a Medium Ring at Station [1,-1]
+Move 36 :
+5:01:46 AM
+Petitebette: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 37 :
+5:02:25 AM
+Pon pon pon: Added a Medium Ring at Station [1,0]
+Move 38 :
+5:02:55 AM
+Petitebette: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 39 :
+5:03:15 AM
+Pon pon pon: Added a Large Ring at Station [0,1]
+Move 40 :
+5:03:28 AM
+Petitebette: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 41 :
+5:03:46 AM
+Pon pon pon: Added a Large Ring at Station [1,0]
+Move 42 :
+5:03:54 AM
+Petitebette: Removed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Petitebette has to remove 2 orphaned rings
+Move 43 :
+5:04:01 AM
+Pon pon pon: Added a Large Ring at Station [1,-1]
+Move 44 :
+5:04:09 AM
+Petitebette: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 45 :
+5:04:33 AM
+Pon pon pon: Added a Medium Ring at Station [1,1]
+The end of the game: Pon pon pon wins!

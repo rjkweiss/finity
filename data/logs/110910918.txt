@@ -1,0 +1,94 @@
+Move 1 :
+9/6/2020 4:34:20 PM
+The colors of shuameston, AK-PRESTO have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:35:54 PM
+shuameston: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+4:36:51 PM
+AK-PRESTO: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+4:39:28 PM
+shuameston: Added a Large Ring at Station [0,1]
+Move 5 :
+4:40:03 PM
+AK-PRESTO: Added a Large Ring at Station [0,-1]
+Move 6 :
+4:41:15 PM
+shuameston: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 7 :
+4:41:33 PM
+AK-PRESTO: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 8 :
+4:41:42 PM
+shuameston: Added a Large Ring at Station [1,1]
+Move 9 :
+4:41:56 PM
+AK-PRESTO: Added a Large Ring at Station [-1,-1]
+Move 10 :
+4:42:08 PM
+shuameston: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 11 :
+4:42:38 PM
+AK-PRESTO: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 12 :
+4:43:09 PM
+shuameston: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 13 :
+4:43:51 PM
+AK-PRESTO: Added a Large Ring at Station [-1,0]
+Move 14 :
+4:44:44 PM
+shuameston: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :
+4:45:04 PM
+AK-PRESTO: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 16 :
+4:46:52 PM
+shuameston: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 17 :
+4:47:06 PM
+AK-PRESTO: Added a Medium Ring at Station [-1,-1]
+Move 18 :
+4:48:22 PM
+shuameston: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 19 :
+4:48:44 PM
+AK-PRESTO: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 20 :
+4:48:56 PM
+shuameston: Added a Large Ring at Station [1,0]
+Move 21 :
+4:49:04 PM
+AK-PRESTO: Added a Medium Ring at Station [0,-1]
+Move 22 :
+4:49:24 PM
+shuameston: Added a Medium Ring at Station [0,1]
+Move 23 :
+4:49:55 PM
+AK-PRESTO: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 24 :
+4:50:07 PM
+shuameston: Added a Medium Ring at Station [1,0]
+Move 25 :
+4:50:20 PM
+AK-PRESTO: Added a Medium Ring at Station [-1,0]
+Move 26 :
+4:50:28 PM
+shuameston: Added a Medium Ring at Station [1,1]
+Move 27 :
+4:50:38 PM
+AK-PRESTO: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 28 :
+4:50:46 PM
+shuameston: Added a Small Ring at Station [0,1]
+Move 29 :
+4:50:53 PM
+AK-PRESTO: Added a Small Ring at Station [0,-1]
+Move 30 :
+4:51:42 PM
+shuameston: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 31 :
+4:51:56 PM
+AK-PRESTO: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: AK-PRESTO wins!

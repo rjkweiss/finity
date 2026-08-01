@@ -1,0 +1,217 @@
+Move 1 :
+8/25/2020 9:44:50 AM
+The colors of Ed R, MockingjayLady have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:45:07 AM
+Ed R: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+9:45:42 AM
+MockingjayLady: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+9:45:53 AM
+Ed R: Added a Medium Ring at Station [0,1]
+Move 5 :
+9:46:25 AM
+MockingjayLady: Added a Medium Ring at Station [0,-1]
+Move 6 :
+9:46:35 AM
+Ed R: Added a Small Ring at Station [0,1]
+Move 7 :
+9:47:04 AM
+MockingjayLady: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 8 :
+9:47:22 AM
+Ed R: Moved a Base Post at Station [0,1]
+Move 9 :
+9:47:50 AM
+MockingjayLady: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 10 :
+9:48:09 AM
+Ed R: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+9:48:54 AM
+MockingjayLady: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 12 :
+9:49:06 AM
+Ed R: Added a Medium Ring at Station [-1,1]
+Move 13 :
+9:49:21 AM
+MockingjayLady: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 14 :
+9:49:30 AM
+Ed R: Added a Small Ring at Station [-1,1]
+Move 15 :
+9:49:44 AM
+MockingjayLady: Added a Medium Ring at Station [1,0]
+Move 16 :
+9:50:10 AM
+Ed R: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 17 :
+9:50:29 AM
+MockingjayLady: Added a Small Ring at Station [0,-1]
+Move 18 :
+9:50:48 AM
+Ed R: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 19 :
+9:51:08 AM
+MockingjayLady: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 20 :
+9:51:17 AM
+Ed R: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 21 :
+9:51:32 AM
+MockingjayLady: Added a Small Ring at Station [1,0]
+Move 22 :
+9:51:54 AM
+Ed R: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 23 :
+9:52:05 AM
+MockingjayLady: Moved a Base Post at Station [0,-1]
+MockingjayLady has to remove 2 orphaned rings
+Move 24 :
+9:52:17 AM
+Ed R: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 25 :
+9:53:05 AM
+MockingjayLady: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 26 :
+9:53:12 AM
+Ed R: Added a Small Ring at Station [-1,0]
+Move 27 :
+9:53:24 AM
+MockingjayLady: Added a Medium Ring at Station [1,-1]
+Move 28 :
+9:53:34 AM
+Ed R: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Ed R has to remove 3 orphaned rings
+Move 29 :
+9:53:48 AM
+MockingjayLady: Added a Small Ring at Station [1,-1]
+Move 30 :
+9:54:20 AM
+Ed R: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 31 :
+9:54:34 AM
+MockingjayLady: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 32 :
+9:54:54 AM
+Ed R: Added a Small Ring at Station [-1,1]
+Move 33 :
+9:55:05 AM
+MockingjayLady: Added a Medium Ring at Station [-1,0]
+Move 34 :
+9:55:15 AM
+Ed R: Added a Medium Ring at Station [-1,1]
+Move 35 :
+9:55:29 AM
+MockingjayLady: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 36 :
+9:55:36 AM
+Ed R: Moved a Base Post at Station [-1,1]
+Ed R has to remove 2 orphaned rings
+Move 37 :
+9:55:59 AM
+MockingjayLady: Added a Small Ring at Station [-1,0]
+Move 38 :
+9:56:14 AM
+Ed R: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 39 :
+9:56:28 AM
+MockingjayLady: Added a Medium Ring at Station [-1,-1]
+Move 40 :
+9:56:35 AM
+Ed R: Added a Small Ring at Station [0,1]
+Move 41 :
+9:56:42 AM
+MockingjayLady: Added a Small Ring at Station [-1,-1]
+Move 42 :
+9:56:48 AM
+Ed R: Added a Medium Ring at Station [0,1]
+Move 43 :
+9:57:14 AM
+MockingjayLady: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 44 :
+9:58:05 AM
+Ed R: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 45 :
+9:58:58 AM
+MockingjayLady: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 46 :
+9:59:09 AM
+Ed R: Added a Small Ring at Station [1,0]
+Move 47 :
+9:59:51 AM
+MockingjayLady: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 48 :
+10:00:20 AM
+Ed R: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 49 :
+10:01:00 AM
+MockingjayLady: Added a Medium Ring at Station [1,0]
+Move 50 :
+10:01:09 AM
+Ed R: Added a Medium Ring at Station [1,1]
+Move 51 :
+10:01:39 AM
+MockingjayLady: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 52 :
+10:01:57 AM
+Ed R: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 53 :
+10:02:38 AM
+MockingjayLady: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Ed R has to remove 4 orphaned rings
+Move 54 :
+10:02:53 AM
+Ed R: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 55 :
+10:03:29 AM
+MockingjayLady: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 56 :
+10:03:41 AM
+Ed R: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 57 :
+10:04:20 AM
+MockingjayLady: Added a Small Ring at Station [1,0]
+Move 58 :
+10:04:33 AM
+Ed R: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+MockingjayLady has to remove 2 orphaned rings
+Move 59 :
+10:04:53 AM
+MockingjayLady: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 60 :
+10:05:07 AM
+Ed R: Added a Small Ring at Station [0,1]
+Move 61 :
+10:05:20 AM
+MockingjayLady: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Ed R has to remove 1 orphaned rings
+Move 62 :
+10:05:59 AM
+Ed R: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 63 :
+10:06:40 AM
+MockingjayLady: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 64 :
+10:06:47 AM
+Ed R: Added a Medium Ring at Station [0,1]
+Move 65 :
+10:06:59 AM
+MockingjayLady: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 66 :
+10:07:10 AM
+Ed R: Added a Small Ring at Station [0,1]
+Move 67 :
+10:07:19 AM
+MockingjayLady: Added a Medium Ring at Station [1,0]
+Move 68 :
+10:07:25 AM
+Ed R: Added a Small Ring at Station [1,0]
+Move 69 :
+10:07:52 AM
+MockingjayLady: Added a Medium Ring at Station [1,1]
+Move 70 :
+10:07:58 AM
+Ed R: Added a Small Ring at Station [1,1]
+The end of the game: Ed R wins!

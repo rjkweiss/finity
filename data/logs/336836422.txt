@@ -1,0 +1,125 @@
+Game log
+Move 2 :1/15/2023 3:45:52 PM
+Swinkels: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :3:46:49 PM
+Funky Fos: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :3:47:30 PM
+Swinkels: Added a Small Ring at Station [-1,0]
+Move 5 :3:47:47 PM
+Funky Fos: Added a Small Ring at Station [1,0]
+Move 6 :3:50:17 PM
+Swinkels: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Funky Fos has to remove 1 orphaned rings
+Move 7 :3:50:52 PM
+Funky Fos: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 8 :3:51:15 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 9 :3:51:45 PM
+Funky Fos: Added a Small Ring at Station [1,0]
+Move 10 :3:51:53 PM
+Swinkels: Added a Medium Ring at Station [-1,0]
+Move 11 :3:52:40 PM
+Funky Fos: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 12 :3:56:03 PM
+Swinkels: Added a Large Ring at Station [-1,0]
+Move 13 :3:56:54 PM
+Funky Fos: Moved a Base Post at Station [1,0]
+Move 14 :3:57:09 PM
+Swinkels: Moved a Base Post at Station [-1,0]
+Move 15 :3:57:19 PM
+Funky Fos: Added a Small Ring at Station [1,-1]
+Move 16 :3:57:28 PM
+Swinkels: Added a Small Ring at Station [-1,1]
+Move 17 :3:57:44 PM
+Funky Fos: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 18 :3:58:17 PM
+Swinkels: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 19 :3:58:27 PM
+Funky Fos: Added a Medium Ring at Station [1,-1]
+Move 20 :3:58:52 PM
+Swinkels: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 21 :3:59:14 PM
+Funky Fos: Added a Large Ring at Station [1,-1]
+Move 22 :3:59:34 PM
+Swinkels: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 23 :3:59:58 PM
+Funky Fos: Moved a Base Post at Station [1,-1]
+Move 24 :4:00:31 PM
+Swinkels: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 25 :4:02:12 PM
+Funky Fos: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 26 :4:03:26 PM
+Swinkels: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 27 :4:04:26 PM
+Funky Fos: Added a Small Ring at Station [1,1]
+Move 28 :4:05:07 PM
+Swinkels: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 29 :4:05:30 PM
+Funky Fos: Added a Medium Ring at Station [1,0]
+Move 30 :4:06:04 PM
+Swinkels: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 31 :4:06:25 PM
+Funky Fos: Added a Small Ring at Station [0,1]
+Move 32 :4:07:43 PM
+Swinkels: Added a Medium Ring at Station [0,1]
+Move 33 :4:08:01 PM
+Funky Fos: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 34 :4:09:18 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 35 :4:11:02 PM
+Funky Fos: Removed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Swinkels has to remove 1 orphaned rings
+Move 36 :4:12:00 PM
+Swinkels: Added a Medium Ring at Station [-1,1]
+Move 37 :4:12:41 PM
+Funky Fos: Removed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 38 :4:12:57 PM
+Swinkels: Added a Large Ring at Station [-1,1]
+Move 39 :4:13:12 PM
+Funky Fos: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 40 :4:13:40 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 41 :4:15:27 PM
+Funky Fos: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 42 :4:15:40 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 43 :4:16:45 PM
+Funky Fos: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 44 :4:16:57 PM
+Swinkels: Added a Small Ring at Station [-1,-1]
+Move 45 :4:17:07 PM
+Funky Fos: Removed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 46 :4:17:19 PM
+Swinkels: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 47 :4:17:48 PM
+Funky Fos: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 48 :4:18:03 PM
+Swinkels: Added a Small Ring at Station [0,-1]
+Move 49 :4:18:14 PM
+Funky Fos: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Swinkels has to remove 1 orphaned rings
+Move 50 :4:18:27 PM
+Swinkels: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 51 :4:18:41 PM
+Funky Fos: Added a Small Ring at Station [0,-1]
+Move 52 :4:18:50 PM
+Swinkels: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Funky Fos has to remove 1 orphaned rings
+Move 53 :4:19:19 PM
+Funky Fos: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 54 :4:19:29 PM
+Swinkels: Added a Small Ring at Station [0,-1]
+Move 55 :4:19:39 PM
+Funky Fos: Added a Medium Ring at Station [0,-1]
+Move 56 :4:19:49 PM
+Swinkels: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Funky Fos has to remove 1 orphaned rings
+Move 57 :4:20:51 PM
+Funky Fos: Removed a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 58 :4:21:01 PM
+Swinkels: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 59 :4:21:50 PM
+Funky Fos: Moved a Blocker at Station [0,0] => [-1,1] Position:Right
+Move 60 :4:21:58 PM
+Swinkels: Added a Medium Ring at Station [-1,-1]
+The end of the game: Swinkels wins!

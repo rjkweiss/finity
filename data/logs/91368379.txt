@@ -1,0 +1,104 @@
+Move 1 :
+5/29/2020 1:45:43 AM
+The colors of eSedano01 have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+8:52:59 AM
+whotimwait: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+8:58:40 AM
+eSedano01: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+9:44:12 AM
+whotimwait: Added a Medium Ring at Station [-1,0]
+Move 5 :
+10:52:09 AM
+eSedano01: Added a Medium Ring at Station [0,-1]
+Move 6 :
+1:36:05 PM
+whotimwait: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+5/30/2020 12:26:09 AM
+eSedano01: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 8 :
+2:09:21 AM
+whotimwait: Added a Small Ring at Station [0,-1]
+Move 9 :
+2:13:48 AM
+eSedano01: Added a Large Ring at Station [0,-1]
+Move 10 :
+2:19:32 AM
+whotimwait: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+eSedano01 has to remove 2 orphaned rings
+Move 11 :
+3:41:48 AM
+eSedano01: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 12 :
+4:19:14 AM
+whotimwait: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 13 :
+4:33:06 AM
+eSedano01: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 14 :
+4:48:39 AM
+whotimwait: Added a Medium Ring at Station [-1,-1]
+Move 15 :
+5:25:05 AM
+eSedano01: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 16 :
+11:40:38 AM
+whotimwait: Added a Small Ring at Station [-1,0]
+Move 17 :
+11:44:07 AM
+eSedano01: Added a Medium Ring at Station [0,-1]
+Move 18 :
+11:45:53 AM
+whotimwait: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+eSedano01 has to remove 1 orphaned rings
+Move 19 :
+12:00:58 PM
+eSedano01: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 20 :
+12:28:09 PM
+whotimwait: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 21 :
+2:34:05 PM
+eSedano01: Added a Small Ring at Station [1,0]
+Move 22 :
+2:47:08 PM
+whotimwait: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 23 :
+2:50:59 PM
+eSedano01: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 24 :
+2:51:31 PM
+whotimwait: Added a Medium Ring at Station [0,-1]
+Move 25 :
+3:09:48 PM
+eSedano01: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 26 :
+3:13:48 PM
+whotimwait: Added a Small Ring at Station [-1,-1]
+Move 27 :
+5:03:31 PM
+eSedano01: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 28 :
+5/31/2020 2:50:10 AM
+whotimwait: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 29 :
+4:36:22 AM
+eSedano01: Added a Small Ring at Station [0,1]
+Move 30 :
+5:14:56 AM
+whotimwait: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+eSedano01 has to remove 2 orphaned rings
+Move 31 :
+5:22:04 AM
+eSedano01: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 32 :
+5:31:05 AM
+whotimwait: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 33 :
+5:39:35 AM
+eSedano01 concedes the game.
+The end of the game: whotimwait wins!

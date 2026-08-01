@@ -1,0 +1,155 @@
+Move 2 :
+6/3/2020 3:44:04 PM
+xiug: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 3 :
+3:45:07 PM
+Hilijah: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 :
+3:45:34 PM
+xiug: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+3:46:23 PM
+Hilijah: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+3:46:48 PM
+xiug: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 7 :
+3:47:12 PM
+Hilijah: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+3:47:37 PM
+xiug: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 9 :
+3:49:57 PM
+Hilijah: Added a Medium Ring at Station [0,-1]
+Move 10 :
+3:50:55 PM
+xiug: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+3:51:32 PM
+Hilijah: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 12 :
+3:51:39 PM
+xiug: Added a Large Ring at Station [0,1]
+Move 13 :
+3:52:06 PM
+Hilijah: Added a Small Ring at Station [0,-1]
+Move 14 :
+3:52:14 PM
+xiug: Added a Medium Ring at Station [0,1]
+Move 15 :
+3:52:20 PM
+Hilijah: Added a Large Ring at Station [0,-1]
+Move 16 :
+3:52:29 PM
+xiug: Added a Small Ring at Station [0,1]
+Move 17 :
+3:52:46 PM
+Hilijah: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 18 :
+3:52:57 PM
+xiug: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 19 :
+3:53:04 PM
+Hilijah: Added a Large Ring at Station [-1,-1]
+Move 20 :
+3:53:30 PM
+xiug: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 21 :
+3:53:47 PM
+Hilijah: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 22 :
+3:53:54 PM
+xiug: Added a Large Ring at Station [1,1]
+Move 23 :
+3:54:03 PM
+Hilijah: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 24 :
+3:54:17 PM
+xiug: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 25 :
+3:55:10 PM
+Hilijah: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 26 :
+3:55:24 PM
+xiug: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 27 :
+3:55:38 PM
+Hilijah: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 28 :
+3:55:44 PM
+xiug: Added a Large Ring at Station [1,0]
+Move 29 :
+3:55:53 PM
+Hilijah: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 30 :
+3:56:01 PM
+xiug: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 31 :
+3:56:10 PM
+Hilijah: Added a Medium Ring at Station [-1,0]
+Move 32 :
+3:56:23 PM
+xiug: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 33 :
+3:56:51 PM
+Hilijah: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 34 :
+3:56:56 PM
+xiug: Added a Large Ring at Station [1,-1]
+Move 35 :
+3:57:14 PM
+Hilijah: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 36 :
+3:57:37 PM
+xiug: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 37 :
+3:57:54 PM
+Hilijah: Added a Medium Ring at Station [-1,1]
+Move 38 :
+3:58:15 PM
+xiug: Added a Medium Ring at Station [1,-1]
+Move 39 :
+3:58:23 PM
+Hilijah: Added a Small Ring at Station [-1,1]
+Move 40 :
+3:58:29 PM
+xiug: Added a Small Ring at Station [1,-1]
+Move 41 :
+3:58:37 PM
+Hilijah: Added a Large Ring at Station [-1,1]
+Move 42 :
+3:58:51 PM
+xiug: Added a Medium Ring at Station [1,1]
+Move 43 :
+3:59:03 PM
+Hilijah: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 44 :
+3:59:12 PM
+xiug: Added a Small Ring at Station [1,1]
+Move 45 :
+3:59:32 PM
+Hilijah: Added a Medium Ring at Station [-1,-1]
+Move 46 :
+3:59:38 PM
+xiug: Added a Medium Ring at Station [1,0]
+Move 47 :
+3:59:45 PM
+Hilijah: Added a Large Ring at Station [-1,0]
+Move 48 :
+3:59:51 PM
+xiug: Added a Small Ring at Station [1,0]
+Move 49 :
+3:59:59 PM
+Hilijah: Added a Small Ring at Station [-1,0]
+Move 50 :
+4:00:17 PM
+xiug: Moved a Base Post at Station [1,0]
+xiug has to remove 6 orphaned rings
+Move 51 :
+4:00:37 PM
+Hilijah: Added a Small Ring at Station [0,1]
+Move 52 :
+4:00:43 PM
+xiug concedes the game.
+The end of the game: Hilijah wins!

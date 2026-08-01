@@ -1,0 +1,132 @@
+Move 1 :
+6/2/2020 11:41:29 AM
+The colors of Mitchjhurst, bilbotheplayer have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:43:12 AM
+Mitchjhurst: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+11:43:44 AM
+bilbotheplayer: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+11:44:13 AM
+Mitchjhurst: Added a Large Ring at Station [-1,0]
+Move 5 :
+11:44:25 AM
+bilbotheplayer: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :
+11:44:42 AM
+Mitchjhurst: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+11:45:00 AM
+bilbotheplayer: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 8 :
+11:45:31 AM
+Mitchjhurst: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 9 :
+11:45:43 AM
+bilbotheplayer: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 10 :
+11:46:02 AM
+Mitchjhurst: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 11 :
+11:46:14 AM
+bilbotheplayer: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 12 :
+11:46:42 AM
+Mitchjhurst: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 13 :
+11:47:05 AM
+bilbotheplayer: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 14 :
+11:47:31 AM
+Mitchjhurst: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 15 :
+11:47:45 AM
+bilbotheplayer: Added a Large Ring at Station [1,0]
+Move 16 :
+11:48:08 AM
+Mitchjhurst: Added a Small Ring at Station [-1,0]
+Move 17 :
+11:48:16 AM
+bilbotheplayer: Added a Medium Ring at Station [1,0]
+Move 18 :
+11:48:33 AM
+Mitchjhurst: Added a Small Ring at Station [0,-1]
+Move 19 :
+11:48:58 AM
+bilbotheplayer: Added a Large Ring at Station [1,1]
+Move 20 :
+11:50:02 AM
+Mitchjhurst: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 21 :
+11:50:25 AM
+bilbotheplayer: Added a Large Ring at Station [0,1]
+Move 22 :
+11:50:36 AM
+Mitchjhurst: Added a Medium Ring at Station [0,1]
+Move 23 :
+11:52:22 AM
+bilbotheplayer: Moved a Base Post at Station [1,0]
+bilbotheplayer has to remove 2 orphaned rings
+Move 24 :
+11:52:49 AM
+Mitchjhurst: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 25 :
+11:53:07 AM
+bilbotheplayer: Added a Large Ring at Station [1,-1]
+Move 26 :
+11:53:38 AM
+Mitchjhurst: Added a Large Ring at Station [0,1]
+Move 27 :
+11:53:53 AM
+bilbotheplayer: Added a Large Ring at Station [0,-1]
+Move 28 :
+11:56:10 AM
+Mitchjhurst: Added a Small Ring at Station [0,1]
+Move 29 :
+11:57:15 AM
+bilbotheplayer: Added a Medium Ring at Station [-1,0]
+Move 30 :
+11:57:45 AM
+Mitchjhurst: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 31 :
+12:00:30 PM
+bilbotheplayer: Added a Medium Ring at Station [-1,1]
+Move 32 :
+12:00:38 PM
+Mitchjhurst: Moved a Base Post at Station [0,1]
+Mitchjhurst has to remove 3 orphaned rings
+Move 33 :
+12:01:10 PM
+bilbotheplayer: Added a Small Ring at Station [-1,0]
+Move 34 :
+12:01:49 PM
+Mitchjhurst: Added a Small Ring at Station [1,0]
+Move 35 :
+12:01:57 PM
+bilbotheplayer: Added a Medium Ring at Station [0,-1]
+Move 36 :
+12:02:09 PM
+Mitchjhurst: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 37 :
+12:02:32 PM
+bilbotheplayer: Added a Medium Ring at Station [1,-1]
+Move 38 :
+12:02:43 PM
+Mitchjhurst: Added a Large Ring at Station [1,1]
+Move 39 :
+12:03:29 PM
+bilbotheplayer: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 40 :
+12:03:48 PM
+Mitchjhurst: Added a Large Ring at Station [-1,1]
+Move 41 :
+12:03:57 PM
+bilbotheplayer: Added a Small Ring at Station [1,-1]
+Move 42 :
+12:04:09 PM
+Mitchjhurst: Added a Large Ring at Station [-1,0]
+Move 43 :
+12:04:18 PM
+bilbotheplayer: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: bilbotheplayer wins!

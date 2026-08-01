@@ -1,0 +1,90 @@
+Game log
+Move 1 :10/17/2022 7:41:27 AM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :7:42:35 AM
+Eternal Library: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :7:52:11 AM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :7:55:08 AM
+Eternal Library: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 5 :7:56:56 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :7:57:48 AM
+Eternal Library: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 7 :7:59:03 AM
+SixPigeons: Added a Small Ring at Station [0,-1]
+Move 8 :8:00:05 AM
+Eternal Library: Added a Medium Ring at Station [-1,0]
+Move 9 :8:03:23 AM
+SixPigeons: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 10 :8:04:41 AM
+Eternal Library: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 11 :8:10:58 AM
+SixPigeons: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 :8:11:34 AM
+Eternal Library: Added a Small Ring at Station [-1,0]
+Move 13 :8:14:39 AM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 14 :8:23:07 AM
+Eternal Library: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 15 :8:24:15 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 16 :8:28:20 AM
+Eternal Library: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 17 :8:32:52 AM
+SixPigeons: Moved a Base Post at Station [0,-1]
+Move 18 :8:34:55 AM
+Eternal Library: Added a Medium Ring at Station [0,-1]
+Move 19 :8:35:42 AM
+SixPigeons: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Eternal Library has to remove 1 orphaned rings
+Move 20 :8:37:25 AM
+Eternal Library: Added a Large Ring at Station [-1,0]
+Move 21 :8:37:36 AM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 22 :8:37:47 AM
+Eternal Library: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 23 :8:43:12 AM
+SixPigeons: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 24 :8:52:47 AM
+Eternal Library: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 25 :2:13:28 PM
+SixPigeons: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 26 :2:19:25 PM
+Eternal Library: Moved a Base Post at Station [-1,0]
+Move 27 :7:26:12 PM
+SixPigeons: Added a Medium Ring at Station [1,-1]
+Move 28 :7:30:46 PM
+Eternal Library: Added a Small Ring at Station [-1,1]
+Move 29 :7:37:41 PM
+SixPigeons: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 30 :7:43:13 PM
+Eternal Library: Added a Small Ring at Station [0,1]
+Move 31 :7:45:55 PM
+SixPigeons: Moved a Base Post at Station [1,-1]
+Move 32 :7:47:18 PM
+Eternal Library: Added a Small Ring at Station [1,0]
+Move 33 :7:47:29 PM
+SixPigeons: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Eternal Library has to remove 2 orphaned rings
+Move 34 :7:47:41 PM
+Eternal Library: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 35 :7:48:20 PM
+SixPigeons: Added a Small Ring at Station [1,0]
+Move 36 :7:49:42 PM
+Eternal Library: Added a Small Ring at Station [0,1]
+Move 37 :7:49:49 PM
+SixPigeons: Added a Medium Ring at Station [0,-1]
+Move 38 :7:58:02 PM
+Eternal Library: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 39 :8:03:17 PM
+SixPigeons: Added a Large Ring at Station [0,-1]
+Move 40 :8:16:44 PM
+Eternal Library: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 41 :8:46:26 PM
+SixPigeons: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 42 :9:46:25 PM
+Eternal Library: Added a Medium Ring at Station [1,0]
+Move 43 :10:41:34 PM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+The end of the game: SixPigeons wins!

@@ -1,0 +1,103 @@
+Game log
+Move 1 :8/4/2022 10:24:08 AM
+The colors of yellojello have been chosen according to their preferences. Change my preferences.
+Move 2 :10:25:49 AM
+Sw1ffter: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :10:26:57 AM
+yellojello: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :10:28:17 AM
+Sw1ffter: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 5 :10:29:17 AM
+yellojello: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :10:29:49 AM
+Sw1ffter: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :10:30:15 AM
+yellojello: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 8 :10:30:44 AM
+Sw1ffter: Added a Small Ring at Station [0,1]
+Move 9 :10:32:57 AM
+yellojello: Added a Small Ring at Station [0,-1]
+Move 10 :10:33:10 AM
+Sw1ffter: Moved a Base Post at Station [0,1]
+Move 11 :10:33:46 AM
+yellojello: Added a Small Ring at Station [-1,0]
+Move 12 :10:33:54 AM
+Sw1ffter: Added a Small Ring at Station [-1,1]
+Move 13 :10:34:07 AM
+yellojello: Added a Medium Ring at Station [-1,1]
+Move 14 :10:34:21 AM
+Sw1ffter: Added a Large Ring at Station [-1,1]
+Move 15 :10:34:49 AM
+yellojello: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :10:35:05 AM
+Sw1ffter: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+yellojello has to remove 3 orphaned rings
+Move 17 :10:35:55 AM
+yellojello: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 18 :10:36:03 AM
+Sw1ffter: Added a Medium Ring at Station [-1,1]
+Move 19 :10:36:36 AM
+yellojello: Added a Large Ring at Station [0,-1]
+Move 20 :10:36:57 AM
+Sw1ffter: Moved a Base Post at Station [-1,1]
+Move 21 :10:37:05 AM
+yellojello: Moved a Base Post at Station [0,-1]
+Move 22 :10:37:16 AM
+Sw1ffter: Added a Small Ring at Station [-1,0]
+Move 23 :10:37:46 AM
+yellojello: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 24 :10:38:03 AM
+Sw1ffter: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 25 :10:38:51 AM
+yellojello: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 26 :10:39:13 AM
+Sw1ffter: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 27 :10:39:35 AM
+yellojello: Added a Medium Ring at Station [-1,0]
+Move 28 :10:40:16 AM
+Sw1ffter: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 29 :10:40:56 AM
+yellojello: Added a Large Ring at Station [-1,0]
+Move 30 :10:41:42 AM
+Sw1ffter: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 31 :10:43:49 AM
+yellojello: Moved a Base Post at Station [1,-1]
+Move 32 :10:44:02 AM
+Sw1ffter: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+yellojello has to remove 2 orphaned rings
+Move 33 :10:44:36 AM
+yellojello: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 34 :10:44:51 AM
+Sw1ffter: Added a Small Ring at Station [-1,-1]
+Move 35 :10:44:59 AM
+yellojello: Added a Medium Ring at Station [-1,0]
+Move 36 :10:45:23 AM
+Sw1ffter: Added a Large Ring at Station [-1,0]
+Move 37 :10:45:56 AM
+yellojello: Added a Medium Ring at Station [-1,-1]
+Move 38 :10:46:09 AM
+Sw1ffter: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 39 :10:46:17 AM
+yellojello: Added a Large Ring at Station [-1,-1]
+Move 40 :10:46:27 AM
+Sw1ffter: Added a Small Ring at Station [0,-1]
+Move 41 :10:46:49 AM
+yellojello: Moved a Base Post at Station [-1,-1]
+yellojello has to remove 2 orphaned rings
+Move 42 :10:48:37 AM
+Sw1ffter: Added a Medium Ring at Station [0,-1]
+Move 43 :10:49:31 AM
+yellojello: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 44 :10:49:51 AM
+Sw1ffter: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 45 :10:50:23 AM
+yellojello: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 46 :10:50:50 AM
+Sw1ffter: Added a Medium Ring at Station [-1,0]
+Move 47 :10:51:06 AM
+yellojello: Added a Large Ring at Station [0,-1]
+Move 48 :10:51:22 AM
+Sw1ffter: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 49 :10:51:47 AM
+yellojello: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+The end of the game: Sw1ffter wins!

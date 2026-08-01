@@ -1,0 +1,281 @@
+Move 3 :
+8/11/2020 5:06:17 AM
+Petitebette: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+5:06:28 AM
+Pon pon pon: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+5:06:41 AM
+Petitebette: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 6 :
+5:06:56 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 7 :
+5:07:06 AM
+Petitebette: Added a Small Ring at Station [0,1]
+Move 8 :
+5:07:37 AM
+Pon pon pon: Added a Small Ring at Station [1,0]
+Move 9 :
+5:07:51 AM
+Petitebette: Added a Small Ring at Station [1,1]
+Move 10 :
+5:08:24 AM
+Pon pon pon: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Petitebette has to remove 1 orphaned rings
+Move 11 :
+5:08:40 AM
+Petitebette: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 12 :
+5:09:03 AM
+Pon pon pon: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 13 :
+5:09:11 AM
+Petitebette: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 14 :
+5:09:22 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 15 :
+5:09:38 AM
+Petitebette: Added a Small Ring at Station [1,1]
+Move 16 :
+5:09:51 AM
+Pon pon pon: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Petitebette has to remove 2 orphaned rings
+Move 17 :
+5:10:36 AM
+Petitebette: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :
+5:10:52 AM
+Pon pon pon: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 19 :
+5:11:20 AM
+Petitebette: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Pon pon pon has to remove 1 orphaned rings
+Move 20 :
+5:11:30 AM
+Pon pon pon: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 21 :
+5:12:18 AM
+Petitebette: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 22 :
+5:12:53 AM
+Pon pon pon: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 23 :
+5:13:16 AM
+Petitebette: Added a Small Ring at Station [0,1]
+Move 24 :
+5:13:35 AM
+Pon pon pon: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 25 :
+5:13:48 AM
+Petitebette: Added a Medium Ring at Station [1,1]
+Move 26 :
+5:14:11 AM
+Pon pon pon: Added a Small Ring at Station [1,0]
+Move 27 :
+5:14:26 AM
+Petitebette: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 28 :
+5:14:32 AM
+Pon pon pon: Moved a Base Post at Station [1,0]
+Move 29 :
+5:14:51 AM
+Petitebette: Added a Medium Ring at Station [1,0]
+Move 30 :
+5:14:59 AM
+Pon pon pon: Added a Large Ring at Station [0,1]
+Move 31 :
+5:15:18 AM
+Petitebette: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 32 :
+5:15:27 AM
+Pon pon pon: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 33 :
+5:15:36 AM
+Petitebette: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 34 :
+5:16:20 AM
+Pon pon pon: Added a Large Ring at Station [1,1]
+Move 35 :
+5:16:36 AM
+Petitebette: Added a Small Ring at Station [-1,0]
+Move 36 :
+5:16:50 AM
+Pon pon pon: Added a Medium Ring at Station [1,-1]
+Move 37 :
+5:16:57 AM
+Petitebette: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 38 :
+5:17:09 AM
+Pon pon pon: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 39 :
+5:17:19 AM
+Petitebette: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 40 :
+5:18:12 AM
+Pon pon pon: Added a Small Ring at Station [0,-1]
+Move 41 :
+5:18:26 AM
+Petitebette: Added a Medium Ring at Station [-1,0]
+Move 42 :
+5:18:49 AM
+Pon pon pon: Added a Small Ring at Station [-1,-1]
+Move 43 :
+5:18:58 AM
+Petitebette: Removed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 44 :
+5:19:08 AM
+Pon pon pon: Added a Small Ring at Station [1,1]
+Move 45 :
+5:19:24 AM
+Petitebette: Added a Medium Ring at Station [0,1]
+Move 46 :
+5:19:37 AM
+Pon pon pon: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 47 :
+5:20:37 AM
+Petitebette: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Pon pon pon has to remove 3 orphaned rings
+Move 48 :
+5:21:52 AM
+Pon pon pon: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 49 :
+5:22:05 AM
+Petitebette: Added a Large Ring at Station [1,0]
+Move 50 :
+5:22:32 AM
+Pon pon pon: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 51 :
+5:24:01 AM
+Petitebette: Removed a Black Bridge at Station [1,0] => [0,1] Position:Left
+Pon pon pon has to remove 3 orphaned rings
+Move 52 :
+5:24:19 AM
+Pon pon pon: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 53 :
+5:24:57 AM
+Petitebette: Moved a Base Post at Station [1,1]
+Petitebette has to remove 6 orphaned rings
+Move 54 :
+5:25:20 AM
+Pon pon pon: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 55 :
+5:25:41 AM
+Petitebette: Removed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 56 :
+5:26:21 AM
+Pon pon pon: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 57 :
+5:27:26 AM
+Petitebette: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 58 :
+5:27:34 AM
+Pon pon pon: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 59 :
+5:27:40 AM
+Petitebette: Removed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 60 :
+5:28:13 AM
+Pon pon pon: Added a Large Ring at Station [0,1]
+Move 61 :
+5:28:28 AM
+Petitebette: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Pon pon pon has to remove 1 orphaned rings
+Move 62 :
+5:29:01 AM
+Pon pon pon: Added a Medium Ring at Station [1,-1]
+Move 63 :
+5:29:20 AM
+Petitebette: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 64 :
+5:29:29 AM
+Pon pon pon: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 65 :
+5:29:53 AM
+Petitebette: Added a Small Ring at Station [0,1]
+Move 66 :
+5:30:13 AM
+Pon pon pon: Added a Medium Ring at Station [0,1]
+Move 67 :
+5:30:23 AM
+Petitebette: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 68 :
+5:30:29 AM
+Pon pon pon: Added a Large Ring at Station [0,1]
+Move 69 :
+5:30:36 AM
+Petitebette: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Pon pon pon has to remove 2 orphaned rings
+Move 70 :
+5:30:49 AM
+Pon pon pon: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Petitebette has to remove 1 orphaned rings
+Move 71 :
+5:31:03 AM
+Petitebette: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 72 :
+5:31:14 AM
+Pon pon pon: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 73 :
+5:31:36 AM
+Petitebette: Added a Large Ring at Station [1,0]
+Move 74 :
+5:31:51 AM
+Pon pon pon: Added a Large Ring at Station [1,-1]
+Move 75 :
+5:31:59 AM
+Petitebette: Added a Medium Ring at Station [1,0]
+Move 76 :
+5:32:04 AM
+Pon pon pon: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Petitebette has to remove 2 orphaned rings
+Move 77 :
+5:32:49 AM
+Petitebette: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 78 :
+5:33:02 AM
+Pon pon pon: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 79 :
+5:33:20 AM
+Petitebette: Added a Medium Ring at Station [0,1]
+Move 80 :
+5:33:40 AM
+Pon pon pon: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 81 :
+5:33:53 AM
+Petitebette: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 82 :
+5:34:02 AM
+Pon pon pon: Added a Small Ring at Station [0,-1]
+Move 83 :
+5:34:11 AM
+Petitebette: Added a Small Ring at Station [-1,1]
+Move 84 :
+5:35:15 AM
+Pon pon pon: Added a Medium Ring at Station [0,-1]
+Move 85 :
+5:35:44 AM
+Petitebette: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 86 :
+5:35:54 AM
+Pon pon pon: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 87 :
+5:37:05 AM
+Petitebette: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 88 :
+5:37:13 AM
+Pon pon pon: Added a Small Ring at Station [-1,-1]
+Move 89 :
+5:37:39 AM
+Petitebette: Added a Medium Ring at Station [-1,0]
+Move 90 :
+5:37:49 AM
+Pon pon pon: Added a Medium Ring at Station [-1,-1]
+Move 91 :
+5:37:59 AM
+Petitebette: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 92 :
+5:38:16 AM
+Pon pon pon: Added a Small Ring at Station [0,1]
+The end of the game: Pon pon pon wins!

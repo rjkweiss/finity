@@ -1,0 +1,85 @@
+Game log
+Move 3 :10/10/2022 11:50:09 AM
+Mistery87: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :10/12/2022 3:59:10 AM
+DD1016: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 5 :11:33:05 AM
+Mistery87: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 6 :11:10:13 PM
+DD1016: Added a Small Ring at Station [1,0]
+Move 7 :10/13/2022 12:49:12 AM
+Mistery87: Added a Small Ring at Station [-1,0]
+Move 8 :3:22:40 AM
+DD1016: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 9 :4:41:31 AM
+Mistery87: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 10 :6:52:59 AM
+DD1016: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 11 :11:03:50 AM
+Mistery87: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 12 :10/14/2022 12:05:33 PM
+DD1016: Added a Medium Ring at Station [1,0]
+Move 13 :12:07:49 PM
+Mistery87: Added a Medium Ring at Station [-1,0]
+Move 14 :10/15/2022 6:54:45 AM
+DD1016: Added a Large Ring at Station [1,0]
+Move 15 :11:43:28 AM
+Mistery87: Added a Large Ring at Station [-1,0]
+Move 16 :10/16/2022 10:33:10 AM
+DD1016: Moved a Base Post at Station [1,0]
+Move 17 :11:15:35 AM
+Mistery87: Moved a Base Post at Station [-1,0]
+Move 18 :10/17/2022 7:03:05 AM
+DD1016: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 19 :8:27:50 AM
+Mistery87: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 20 :10/18/2022 1:21:49 AM
+DD1016: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 21 :2:37:34 AM
+Mistery87: Added a Small Ring at Station [-1,-1]
+Move 22 :10/30/2022 6:20:34 PM
+DD1016: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 23 :10/31/2022 5:11:11 AM
+Mistery87: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 24 :6:05:55 AM
+DD1016: Added a Small Ring at Station [1,1]
+Move 25 :6:16:39 AM
+Mistery87: Added a Medium Ring at Station [-1,-1]
+Move 26 :6:22:38 AM
+DD1016: Added a Small Ring at Station [1,-1]
+Move 27 :7:14:45 AM
+Mistery87: Added a Small Ring at Station [0,-1]
+Move 28 :11/2/2022 4:57:21 AM
+DD1016: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 29 :5:05:16 AM
+Mistery87: Added a Medium Ring at Station [0,-1]
+Move 30 :8:46:33 AM
+DD1016: Added a Small Ring at Station [0,1]
+Move 31 :11:31:17 AM
+Mistery87: Added a Large Ring at Station [-1,-1]
+Move 32 :7:28:04 PM
+DD1016: Removed a Black Bridge at Station [1,0] => [1,1] Position:Left
+DD1016 has to remove 3 orphaned rings
+Move 33 :11/3/2022 10:30:12 AM
+Mistery87: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 34 :11/4/2022 8:16:49 PM
+DD1016: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 35 :11:15:12 PM
+Mistery87: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 36 :11/5/2022 6:04:34 AM
+DD1016: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 37 :2:28:47 PM
+Mistery87: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 38 :11/6/2022 1:06:24 AM
+DD1016: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 39 :1:49:28 PM
+Mistery87: Added a Large Ring at Station [0,-1]
+Move 40 :11/7/2022 12:57:49 AM
+DD1016: Added a Small Ring at Station [1,1]
+Move 41 :10:33:33 AM
+Mistery87: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 42 :11/8/2022 4:40:21 AM
+DD1016: Added a Small Ring at Station [0,1]
+Move 43 :12:34:55 PM
+Mistery87: Added a Small Ring at Station [-1,1]
+The end of the game: Mistery87 wins!

@@ -1,0 +1,133 @@
+Move 3 :
+6/2/2020 8:47:47 AM
+Plocky: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+8:48:10 AM
+JP445: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 :
+8:48:37 AM
+Plocky: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 6 :
+8:49:01 AM
+JP445: Added a Large Ring at Station [1,0]
+Move 7 :
+8:49:14 AM
+Plocky: Added a Large Ring at Station [-1,0]
+Move 8 :
+8:49:51 AM
+JP445: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 9 :
+8:50:11 AM
+Plocky: Added a Small Ring at Station [0,-1]
+Move 10 :
+8:51:01 AM
+JP445: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 11 :
+8:51:30 AM
+Plocky: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+8:51:40 AM
+JP445: Added a Medium Ring at Station [1,0]
+Move 13 :
+8:52:25 AM
+Plocky: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 14 :
+8:52:49 AM
+JP445: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Plocky has to remove 2 orphaned rings
+Move 15 :
+8:54:00 AM
+Plocky: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 16 :
+8:54:25 AM
+JP445: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 17 :
+8:54:46 AM
+Plocky: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 18 :
+8:55:17 AM
+JP445: Added a Large Ring at Station [1,1]
+Move 19 :
+8:55:29 AM
+Plocky: Added a Large Ring at Station [-1,0]
+Move 20 :
+8:55:54 AM
+JP445: Moved a Base Post at Station [1,1]
+JP445 has to remove 2 orphaned rings
+Move 21 :
+8:56:53 AM
+Plocky: Added a Medium Ring at Station [-1,0]
+Move 22 :
+8:57:38 AM
+JP445: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 23 :
+8:58:37 AM
+Plocky: Added a Medium Ring at Station [0,-1]
+Move 24 :
+8:58:47 AM
+JP445: Added a Large Ring at Station [1,0]
+Move 25 :
+8:59:05 AM
+Plocky: Added a Large Ring at Station [-1,-1]
+Move 26 :
+8:59:59 AM
+JP445: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Left
+Move 27 :
+9:01:33 AM
+Plocky: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 28 :
+9:02:04 AM
+JP445: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Plocky has to remove 2 orphaned rings
+Move 29 :
+9:02:44 AM
+Plocky: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 30 :
+9:02:59 AM
+JP445: Added a Large Ring at Station [1,-1]
+Move 31 :
+9:03:22 AM
+Plocky: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 32 :
+9:03:46 AM
+JP445: Added a Medium Ring at Station [1,0]
+Move 33 :
+9:05:17 AM
+Plocky: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 34 :
+9:05:41 AM
+JP445: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 35 :
+9:05:52 AM
+Plocky: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 36 :
+9:06:00 AM
+JP445: Added a Medium Ring at Station [1,-1]
+Move 37 :
+9:06:34 AM
+Plocky: Added a Large Ring at Station [0,-1]
+Move 38 :
+9:06:42 AM
+JP445: Added a Small Ring at Station [1,0]
+Move 39 :
+9:07:17 AM
+Plocky: Added a Medium Ring at Station [-1,-1]
+Move 40 :
+9:07:43 AM
+JP445: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 41 :
+9:08:15 AM
+Plocky: Added a Medium Ring at Station [0,-1]
+Move 42 :
+9:08:36 AM
+JP445: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 43 :
+9:08:46 AM
+Plocky: Added a Small Ring at Station [-1,-1]
+Move 44 :
+9:09:01 AM
+JP445: Added a Small Ring at Station [0,1]
+Move 45 :
+9:09:10 AM
+Plocky: Added a Small Ring at Station [-1,0]
+The end of the game: Plocky wins!

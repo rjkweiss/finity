@@ -1,0 +1,250 @@
+Move 1 :
+8/20/2020 9:02:05 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+9:02:46 AM
+RIPFortnite: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 3 :
+9:03:05 AM
+Dclass: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 4 :
+9:03:26 AM
+Haganehei: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :
+9:03:39 AM
+RIPFortnite: Added a Small Ring at Station [1,0]
+Move 6 :
+9:03:59 AM
+Dclass: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 7 :
+9:04:11 AM
+Haganehei: Added a Large Ring at Station [1,0]
+Move 8 :
+9:04:32 AM
+RIPFortnite: Added a Medium Ring at Station [1,0]
+Move 9 :
+9:05:14 AM
+Dclass: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 10 :
+9:05:49 AM
+Haganehei: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 11 :
+9:06:03 AM
+RIPFortnite: Added a Small Ring at Station [0,1]
+Move 12 :
+9:06:16 AM
+Dclass: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 13 :
+9:06:41 AM
+Haganehei: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 14 :
+9:06:52 AM
+RIPFortnite: Added a Medium Ring at Station [0,1]
+Move 15 :
+9:07:02 AM
+Dclass: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 16 :
+9:07:13 AM
+Haganehei: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :
+9:07:21 AM
+RIPFortnite: Added a Large Ring at Station [-1,1]
+Move 18 :
+9:07:29 AM
+Dclass: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 19 :
+9:07:39 AM
+Haganehei: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 20 :
+9:07:51 AM
+RIPFortnite: Added a Medium Ring at Station [-1,1]
+Move 21 :
+9:08:54 AM
+Dclass: Added a Medium Ring at Station [0,-1]
+Move 22 :
+9:09:23 AM
+Haganehei: Added a Medium Ring at Station [1,1]
+Move 23 :
+9:09:53 AM
+RIPFortnite: Added a Small Ring at Station [-1,1]
+Move 24 :
+9:10:21 AM
+Dclass: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+RIPFortnite has to remove 7 orphaned rings
+Move 25 :
+9:11:02 AM
+Haganehei: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+9:11:19 AM
+RIPFortnite: Reversed a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 27 :
+9:11:33 AM
+Dclass: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 28 :
+9:13:09 AM
+Haganehei: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 29 :
+9:13:25 AM
+RIPFortnite: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 30 :
+9:13:39 AM
+Dclass: Added a Small Ring at Station [0,-1]
+Move 31 :
+9:14:07 AM
+Haganehei: Added a Medium Ring at Station [-1,1]
+Move 32 :
+9:14:33 AM
+RIPFortnite: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 33 :
+9:14:40 AM
+Dclass: Added a Medium Ring at Station [1,-1]
+Move 34 :
+9:15:36 AM
+Haganehei: Added a Large Ring at Station [1,1]
+Move 35 :
+9:16:00 AM
+RIPFortnite: Added a Medium Ring at Station [1,0]
+Move 36 :
+9:16:17 AM
+Dclass: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 37 :
+9:17:12 AM
+Haganehei: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 38 :
+9:18:51 AM
+RIPFortnite: Removed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 39 :
+9:19:04 AM
+Dclass: Added a Small Ring at Station [1,0]
+Move 40 :
+9:19:12 AM
+Haganehei: Added a Large Ring at Station [-1,1]
+Move 41 :
+9:19:52 AM
+RIPFortnite: Added a Small Ring at Station [1,1]
+Move 42 :
+9:20:11 AM
+Dclass: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+RIPFortnite has to remove 1 orphaned rings
+Move 43 :
+9:21:56 AM
+Haganehei: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 44 :
+9:22:08 AM
+RIPFortnite: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 45 :
+9:22:20 AM
+Dclass: Removed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 46 :
+9:24:11 AM
+Haganehei: Added a Large Ring at Station [1,-1]
+Move 47 :
+9:24:27 AM
+RIPFortnite: Added a Large Ring at Station [0,-1]
+Move 48 :
+9:24:45 AM
+Dclass: Added a Large Ring at Station [0,1]
+Move 49 :
+9:25:37 AM
+Haganehei: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 50 :
+9:26:08 AM
+RIPFortnite: Added a Medium Ring at Station [0,1]
+Move 51 :
+9:26:24 AM
+Dclass: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Left
+Move 52 :
+9:26:38 AM
+Haganehei: Added a Medium Ring at Station [-2,1]
+Move 53 :
+9:26:49 AM
+RIPFortnite: Added a Small Ring at Station [1,1]
+Move 54 :
+9:27:38 AM
+Dclass: Added a Small Ring at Station [-1,1]
+Move 55 :
+9:27:46 AM
+Haganehei: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 56 :
+9:28:45 AM
+RIPFortnite: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 57 :
+9:28:59 AM
+Dclass: Added a Large Ring at Station [-2,1]
+Move 58 :
+9:30:24 AM
+Haganehei: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Dclass has to remove 2 orphaned rings
+Haganehei has to remove 3 orphaned rings
+Move 59 :
+9:30:54 AM
+RIPFortnite: Added a Small Ring at Station [0,1]
+Move 60 :
+9:31:11 AM
+Dclass: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 61 :
+9:32:24 AM
+Haganehei: Added a Small Ring at Station [-1,1]
+Move 62 :
+9:34:03 AM
+RIPFortnite: Added a Medium Ring at Station [-1,1]
+Move 63 :
+9:34:13 AM
+Dclass: Added a Large Ring at Station [-1,1]
+Move 64 :
+9:34:59 AM
+Haganehei: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 65 :
+9:35:13 AM
+RIPFortnite: Added a Medium Ring at Station [-2,1]
+Move 66 :
+9:35:51 AM
+Dclass: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 67 :
+9:36:31 AM
+Haganehei: Added a Large Ring at Station [-2,1]
+Move 68 :
+9:37:05 AM
+RIPFortnite: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 69 :
+9:37:11 AM
+Dclass: Added a Small Ring at Station [-2,1]
+Move 70 :
+9:37:37 AM
+Haganehei: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Left
+RIPFortnite has to remove 5 orphaned rings
+Move 71 :
+9:38:21 AM
+RIPFortnite: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 72 :
+9:39:15 AM
+Dclass: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 73 :
+9:40:28 AM
+Haganehei: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 74 :
+9:40:45 AM
+RIPFortnite: Added a Medium Ring at Station [0,1]
+Move 75 :
+9:41:06 AM
+Dclass: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 76 :
+9:41:46 AM
+Haganehei: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 77 :
+9:41:52 AM
+RIPFortnite: Added a Medium Ring at Station [-1,1]
+Move 78 :
+9:42:26 AM
+Dclass: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Left
+RIPFortnite has to remove 2 orphaned rings
+Move 79 :
+9:42:46 AM
+Haganehei: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 80 :
+9:43:12 AM
+RIPFortnite: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 81 :
+9:43:18 AM
+Dclass: Added a Medium Ring at Station [-1,1]
+The end of the game: Dclass wins!

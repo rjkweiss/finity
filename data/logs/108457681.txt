@@ -1,0 +1,92 @@
+Move 3 :
+8/23/2020 10:43:34 AM
+AWR2020: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 4 :
+10:43:52 AM
+tayutama777: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+10:44:06 AM
+AWR2020: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 6 :
+10:44:13 AM
+tayutama777: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 7 :
+10:44:26 AM
+AWR2020: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 8 :
+10:44:38 AM
+tayutama777: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 9 :
+10:44:47 AM
+AWR2020: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 10 :
+10:44:57 AM
+tayutama777: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 11 :
+10:45:07 AM
+AWR2020: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 12 :
+10:45:13 AM
+tayutama777: Added a Small Ring at Station [1,0]
+Move 13 :
+10:46:09 AM
+AWR2020: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 14 :
+10:46:17 AM
+tayutama777: Added a Small Ring at Station [1,1]
+Move 15 :
+10:47:13 AM
+AWR2020: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 16 :
+10:47:24 AM
+tayutama777: Added a Medium Ring at Station [1,1]
+Move 17 :
+10:47:55 AM
+AWR2020: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 18 :
+10:48:11 AM
+tayutama777: Added a Small Ring at Station [0,1]
+Move 19 :
+10:48:48 AM
+AWR2020: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 20 :
+10:49:02 AM
+tayutama777: Added a Medium Ring at Station [1,0]
+Move 21 :
+10:49:19 AM
+AWR2020: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 22 :
+10:49:41 AM
+tayutama777: Added a Large Ring at Station [1,0]
+Move 23 :
+10:50:09 AM
+AWR2020: Added a Medium Ring at Station [0,1]
+Move 24 :
+10:50:15 AM
+tayutama777: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+AWR2020 has to remove 1 orphaned rings
+Move 25 :
+10:50:59 AM
+AWR2020: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 26 :
+10:51:07 AM
+tayutama777: Moved a Base Post at Station [1,1]
+Move 27 :
+10:51:20 AM
+AWR2020: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 28 :
+10:51:28 AM
+tayutama777: Added a Small Ring at Station [1,-1]
+Move 29 :
+10:52:19 AM
+AWR2020: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 30 :
+10:52:26 AM
+tayutama777: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 31 :
+10:52:53 AM
+AWR2020: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 32 :
+10:53:01 AM
+tayutama777: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+The end of the game: tayutama777 wins!

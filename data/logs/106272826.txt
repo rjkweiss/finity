@@ -1,0 +1,210 @@
+Move 2 :
+8/10/2020 9:01:18 PM
+boogerbang: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 3 :
+9:01:34 PM
+randell182: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 4 :
+9:01:56 PM
+albert5x5: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+9:02:18 PM
+boogerbang: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 6 :
+9:02:40 PM
+randell182: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 7 :
+9:02:57 PM
+albert5x5: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 8 :
+9:03:26 PM
+boogerbang: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 9 :
+9:03:41 PM
+randell182: Added a Small Ring at Station [0,-1]
+Move 10 :
+9:03:54 PM
+albert5x5: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 11 :
+9:04:07 PM
+boogerbang: Added a Small Ring at Station [1,0]
+Move 12 :
+9:04:24 PM
+randell182: Added a Small Ring at Station [1,-1]
+Move 13 :
+9:04:52 PM
+albert5x5: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 14 :
+9:05:14 PM
+boogerbang: Added a Medium Ring at Station [1,1]
+Move 15 :
+9:05:23 PM
+randell182: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 16 :
+9:06:07 PM
+albert5x5: Added a Small Ring at Station [1,1]
+Move 17 :
+9:06:19 PM
+boogerbang: Added a Small Ring at Station [0,1]
+Move 18 :
+9:06:34 PM
+randell182: Added a Medium Ring at Station [1,0]
+Move 19 :
+9:06:45 PM
+albert5x5: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 20 :
+9:06:58 PM
+boogerbang: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 21 :
+9:07:09 PM
+randell182: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 22 :
+9:07:35 PM
+albert5x5: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 23 :
+9:08:00 PM
+boogerbang: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 24 :
+9:08:31 PM
+randell182: Added a Large Ring at Station [1,0]
+Move 25 :
+9:08:43 PM
+albert5x5: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 26 :
+9:09:38 PM
+boogerbang: Added a Medium Ring at Station [0,1]
+Move 27 :
+9:09:52 PM
+randell182: Added a Medium Ring at Station [1,-1]
+Move 28 :
+9:10:02 PM
+albert5x5: Added a Large Ring at Station [1,1]
+Move 29 :
+9:11:29 PM
+boogerbang: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+randell182 has to remove 4 orphaned rings
+Move 30 :
+9:12:50 PM
+randell182: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 31 :
+9:13:01 PM
+albert5x5: Added a Large Ring at Station [1,0]
+Move 32 :
+9:13:18 PM
+boogerbang: Moved a Base Post at Station [1,1]
+Move 33 :
+9:13:32 PM
+randell182: Added a Small Ring at Station [1,-1]
+Move 34 :
+9:13:39 PM
+albert5x5: Added a Medium Ring at Station [1,-1]
+Move 35 :
+9:13:48 PM
+boogerbang: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 36 :
+9:14:13 PM
+randell182: Added a Medium Ring at Station [1,0]
+Move 37 :
+9:14:21 PM
+albert5x5: Added a Small Ring at Station [-1,1]
+Move 38 :
+9:14:38 PM
+boogerbang: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 39 :
+9:15:11 PM
+randell182: Added a Large Ring at Station [1,-1]
+Move 40 :
+9:15:25 PM
+albert5x5: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 41 :
+9:15:48 PM
+boogerbang: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+randell182 has to remove 1 orphaned rings
+Move 42 :
+9:15:56 PM
+randell182: Moved a Base Post at Station [1,-1]
+randell182 has to remove 1 orphaned rings
+Move 43 :
+9:16:24 PM
+albert5x5: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 44 :
+9:16:44 PM
+boogerbang: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 45 :
+9:17:22 PM
+randell182: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 46 :
+9:17:30 PM
+albert5x5: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 47 :
+9:17:58 PM
+boogerbang: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 48 :
+9:18:21 PM
+randell182: Added a Medium Ring at Station [1,0]
+Move 49 :
+9:18:28 PM
+albert5x5: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 50 :
+9:18:36 PM
+boogerbang: Removed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+randell182 has to remove 1 orphaned rings
+Move 51 :
+9:19:06 PM
+randell182: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 52 :
+9:19:15 PM
+albert5x5: Added a Large Ring at Station [0,-1]
+Move 53 :
+9:19:41 PM
+boogerbang: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+albert5x5 has to remove 2 orphaned rings
+Move 54 :
+9:19:53 PM
+randell182: Added a Medium Ring at Station [1,0]
+Move 55 :
+9:20:18 PM
+albert5x5: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 56 :
+9:20:45 PM
+boogerbang: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 57 :
+9:21:02 PM
+randell182: Added a Large Ring at Station [0,1]
+Move 58 :
+9:21:10 PM
+albert5x5: Added a Medium Ring at Station [1,-1]
+Move 59 :
+9:21:30 PM
+boogerbang: Added a Medium Ring at Station [-1,1]
+Move 60 :
+9:21:43 PM
+randell182: Added a Large Ring at Station [-1,1]
+Move 61 :
+9:22:02 PM
+albert5x5: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 62 :
+9:22:13 PM
+boogerbang: Added a Small Ring at Station [-2,1]
+Move 63 :
+9:22:22 PM
+randell182: Added a Medium Ring at Station [-2,1]
+Move 64 :
+9:22:42 PM
+albert5x5: Added a Small Ring at Station [0,-1]
+Move 65 :
+9:23:00 PM
+boogerbang: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 66 :
+9:23:07 PM
+randell182: Added a Small Ring at Station [-1,0]
+Move 67 :
+9:23:17 PM
+albert5x5: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 68 :
+9:23:37 PM
+boogerbang: Added a Medium Ring at Station [-1,0]
+Move 69 :
+9:23:46 PM
+randell182: Added a Medium Ring at Station [0,-1]
+The end of the game: randell182 wins!

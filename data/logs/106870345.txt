@@ -1,0 +1,133 @@
+Move 2 :
+8/14/2020 11:02:09 PM
+HarveyWH: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+8/15/2020 7:23:17 AM
+CseloCsaba85: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 4 :
+9:20:55 AM
+HarveyWH: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 5 :
+10:47:25 AM
+CseloCsaba85: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :
+1:17:11 PM
+HarveyWH: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+9:15:20 PM
+CseloCsaba85: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 8 :
+10:31:44 PM
+HarveyWH: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 9 :
+8/16/2020 4:41:19 AM
+CseloCsaba85: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 10 :
+11:01:26 AM
+HarveyWH: Added a Large Ring at Station [-1,0]
+Move 11 :
+12:36:06 PM
+CseloCsaba85: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 12 :
+1:11:39 PM
+HarveyWH: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 13 :
+1:18:14 PM
+CseloCsaba85: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+HarveyWH has to remove 1 orphaned rings
+Move 14 :
+2:15:17 PM
+HarveyWH: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 15 :
+2:23:47 PM
+CseloCsaba85: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 16 :
+2:24:15 PM
+HarveyWH: Added a Large Ring at Station [-1,0]
+Move 17 :
+2:26:54 PM
+CseloCsaba85: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 18 :
+10:42:08 PM
+HarveyWH: Added a Large Ring at Station [-1,-1]
+Move 19 :
+11:26:18 PM
+CseloCsaba85: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :
+8/17/2020 12:53:47 AM
+HarveyWH: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 21 :
+1:00:09 AM
+CseloCsaba85: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 22 :
+1:29:38 AM
+HarveyWH: Added a Large Ring at Station [0,-1]
+Move 23 :
+1:50:16 AM
+CseloCsaba85: Added a Large Ring at Station [1,0]
+Move 24 :
+8:02:07 AM
+HarveyWH: Added a Large Ring at Station [0,1]
+Move 25 :
+11:09:17 AM
+CseloCsaba85: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :
+12:02:45 PM
+HarveyWH: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 27 :
+12:17:36 PM
+CseloCsaba85: Added a Medium Ring at Station [0,1]
+Move 28 :
+12:29:41 PM
+HarveyWH: Added a Medium Ring at Station [-1,0]
+Move 29 :
+12:31:11 PM
+CseloCsaba85: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 30 :
+1:24:22 PM
+HarveyWH: Added a Medium Ring at Station [1,0]
+Move 31 :
+1:28:03 PM
+CseloCsaba85: Added a Small Ring at Station [1,0]
+Move 32 :
+1:30:02 PM
+HarveyWH: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 33 :
+1:39:05 PM
+CseloCsaba85: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 34 :
+3:20:33 PM
+HarveyWH: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 35 :
+7:15:04 PM
+CseloCsaba85: Added a Large Ring at Station [1,1]
+Move 36 :
+9:54:49 PM
+HarveyWH: Added a Medium Ring at Station [0,-1]
+Move 37 :
+10:52:40 PM
+CseloCsaba85: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 38 :
+8/18/2020 8:34:43 AM
+HarveyWH: Added a Large Ring at Station [1,-1]
+Move 39 :
+10:17:07 AM
+CseloCsaba85: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+HarveyWH has to remove 2 orphaned rings
+Move 40 :
+11:04:54 AM
+HarveyWH: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+CseloCsaba85 has to remove 4 orphaned rings
+Move 41 :
+11:06:57 AM
+CseloCsaba85: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 42 :
+11:09:43 AM
+HarveyWH: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 43 :
+11:12:27 AM
+CseloCsaba85: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 44 :
+11:56:37 AM
+HarveyWH: Added a Large Ring at Station [1,0]
+The end of the game: HarveyWH wins!

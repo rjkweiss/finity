@@ -1,0 +1,144 @@
+Move 2 :
+8/27/2020 12:13:13 PM
+drcd1: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 3 :
+12:13:33 PM
+RicardoBrancas: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 4 :
+12:14:24 PM
+Marghrid: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+12:14:49 PM
+drcd1: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 6 :
+12:16:54 PM
+RicardoBrancas: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 7 :
+12:17:16 PM
+Marghrid: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 8 :
+12:17:28 PM
+drcd1: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 9 :
+12:17:50 PM
+RicardoBrancas: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 10 :
+12:18:02 PM
+Marghrid: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 11 :
+12:18:13 PM
+drcd1: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 12 :
+12:18:33 PM
+RicardoBrancas: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 13 :
+12:18:48 PM
+Marghrid: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 14 :
+12:19:02 PM
+drcd1: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 15 :
+12:19:11 PM
+RicardoBrancas: Added a White Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 16 :
+12:19:24 PM
+Marghrid: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 17 :
+12:20:32 PM
+drcd1: Removed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 18 :
+12:21:16 PM
+RicardoBrancas: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 19 :
+12:22:13 PM
+Marghrid: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 20 :
+12:23:16 PM
+drcd1: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :
+12:23:44 PM
+RicardoBrancas: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 22 :
+12:24:03 PM
+Marghrid: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 23 :
+12:24:41 PM
+drcd1: Added a Large Ring at Station [1,-2]
+Move 24 :
+12:24:51 PM
+RicardoBrancas: Added a Small Ring at Station [-2,1]
+Move 25 :
+12:25:01 PM
+Marghrid: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 26 :
+12:25:06 PM
+drcd1: Added a Medium Ring at Station [1,-2]
+Move 27 :
+12:25:14 PM
+RicardoBrancas: Added a Medium Ring at Station [-1,1]
+Move 28 :
+12:25:25 PM
+Marghrid: Added a Small Ring at Station [1,0]
+Move 29 :
+12:25:32 PM
+drcd1: Added a Small Ring at Station [1,-2]
+Move 30 :
+12:25:54 PM
+RicardoBrancas: Added a Medium Ring at Station [0,1]
+Move 31 :
+12:26:59 PM
+Marghrid: Added a Medium Ring at Station [1,0]
+Move 32 :
+12:27:13 PM
+drcd1: Added a Large Ring at Station [1,0]
+Move 33 :
+12:27:53 PM
+RicardoBrancas: Reversed a White Bridge at Station [1,-1] => [1,-2] Position:Left
+drcd1 has to remove 3 orphaned rings
+Move 34 :
+12:28:40 PM
+Marghrid: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+drcd1 has to remove 1 orphaned rings
+Move 35 :
+12:29:05 PM
+drcd1: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 36 :
+12:29:30 PM
+RicardoBrancas: Added a Large Ring at Station [1,0]
+Move 37 :
+12:29:48 PM
+Marghrid: Added a Large Ring at Station [1,1]
+Move 38 :
+12:30:31 PM
+drcd1: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 39 :
+12:30:41 PM
+RicardoBrancas: Added a Small Ring at Station [1,-1]
+Move 40 :
+12:30:53 PM
+Marghrid: Added a Medium Ring at Station [1,1]
+Move 41 :
+12:31:57 PM
+drcd1: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 42 :
+12:32:03 PM
+RicardoBrancas: Added a Small Ring at Station [0,-1]
+Move 43 :
+12:32:24 PM
+Marghrid: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 44 :
+12:32:31 PM
+drcd1: Added a Medium Ring at Station [0,-1]
+Move 45 :
+12:32:40 PM
+RicardoBrancas: Reversed a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 46 :
+12:33:24 PM
+Marghrid: Added a Large Ring at Station [1,-1]
+Move 47 :
+12:33:32 PM
+drcd1: Added a White Bridge at Station [0,0] => [-1,1] Position:Left
+Move 48 :
+12:33:38 PM
+RicardoBrancas: Added a Small Ring at Station [1,-2]
+The end of the game: RicardoBrancas wins!

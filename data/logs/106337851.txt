@@ -1,0 +1,114 @@
+Move 2 :
+8/11/2020 6:23:38 AM
+Irynaa: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+6:23:51 AM
+Volpino: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 4 :
+6:24:01 AM
+Irynaa: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :
+6:24:24 AM
+Volpino: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 6 :
+6:24:33 AM
+Irynaa: Added a Small Ring at Station [-1,0]
+Move 7 :
+6:25:10 AM
+Volpino: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 8 :
+6:25:21 AM
+Irynaa: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 9 :
+6:25:34 AM
+Volpino: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 10 :
+6:25:45 AM
+Irynaa: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 11 :
+6:25:55 AM
+Volpino: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+6:26:06 AM
+Irynaa: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 13 :
+6:26:19 AM
+Volpino: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 14 :
+6:26:39 AM
+Irynaa: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 15 :
+6:26:50 AM
+Volpino: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 16 :
+6:27:00 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 17 :
+6:27:07 AM
+Volpino: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 18 :
+6:27:15 AM
+Irynaa: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 19 :
+6:27:46 AM
+Volpino: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 20 :
+6:27:53 AM
+Irynaa: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 21 :
+6:27:59 AM
+Volpino: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 22 :
+6:28:07 AM
+Irynaa: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+No rings placed or orphaned. 4 moves until a forced draw
+Move 23 :
+6:28:15 AM
+Volpino: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+No rings placed or orphaned. 3 moves until a forced draw
+Move 24 :
+6:28:22 AM
+Irynaa: Added a Small Ring at Station [-1,-1]
+Move 25 :
+6:28:35 AM
+Volpino: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 26 :
+6:28:45 AM
+Irynaa: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 27 :
+6:28:52 AM
+Volpino: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 28 :
+6:29:00 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 29 :
+6:29:05 AM
+Volpino: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 30 :
+6:29:11 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 31 :
+6:29:23 AM
+Volpino: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 32 :
+6:29:29 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 33 :
+6:29:50 AM
+Volpino: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 34 :
+6:29:56 AM
+Irynaa: Added a Small Ring at Station [1,0]
+Move 35 :
+6:30:03 AM
+Volpino: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 36 :
+6:30:09 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 37 :
+6:30:15 AM
+Volpino: Added a White Bridge at Station [0,0] => [1,0] Position:Right
+Move 38 :
+6:30:21 AM
+Irynaa: Added a Small Ring at Station [0,1]
+The end of the game: Irynaa wins!

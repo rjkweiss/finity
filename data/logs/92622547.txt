@@ -1,0 +1,117 @@
+Move 2 :
+6/2/2020 3:44:53 PM
+SUONICOLLE: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+3:45:11 PM
+chinliupiggy: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+3:45:20 PM
+SUONICOLLE: Added a Small Ring at Station [-1,0]
+Move 5 :
+3:45:33 PM
+chinliupiggy: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 6 :
+3:45:43 PM
+SUONICOLLE: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 7 :
+3:46:15 PM
+chinliupiggy: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 8 :
+3:46:32 PM
+SUONICOLLE: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :
+3:46:44 PM
+chinliupiggy: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 10 :
+3:47:04 PM
+SUONICOLLE: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 11 :
+3:47:16 PM
+chinliupiggy: Added a Small Ring at Station [1,0]
+Move 12 :
+3:47:32 PM
+SUONICOLLE: Added a Small Ring at Station [0,1]
+Move 13 :
+3:47:50 PM
+chinliupiggy: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 14 :
+3:47:55 PM
+SUONICOLLE: Moved a Base Post at Station [0,1]
+SUONICOLLE has to remove 1 orphaned rings
+Move 15 :
+3:48:06 PM
+chinliupiggy: Added a Medium Ring at Station [0,1]
+Move 16 :
+3:48:23 PM
+SUONICOLLE: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 17 :
+3:48:31 PM
+chinliupiggy: Added a Medium Ring at Station [1,0]
+Move 18 :
+3:48:42 PM
+SUONICOLLE: Added a Small Ring at Station [-1,1]
+Move 19 :
+3:48:51 PM
+chinliupiggy: Added a Medium Ring at Station [1,1]
+Move 20 :
+3:49:21 PM
+SUONICOLLE: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :
+3:49:35 PM
+chinliupiggy: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 22 :
+3:49:58 PM
+SUONICOLLE: Added a Small Ring at Station [-1,0]
+Move 23 :
+3:50:14 PM
+chinliupiggy: Moved a Base Post at Station [1,0]
+chinliupiggy has to remove 2 orphaned rings
+Move 24 :
+3:50:28 PM
+SUONICOLLE: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 25 :
+3:50:47 PM
+chinliupiggy: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 26 :
+3:50:52 PM
+SUONICOLLE: Added a Small Ring at Station [-1,-1]
+Move 27 :
+3:50:57 PM
+chinliupiggy: Added a Small Ring at Station [1,-1]
+Move 28 :
+3:51:10 PM
+SUONICOLLE: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 29 :
+3:51:16 PM
+chinliupiggy: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 30 :
+3:51:20 PM
+SUONICOLLE: Added a Small Ring at Station [0,-1]
+Move 31 :
+3:51:34 PM
+chinliupiggy: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 32 :
+3:51:59 PM
+SUONICOLLE: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 33 :
+3:52:09 PM
+chinliupiggy: Added a Medium Ring at Station [0,1]
+Move 34 :
+3:52:26 PM
+SUONICOLLE: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 35 :
+3:52:36 PM
+chinliupiggy: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 36 :
+3:52:41 PM
+SUONICOLLE: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 37 :
+3:52:46 PM
+chinliupiggy: Added a Medium Ring at Station [1,1]
+Move 38 :
+3:52:53 PM
+SUONICOLLE: Added a Medium Ring at Station [-1,0]
+Move 39 :
+3:53:06 PM
+chinliupiggy: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: chinliupiggy wins!

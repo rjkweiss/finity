@@ -1,0 +1,133 @@
+Move 3 :
+8/30/2020 1:35:57 PM
+Rencright: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 4 :
+1:36:51 PM
+zunden: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 :
+1:37:17 PM
+Rencright: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 6 :
+1:37:29 PM
+zunden: Added a Small Ring at Station [1,0]
+Move 7 :
+1:38:50 PM
+Rencright: Added a Small Ring at Station [-1,0]
+Move 8 :
+1:39:30 PM
+zunden: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 9 :
+1:39:37 PM
+Rencright: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 10 :
+1:39:55 PM
+zunden: Added a Small Ring at Station [1,1]
+Move 11 :
+1:40:02 PM
+Rencright: Added a Small Ring at Station [0,-1]
+Move 12 :
+1:40:53 PM
+zunden: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 13 :
+1:41:02 PM
+Rencright: Added a Medium Ring at Station [-1,0]
+Move 14 :
+1:42:13 PM
+zunden: Added a Small Ring at Station [0,1]
+Move 15 :
+1:42:21 PM
+Rencright: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+zunden has to remove 3 orphaned rings
+Move 16 :
+1:42:39 PM
+zunden: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Rencright has to remove 3 orphaned rings
+Move 17 :
+1:43:10 PM
+Rencright: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 18 :
+1:43:24 PM
+zunden: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 19 :
+1:44:18 PM
+Rencright: Added a Small Ring at Station [-1,0]
+Move 20 :
+1:44:36 PM
+zunden: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 21 :
+1:45:04 PM
+Rencright: Added a Medium Ring at Station [-1,0]
+Move 22 :
+1:45:14 PM
+zunden: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 23 :
+1:45:28 PM
+Rencright: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 24 :
+1:46:05 PM
+zunden: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 25 :
+1:46:14 PM
+Rencright: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 26 :
+1:46:55 PM
+zunden: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 27 :
+1:47:04 PM
+Rencright: Added a Small Ring at Station [0,-1]
+Move 28 :
+1:47:12 PM
+zunden: Added a Medium Ring at Station [0,-1]
+Move 29 :
+1:47:20 PM
+Rencright: Added a Large Ring at Station [0,-1]
+Move 30 :
+1:48:00 PM
+zunden: Added a Small Ring at Station [-1,-1]
+Move 31 :
+1:48:32 PM
+Rencright: Added a Large Ring at Station [-1,0]
+Move 32 :
+1:49:47 PM
+zunden: Added a Small Ring at Station [1,0]
+Move 33 :
+1:49:57 PM
+Rencright: Added a Medium Ring at Station [-1,-1]
+Move 34 :
+1:50:04 PM
+zunden: Added a Small Ring at Station [1,1]
+Move 35 :
+1:50:11 PM
+Rencright: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 36 :
+1:50:20 PM
+zunden: Added a Small Ring at Station [0,1]
+Move 37 :
+1:50:28 PM
+Rencright: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 38 :
+1:50:42 PM
+zunden: Added a Medium Ring at Station [0,1]
+Move 39 :
+1:53:18 PM
+Rencright: Added a Large Ring at Station [-1,-1]
+Move 40 :
+1:53:45 PM
+zunden: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 41 :
+1:54:13 PM
+Rencright: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+zunden has to remove 4 orphaned rings
+Move 42 :
+1:54:30 PM
+zunden: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 43 :
+1:54:41 PM
+Rencright: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 44 :
+1:56:19 PM
+zunden: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Left
+Move 45 :
+1:57:11 PM
+Rencright: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+The end of the game: Rencright wins!

@@ -1,0 +1,534 @@
+Move 1 :
+8/29/2020 12:13:17 PM
+The colors of Bailezoide, llandentoll have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:13:58 PM
+Bailezoide: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 3 :
+12:14:41 PM
+llandentoll: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 :
+12:15:52 PM
+Jessiswinning: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+12:16:03 PM
+Servo_Mk1: Added a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 6 :
+12:16:35 PM
+Bailezoide: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 7 :
+12:17:17 PM
+llandentoll: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 8 :
+12:18:29 PM
+Jessiswinning: Reversed a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 9 :
+12:18:37 PM
+Servo_Mk1: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 10 :
+12:18:49 PM
+Bailezoide: Added a White Bridge at Station [0,0] => [-1,1] Position:Left
+Move 11 :
+12:20:13 PM
+llandentoll: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 12 :
+12:20:35 PM
+Jessiswinning: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :
+12:20:56 PM
+Servo_Mk1: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 14 :
+12:22:17 PM
+Bailezoide: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 15 :
+12:22:33 PM
+llandentoll: Added a Medium Ring at Station [-1,-1]
+Move 16 :
+12:22:50 PM
+Jessiswinning: Reversed a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 17 :
+12:23:11 PM
+Servo_Mk1: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 18 :
+12:23:55 PM
+Bailezoide: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 19 :
+12:24:11 PM
+llandentoll: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 20 :
+12:26:27 PM
+Jessiswinning: Added a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 21 :
+12:26:52 PM
+Servo_Mk1: Added a White Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 22 :
+12:28:19 PM
+Bailezoide: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 23 :
+12:28:29 PM
+llandentoll: Added a Black Bridge at Station [-1,1] => [0,0] Position:Left
+Move 24 :
+12:28:38 PM
+Jessiswinning: Added a Small Ring at Station [-1,2]
+Move 25 :
+12:28:45 PM
+Servo_Mk1: Reversed a Black Bridge at Station [2,-1] => [1,0] Position:Middle
+Move 26 :
+12:28:53 PM
+Bailezoide: Added a Small Ring at Station [-2,1]
+Move 27 :
+12:29:03 PM
+llandentoll: Added a Black Bridge at Station [0,1] => [-1,2] Position:Left
+Move 28 :
+12:29:47 PM
+Jessiswinning: Added a Large Ring at Station [-1,1]
+Move 29 :
+12:31:14 PM
+Servo_Mk1: Added a Large Ring at Station [0,1]
+Move 30 :
+12:31:37 PM
+Bailezoide: Reversed a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 31 :
+12:32:23 PM
+llandentoll: Added a White Bridge at Station [-1,1] => [-1,2] Position:Left
+Move 32 :
+12:32:36 PM
+Jessiswinning: Added a White Bridge at Station [-1,1] => [-2,1] Position:Left
+Move 33 :
+12:32:42 PM
+Servo_Mk1: Added a Medium Ring at Station [0,1]
+Move 34 :
+12:32:58 PM
+Bailezoide: Added a Small Ring at Station [-1,1]
+Move 35 :
+12:33:23 PM
+llandentoll: Reversed a Black Bridge at Station [0,1] => [-1,2] Position:Left
+Move 36 :
+12:33:40 PM
+Jessiswinning: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 37 :
+12:33:49 PM
+Servo_Mk1: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 38 :
+12:34:01 PM
+Bailezoide: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Servo_Mk1 has to remove 2 orphaned rings
+Move 39 :
+12:34:30 PM
+llandentoll: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 40 :
+12:34:45 PM
+Jessiswinning: Added a Medium Ring at Station [-2,1]
+Move 41 :
+12:34:54 PM
+Servo_Mk1: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 42 :
+12:35:05 PM
+Bailezoide: Added a Medium Ring at Station [-1,2]
+Move 43 :
+12:35:12 PM
+llandentoll: Added a Large Ring at Station [-1,0]
+Move 44 :
+12:35:27 PM
+Jessiswinning: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 45 :
+12:35:33 PM
+Servo_Mk1: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 46 :
+12:35:39 PM
+Bailezoide: Added a Small Ring at Station [0,1]
+Move 47 :
+12:35:46 PM
+llandentoll: Added a Large Ring at Station [-2,1]
+Move 48 :
+12:35:56 PM
+Jessiswinning: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 49 :
+12:36:18 PM
+Servo_Mk1: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Bailezoide has to remove 4 orphaned rings
+llandentoll has to remove 1 orphaned rings
+Move 50 :
+12:37:28 PM
+Bailezoide: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 51 :
+12:37:40 PM
+llandentoll: Reversed a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 52 :
+12:37:48 PM
+Jessiswinning: Added a Medium Ring at Station [-1,0]
+Move 53 :
+12:37:56 PM
+Servo_Mk1: Added a Small Ring at Station [0,1]
+Move 54 :
+12:38:29 PM
+Bailezoide: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 55 :
+12:38:47 PM
+llandentoll: Added a Large Ring at Station [-2,1]
+Move 56 :
+12:38:57 PM
+Jessiswinning: Added a Large Ring at Station [0,-1]
+Move 57 :
+12:39:04 PM
+Servo_Mk1: Added a Small Ring at Station [-1,1]
+Move 58 :
+12:39:12 PM
+Bailezoide: Reversed a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Jessiswinning has to remove 5 orphaned rings
+Move 59 :
+12:39:31 PM
+llandentoll: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 60 :
+12:39:40 PM
+Jessiswinning: Reversed a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 61 :
+12:40:00 PM
+Servo_Mk1: Added a Small Ring at Station [-2,1]
+Move 62 :
+12:40:16 PM
+Bailezoide: Added a Small Ring at Station [0,-1]
+Move 63 :
+12:41:23 PM
+llandentoll: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 64 :
+12:41:33 PM
+Jessiswinning: Added a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 65 :
+12:41:44 PM
+Servo_Mk1: Added a Small Ring at Station [-1,2]
+Move 66 :
+12:41:50 PM
+Bailezoide: Added a Medium Ring at Station [0,-1]
+Move 67 :
+12:41:59 PM
+llandentoll: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 68 :
+12:42:19 PM
+Jessiswinning: Added a Medium Ring at Station [-1,2]
+Move 69 :
+12:42:44 PM
+Servo_Mk1: Added a Medium Ring at Station [0,1]
+Move 70 :
+12:43:06 PM
+Bailezoide: Added a Small Ring at Station [1,-2]
+Move 71 :
+12:43:12 PM
+llandentoll: Added a Large Ring at Station [-1,1]
+Move 72 :
+12:43:18 PM
+Jessiswinning: Added a Medium Ring at Station [-1,1]
+Move 73 :
+12:43:55 PM
+Servo_Mk1: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 74 :
+12:44:04 PM
+Bailezoide: Added a Medium Ring at Station [-2,1]
+Move 75 :
+12:44:10 PM
+llandentoll: Added a Large Ring at Station [-1,2]
+Move 76 :
+12:45:34 PM
+Jessiswinning: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 77 :
+12:45:57 PM
+Servo_Mk1: Added a Small Ring at Station [-1,0]
+Move 78 :
+12:46:10 PM
+Bailezoide: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 79 :
+12:46:18 PM
+llandentoll: Added a Large Ring at Station [0,1]
+Move 80 :
+12:46:25 PM
+Jessiswinning: Added a Medium Ring at Station [-1,0]
+Move 81 :
+12:46:45 PM
+Servo_Mk1: Added a Small Ring at Station [-1,-1]
+Move 82 :
+12:47:16 PM
+Bailezoide: Removed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+llandentoll has to remove 4 orphaned rings
+Move 83 :
+12:49:45 PM
+llandentoll: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 84 :
+12:50:28 PM
+Jessiswinning: Added a Large Ring at Station [-2,1]
+Move 85 :
+12:50:33 PM
+Servo_Mk1: Added a Large Ring at Station [0,-1]
+Move 86 :
+12:51:28 PM
+Bailezoide: Reversed a White Bridge at Station [-1,1] => [-2,1] Position:Left
+Move 87 :
+12:53:33 PM
+llandentoll: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 88 :
+12:53:40 PM
+Jessiswinning: Added a Large Ring at Station [-1,1]
+Move 89 :
+12:53:47 PM
+Servo_Mk1: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 90 :
+12:54:17 PM
+Bailezoide: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 91 :
+12:54:26 PM
+llandentoll: Moved a Base Post at Station [-1,-1]
+llandentoll has to remove 1 orphaned rings
+Move 92 :
+12:55:15 PM
+Jessiswinning: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Servo_Mk1 has to remove 6 orphaned rings
+Move 93 :
+12:56:20 PM
+Servo_Mk1: Reversed a Black Bridge at Station [-1,2] => [0,1] Position:Right
+Move 94 :
+12:56:39 PM
+Bailezoide: Added a Small Ring at Station [-1,1]
+Move 95 :
+12:56:46 PM
+llandentoll: Reversed a Black Bridge at Station [-1,2] => [-1,1] Position:Middle
+Jessiswinning has to remove 4 orphaned rings
+Move 96 :
+12:59:08 PM
+Jessiswinning: Added a White Bridge at Station [2,-1] => [1,-1] Position:Right
+Move 97 :
+12:59:31 PM
+Servo_Mk1: Added a Small Ring at Station [-1,2]
+Move 98 :
+12:59:36 PM
+Bailezoide: Added a Small Ring at Station [1,-1]
+Move 99 :
+12:59:43 PM
+llandentoll: Added a Large Ring at Station [0,-1]
+Move 100 :
+12:59:52 PM
+Jessiswinning: Added a Large Ring at Station [1,0]
+Move 101 :
+1:00:11 PM
+Servo_Mk1: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 102 :
+1:01:50 PM
+Bailezoide: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 103 :
+1:02:05 PM
+llandentoll: Added a Large Ring at Station [1,-2]
+Move 104 :
+1:02:39 PM
+Jessiswinning: Added a Small Ring at Station [2,-1]
+Move 105 :
+1:02:49 PM
+Servo_Mk1: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 106 :
+1:03:03 PM
+Bailezoide: Added a Large Ring at Station [-1,-1]
+Move 107 :
+1:03:12 PM
+llandentoll: Added a Large Ring at Station [1,-1]
+Move 108 :
+1:03:21 PM
+Jessiswinning: Added a Medium Ring at Station [1,-1]
+Move 109 :
+1:03:28 PM
+Servo_Mk1: Added a Medium Ring at Station [-1,1]
+Move 110 :
+1:03:41 PM
+Bailezoide: Added a Large Ring at Station [-1,2]
+Move 111 :
+1:03:53 PM
+llandentoll: Reversed a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 112 :
+1:05:17 PM
+Jessiswinning: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 113 :
+1:05:35 PM
+Servo_Mk1: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 114 :
+1:05:42 PM
+Bailezoide: Added a Medium Ring at Station [2,-1]
+Move 115 :
+1:05:47 PM
+llandentoll: Added a Large Ring at Station [2,-1]
+Move 116 :
+1:06:59 PM
+Jessiswinning: Moved a Base Post at Station [1,-2]
+Jessiswinning has to remove 2 orphaned rings
+Move 117 :
+1:07:10 PM
+Servo_Mk1: Added a Small Ring at Station [1,1]
+Move 118 :
+1:07:19 PM
+Bailezoide: Reversed a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 119 :
+1:07:52 PM
+llandentoll: Added a White Bridge at Station [2,-1] => [1,0] Position:Right
+Move 120 :
+1:08:23 PM
+Jessiswinning: Added a Small Ring at Station [1,0]
+Move 121 :
+1:08:51 PM
+Servo_Mk1: Added a Large Ring at Station [-1,1]
+Move 122 :
+1:09:08 PM
+Bailezoide: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 123 :
+1:09:16 PM
+llandentoll: Added a Large Ring at Station [1,0]
+Move 124 :
+1:11:35 PM
+Jessiswinning: Added a Medium Ring at Station [1,0]
+Move 125 :
+1:11:42 PM
+Servo_Mk1: Added a Small Ring at Station [-1,0]
+Move 126 :
+1:12:50 PM
+Bailezoide: Added a Medium Ring at Station [-1,2]
+Move 127 :
+1:13:00 PM
+llandentoll: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Servo_Mk1 has to remove 3 orphaned rings
+Move 128 :
+1:13:34 PM
+Jessiswinning: Added a Large Ring at Station [0,1]
+Move 129 :
+1:14:20 PM
+Servo_Mk1: Reversed a White Bridge at Station [-1,1] => [-1,2] Position:Left
+Bailezoide has to remove 2 orphaned rings
+Move 130 :
+1:15:56 PM
+Bailezoide: Reversed a White Bridge at Station [2,-1] => [1,0] Position:Right
+llandentoll has to remove 1 orphaned rings
+Jessiswinning has to remove 3 orphaned rings
+Move 131 :
+1:16:33 PM
+llandentoll: Reversed a White Bridge at Station [1,0] => [2,-1] Position:Left
+Move 132 :
+1:16:49 PM
+Jessiswinning: Added a Medium Ring at Station [1,0]
+Move 133 :
+1:17:02 PM
+Servo_Mk1: Added a Medium Ring at Station [-1,1]
+Move 134 :
+1:17:11 PM
+Bailezoide: Added a Large Ring at Station [1,0]
+Move 135 :
+1:17:23 PM
+llandentoll: Added a Small Ring at Station [1,0]
+Move 136 :
+1:17:30 PM
+Jessiswinning: Added a Large Ring at Station [0,1]
+Move 137 :
+1:17:35 PM
+Servo_Mk1: Added a Small Ring at Station [-2,1]
+Move 138 :
+1:17:57 PM
+Bailezoide: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Right
+Jessiswinning has to remove 1 orphaned rings
+Move 139 :
+1:18:52 PM
+llandentoll: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 140 :
+1:18:59 PM
+Jessiswinning: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 141 :
+1:19:05 PM
+Servo_Mk1: Added a Small Ring at Station [-1,0]
+Move 142 :
+1:19:35 PM
+Bailezoide: Added a Medium Ring at Station [1,1]
+Move 143 :
+1:19:44 PM
+llandentoll: Added a Large Ring at Station [1,1]
+Move 144 :
+1:19:55 PM
+Jessiswinning: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 145 :
+1:20:01 PM
+Servo_Mk1: Removed a White Bridge at Station [2,-1] => [1,0] Position:Right
+Bailezoide has to remove 2 orphaned rings
+llandentoll has to remove 2 orphaned rings
+Jessiswinning has to remove 1 orphaned rings
+Move 146 :
+1:20:23 PM
+Bailezoide: Added a White Bridge at Station [2,-1] => [1,0] Position:Right
+Move 147 :
+1:20:57 PM
+llandentoll: Reversed a Black Bridge at Station [0,1] => [-1,2] Position:Left
+Servo_Mk1 has to remove 1 orphaned rings
+Move 148 :
+1:21:13 PM
+Jessiswinning: Added a Small Ring at Station [1,0]
+Move 149 :
+1:22:29 PM
+Servo_Mk1: Moved a Base Post at Station [-2,1]
+Servo_Mk1 has to remove 4 orphaned rings
+Move 150 :
+1:22:43 PM
+Bailezoide: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 151 :
+1:22:54 PM
+llandentoll: Added a Large Ring at Station [1,0]
+Move 152 :
+1:23:27 PM
+Jessiswinning: Added a Large Ring at Station [1,1]
+Move 153 :
+1:23:31 PM
+Servo_Mk1: Added a Small Ring at Station [-1,2]
+Move 154 :
+1:23:40 PM
+Bailezoide: Reversed a White Bridge at Station [2,-1] => [1,0] Position:Right
+llandentoll has to remove 1 orphaned rings
+Jessiswinning has to remove 2 orphaned rings
+Move 155 :
+1:23:59 PM
+llandentoll: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 156 :
+1:24:21 PM
+Jessiswinning: Added a Medium Ring at Station [1,0]
+Move 157 :
+1:24:26 PM
+Servo_Mk1: Added a Large Ring at Station [-1,1]
+Move 158 :
+1:24:32 PM
+Bailezoide: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 159 :
+1:24:41 PM
+llandentoll: Added a Small Ring at Station [1,0]
+Move 160 :
+1:25:05 PM
+Jessiswinning: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 161 :
+1:25:12 PM
+Servo_Mk1: Added a Small Ring at Station [0,1]
+Move 162 :
+1:25:18 PM
+Bailezoide: Added a Large Ring at Station [1,0]
+Move 163 :
+1:25:23 PM
+llandentoll: Added a Medium Ring at Station [0,1]
+Move 164 :
+1:25:34 PM
+Jessiswinning: Added a Large Ring at Station [0,1]
+Move 165 :
+1:25:43 PM
+Servo_Mk1: Added a Small Ring at Station [1,1]
+Move 166 :
+1:26:41 PM
+Bailezoide: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Jessiswinning has to remove 2 orphaned rings
+Move 167 :
+1:26:53 PM
+llandentoll: Reversed a White Bridge at Station [-2,1] => [-1,1] Position:Right
+Servo_Mk1 has to remove 5 orphaned rings
+Move 168 :
+1:28:29 PM
+Jessiswinning: Reversed a White Bridge at Station [1,0] => [2,-1] Position:Left
+Move 169 :
+1:30:07 PM
+Servo_Mk1: Reversed a White Bridge at Station [-1,1] => [-2,1] Position:Left
+Move 170 :
+1:30:14 PM
+Bailezoide: Added a Small Ring at Station [0,1]
+The end of the game: Bailezoide wins!

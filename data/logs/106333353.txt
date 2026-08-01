@@ -1,0 +1,134 @@
+Move 2 :
+8/11/2020 6:33:15 AM
+windychicken: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 3 :
+6:33:26 AM
+Irynaa: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+6:33:35 AM
+windychicken: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 5 :
+6:33:43 AM
+Irynaa: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 6 :
+6:34:02 AM
+windychicken: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 7 :
+6:35:06 AM
+Irynaa: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 8 :
+6:35:57 AM
+windychicken: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 9 :
+6:36:05 AM
+Irynaa: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 10 :
+6:36:15 AM
+windychicken: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 11 :
+6:36:39 AM
+Irynaa: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 12 :
+6:37:20 AM
+windychicken: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 13 :
+6:37:32 AM
+Irynaa: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+6:38:31 AM
+windychicken: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 15 :
+6:39:05 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 16 :
+6:39:52 AM
+windychicken: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 17 :
+6:40:00 AM
+Irynaa: Added a Small Ring at Station [1,0]
+Move 18 :
+6:41:51 AM
+windychicken: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 19 :
+6:42:01 AM
+Irynaa: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 20 :
+6:42:29 AM
+windychicken: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 21 :
+6:42:37 AM
+Irynaa: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 22 :
+6:44:04 AM
+windychicken: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 23 :
+6:44:21 AM
+Irynaa: Added a Small Ring at Station [0,1]
+Move 24 :
+6:44:33 AM
+windychicken: Added a Small Ring at Station [-1,0]
+Move 25 :
+6:44:44 AM
+Irynaa: Added a Small Ring at Station [-1,1]
+Move 26 :
+6:44:52 AM
+windychicken: Added a Medium Ring at Station [-1,0]
+Move 27 :
+6:45:12 AM
+Irynaa: Added a Medium Ring at Station [0,1]
+Move 28 :
+6:45:50 AM
+windychicken: Added a Large Ring at Station [-1,0]
+Move 29 :
+6:46:52 AM
+Irynaa: Moved a Base Post at Station [-1,0]
+Move 30 :
+6:47:21 AM
+windychicken: Moved a Base Post at Station [0,-1]
+Move 31 :
+6:47:28 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 32 :
+6:47:39 AM
+windychicken: Added a Small Ring at Station [-1,-1]
+Move 33 :
+6:48:01 AM
+Irynaa: Added a Medium Ring at Station [1,1]
+Move 34 :
+6:48:14 AM
+windychicken: Added a Medium Ring at Station [-1,-1]
+Move 35 :
+6:48:20 AM
+Irynaa: Added a Medium Ring at Station [1,0]
+Move 36 :
+6:48:38 AM
+windychicken: Added a Large Ring at Station [-1,-1]
+Move 37 :
+6:48:50 AM
+Irynaa: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 38 :
+6:49:25 AM
+windychicken: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 39 :
+6:49:34 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 40 :
+6:50:03 AM
+windychicken: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 41 :
+6:50:11 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 42 :
+6:50:35 AM
+windychicken: Reversed a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 43 :
+6:50:41 AM
+Irynaa: Added a Large Ring at Station [1,0]
+Move 44 :
+6:51:48 AM
+windychicken: Moved a Base Post at Station [-1,-1]
+windychicken has to remove 3 orphaned rings
+Move 45 :
+6:52:00 AM
+Irynaa: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+The end of the game: Irynaa wins!

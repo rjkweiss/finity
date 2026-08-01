@@ -1,0 +1,167 @@
+Move 1 :
+8/14/2020 9:01:04 AM
+The colors of Messier have been chosen according to their preferences. Change my preferences.
+Move 2 :
+3:28:23 PM
+szunyi: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+3:48:33 PM
+Messier: Moved a Blocker at Station [0,0] => [0,-1] Position:Right
+Move 4 :
+8/15/2020 12:04:59 AM
+szunyi: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 5 :
+1:03:01 AM
+Messier: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 6 :
+6:13:35 AM
+szunyi: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 7 :
+2:49:49 PM
+Messier: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 8 :
+11:13:53 PM
+szunyi: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 9 :
+8/16/2020 6:31:00 AM
+Messier: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 10 :
+6:50:03 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 11 :
+8:49:53 AM
+Messier: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 12 :
+11:19:26 AM
+szunyi: Added a Small Ring at Station [0,1]
+Move 13 :
+12:03:48 PM
+Messier: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 14 :
+8/17/2020 12:02:55 AM
+szunyi: Added a White Bridge at Station [0,0] => [1,-1] Position:Right
+Move 15 :
+12:08:04 AM
+Messier: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 16 :
+12:16:28 AM
+szunyi: Added a Medium Ring at Station [1,0]
+Move 17 :
+12:20:43 AM
+Messier: Reversed a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 18 :
+12:38:12 AM
+szunyi: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 19 :
+12:46:48 AM
+Messier: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 20 :
+1:18:25 AM
+szunyi: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 21 :
+1:33:41 AM
+Messier: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 22 :
+1:34:02 AM
+szunyi: Added a Small Ring at Station [1,-1]
+Move 23 :
+1:36:08 AM
+Messier: Added a Small Ring at Station [0,-1]
+Move 24 :
+1:36:38 AM
+szunyi: Added a Medium Ring at Station [0,-1]
+Move 25 :
+1:40:32 AM
+Messier: Added a Large Ring at Station [0,-1]
+Move 26 :
+1:54:08 AM
+szunyi: Added a Small Ring at Station [-1,0]
+Move 27 :
+1:54:58 AM
+Messier: Added a Medium Ring at Station [-1,0]
+Move 28 :
+1:55:26 AM
+szunyi: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 29 :
+1:57:13 AM
+Messier: Added a Large Ring at Station [-1,0]
+Move 30 :
+1:57:50 AM
+szunyi: Added a Large Ring at Station [0,1]
+Move 31 :
+1:59:38 AM
+Messier: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+szunyi has to remove 4 orphaned rings
+Move 32 :
+2:07:22 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 33 :
+2:33:20 AM
+Messier: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+szunyi has to remove 2 orphaned rings
+Move 34 :
+2:42:44 AM
+szunyi: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 35 :
+2:46:45 AM
+Messier: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 36 :
+2:51:00 AM
+szunyi: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 37 :
+2:54:10 AM
+Messier: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 38 :
+2:58:53 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 39 :
+3:14:57 AM
+Messier: Added a Small Ring at Station [-1,0]
+Move 40 :
+3:15:23 AM
+szunyi: Added a Small Ring at Station [0,1]
+Move 41 :
+3:16:22 AM
+Messier: Added a Medium Ring at Station [0,-1]
+Move 42 :
+3:17:16 AM
+szunyi: Added a Small Ring at Station [1,0]
+Move 43 :
+3:20:34 AM
+Messier: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 44 :
+3:21:00 AM
+szunyi: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 45 :
+3:22:43 AM
+Messier: Moved a Base Post at Station [-1,0]
+Messier has to remove 3 orphaned rings
+Move 46 :
+3:22:54 AM
+szunyi: Added a Small Ring at Station [1,-1]
+Move 47 :
+3:27:26 AM
+Messier: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 48 :
+3:28:53 AM
+szunyi: Added a Medium Ring at Station [1,0]
+Move 49 :
+3:40:36 AM
+Messier: Added a Small Ring at Station [-1,-1]
+Move 50 :
+3:52:06 AM
+szunyi: Added a Large Ring at Station [1,0]
+Move 51 :
+3:53:36 AM
+Messier: Added a Medium Ring at Station [-1,-1]
+Move 52 :
+3:53:44 AM
+szunyi: Added a Medium Ring at Station [0,1]
+Move 53 :
+4:01:24 AM
+Messier: Moved a Base Post at Station [0,-1]
+Messier has to remove 3 orphaned rings
+Move 54 :
+4:01:48 AM
+szunyi: Added a Small Ring at Station [1,1]
+The end of the game: szunyi wins!

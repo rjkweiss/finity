@@ -1,0 +1,127 @@
+Game log
+Move 1 :1/10/2023 4:58:12 PM
+The colors of mikkashar have been chosen according to their preferences. Change my preferences.
+Move 2 :4:59:01 PM
+keikeiya: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :5:01:30 PM
+mikkashar: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :5:09:04 PM
+keikeiya: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :5:11:50 PM
+mikkashar: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 6 :7:57:44 PM
+keikeiya: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :8:17:16 PM
+mikkashar: Added a Small Ring at Station [0,-1]
+Move 8 :1/11/2023 2:03:38 AM
+keikeiya: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :8:25:09 AM
+mikkashar: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 10 :2:37:02 PM
+keikeiya: Added a Small Ring at Station [-1,0]
+Move 11 :2:41:05 PM
+mikkashar: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 12 :2:47:21 PM
+keikeiya: Moved a Base Post at Station [-1,0]
+Move 13 :2:52:47 PM
+mikkashar: Added a Small Ring at Station [-1,-1]
+Move 14 :2:55:40 PM
+keikeiya: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :3:01:13 PM
+mikkashar: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 16 :3:06:25 PM
+keikeiya: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 17 :3:11:01 PM
+mikkashar: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 18 :3:32:40 PM
+keikeiya: Removed a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 19 :3:36:01 PM
+mikkashar: Added a Medium Ring at Station [0,-1]
+Move 20 :3:37:23 PM
+keikeiya: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 21 :3:40:01 PM
+mikkashar: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 22 :4:00:05 PM
+keikeiya: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 23 :4:04:03 PM
+mikkashar: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 24 :4:06:29 PM
+keikeiya: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 25 :4:06:43 PM
+mikkashar: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 26 :4:13:28 PM
+keikeiya: Added a Small Ring at Station [-1,1]
+Move 27 :4:36:28 PM
+mikkashar: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 28 :4:37:39 PM
+keikeiya: Added a Small Ring at Station [0,1]
+Move 29 :4:38:03 PM
+mikkashar: Removed a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 30 :4:39:07 PM
+keikeiya: Added a Small Ring at Station [1,1]
+Move 31 :4:41:12 PM
+mikkashar: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 32 :5:17:25 PM
+keikeiya: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 33 :8:52:57 PM
+mikkashar: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 34 :1/12/2023 4:32:13 AM
+keikeiya: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 35 :9:05:11 AM
+mikkashar: Added a Medium Ring at Station [-1,0]
+Move 36 :2:36:29 PM
+keikeiya: Added a Medium Ring at Station [0,1]
+Move 37 :6:08:09 PM
+mikkashar: Added a Large Ring at Station [-1,0]
+Move 38 :1/13/2023 5:42:07 AM
+keikeiya: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 39 :6:35:58 AM
+mikkashar: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 40 :8:08:01 AM
+keikeiya: Removed a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 41 :8:11:27 AM
+mikkashar: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 42 :8:13:08 AM
+keikeiya: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+mikkashar has to remove 2 orphaned rings
+Move 43 :8:14:02 AM
+mikkashar: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 44 :8:16:16 AM
+keikeiya: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 45 :9:01:05 AM
+mikkashar: Removed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 46 :2:19:19 PM
+keikeiya: Added a Medium Ring at Station [1,1]
+Move 47 :4:21:46 PM
+mikkashar: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 48 :4:38:44 PM
+keikeiya: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 49 :1/14/2023 8:55:24 AM
+mikkashar: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 50 :2:08:09 PM
+keikeiya: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 51 :3:33:24 PM
+mikkashar: Reversed a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 52 :3:50:21 PM
+keikeiya: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 53 :5:36:01 PM
+mikkashar: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 54 :5:53:49 PM
+keikeiya: Removed a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 55 :9:08:39 PM
+mikkashar: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 56 :11:50:40 PM
+keikeiya: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 57 :1/15/2023 7:46:15 AM
+mikkashar: Moved a Base Post at Station [-1,-1]
+Move 58 :3:04:06 PM
+keikeiya: Added a Small Ring at Station [1,0]
+Move 59 :3:10:04 PM
+mikkashar: Added a Small Ring at Station [1,-1]
+Move 60 :4:27:59 PM
+keikeiya: Added a Medium Ring at Station [1,0]
+Move 61 :5:19:42 PM
+mikkashar: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 62 :5:20:12 PM
+keikeiya: Reversed a White Bridge at Station [0,0] => [1,0] Position:Right
+The end of the game: keikeiya wins!

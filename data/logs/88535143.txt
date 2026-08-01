@@ -1,0 +1,90 @@
+Move 2 :
+5/20/2020 10:39:42 PM
+bleizi: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+5/21/2020 12:58:52 AM
+xjk_cn: Added a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 4 :
+1:01:07 AM
+bleizi: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 5 :
+2:49:42 AM
+xjk_cn: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 6 :
+2:58:01 AM
+bleizi: Added a Small Ring at Station [0,1]
+Move 7 :
+3:10:51 AM
+xjk_cn: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+4:41:47 AM
+bleizi: Added a Medium Ring at Station [0,1]
+Move 9 :
+4:50:30 AM
+xjk_cn: Added a Small Ring at Station [1,0]
+Move 10 :
+6:52:09 AM
+bleizi: Moved a Base Post at Station [0,1]
+Move 11 :
+6:56:01 AM
+xjk_cn: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 12 :
+7:28:50 AM
+bleizi: Added a Small Ring at Station [-1,1]
+Move 13 :
+7:30:15 AM
+xjk_cn: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 14 :
+9:39:30 AM
+bleizi: Added a Medium Ring at Station [-1,1]
+Move 15 :
+9:46:19 AM
+xjk_cn: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+1:00:37 PM
+bleizi: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+1:21:32 PM
+xjk_cn: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+11:12:00 PM
+bleizi: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 19 :
+5/22/2020 12:40:32 AM
+xjk_cn: Added a Medium Ring at Station [0,-1]
+Move 20 :
+1:07:54 AM
+bleizi: Added a Small Ring at Station [-1,0]
+Move 21 :
+2:04:12 AM
+xjk_cn: Added a Medium Ring at Station [-1,0]
+Move 22 :
+2:36:51 AM
+bleizi: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+xjk_cn has to remove 1 orphaned rings
+Move 23 :
+2:47:34 AM
+xjk_cn: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 24 :
+2:47:54 AM
+bleizi: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 25 :
+2:48:18 AM
+xjk_cn: Added a Small Ring at Station [0,-1]
+Move 26 :
+2:48:26 AM
+bleizi: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+xjk_cn has to remove 2 orphaned rings
+Move 27 :
+2:48:59 AM
+xjk_cn: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 28 :
+2:49:05 AM
+bleizi: Added a Small Ring at Station [0,-1]
+Move 29 :
+2:49:12 AM
+xjk_cn: Added a Medium Ring at Station [0,-1]
+Move 30 :
+2:49:19 AM
+bleizi: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: bleizi wins!

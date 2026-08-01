@@ -1,0 +1,156 @@
+Game log
+Move 1 :10/6/2022 9:14:23 AM
+The colors of Chinsky, Elaineinnd have been chosen according to their preferences. Change my preferences.
+Move 2 :9:17:56 AM
+Chinsky: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :6:25:49 PM
+Elaineinnd: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :10/7/2022 5:53:04 AM
+Chinsky: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :12:46:29 PM
+Elaineinnd: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 6 :12:49:01 PM
+Chinsky: Added a Large Ring at Station [-1,0]
+Move 7 :12:53:14 PM
+Elaineinnd: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 8 :12:53:38 PM
+Chinsky: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :12:57:55 PM
+Elaineinnd: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 10 :1:08:08 PM
+Chinsky: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 11 :1:08:50 PM
+Elaineinnd: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 12 :2:34:07 PM
+Chinsky: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 13 :2:56:42 PM
+Elaineinnd: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 14 :10/8/2022 6:09:10 AM
+Chinsky: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 15 :10/9/2022 11:13:16 AM
+Elaineinnd: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 16 :2:58:50 PM
+Chinsky: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :6:19:05 PM
+Elaineinnd: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 18 :10/10/2022 6:19:55 AM
+Chinsky: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 19 :5:26:03 PM
+Elaineinnd: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 20 :10/11/2022 5:17:57 AM
+Chinsky: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 21 :8:47:22 AM
+Elaineinnd: Moved a Blocker at Station [1,1] => [0,1] Position:Left
+Move 22 :10:13:02 AM
+Chinsky: Added a Small Ring at Station [-1,-1]
+Move 23 :10/12/2022 6:35:34 AM
+Elaineinnd: Added a Black Bridge at Station [1,-1] => [0,0] Position:Right
+Move 24 :10/13/2022 5:42:44 AM
+Chinsky: Added a Small Ring at Station [0,1]
+Move 25 :2:31:01 PM
+Elaineinnd: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 26 :7:35:45 PM
+Chinsky: Added a Small Ring at Station [1,1]
+Move 27 :10/14/2022 5:10:32 AM
+Elaineinnd: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 28 :5:37:03 AM
+Chinsky: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 29 :5:51:41 AM
+Elaineinnd: Added a Large Ring at Station [0,-1]
+Move 30 :6:10:04 AM
+Chinsky: Added a Large Ring at Station [-1,-1]
+Move 31 :8:44:46 AM
+Elaineinnd: Added a Medium Ring at Station [-1,-1]
+Move 32 :9:44:16 AM
+Chinsky: Added a Large Ring at Station [0,1]
+Move 33 :5:06:00 PM
+Elaineinnd: Added a Medium Ring at Station [0,-1]
+Move 34 :10/15/2022 5:40:20 AM
+Chinsky: Added a Large Ring at Station [1,1]
+Move 35 :11:43:37 AM
+Elaineinnd: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Elaineinnd has to remove 3 orphaned rings
+Move 36 :1:11:21 PM
+Chinsky: Added a Medium Ring at Station [-1,0]
+Move 37 :4:39:38 PM
+Elaineinnd: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 38 :10/16/2022 6:27:15 AM
+Chinsky: Added a Medium Ring at Station [-1,-1]
+Move 39 :10:13:03 AM
+Elaineinnd: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 40 :10/17/2022 5:42:52 AM
+Chinsky: Added a Medium Ring at Station [0,1]
+Move 41 :5:05:10 PM
+Elaineinnd: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 42 :10/18/2022 5:25:17 AM
+Chinsky: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 43 :12:26:43 PM
+Elaineinnd: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Chinsky has to remove 5 orphaned rings
+Move 44 :1:18:52 PM
+Chinsky: Moved a Base Post at Station [-1,0]
+Chinsky has to remove 3 orphaned rings
+Move 45 :2:34:46 PM
+Elaineinnd: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 46 :10/19/2022 7:28:53 AM
+Chinsky: Added a Large Ring at Station [-1,1]
+Move 47 :2:08:15 PM
+Elaineinnd: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 48 :2:19:52 PM
+Chinsky: Added a Large Ring at Station [0,1]
+Move 49 :2:20:37 PM
+Elaineinnd: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 50 :10/20/2022 5:28:51 AM
+Chinsky: Added a Large Ring at Station [1,1]
+Move 51 :12:50:03 PM
+Elaineinnd: Added a Large Ring at Station [1,0]
+Move 52 :10/21/2022 5:29:36 AM
+Chinsky: Removed a Blocker at Station [1,1] => [0,1] Position:Left
+Move 53 :10/22/2022 12:11:17 PM
+Elaineinnd: Added a Medium Ring at Station [1,1]
+Move 54 :12:56:46 PM
+Chinsky: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 55 :10/23/2022 6:38:11 AM
+Elaineinnd: Added a Medium Ring at Station [0,1]
+Move 56 :6:46:43 AM
+Chinsky: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 57 :6:47:21 AM
+Elaineinnd: Added a Medium Ring at Station [-1,1]
+Move 58 :6:49:42 AM
+Chinsky: Added a Medium Ring at Station [1,0]
+Move 59 :6:51:21 AM
+Elaineinnd: Added a Small Ring at Station [-1,0]
+Move 60 :6:57:40 AM
+Chinsky: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Elaineinnd has to remove 5 orphaned rings
+Move 61 :7:06:24 AM
+Elaineinnd: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 62 :11:53:19 AM
+Chinsky: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 63 :5:18:36 PM
+Elaineinnd: Added a Large Ring at Station [1,0]
+Move 64 :10/24/2022 5:38:35 AM
+Chinsky: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 65 :8:39:20 AM
+Elaineinnd: Added a Medium Ring at Station [1,1]
+Move 66 :9:38:50 AM
+Chinsky: Added a Large Ring at Station [1,-1]
+Move 67 :4:59:03 PM
+Elaineinnd: Added a Medium Ring at Station [0,1]
+Move 68 :6:37:43 PM
+Chinsky: Added a Large Ring at Station [0,-1]
+Move 69 :7:53:01 PM
+Elaineinnd: Added a Medium Ring at Station [-1,1]
+Move 70 :10/25/2022 5:26:50 AM
+Chinsky: Added a Small Ring at Station [-1,1]
+Move 71 :7:00:37 PM
+Elaineinnd: Added a Small Ring at Station [-1,0]
+Move 72 :10/26/2022 5:14:07 AM
+Chinsky: Added a Small Ring at Station [1,1]
+Move 73 :6:30:56 AM
+Elaineinnd: Added a Large Ring at Station [-1,-1]
+Move 74 :11:12:54 AM
+Chinsky: Added a Small Ring at Station [1,0]
+Move 75 :12:47:17 PM
+Elaineinnd: Added a Medium Ring at Station [0,-1]
+The end of the game: Elaineinnd wins!

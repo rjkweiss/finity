@@ -1,0 +1,100 @@
+Move 2 :
+8/11/2020 5:11:26 AM
+saghars: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+5:11:36 AM
+shirin-g: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+5:11:46 AM
+saghars: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 5 :
+5:11:56 AM
+shirin-g: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+5:12:12 AM
+saghars: Added a Large Ring at Station [0,1]
+Move 7 :
+5:12:19 AM
+shirin-g: Added a Large Ring at Station [0,-1]
+Move 8 :
+5:12:33 AM
+saghars: Added a Medium Ring at Station [0,1]
+Move 9 :
+5:12:45 AM
+shirin-g: Moved a Base Post at Station [0,-1]
+Move 10 :
+5:12:56 AM
+saghars: Moved a Base Post at Station [0,1]
+Move 11 :
+5:13:12 AM
+shirin-g: Added a Large Ring at Station [1,-1]
+Move 12 :
+5:13:18 AM
+saghars: Added a Large Ring at Station [-1,1]
+Move 13 :
+5:13:29 AM
+shirin-g: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 14 :
+5:13:53 AM
+saghars: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 15 :
+5:14:02 AM
+shirin-g: Moved a Base Post at Station [1,-1]
+Move 16 :
+5:14:26 AM
+saghars: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 17 :
+5:14:36 AM
+shirin-g: Added a Medium Ring at Station [0,-1]
+Move 18 :
+5:14:47 AM
+saghars: Added a Large Ring at Station [1,0]
+Move 19 :
+5:14:54 AM
+shirin-g: Added a Small Ring at Station [0,-1]
+Move 20 :
+5:15:51 AM
+saghars: Added a Medium Ring at Station [1,0]
+Move 21 :
+5:16:02 AM
+shirin-g: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 22 :
+5:16:18 AM
+saghars: Added a Small Ring at Station [1,0]
+Move 23 :
+5:16:41 AM
+shirin-g: Moved a Base Post at Station [0,-1]
+Move 24 :
+5:17:57 AM
+saghars: Added a Medium Ring at Station [-1,1]
+Move 25 :
+5:18:08 AM
+shirin-g: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 26 :
+5:25:32 AM
+saghars: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 27 :
+5:25:40 AM
+shirin-g: Added a Large Ring at Station [-1,0]
+Move 28 :
+5:27:20 AM
+saghars: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 29 :
+5:27:29 AM
+shirin-g: Added a Medium Ring at Station [1,-1]
+Move 30 :
+5:28:08 AM
+saghars: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 31 :
+5:29:32 AM
+shirin-g: Added a Small Ring at Station [1,-1]
+Move 32 :
+5:29:39 AM
+saghars: Added a Medium Ring at Station [-1,0]
+Move 33 :
+5:29:50 AM
+shirin-g: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 34 :
+5:31:54 AM
+saghars: Added a Small Ring at Station [-1,1]
+The end of the game: saghars wins!

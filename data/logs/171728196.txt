@@ -1,0 +1,96 @@
+Game log
+Move 1 :5/13/2021 7:09:16 AM
+The colors of Loddfafnir, tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :5/15/2021 1:49:10 AM
+Loddfafnir: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :5:08:47 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :11:26:16 PM
+Loddfafnir: Added a Large Ring at Station [0,1]
+Move 5 :5/16/2021 11:33:04 AM
+tony1021: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Loddfafnir has to remove 1 orphaned rings
+Move 6 :11:01:44 PM
+Loddfafnir: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :5/17/2021 9:10:00 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :10:43:05 PM
+Loddfafnir: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 9 :5/18/2021 10:50:58 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 10 :10:43:40 PM
+Loddfafnir: Added a Large Ring at Station [0,1]
+Move 11 :5/19/2021 5:02:48 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 12 :10:54:32 PM
+Loddfafnir: Added a Medium Ring at Station [0,1]
+Move 13 :5/20/2021 7:23:51 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 14 :11:00:03 PM
+Loddfafnir: Added a Small Ring at Station [0,1]
+Move 15 :5/21/2021 7:18:14 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 16 :5/22/2021 2:30:51 AM
+Loddfafnir: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 17 :7:44:27 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 18 :5/23/2021 2:29:38 AM
+Loddfafnir: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 19 :5:56:55 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 20 :5/24/2021 10:51:08 PM
+Loddfafnir: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :5/25/2021 7:10:30 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 22 :11:07:28 PM
+Loddfafnir: Added a Medium Ring at Station [1,0]
+Move 23 :5/26/2021 6:06:15 AM
+tony1021: Removed a White Bridge at Station [0,1] => [1,0] Position:Right
+Loddfafnir has to remove 1 orphaned rings
+Move 24 :5/27/2021 12:03:04 AM
+Loddfafnir: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 25 :6:13:34 AM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 26 :5/28/2021 12:22:41 AM
+Loddfafnir: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 27 :5:16:28 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 28 :5/29/2021 3:03:57 AM
+Loddfafnir: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 29 :6:24:45 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 30 :5/30/2021 12:50:53 PM
+Loddfafnir: Added a Small Ring at Station [-1,0]
+Move 31 :1:13:32 PM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 32 :5/31/2021 1:57:30 PM
+Loddfafnir: Added a Large Ring at Station [0,-1]
+Move 33 :2:57:34 PM
+tony1021: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Loddfafnir has to remove 1 orphaned rings
+Move 34 :6/2/2021 1:16:54 AM
+Loddfafnir: Added a Medium Ring at Station [-1,0]
+Move 35 :12:00:25 PM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 36 :10:48:21 PM
+Loddfafnir: Added a Large Ring at Station [-1,0]
+Move 37 :6/3/2021 7:36:56 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Loddfafnir has to remove 3 orphaned rings
+Move 38 :11:11:40 PM
+Loddfafnir: Moved a Base Post at Station [0,1]
+Move 39 :6/4/2021 4:39:09 AM
+tony1021: Removed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 40 :6/5/2021 12:41:09 AM
+Loddfafnir: Added a Large Ring at Station [-1,1]
+Move 41 :7:27:44 AM
+tony1021: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 42 :6/6/2021 2:02:42 AM
+Loddfafnir: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 43 :6:12:03 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 44 :6/8/2021 12:04:00 AM
+Loddfafnir: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 45 :5:43:10 AM
+tony1021: Added a Large Ring at Station [1,-1]
+The end of the game: tony1021 wins!

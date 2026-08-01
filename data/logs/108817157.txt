@@ -1,0 +1,213 @@
+Move 1 :
+8/25/2020 4:20:20 PM
+The colors of silverdemon have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8/26/2020 10:19:03 AM
+silverdemon: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 3 :
+12:09:53 PM
+jametrics: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 4 :
+1:17:42 PM
+JSA0103: Added a Large Ring at Station [1,0]
+Move 5 :
+1:47:46 PM
+silverdemon: Added a Medium Ring at Station [1,0]
+Move 6 :
+1:50:44 PM
+jametrics: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 7 :
+2:18:43 PM
+JSA0103: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :
+2:19:18 PM
+silverdemon: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 9 :
+2:23:14 PM
+jametrics: Added a Large Ring at Station [-1,1]
+Move 10 :
+3:56:37 PM
+JSA0103: Added a Medium Ring at Station [1,-1]
+Move 11 :
+3:57:37 PM
+silverdemon: Added a Small Ring at Station [0,-1]
+Move 12 :
+4:00:08 PM
+jametrics: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+JSA0103 has to remove 2 orphaned rings
+Move 13 :
+4:01:15 PM
+JSA0103: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 14 :
+4:02:38 PM
+silverdemon: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 15 :
+4:03:06 PM
+jametrics: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 16 :
+4:35:17 PM
+JSA0103: Added a Medium Ring at Station [-1,1]
+Move 17 :
+4:37:35 PM
+silverdemon: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 18 :
+4:38:28 PM
+jametrics: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 19 :
+4:40:01 PM
+JSA0103: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 20 :
+4:40:36 PM
+silverdemon: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 21 :
+4:40:55 PM
+jametrics: Added a Medium Ring at Station [0,-1]
+Move 22 :
+4:44:43 PM
+JSA0103: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 23 :
+4:45:37 PM
+silverdemon: Added a Medium Ring at Station [0,1]
+Move 24 :
+4:46:53 PM
+jametrics: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 25 :
+4:55:42 PM
+JSA0103: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 26 :
+4:55:57 PM
+silverdemon: Added a Small Ring at Station [-1,1]
+Move 27 :
+5:00:40 PM
+jametrics: Added a Large Ring at Station [0,-1]
+Move 28 :
+5:01:00 PM
+JSA0103: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 29 :
+5:02:24 PM
+silverdemon: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 30 :
+5:05:27 PM
+jametrics: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 31 :
+5:20:09 PM
+JSA0103: Added a Large Ring at Station [-1,0]
+Move 32 :
+8/27/2020 3:22:53 AM
+silverdemon: Added a Large Ring at Station [0,1]
+Move 33 :
+3:45:16 AM
+jametrics: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 34 :
+4:44:50 AM
+JSA0103: Added a Medium Ring at Station [-1,0]
+Move 35 :
+4:45:57 AM
+silverdemon: Added a Small Ring at Station [-2,1]
+Move 36 :
+4:48:30 AM
+jametrics: Moved a Base Post at Station [0,-1]
+jametrics has to remove 1 orphaned rings
+Move 37 :
+4:52:20 AM
+JSA0103: Added a Large Ring at Station [-1,1]
+Move 38 :
+4:52:47 AM
+silverdemon: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 39 :
+4:58:55 AM
+jametrics: Moved a Base Post at Station [1,-2]
+Move 40 :
+5:02:56 AM
+JSA0103: Added a Medium Ring at Station [-2,1]
+Move 41 :
+5:14:27 AM
+silverdemon: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 42 :
+8:53:20 AM
+jametrics: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 43 :
+10:46:48 AM
+JSA0103: Added a Large Ring at Station [-2,1]
+Move 44 :
+10:47:14 AM
+silverdemon: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 45 :
+12:20:31 PM
+jametrics: Added a Small Ring at Station [-1,0]
+Move 46 :
+12:35:39 PM
+JSA0103: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 47 :
+12:48:13 PM
+silverdemon: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 48 :
+12:53:30 PM
+jametrics: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 49 :
+1:06:49 PM
+JSA0103: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 50 :
+1:07:18 PM
+silverdemon: Removed a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 51 :
+1:16:32 PM
+jametrics: Added a Small Ring at Station [1,-1]
+Move 52 :
+1:19:02 PM
+JSA0103: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 53 :
+1:19:21 PM
+silverdemon: Removed a Blocker at Station [-1,0] => [0,0] Position:Left
+Move 54 :
+1:25:23 PM
+jametrics: Added a Medium Ring at Station [1,-1]
+Move 55 :
+1:32:39 PM
+JSA0103: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 56 :
+1:33:11 PM
+silverdemon: Removed a Blocker at Station [-1,0] => [0,0] Position:Right
+Move 57 :
+2:20:42 PM
+jametrics: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 58 :
+2:21:10 PM
+JSA0103: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 59 :
+2:21:26 PM
+silverdemon: Removed a Blocker at Station [0,1] => [0,0] Position:Left
+Move 60 :
+2:22:04 PM
+jametrics: Added a Large Ring at Station [1,-1]
+Move 61 :
+2:37:09 PM
+JSA0103: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 62 :
+3:13:28 PM
+silverdemon: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 63 :
+3:15:47 PM
+jametrics: Added a Small Ring at Station [1,0]
+Move 64 :
+3:18:53 PM
+JSA0103: Added a Small Ring at Station [1,1]
+Move 65 :
+3:23:59 PM
+silverdemon: Added a Medium Ring at Station [1,-2]
+Move 66 :
+3:24:17 PM
+jametrics: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 67 :
+3:27:37 PM
+JSA0103: Reversed a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 68 :
+3:27:48 PM
+silverdemon: Added a Small Ring at Station [0,1]
+Move 69 :
+3:28:28 PM
+jametrics: Added a Large Ring at Station [1,0]
+Move 70 :
+4:00:16 PM
+JSA0103: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+The end of the game: jametrics wins!

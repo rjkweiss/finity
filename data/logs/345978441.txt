@@ -1,0 +1,56 @@
+Game log
+Move 2 :2/11/2023 5:33:33 AM
+boris_456: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :5:34:12 AM
+Gouuy: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :5:34:45 AM
+boris_456: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :5:34:55 AM
+Gouuy: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :5:35:07 AM
+boris_456: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 7 :5:35:16 AM
+Gouuy: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 8 :5:35:36 AM
+boris_456: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 9 :5:35:50 AM
+Gouuy: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 10 :5:36:01 AM
+boris_456: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 11 :5:36:15 AM
+Gouuy: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 12 :5:36:38 AM
+boris_456: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 13 :5:36:53 AM
+Gouuy: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 14 :5:37:24 AM
+boris_456: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 15 :5:37:55 AM
+Gouuy: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 16 :5:38:20 AM
+boris_456: Added a Large Ring at Station [-1,0]
+Move 17 :5:38:30 AM
+Gouuy: Added a Small Ring at Station [1,0]
+Move 18 :5:38:38 AM
+boris_456: Added a Large Ring at Station [-1,-1]
+Move 19 :5:38:47 AM
+Gouuy: Added a Large Ring at Station [1,0]
+Move 20 :5:38:55 AM
+boris_456: Added a Large Ring at Station [0,-1]
+Move 21 :5:39:03 AM
+Gouuy: Moved a Base Post at Station [1,0]
+Move 22 :5:39:13 AM
+boris_456: Added a Large Ring at Station [1,-1]
+Move 23 :5:39:22 AM
+Gouuy: Added a Large Ring at Station [1,1]
+Move 24 :5:40:38 AM
+boris_456: Added a Medium Ring at Station [1,0]
+Move 25 :5:40:49 AM
+Gouuy: Added a Small Ring at Station [1,1]
+Move 26 :5:40:56 AM
+boris_456: Added a Medium Ring at Station [1,1]
+Move 27 :5:41:22 AM
+Gouuy: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 28 :5:41:30 AM
+boris_456: Added a Large Ring at Station [0,1]
+The end of the game: boris_456 wins!

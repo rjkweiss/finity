@@ -1,0 +1,237 @@
+Move 1 :
+9/2/2020 11:42:14 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+11:43:02 AM
+Marliesjah: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+11:43:18 AM
+JWV00: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+11:43:28 AM
+Marliesjah: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :
+11:43:43 AM
+JWV00: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+11:43:59 AM
+Marliesjah: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 7 :
+11:44:07 AM
+JWV00: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :
+11:44:15 AM
+Marliesjah: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 9 :
+11:44:40 AM
+JWV00: Added a Small Ring at Station [1,0]
+Move 10 :
+11:44:52 AM
+Marliesjah: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 11 :
+11:45:42 AM
+JWV00: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 12 :
+11:45:57 AM
+Marliesjah: Added a Small Ring at Station [-1,0]
+Move 13 :
+11:46:09 AM
+JWV00: Added a Medium Ring at Station [1,0]
+Move 14 :
+11:46:24 AM
+Marliesjah: Added a Small Ring at Station [-1,-1]
+Move 15 :
+11:46:31 AM
+JWV00: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+11:46:43 AM
+Marliesjah: Added a Medium Ring at Station [-1,0]
+Move 17 :
+11:46:52 AM
+JWV00: Added a Small Ring at Station [1,1]
+Move 18 :
+11:46:59 AM
+Marliesjah: Added a Small Ring at Station [0,-1]
+Move 19 :
+11:48:17 AM
+JWV00: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 20 :
+11:48:35 AM
+Marliesjah: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 21 :
+11:49:10 AM
+JWV00: Added a Large Ring at Station [1,0]
+Move 22 :
+11:49:22 AM
+Marliesjah: Added a Small Ring at Station [0,1]
+Move 23 :
+11:49:30 AM
+JWV00: Added a Medium Ring at Station [0,1]
+Move 24 :
+11:49:44 AM
+Marliesjah: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 25 :
+11:51:42 AM
+JWV00: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 26 :
+11:51:53 AM
+Marliesjah: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 27 :
+11:52:15 AM
+JWV00: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 28 :
+11:52:22 AM
+Marliesjah: Added a Medium Ring at Station [1,-1]
+Move 29 :
+11:52:31 AM
+JWV00: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 30 :
+11:54:18 AM
+Marliesjah: Added a Small Ring at Station [1,-1]
+Move 31 :
+11:54:55 AM
+JWV00: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Marliesjah has to remove 2 orphaned rings
+Move 32 :
+11:55:22 AM
+Marliesjah: Removed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 33 :
+11:56:17 AM
+JWV00: Added a Medium Ring at Station [1,1]
+Move 34 :
+11:56:24 AM
+Marliesjah: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+JWV00 has to remove 1 orphaned rings
+Move 35 :
+11:56:33 AM
+JWV00: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 36 :
+11:56:59 AM
+Marliesjah: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+JWV00 has to remove 2 orphaned rings
+Move 37 :
+11:57:08 AM
+JWV00: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 38 :
+11:57:26 AM
+Marliesjah: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 39 :
+11:57:31 AM
+JWV00: Added a Medium Ring at Station [1,1]
+Move 40 :
+11:57:38 AM
+Marliesjah: Added a Small Ring at Station [1,-1]
+Move 41 :
+11:57:44 AM
+JWV00: Added a Medium Ring at Station [0,1]
+Move 42 :
+11:58:51 AM
+Marliesjah: Moved a Base Post at Station [0,-1]
+Marliesjah has to remove 5 orphaned rings
+Move 43 :
+11:59:16 AM
+JWV00: Added a Small Ring at Station [1,1]
+Move 44 :
+11:59:52 AM
+Marliesjah: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 45 :
+12:00:15 PM
+JWV00: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 46 :
+12:00:37 PM
+Marliesjah: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 47 :
+12:01:40 PM
+JWV00: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 48 :
+12:01:50 PM
+Marliesjah: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 49 :
+12:02:12 PM
+JWV00: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 50 :
+12:02:34 PM
+Marliesjah: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 51 :
+12:02:50 PM
+JWV00: Added a Small Ring at Station [0,1]
+Move 52 :
+12:03:10 PM
+Marliesjah: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 53 :
+12:03:17 PM
+JWV00: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 54 :
+12:04:15 PM
+Marliesjah: Added a Small Ring at Station [-1,-1]
+Move 55 :
+12:04:37 PM
+JWV00: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 56 :
+12:04:43 PM
+Marliesjah: Added a Small Ring at Station [-1,0]
+Move 57 :
+12:04:50 PM
+JWV00: Added a Large Ring at Station [0,1]
+Move 58 :
+12:05:27 PM
+Marliesjah: Added a Small Ring at Station [-1,1]
+Move 59 :
+12:05:44 PM
+JWV00: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 60 :
+12:06:00 PM
+Marliesjah: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 61 :
+12:07:11 PM
+JWV00: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 62 :
+12:07:38 PM
+Marliesjah: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 63 :
+12:08:05 PM
+JWV00: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 64 :
+12:08:45 PM
+Marliesjah: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 65 :
+12:08:51 PM
+JWV00: Added a Large Ring at Station [-1,1]
+Move 66 :
+12:09:02 PM
+Marliesjah: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+JWV00 has to remove 1 orphaned rings
+Move 67 :
+12:09:12 PM
+JWV00: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 68 :
+12:09:24 PM
+Marliesjah: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 69 :
+12:09:37 PM
+JWV00: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 70 :
+12:09:55 PM
+Marliesjah: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 71 :
+12:10:04 PM
+JWV00: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 72 :
+12:10:21 PM
+Marliesjah: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 73 :
+12:10:27 PM
+JWV00: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 74 :
+12:10:53 PM
+Marliesjah: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 75 :
+12:10:58 PM
+JWV00: Added a Medium Ring at Station [-1,1]
+Move 76 :
+12:11:14 PM
+Marliesjah: Added a Small Ring at Station [1,-1]
+Move 77 :
+12:11:20 PM
+JWV00: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+The end of the game: JWV00 wins!

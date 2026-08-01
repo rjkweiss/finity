@@ -1,0 +1,75 @@
+Game log
+Move 1 :1/31/2023 8:04:20 PM
+The colors of SixPigeons, tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :8:05:39 PM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :2/1/2023 8:02:08 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :8:27:50 PM
+SixPigeons: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :2/3/2023 12:19:14 PM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :10:31:49 PM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :2/4/2023 9:08:44 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :5:00:37 PM
+SixPigeons: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :2/6/2023 9:52:31 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 10 :2/7/2023 1:13:33 AM
+SixPigeons: Added a Small Ring at Station [0,1]
+Move 11 :5:40:56 AM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 12 :6:02:52 AM
+SixPigeons: Added a Medium Ring at Station [0,1]
+Move 13 :6:36:23 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 14 :4:27:11 PM
+SixPigeons: Added a Large Ring at Station [0,1]
+Move 15 :9:27:42 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 16 :9:28:55 PM
+SixPigeons: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 17 :10:22:33 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 18 :10:38:01 PM
+SixPigeons: Moved a Base Post at Station [0,1]
+Move 19 :2/8/2023 6:02:08 AM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 20 :7:38:14 PM
+SixPigeons: Added a Small Ring at Station [-1,1]
+Move 21 :2/10/2023 12:57:23 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 22 :7:12:11 PM
+SixPigeons: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 23 :2/11/2023 11:04:53 PM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 24 :2/12/2023 12:45:21 AM
+SixPigeons: Added a Small Ring at Station [-1,0]
+Move 25 :7:37:00 AM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 26 :4:33:44 PM
+SixPigeons: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 27 :2/14/2023 11:30:28 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 28 :5:24:55 PM
+SixPigeons: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 29 :6:10:31 PM
+tony1021: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 30 :9:04:57 PM
+SixPigeons: Added a Medium Ring at Station [-1,1]
+Move 31 :2/16/2023 6:24:51 PM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 32 :11:25:38 PM
+SixPigeons: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 33 :2/18/2023 7:22:56 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 34 :10:02:05 PM
+SixPigeons: Added a Small Ring at Station [1,1]
+Move 35 :10:29:09 PM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 36 :11:08:48 PM
+SixPigeons: Moved a Base Post at Station [-1,1]
+The end of the game: SixPigeons wins!

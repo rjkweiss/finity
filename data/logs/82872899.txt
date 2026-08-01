@@ -1,0 +1,230 @@
+Move 2 :
+5/3/2020 8:01:53 AM
+janus: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+11:26:00 AM
+Carolus Rex: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+12:54:00 PM
+janus: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 5 :
+2:55:36 PM
+Carolus Rex: Added a Large Ring at Station [0,-1]
+Move 6 :
+3:05:15 PM
+janus: Added a Small Ring at Station [0,1]
+Move 7 :
+4:12:02 PM
+Carolus Rex: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+4:21:58 PM
+janus: Moved a Base Post at Station [0,1]
+Move 9 :
+7:09:51 PM
+Carolus Rex: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 10 :
+5/4/2020 5:43:50 AM
+janus: Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 11 :
+5:56:32 AM
+Carolus Rex: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 12 :
+6:00:48 AM
+janus: Added a Small Ring at Station [-1,1]
+Move 13 :
+6:05:21 AM
+Carolus Rex: Added a Medium Ring at Station [0,-1]
+Move 14 :
+4:58:35 PM
+janus: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 15 :
+5:24:38 PM
+Carolus Rex: Added a Small Ring at Station [0,-1]
+Move 16 :
+5/5/2020 1:01:39 PM
+janus: Added a Small Ring at Station [-1,0]
+Move 17 :
+2:30:47 PM
+Carolus Rex: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 18 :
+5/6/2020 5:21:18 AM
+janus: Added a Medium Ring at Station [-1,0]
+Move 19 :
+7:33:38 AM
+Carolus Rex: Moved a Base Post at Station [0,-1]
+Move 20 :
+11:36:57 AM
+janus: Added a Medium Ring at Station [-1,1]
+Move 21 :
+1:01:28 PM
+Carolus Rex: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 22 :
+5/7/2020 8:21:57 AM
+janus: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 23 :
+9:06:19 AM
+Carolus Rex: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 24 :
+11:56:16 AM
+janus: Added a Large Ring at Station [-1,0]
+Move 25 :
+3:58:59 PM
+Carolus Rex: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 26 :
+5/8/2020 11:48:16 AM
+janus: Added a Small Ring at Station [1,0]
+Move 27 :
+11:57:33 AM
+Carolus Rex: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 28 :
+5/9/2020 6:46:40 AM
+janus: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 29 :
+10:01:05 AM
+Carolus Rex: Moved a Base Post at Station [-1,-1]
+Move 30 :
+10:47:37 AM
+janus: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 31 :
+10:58:45 AM
+Carolus Rex: Added a Large Ring at Station [1,-1]
+Move 32 :
+5/10/2020 6:44:48 AM
+janus: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 33 :
+2:27:13 PM
+Carolus Rex: Added a Medium Ring at Station [1,-1]
+Move 34 :
+5/11/2020 9:09:19 AM
+janus: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 35 :
+9:48:14 AM
+Carolus Rex: Added a Small Ring at Station [1,-1]
+Move 36 :
+5/13/2020 4:21:36 AM
+janus: Added a Medium Ring at Station [1,0]
+Move 37 :
+7:53:50 AM
+Carolus Rex: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+janus has to remove 3 orphaned rings
+Move 38 :
+8:20:33 AM
+janus: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Carolus Rex has to remove 6 orphaned rings
+Move 39 :
+8:29:56 AM
+Carolus Rex: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 40 :
+10:32:53 AM
+janus: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 41 :
+4:57:50 PM
+Carolus Rex: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 42 :
+5/14/2020 7:54:08 AM
+janus: Added a Small Ring at Station [1,1]
+Move 43 :
+9:14:05 AM
+Carolus Rex: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 44 :
+4:22:02 PM
+janus: Moved a Base Post at Station [-1,1]
+janus has to remove 3 orphaned rings
+Move 45 :
+5/15/2020 12:59:33 PM
+Carolus Rex: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 46 :
+3:49:53 PM
+janus: Added a Small Ring at Station [-1,0]
+Move 47 :
+5:38:22 PM
+Carolus Rex: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 48 :
+5/16/2020 4:55:26 AM
+janus: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Left
+Move 49 :
+9:30:33 AM
+Carolus Rex: Added a Small Ring at Station [0,-1]
+Move 50 :
+5/17/2020 7:16:37 AM
+janus: Added a Medium Ring at Station [-1,0]
+Move 51 :
+7:17:04 AM
+Carolus Rex: Moved a Base Post at Station [1,-1]
+Move 52 :
+7:18:14 AM
+janus: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 53 :
+7:50:36 AM
+Carolus Rex: Added a Medium Ring at Station [0,-1]
+Move 54 :
+7:53:09 AM
+janus: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 55 :
+8:00:31 AM
+Carolus Rex: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 56 :
+5/18/2020 5:37:06 AM
+janus: Added a Small Ring at Station [1,1]
+Move 57 :
+10:20:02 AM
+Carolus Rex: Added a Small Ring at Station [1,0]
+Move 58 :
+5/19/2020 6:27:24 AM
+janus: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 59 :
+12:53:44 PM
+Carolus Rex: Added a Medium Ring at Station [1,0]
+Move 60 :
+4:27:51 PM
+janus: Added a Large Ring at Station [1,0]
+Move 61 :
+5/20/2020 5:02:47 PM
+Carolus Rex: Added a Medium Ring at Station [1,1]
+Move 62 :
+5/21/2020 5:22:57 AM
+janus: Added a Medium Ring at Station [0,1]
+Move 63 :
+7:18:40 AM
+Carolus Rex: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 64 :
+2:00:30 PM
+janus: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 65 :
+4:24:43 PM
+Carolus Rex: Added a Large Ring at Station [0,1]
+Move 66 :
+5/22/2020 3:14:41 AM
+janus: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 67 :
+3:26:29 PM
+Carolus Rex: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 68 :
+3:34:54 PM
+janus: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 69 :
+5/23/2020 6:12:47 AM
+Carolus Rex: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 70 :
+6:15:02 AM
+janus: Added a Large Ring at Station [-1,0]
+Move 71 :
+12:14:04 PM
+Carolus Rex: Added a Small Ring at Station [-1,-1]
+Move 72 :
+3:42:55 PM
+janus: Added a Large Ring at Station [1,1]
+Move 73 :
+7:55:48 PM
+Carolus Rex: Moved a Base Post at Station [0,-1]
+Carolus Rex has to remove 4 orphaned rings
+Move 74 :
+5/24/2020 11:11:43 AM
+janus: Added a Large Ring at Station [0,1]
+Move 75 :
+11:45:53 AM
+Carolus Rex: Added a Small Ring at Station [1,-1]
+Move 76 :
+5/25/2020 7:47:20 AM
+janus: Added a Small Ring at Station [1,0]
+The end of the game: janus wins!

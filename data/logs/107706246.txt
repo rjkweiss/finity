@@ -1,0 +1,125 @@
+Move 1 :
+8/19/2020 11:52:29 AM
+The colors of Steron have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:53:49 PM
+Steron: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+8/20/2020 11:03:24 AM
+utabe: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+8/21/2020 5:06:19 AM
+Steron: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+5:48:10 AM
+utabe: Added a Medium Ring at Station [1,0]
+Move 6 :
+8:40:52 AM
+Steron: Added a Small Ring at Station [-1,0]
+Move 7 :
+8:49:10 AM
+utabe: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 8 :
+9:06:14 AM
+Steron: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+utabe has to remove 1 orphaned rings
+Move 9 :
+9:41:26 AM
+utabe: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 10 :
+10:35:31 AM
+Steron: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 11 :
+11:10:27 AM
+utabe: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 12 :
+11:34:37 AM
+Steron: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 13 :
+11:47:10 AM
+utabe: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 14 :
+3:54:32 PM
+Steron: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 15 :
+5:17:27 PM
+utabe: Added a Medium Ring at Station [0,-1]
+Move 16 :
+7:22:11 PM
+Steron: Added a Small Ring at Station [0,-1]
+Move 17 :
+8/22/2020 6:56:32 AM
+utabe: Reversed a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 18 :
+3:06:23 PM
+Steron: Added a Medium Ring at Station [-1,0]
+Move 19 :
+5:24:01 PM
+utabe: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :
+8/23/2020 8:48:49 AM
+Steron: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+utabe has to remove 1 orphaned rings
+Move 21 :
+1:50:54 PM
+utabe: Added a Medium Ring at Station [1,0]
+Move 22 :
+2:02:22 PM
+Steron: Added a Medium Ring at Station [0,-1]
+Move 23 :
+7:10:02 PM
+utabe: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 24 :
+7:20:30 PM
+Steron: Reversed a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 25 :
+8/24/2020 5:38:42 AM
+utabe: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 26 :
+2:23:25 PM
+Steron: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 27 :
+3:41:38 PM
+utabe: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 28 :
+8/25/2020 8:28:53 PM
+Steron: Added a Small Ring at Station [0,1]
+Move 29 :
+8/26/2020 4:57:13 AM
+utabe: Added a Small Ring at Station [1,0]
+Move 30 :
+6:03:03 AM
+Steron: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 31 :
+6:42:48 AM
+utabe: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 32 :
+7:45:10 AM
+Steron: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 33 :
+7:49:36 AM
+utabe: Added a Medium Ring at Station [0,1]
+Move 34 :
+5:03:43 PM
+Steron: Moved a Base Post at Station [-1,-1]
+Steron has to remove 1 orphaned rings
+Move 35 :
+5:11:46 PM
+utabe: Added a Small Ring at Station [0,1]
+Move 36 :
+6:52:03 PM
+Steron: Added a Small Ring at Station [-1,1]
+Move 37 :
+6:57:42 PM
+utabe: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 38 :
+6:58:44 PM
+Steron: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+utabe has to remove 4 orphaned rings
+Move 39 :
+8/27/2020 5:12:29 AM
+utabe: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 40 :
+9:59:22 AM
+Steron: Added a Small Ring at Station [0,1]
+The end of the game: Steron wins!

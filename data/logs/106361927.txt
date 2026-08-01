@@ -1,0 +1,179 @@
+Move 2 :
+8/11/2020 10:09:38 AM
+blizzardpizza460: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 3 :
+10:10:14 AM
+DeathbyStarWars: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 4 :
+10:10:48 AM
+__tpugh__: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 5 :
+10:11:33 AM
+blizzardpizza460: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :
+10:12:13 AM
+DeathbyStarWars: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 7 :
+10:12:25 AM
+__tpugh__: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 8 :
+10:12:37 AM
+blizzardpizza460: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 9 :
+10:13:11 AM
+DeathbyStarWars: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 10 :
+10:13:24 AM
+__tpugh__: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 11 :
+10:13:35 AM
+blizzardpizza460: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :
+10:13:56 AM
+DeathbyStarWars: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 13 :
+10:14:04 AM
+__tpugh__: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 14 :
+10:14:13 AM
+blizzardpizza460: Added a Large Ring at Station [1,0]
+Move 15 :
+10:14:29 AM
+DeathbyStarWars: Added a Medium Ring at Station [-1,1]
+Move 16 :
+10:14:43 AM
+__tpugh__: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 17 :
+10:14:51 AM
+blizzardpizza460: Added a Medium Ring at Station [1,0]
+Move 18 :
+10:15:21 AM
+DeathbyStarWars: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 19 :
+10:16:18 AM
+__tpugh__: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 20 :
+10:16:31 AM
+blizzardpizza460: Added a Small Ring at Station [1,0]
+Move 21 :
+10:16:46 AM
+DeathbyStarWars: Added a Medium Ring at Station [0,1]
+Move 22 :
+10:17:01 AM
+__tpugh__: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 23 :
+10:17:08 AM
+blizzardpizza460: Added a Large Ring at Station [1,1]
+Move 24 :
+10:17:43 AM
+DeathbyStarWars: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 25 :
+10:18:41 AM
+__tpugh__: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+DeathbyStarWars has to remove 1 orphaned rings
+Move 26 :
+10:18:51 AM
+blizzardpizza460: Added a Large Ring at Station [0,1]
+Move 27 :
+10:19:31 AM
+DeathbyStarWars: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 28 :
+10:21:08 AM
+__tpugh__: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 29 :
+10:21:36 AM
+blizzardpizza460: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 30 :
+10:21:49 AM
+DeathbyStarWars: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 31 :
+10:22:26 AM
+__tpugh__: Removed a White Bridge at Station [1,1] => [0,1] Position:Middle
+blizzardpizza460 has to remove 1 orphaned rings
+Move 32 :
+10:22:51 AM
+blizzardpizza460: Added a Medium Ring at Station [1,1]
+Move 33 :
+10:23:01 AM
+DeathbyStarWars: Added a Medium Ring at Station [0,1]
+Move 34 :
+10:23:09 AM
+__tpugh__: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+blizzardpizza460 has to remove 2 orphaned rings
+Move 35 :
+10:23:26 AM
+blizzardpizza460: Moved a Base Post at Station [1,0]
+Move 36 :
+10:24:41 AM
+DeathbyStarWars: Added a White Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 37 :
+10:25:23 AM
+__tpugh__: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+DeathbyStarWars has to remove 1 orphaned rings
+Move 38 :
+10:25:53 AM
+blizzardpizza460: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 39 :
+10:26:45 AM
+DeathbyStarWars: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 40 :
+10:27:07 AM
+__tpugh__: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 41 :
+10:27:16 AM
+blizzardpizza460: Added a Large Ring at Station [1,-1]
+Move 42 :
+10:27:53 AM
+DeathbyStarWars: Added a Small Ring at Station [-1,1]
+Move 43 :
+10:29:21 AM
+__tpugh__: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 44 :
+10:29:35 AM
+blizzardpizza460: Added a Large Ring at Station [1,-2]
+Move 45 :
+10:29:43 AM
+DeathbyStarWars: Added a Large Ring at Station [-1,1]
+Move 46 :
+10:29:58 AM
+__tpugh__: Moved a Blocker at Station [0,1] => [1,0] Position:Left
+Move 47 :
+10:30:06 AM
+blizzardpizza460: Added a Medium Ring at Station [1,-1]
+Move 48 :
+10:30:40 AM
+DeathbyStarWars: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 49 :
+10:30:54 AM
+__tpugh__: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 50 :
+10:31:04 AM
+blizzardpizza460: Added a Small Ring at Station [1,-1]
+Move 51 :
+10:31:22 AM
+DeathbyStarWars: Reversed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 52 :
+10:31:39 AM
+__tpugh__: Added a Small Ring at Station [1,1]
+Move 53 :
+10:31:49 AM
+blizzardpizza460: Added a Medium Ring at Station [1,-2]
+Move 54 :
+10:32:20 AM
+DeathbyStarWars: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 55 :
+10:32:28 AM
+__tpugh__: Moved a Base Post at Station [1,1]
+Move 56 :
+10:32:37 AM
+blizzardpizza460: Added a Small Ring at Station [1,-2]
+Move 57 :
+10:32:45 AM
+DeathbyStarWars: Added a Medium Ring at Station [-2,1]
+Move 58 :
+10:33:05 AM
+__tpugh__: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 59 :
+10:33:19 AM
+blizzardpizza460: Added a Large Ring at Station [0,-1]
+The end of the game: blizzardpizza460 wins!

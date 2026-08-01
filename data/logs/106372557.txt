@@ -1,0 +1,102 @@
+Move 1 :
+8/11/2020 11:23:25 AM
+The colors of maltman have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:24:02 AM
+maltman: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+11:24:17 AM
+tayutama777: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+11:24:44 AM
+maltman: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :
+11:24:57 AM
+tayutama777: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 6 :
+11:25:30 AM
+maltman: Added a Medium Ring at Station [0,1]
+Move 7 :
+11:25:42 AM
+tayutama777: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+maltman has to remove 1 orphaned rings
+Move 8 :
+11:26:53 AM
+maltman: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 9 :
+11:27:02 AM
+tayutama777: Added a Small Ring at Station [1,0]
+Move 10 :
+11:27:13 AM
+maltman: Added a Medium Ring at Station [0,1]
+Move 11 :
+11:27:21 AM
+tayutama777: Moved a Base Post at Station [1,0]
+Move 12 :
+11:27:34 AM
+maltman: Added a Small Ring at Station [0,1]
+Move 13 :
+11:28:12 AM
+tayutama777: Added a Small Ring at Station [1,-1]
+Move 14 :
+11:28:36 AM
+maltman: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 15 :
+11:29:13 AM
+tayutama777: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 16 :
+11:29:34 AM
+maltman: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+11:30:14 AM
+tayutama777: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :
+11:30:46 AM
+maltman: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 19 :
+11:31:06 AM
+tayutama777: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 20 :
+11:31:21 AM
+maltman: Added a Medium Ring at Station [1,1]
+Move 21 :
+11:31:28 AM
+tayutama777: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 22 :
+11:31:38 AM
+maltman: Added a Small Ring at Station [1,1]
+Move 23 :
+11:31:56 AM
+tayutama777: Reversed a White Bridge at Station [0,1] => [1,1] Position:Right
+maltman has to remove 2 orphaned rings
+Move 24 :
+11:32:57 AM
+maltman: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 25 :
+11:33:46 AM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 26 :
+11:33:54 AM
+maltman: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 27 :
+11:34:04 AM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 28 :
+11:34:18 AM
+maltman: Added a Medium Ring at Station [1,1]
+Move 29 :
+11:34:31 AM
+tayutama777: Added a Small Ring at Station [-1,-1]
+Move 30 :
+11:34:39 AM
+maltman: Added a Small Ring at Station [1,1]
+Move 31 :
+11:34:57 AM
+tayutama777: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 32 :
+11:35:05 AM
+maltman: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 33 :
+11:35:11 AM
+tayutama777: Added a Medium Ring at Station [1,-1]
+The end of the game: tayutama777 wins!

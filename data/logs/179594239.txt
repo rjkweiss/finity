@@ -1,0 +1,100 @@
+Game log
+Move 1 :6/13/2021 7:48:05 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :7:54:23 AM
+Meyuri66: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :7:13:31 PM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :7:20:03 PM
+Meyuri66: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 5 :7:30:53 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 6 :6/14/2021 4:37:33 AM
+Meyuri66: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :5:32:58 AM
+tony1021: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 8 :5:47:51 AM
+Meyuri66: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 9 :5:54:53 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 10 :6:02:14 AM
+Meyuri66: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 11 :6:32:21 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 12 :6:49:42 AM
+Meyuri66: Added a Small Ring at Station [-1,0]
+Move 13 :7:00:53 AM
+tony1021: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Meyuri66 has to remove 1 orphaned rings
+Move 14 :7:16:34 AM
+Meyuri66: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 15 :8:28:24 AM
+tony1021: Moved a Base Post at Station [0,-1]
+Move 16 :6/15/2021 12:02:11 AM
+Meyuri66: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :6:36:39 AM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :8:11:12 AM
+Meyuri66: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 19 :8:13:03 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 20 :8:14:21 AM
+Meyuri66: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 21 :8:29:20 AM
+tony1021: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 22 :8:53:12 AM
+Meyuri66: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 23 :9:24:05 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 24 :7:21:00 PM
+Meyuri66: Added a Small Ring at Station [0,1]
+Move 25 :10:06:10 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 26 :6/16/2021 2:27:39 AM
+Meyuri66: Added a Small Ring at Station [1,1]
+Move 27 :5:25:07 AM
+tony1021: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Meyuri66 has to remove 2 orphaned rings
+Move 28 :5:53:19 AM
+Meyuri66: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 29 :5:58:04 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 30 :5:59:13 AM
+Meyuri66: Added a Small Ring at Station [0,1]
+Move 31 :5:59:21 AM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 32 :5:59:32 AM
+Meyuri66: Added a Medium Ring at Station [1,1]
+Move 33 :5:59:42 AM
+tony1021: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Meyuri66 has to remove 1 orphaned rings
+Move 34 :6:00:18 AM
+Meyuri66: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 35 :6:00:27 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 36 :6:00:37 AM
+Meyuri66: Added a Small Ring at Station [-1,0]
+Move 37 :6:00:45 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 38 :6:00:51 AM
+Meyuri66: Added a Small Ring at Station [-1,-1]
+Move 39 :6:01:02 AM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 40 :6:01:12 AM
+Meyuri66: Added a Medium Ring at Station [0,-1]
+Move 41 :6:01:22 AM
+tony1021: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Meyuri66 has to remove 3 orphaned rings
+Move 42 :6:01:44 AM
+Meyuri66: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 43 :6:01:52 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 44 :6:02:02 AM
+Meyuri66: Added a Medium Ring at Station [1,1]
+Move 45 :6:02:17 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 46 :6:02:23 AM
+Meyuri66: Added a Large Ring at Station [1,0]
+Move 47 :6:02:30 AM
+tony1021: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+The end of the game: tony1021 wins!

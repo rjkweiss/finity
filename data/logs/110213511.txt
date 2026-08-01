@@ -1,0 +1,267 @@
+Move 2 :
+9/2/2020 4:42:04 PM
+perky1: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 3 :
+4:43:39 PM
+rctakahashi: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 4 :
+4:44:58 PM
+perky1: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 5 :
+4:45:31 PM
+rctakahashi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :
+4:46:52 PM
+perky1: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :
+4:46:59 PM
+rctakahashi: Added a Small Ring at Station [1,0]
+Move 8 :
+4:47:15 PM
+perky1: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 9 :
+4:47:34 PM
+rctakahashi: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 10 :
+4:47:46 PM
+perky1: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 11 :
+4:48:09 PM
+rctakahashi: Added a Large Ring at Station [1,1]
+Move 12 :
+4:48:22 PM
+perky1: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 13 :
+4:48:27 PM
+rctakahashi: Added a Medium Ring at Station [1,1]
+Move 14 :
+4:49:47 PM
+perky1: Added a Medium Ring at Station [0,1]
+Move 15 :
+4:50:01 PM
+rctakahashi: Added a Small Ring at Station [1,1]
+Move 16 :
+4:50:21 PM
+perky1: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+4:51:01 PM
+rctakahashi: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 18 :
+4:51:44 PM
+perky1: Moved a Base Post at Station [0,1]
+Move 19 :
+4:53:13 PM
+rctakahashi: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 20 :
+4:53:24 PM
+perky1: Added a Medium Ring at Station [1,0]
+Move 21 :
+4:53:37 PM
+rctakahashi: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 22 :
+4:54:14 PM
+perky1: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 23 :
+4:54:26 PM
+rctakahashi: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 24 :
+4:54:33 PM
+perky1: Added a Large Ring at Station [-1,1]
+Move 25 :
+4:54:43 PM
+rctakahashi: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 26 :
+4:54:54 PM
+perky1: Added a Small Ring at Station [-1,0]
+Move 27 :
+4:55:00 PM
+rctakahashi: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 28 :
+4:55:34 PM
+perky1: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 29 :
+4:55:46 PM
+rctakahashi: Added a Small Ring at Station [0,1]
+Move 30 :
+4:57:52 PM
+perky1: Moved a Base Post at Station [1,0]
+perky1 has to remove 3 orphaned rings
+Move 31 :
+4:58:44 PM
+rctakahashi: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 32 :
+4:59:41 PM
+perky1: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+rctakahashi has to remove 5 orphaned rings
+Move 33 :
+5:01:44 PM
+rctakahashi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 34 :
+5:02:14 PM
+perky1: Moved a Base Post at Station [0,1]
+Move 35 :
+5:03:25 PM
+rctakahashi: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 36 :
+5:03:37 PM
+perky1: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 37 :
+5:04:10 PM
+rctakahashi: Added a White Bridge at Station [0,0] => [1,0] Position:Right
+Move 38 :
+5:04:21 PM
+perky1: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 39 :
+5:04:31 PM
+rctakahashi: Added a Large Ring at Station [1,0]
+Move 40 :
+5:05:19 PM
+perky1: Added a Medium Ring at Station [-1,1]
+Move 41 :
+5:07:11 PM
+rctakahashi: Added a Small Ring at Station [0,-1]
+Move 42 :
+5:07:34 PM
+perky1: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 43 :
+5:08:29 PM
+rctakahashi: Added a Medium Ring at Station [1,1]
+Move 44 :
+5:08:36 PM
+perky1: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 45 :
+5:08:44 PM
+rctakahashi: Added a Medium Ring at Station [0,1]
+Move 46 :
+5:08:50 PM
+perky1: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 47 :
+5:09:01 PM
+rctakahashi: Added a Large Ring at Station [-1,1]
+Move 48 :
+5:09:25 PM
+perky1: Moved a Base Post at Station [1,0]
+perky1 has to remove 1 orphaned rings
+Move 49 :
+5:09:41 PM
+rctakahashi: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 50 :
+5:11:02 PM
+perky1: Added a Small Ring at Station [0,1]
+Move 51 :
+5:11:18 PM
+rctakahashi: Added a Small Ring at Station [-1,0]
+Move 52 :
+5:11:25 PM
+perky1: Removed a White Bridge at Station [1,1] => [0,1] Position:Middle
+rctakahashi has to remove 3 orphaned rings
+Move 53 :
+5:13:21 PM
+rctakahashi: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 54 :
+5:13:29 PM
+perky1: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 55 :
+5:13:38 PM
+rctakahashi: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 56 :
+5:13:50 PM
+perky1: Removed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 57 :
+5:13:57 PM
+rctakahashi: Added a Medium Ring at Station [-1,-1]
+Move 58 :
+5:14:20 PM
+perky1: Moved a Base Post at Station [1,1]
+perky1 has to remove 1 orphaned rings
+Move 59 :
+5:15:04 PM
+rctakahashi: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 60 :
+5:15:54 PM
+perky1: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+rctakahashi has to remove 1 orphaned rings
+Move 61 :
+5:16:05 PM
+rctakahashi: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 62 :
+5:17:18 PM
+perky1: Moved a Base Post at Station [0,1]
+Move 63 :
+5:18:49 PM
+rctakahashi: Added a Medium Ring at Station [1,0]
+Move 64 :
+5:18:58 PM
+perky1: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 65 :
+5:19:23 PM
+rctakahashi: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 66 :
+5:19:40 PM
+perky1: Added a Large Ring at Station [-1,1]
+Move 67 :
+5:20:09 PM
+rctakahashi: Added a Small Ring at Station [1,0]
+Move 68 :
+5:20:15 PM
+perky1: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+perky1 has to remove 1 orphaned rings
+Move 69 :
+5:20:30 PM
+rctakahashi: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 70 :
+5:21:15 PM
+perky1: Removed a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 71 :
+5:21:54 PM
+rctakahashi: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 72 :
+5:22:00 PM
+perky1: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 73 :
+5:22:26 PM
+rctakahashi: Added a Black Bridge at Station [1,-1] => [0,0] Position:Left
+Move 74 :
+5:22:41 PM
+perky1: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 75 :
+5:23:35 PM
+rctakahashi: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 76 :
+5:23:42 PM
+perky1: Moved a Base Post at Station [1,1]
+Move 77 :
+5:25:09 PM
+rctakahashi: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 78 :
+5:25:33 PM
+perky1: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+rctakahashi has to remove 1 orphaned rings
+Move 79 :
+5:26:13 PM
+rctakahashi: Added a Medium Ring at Station [0,1]
+Move 80 :
+5:26:31 PM
+perky1: Moved a Base Post at Station [0,1]
+Move 81 :
+5:26:44 PM
+rctakahashi: Added a Large Ring at Station [-1,1]
+Move 82 :
+5:27:17 PM
+perky1: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 83 :
+5:27:36 PM
+rctakahashi: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 84 :
+5:27:44 PM
+perky1: Added a Small Ring at Station [1,1]
+Move 85 :
+5:28:14 PM
+rctakahashi: Added a Medium Ring at Station [-1,0]
+Move 86 :
+5:28:23 PM
+perky1: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 87 :
+5:28:44 PM
+rctakahashi: Added a Small Ring at Station [0,-1]
+The end of the game: rctakahashi wins!

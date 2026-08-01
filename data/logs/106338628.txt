@@ -1,0 +1,132 @@
+Move 1 :
+8/11/2020 7:00:17 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :
+7:01:00 AM
+yappiiiiiii: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+7:01:10 AM
+nanashiro634: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 :
+7:01:25 AM
+yappiiiiiii: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 6 :
+7:01:40 AM
+nanashiro634: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 7 :
+7:01:48 AM
+yappiiiiiii: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 8 :
+7:02:05 AM
+nanashiro634: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 9 :
+7:02:22 AM
+yappiiiiiii: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 10 :
+7:02:36 AM
+nanashiro634: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 11 :
+7:03:04 AM
+yappiiiiiii: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 12 :
+7:04:17 AM
+nanashiro634: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 13 :
+7:04:32 AM
+yappiiiiiii: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 14 :
+7:04:39 AM
+nanashiro634: Added a Large Ring at Station [0,-1]
+Move 15 :
+7:05:33 AM
+yappiiiiiii: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 16 :
+7:08:35 AM
+nanashiro634: Added a Medium Ring at Station [1,0]
+Move 17 :
+7:09:11 AM
+yappiiiiiii: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 18 :
+7:10:22 AM
+nanashiro634: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 19 :
+7:10:53 AM
+yappiiiiiii: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :
+7:11:00 AM
+nanashiro634: Added a Small Ring at Station [1,1]
+Move 21 :
+7:11:11 AM
+yappiiiiiii: Added a Medium Ring at Station [0,1]
+Move 22 :
+7:11:18 AM
+nanashiro634: Added a Large Ring at Station [0,1]
+Move 23 :
+7:11:38 AM
+yappiiiiiii: Added a Small Ring at Station [0,1]
+Move 24 :
+7:11:44 AM
+nanashiro634: Added a Small Ring at Station [1,0]
+Move 25 :
+7:12:02 AM
+yappiiiiiii: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 26 :
+7:12:16 AM
+nanashiro634: Added a Medium Ring at Station [0,-1]
+Move 27 :
+7:12:30 AM
+yappiiiiiii: Added a Small Ring at Station [-1,0]
+Move 28 :
+7:12:39 AM
+nanashiro634: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 29 :
+7:17:20 AM
+yappiiiiiii: Added a Small Ring at Station [0,-1]
+Move 30 :
+7:18:50 AM
+nanashiro634: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 31 :
+7:19:14 AM
+yappiiiiiii: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 32 :
+7:19:24 AM
+nanashiro634: Moved a Base Post at Station [1,1]
+nanashiro634 has to remove 2 orphaned rings
+Move 33 :
+7:20:20 AM
+yappiiiiiii: Moved a Base Post at Station [0,1]
+yappiiiiiii has to remove 2 orphaned rings
+Move 34 :
+7:20:39 AM
+nanashiro634: Added a Small Ring at Station [1,-1]
+Move 35 :
+7:22:20 AM
+yappiiiiiii: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Left
+Move 36 :
+7:22:31 AM
+nanashiro634: Moved a Base Post at Station [1,-1]
+Move 37 :
+7:22:49 AM
+yappiiiiiii: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 38 :
+7:22:57 AM
+nanashiro634: Added a Large Ring at Station [0,-1]
+Move 39 :
+7:23:10 AM
+yappiiiiiii: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Right
+Move 40 :
+7:23:16 AM
+nanashiro634: Added a Small Ring at Station [0,-1]
+Move 41 :
+7:24:03 AM
+yappiiiiiii: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 42 :
+7:24:32 AM
+nanashiro634: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 43 :
+7:24:58 AM
+yappiiiiiii: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 44 :
+7:25:03 AM
+nanashiro634: Added a Medium Ring at Station [-1,0]
+The end of the game: nanashiro634 wins!

@@ -1,0 +1,115 @@
+Game log
+Move 1 :4/28/2021 11:24:11 AM
+The colors of tony1021, Rowanb have been chosen according to their preferences. Change my preferences.
+Move 2 :11:43:32 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :1:03:15 PM
+Rowanb: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :1:57:05 PM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :9:28:08 PM
+Rowanb: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :4/29/2021 6:10:33 AM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 7 :8:31:36 AM
+Rowanb: Added a Small Ring at Station [1,0]
+Move 8 :10:54:49 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 9 :11:30:34 AM
+Rowanb: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 10 :12:08:39 PM
+tony1021: Moved a Base Post at Station [0,1]
+Move 11 :12:10:29 PM
+Rowanb: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :12:11:04 PM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 13 :12:12:06 PM
+Rowanb: Added a Medium Ring at Station [0,1]
+Move 14 :4:33:18 PM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Left
+Rowanb has to remove 1 orphaned rings
+Move 15 :10:17:51 PM
+Rowanb: Moved a Base Post at Station [1,0]
+Move 16 :4/30/2021 6:01:14 AM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 17 :9:38:29 AM
+Rowanb: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 18 :7:39:11 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 19 :10:31:27 PM
+Rowanb: Added a Small Ring at Station [1,-1]
+Move 20 :5/1/2021 5:54:24 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 21 :11:56:23 PM
+Rowanb: Added a Medium Ring at Station [1,-1]
+Move 22 :5/2/2021 5:54:53 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 23 :5:55:48 AM
+Rowanb: Added a Large Ring at Station [1,-1]
+Move 24 :5:58:19 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 25 :5/3/2021 1:26:22 AM
+Rowanb: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 26 :7:31:34 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 27 :9:31:21 AM
+Rowanb: Moved a Base Post at Station [1,-1]
+Move 28 :10:19:42 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 29 :10:24:39 AM
+Rowanb: Added a Medium Ring at Station [1,0]
+Move 30 :10:25:33 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 31 :10:29:37 AM
+Rowanb: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 32 :12:12:12 PM
+tony1021: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 33 :5/4/2021 2:28:21 AM
+Rowanb: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 34 :5:31:00 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 35 :5:44:46 AM
+Rowanb: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 36 :6:25:14 AM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 37 :5/5/2021 2:23:42 AM
+Rowanb: Added a Large Ring at Station [1,0]
+Move 38 :5:38:32 AM
+tony1021: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 39 :5/6/2021 1:10:35 AM
+Rowanb: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 40 :5:23:42 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 41 :12:15:37 PM
+Rowanb: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 42 :7:32:50 PM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 43 :10:34:44 PM
+Rowanb: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 44 :5/7/2021 6:19:36 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 45 :10:51:45 AM
+Rowanb: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 46 :12:06:42 PM
+tony1021: Added a Large Ring at Station [-1,0]
+Move 47 :5/8/2021 5:25:17 AM
+Rowanb: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 48 :7:49:33 AM
+tony1021: Reversed a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 49 :10:49:25 AM
+Rowanb: Removed a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 50 :5/9/2021 7:48:41 PM
+tony1021: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 51 :10:26:41 PM
+Rowanb: Removed a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 52 :5/10/2021 5:50:18 AM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 53 :8:24:59 AM
+Rowanb: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 54 :9:22:18 AM
+tony1021: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 55 :5/11/2021 1:20:14 AM
+Rowanb: Reversed a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 56 :5/12/2021 6:21:25 AM
+tony1021: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+The end of the game: tony1021 wins!

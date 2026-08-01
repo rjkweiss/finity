@@ -1,0 +1,50 @@
+Game log
+Move 1 :1/23/2022 4:22:38 PM
+The colors of tony1021, SixPigeons have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :4:22:51 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :7:00:38 PM
+SixPigeons: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 4 :1/24/2022 6:48:10 AM
+tony1021: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 5 :7:32:46 AM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :8:22:49 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 7 :8:33:31 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :10:19:28 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 9 :7:07:22 PM
+SixPigeons: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 10 :1/27/2022 8:42:40 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 11 :10:43:03 PM
+SixPigeons: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 12 :1/28/2022 6:17:29 AM
+tony1021: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 13 :8:16:32 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 14 :8:18:58 AM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :5:01:25 PM
+SixPigeons: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 16 :8:30:22 PM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :9:56:27 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+No rings placed or orphaned. 4 moves until a forced draw
+Move 18 :1/29/2022 7:48:22 AM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+No rings placed or orphaned. 3 moves until a forced draw
+Move 19 :6:56:17 PM
+SixPigeons: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+No rings placed or orphaned. 2 moves until a forced draw
+Move 20 :7:23:23 PM
+tony1021: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+No rings placed or orphaned. 1 moves until a forced draw
+Move 21 :1/30/2022 1:33:39 AM
+SixPigeons: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+FORCED DRAW. No rings placed or orphaned for the last 10 rounds
+End of game (tie)

@@ -1,0 +1,97 @@
+Move 1 :
+6/2/2020 1:34:04 PM
+The colors of marianne dijette have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:34:30 PM
+Kaperkapitein: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+1:35:40 PM
+marianne dijette: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 4 :
+1:35:49 PM
+Kaperkapitein: Added a Large Ring at Station [-1,0]
+Move 5 :
+1:36:48 PM
+marianne dijette: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 6 :
+1:37:10 PM
+Kaperkapitein: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 7 :
+1:38:02 PM
+marianne dijette: Moved a Blocker at Station [0,0] => [0,-1] Position:Left
+Move 8 :
+1:38:18 PM
+Kaperkapitein: Added a Large Ring at Station [0,-1]
+Move 9 :
+1:39:02 PM
+marianne dijette: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 10 :
+1:39:20 PM
+Kaperkapitein: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 11 :
+1:39:59 PM
+marianne dijette: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 12 :
+1:40:07 PM
+Kaperkapitein: Added a Large Ring at Station [1,-1]
+Move 13 :
+1:40:37 PM
+marianne dijette: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 14 :
+1:40:50 PM
+Kaperkapitein: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 15 :
+1:40:58 PM
+marianne dijette: Added a Large Ring at Station [1,0]
+Move 16 :
+1:41:04 PM
+Kaperkapitein: Added a Medium Ring at Station [0,-1]
+Move 17 :
+1:41:20 PM
+marianne dijette: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 18 :
+1:41:29 PM
+Kaperkapitein: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 19 :
+1:42:16 PM
+marianne dijette: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 20 :
+1:42:26 PM
+Kaperkapitein: Added a Medium Ring at Station [-1,0]
+Move 21 :
+1:42:35 PM
+marianne dijette: Added a Large Ring at Station [1,1]
+Move 22 :
+1:42:45 PM
+Kaperkapitein: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 23 :
+1:42:55 PM
+marianne dijette: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 24 :
+1:43:02 PM
+Kaperkapitein: Added a Large Ring at Station [-1,-1]
+Move 25 :
+1:43:11 PM
+marianne dijette: Added a Medium Ring at Station [1,0]
+Move 26 :
+1:43:17 PM
+Kaperkapitein: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 27 :
+1:43:30 PM
+marianne dijette: Added a Medium Ring at Station [1,1]
+Move 28 :
+1:43:37 PM
+Kaperkapitein: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 29 :
+1:44:12 PM
+marianne dijette: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 30 :
+1:45:20 PM
+Kaperkapitein: Added a Small Ring at Station [-1,-1]
+Move 31 :
+1:46:13 PM
+marianne dijette: Added a Large Ring at Station [0,1]
+Move 32 :
+1:46:47 PM
+Kaperkapitein: Added a Small Ring at Station [-1,0]
+The end of the game: Kaperkapitein wins!

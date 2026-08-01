@@ -1,0 +1,91 @@
+Move 2 :
+8/10/2020 5:13:18 PM
+SplashSplash: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 3 :
+5:15:44 PM
+Atropa Belladonna: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 4 :
+5:16:35 PM
+SplashSplash: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 5 :
+5:17:00 PM
+Atropa Belladonna: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 6 :
+5:18:31 PM
+SplashSplash: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 7 :
+5:18:49 PM
+Atropa Belladonna: Added a Large Ring at Station [1,0]
+Move 8 :
+5:19:15 PM
+SplashSplash: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 9 :
+5:19:33 PM
+Atropa Belladonna: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 10 :
+5:20:18 PM
+SplashSplash: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 11 :
+5:20:29 PM
+Atropa Belladonna: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :
+5:20:44 PM
+SplashSplash: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 13 :
+5:20:54 PM
+Atropa Belladonna: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 14 :
+5:21:04 PM
+SplashSplash: Added a Medium Ring at Station [-1,0]
+Move 15 :
+5:21:19 PM
+Atropa Belladonna: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 16 :
+5:21:40 PM
+SplashSplash: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 17 :
+5:21:53 PM
+Atropa Belladonna: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 18 :
+5:22:33 PM
+SplashSplash: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 19 :
+5:22:42 PM
+Atropa Belladonna: Added a Medium Ring at Station [1,0]
+Move 20 :
+5:22:52 PM
+SplashSplash: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 21 :
+5:23:40 PM
+Atropa Belladonna: Added a Medium Ring at Station [0,1]
+Move 22 :
+5:24:18 PM
+SplashSplash: Removed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 23 :
+5:24:25 PM
+Atropa Belladonna: Added a Small Ring at Station [0,1]
+Move 24 :
+5:24:47 PM
+SplashSplash: Moved a Base Post at Station [-1,0]
+Move 25 :
+5:24:58 PM
+Atropa Belladonna: Added a Large Ring at Station [1,1]
+Move 26 :
+5:25:23 PM
+SplashSplash: Added a Large Ring at Station [-1,-1]
+Move 27 :
+5:25:40 PM
+Atropa Belladonna: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 28 :
+5:26:13 PM
+SplashSplash: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 29 :
+5:26:25 PM
+Atropa Belladonna: Added a Small Ring at Station [-1,1]
+Move 30 :
+5:26:41 PM
+SplashSplash: Added a Large Ring at Station [0,-1]
+Move 31 :
+5:27:06 PM
+Atropa Belladonna: Added a Large Ring at Station [-1,0]
+The end of the game: Atropa Belladonna wins!

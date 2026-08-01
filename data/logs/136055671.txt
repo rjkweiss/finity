@@ -1,0 +1,93 @@
+Game log
+Move 1 :1/3/2021 6:15:07 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :8:30:19 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :8:40:06 AM
+jojolasticox: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :10:29:57 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 5 :1/5/2021 1:23:18 PM
+jojolasticox: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :8:37:06 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 7 :1/7/2021 1:04:19 PM
+jojolasticox: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 8 :2:59:11 PM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 9 :1/10/2021 4:32:33 AM
+jojolasticox: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 10 :10:24:19 AM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :12:12:16 PM
+jojolasticox: Added a Small Ring at Station [0,-1]
+Move 12 :3:33:29 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 13 :9:50:30 PM
+jojolasticox: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 14 :1/11/2021 7:53:24 AM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+jojolasticox has to remove 1 orphaned rings
+Move 15 :1/13/2021 11:00:31 AM
+jojolasticox: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 16 :1:03:02 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 17 :9:48:59 PM
+jojolasticox: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 18 :1/14/2021 7:43:52 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 19 :9:42:33 AM
+jojolasticox: Added a Small Ring at Station [0,-1]
+Move 20 :10:37:09 AM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+jojolasticox has to remove 1 orphaned rings
+Move 21 :10:39:05 AM
+jojolasticox: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 22 :10:53:10 AM
+tony1021: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 23 :9:37:49 PM
+jojolasticox: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 24 :1/15/2021 9:49:03 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 25 :1/16/2021 5:50:02 AM
+jojolasticox: Added a Small Ring at Station [0,-1]
+Move 26 :4:57:06 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 27 :1/17/2021 10:43:33 AM
+jojolasticox: Moved a Base Post at Station [0,-1]
+Move 28 :11:49:22 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 29 :12:59:27 PM
+jojolasticox: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 30 :3:03:29 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 31 :9:50:54 PM
+jojolasticox: Moved a Base Post at Station [1,-1]
+Move 32 :9:52:45 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 33 :1/18/2021 1:27:22 AM
+jojolasticox: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :7:11:48 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 35 :1/19/2021 12:46:00 AM
+jojolasticox: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 36 :10:33:11 AM
+tony1021: Added a Large Ring at Station [-1,0]
+Move 37 :11:47:24 AM
+jojolasticox: Added a Medium Ring at Station [0,-1]
+Move 38 :1/20/2021 7:02:42 AM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 39 :8:51:11 AM
+jojolasticox: Added a Large Ring at Station [0,-1]
+Move 40 :10:13:01 AM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+jojolasticox has to remove 3 orphaned rings
+Move 41 :9:27:14 PM
+jojolasticox: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 42 :1/21/2021 9:39:24 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 43 :10:05:15 AM
+jojolasticox: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 44 :10:59:22 AM
+tony1021: Added a Small Ring at Station [0,-1]
+The end of the game: tony1021 wins!

@@ -1,0 +1,65 @@
+Game log
+Move 1 :1/17/2021 11:53:42 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :1/18/2021 7:10:49 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :9:11:11 AM
+Phynec: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :9:51:50 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 5 :11:14:13 AM
+Phynec: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :11:39:38 AM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 7 :1:52:23 PM
+Phynec: Added a Small Ring at Station [1,0]
+Move 8 :2:23:35 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :1/19/2021 10:53:02 AM
+Phynec: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :11:07:42 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 11 :1:11:24 PM
+Phynec: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 12 :1/20/2021 7:03:29 AM
+tony1021: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 13 :1/21/2021 12:19:27 AM
+Phynec: Moved a Base Post at Station [1,0]
+Move 14 :9:40:12 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 15 :1/22/2021 11:01:21 PM
+Phynec: Added a Small Ring at Station [1,-1]
+Move 16 :1/23/2021 7:50:33 PM
+tony1021: Moved a Base Post at Station [0,1]
+Move 17 :1/24/2021 9:58:03 AM
+Phynec: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 18 :3:49:41 PM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 19 :11:21:51 PM
+Phynec: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 20 :1/25/2021 10:56:53 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 21 :11:14:34 PM
+Phynec: Added a Small Ring at Station [1,1]
+Move 22 :1/26/2021 6:41:09 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 23 :10:08:16 AM
+Phynec: Moved a Base Post at Station [1,-1]
+Move 24 :5:02:47 PM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 25 :1/27/2021 5:14:51 AM
+Phynec: Added a Medium Ring at Station [1,0]
+Move 26 :7:41:22 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 27 :3:27:51 PM
+Phynec: Added a Large Ring at Station [1,0]
+Move 28 :7:42:18 PM
+tony1021: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 29 :1/28/2021 6:35:57 AM
+Phynec: Added a Medium Ring at Station [1,1]
+Move 30 :7:25:54 AM
+tony1021: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 31 :8:32:06 AM
+Phynec: Added a Small Ring at Station [0,-1]
+The end of the game: Phynec wins!

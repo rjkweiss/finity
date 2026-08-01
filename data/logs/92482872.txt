@@ -1,0 +1,122 @@
+Move 2 :
+6/2/2020 4:41:39 AM
+yuyu---: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+4:47:51 AM
+medapi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+4:51:21 AM
+yuyu---: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :
+4:53:58 AM
+medapi: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+4:54:37 AM
+yuyu---: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 7 :
+4:55:06 AM
+medapi: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 8 :
+4:56:14 AM
+yuyu---: Added a White Bridge at Station [0,0] => [-1,0] Position:Left
+Move 9 :
+4:56:25 AM
+medapi: Added a Large Ring at Station [1,0]
+Move 10 :
+4:57:30 AM
+yuyu---: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 11 :
+4:57:39 AM
+medapi: Added a Medium Ring at Station [1,0]
+Move 12 :
+4:57:49 AM
+yuyu---: Added a Large Ring at Station [-1,0]
+Move 13 :
+4:58:35 AM
+medapi: Added a Small Ring at Station [1,0]
+Move 14 :
+4:58:51 AM
+yuyu---: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 15 :
+4:59:04 AM
+medapi: Moved a Base Post at Station [1,0]
+Move 16 :
+4:59:29 AM
+yuyu---: Added a Medium Ring at Station [0,1]
+Move 17 :
+5:01:58 AM
+medapi: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 18 :
+5:02:19 AM
+yuyu---: Added a Large Ring at Station [0,1]
+Move 19 :
+5:03:45 AM
+medapi: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 20 :
+5:04:55 AM
+yuyu---: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 21 :
+5:05:30 AM
+medapi: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+5:08:36 AM
+yuyu---: Moved a Base Post at Station [-1,0]
+yuyu--- has to remove 2 orphaned rings
+Move 23 :
+5:09:32 AM
+medapi: Added a Large Ring at Station [1,1]
+Move 24 :
+5:10:36 AM
+yuyu---: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 25 :
+5:10:44 AM
+medapi: Added a Large Ring at Station [0,1]
+Move 26 :
+5:11:50 AM
+yuyu---: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 27 :
+5:12:22 AM
+medapi: Added a Medium Ring at Station [1,1]
+Move 28 :
+5:12:35 AM
+yuyu---: Added a Large Ring at Station [0,-1]
+Move 29 :
+5:12:57 AM
+medapi: Added a Medium Ring at Station [0,1]
+Move 30 :
+5:13:26 AM
+yuyu---: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 31 :
+5:13:36 AM
+medapi: Added a Small Ring at Station [1,1]
+Move 32 :
+5:13:50 AM
+yuyu---: Added a Large Ring at Station [-1,-1]
+Move 33 :
+5:13:55 AM
+medapi: Added a Small Ring at Station [0,1]
+Move 34 :
+5:14:28 AM
+yuyu---: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 35 :
+5:15:02 AM
+medapi: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 36 :
+5:15:36 AM
+yuyu---: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 37 :
+5:15:46 AM
+medapi: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 38 :
+5:15:55 AM
+yuyu---: Added a Medium Ring at Station [-1,1]
+Move 39 :
+5:16:01 AM
+medapi: Added a Large Ring at Station [1,-1]
+Move 40 :
+5:16:24 AM
+yuyu---: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 41 :
+5:16:31 AM
+medapi: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: medapi wins!

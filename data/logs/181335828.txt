@@ -1,0 +1,72 @@
+Game log
+Move 1 :6/20/2021 6:47:44 AM
+The colors of tony1021, Jannick have been chosen according to their preferences. Change my preferences.
+Move 2 :7:22:21 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :7:50:35 AM
+Jannick: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 :8:54:35 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 5 :9:34:21 AM
+Jannick: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 6 :9:51:16 AM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :11:01:54 AM
+Jannick: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 8 :2:20:26 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 9 :6/21/2021 8:06:22 AM
+Jannick: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :8:59:58 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 11 :9:00:39 AM
+Jannick: Added a Small Ring at Station [1,0]
+Move 12 :9:29:36 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 13 :9:53:53 AM
+Jannick: Added a Medium Ring at Station [0,1]
+Move 14 :10:07:51 AM
+tony1021: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Jannick has to remove 2 orphaned rings
+Move 15 :11:37:21 AM
+Jannick: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 16 :4:57:25 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 17 :6/22/2021 8:17:44 AM
+Jannick: Added a Small Ring at Station [1,0]
+Move 18 :8:31:51 AM
+tony1021: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Jannick has to remove 1 orphaned rings
+Move 19 :8:32:40 AM
+Jannick: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 20 :8:45:05 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 21 :8:45:57 AM
+Jannick: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :8:02:01 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 23 :10:45:07 PM
+Jannick: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 24 :6/23/2021 7:55:17 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 25 :7:55:55 AM
+Jannick: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 26 :7:58:41 AM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 27 :7:58:52 AM
+Jannick: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 28 :7:59:02 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 29 :7:59:09 AM
+Jannick: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 30 :7:59:27 AM
+tony1021: Added a Large Ring at Station [0,1]
+Move 31 :7:59:35 AM
+Jannick: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 32 :7:59:42 AM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 33 :8:00:12 AM
+Jannick: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 34 :8:00:20 AM
+tony1021: Added a Small Ring at Station [-1,0]
+The end of the game: tony1021 wins!

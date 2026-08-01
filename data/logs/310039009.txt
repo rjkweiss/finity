@@ -1,0 +1,114 @@
+Game log
+Move 1 :10/19/2022 6:57:02 PM
+The colors of lordmcfuzz have been chosen according to their preferences. Change my preferences.
+Move 2 :6:58:02 PM
+Ruined Druid: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :10/20/2022 6:33:09 PM
+lordmcfuzz: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :6:33:57 PM
+Ruined Druid: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :6:35:46 PM
+lordmcfuzz: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :6:36:11 PM
+Ruined Druid: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 7 :6:36:24 PM
+lordmcfuzz: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 8 :6:36:42 PM
+Ruined Druid: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 9 :6:36:50 PM
+lordmcfuzz: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 10 :6:36:58 PM
+Ruined Druid: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :6:37:11 PM
+lordmcfuzz: Added a Small Ring at Station [0,-1]
+Move 12 :6:37:18 PM
+Ruined Druid: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 13 :6:37:25 PM
+lordmcfuzz: Added a Small Ring at Station [-1,0]
+Move 14 :6:37:34 PM
+Ruined Druid: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 15 :6:37:45 PM
+lordmcfuzz: Added a Medium Ring at Station [-1,0]
+Move 16 :6:38:11 PM
+Ruined Druid: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 17 :6:38:22 PM
+lordmcfuzz: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 18 :6:38:30 PM
+Ruined Druid: Added a Large Ring at Station [-1,0]
+Move 19 :6:38:45 PM
+lordmcfuzz: Added a Medium Ring at Station [0,-1]
+Move 20 :6:38:52 PM
+Ruined Druid: Added a Large Ring at Station [0,-1]
+Move 21 :6:39:14 PM
+lordmcfuzz: Moved a Base Post at Station [0,-1]
+lordmcfuzz has to remove 2 orphaned rings
+Move 22 :6:39:28 PM
+Ruined Druid: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 23 :6:41:49 PM
+lordmcfuzz: Added a Small Ring at Station [1,-1]
+Move 24 :6:42:18 PM
+Ruined Druid: Added a Small Ring at Station [0,1]
+Move 25 :6:42:28 PM
+lordmcfuzz: Added a Medium Ring at Station [1,-1]
+Move 26 :6:42:35 PM
+Ruined Druid: Added a Small Ring at Station [1,1]
+Move 27 :6:42:42 PM
+lordmcfuzz: Moved a Base Post at Station [1,-1]
+Move 28 :6:42:49 PM
+Ruined Druid: Added a Small Ring at Station [1,0]
+Move 29 :6:42:55 PM
+lordmcfuzz: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+Ruined Druid has to remove 2 orphaned rings
+Move 30 :6:43:04 PM
+Ruined Druid: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 31 :6:43:22 PM
+lordmcfuzz: Added a Small Ring at Station [1,0]
+Move 32 :6:43:34 PM
+Ruined Druid: Added a Small Ring at Station [1,1]
+Move 33 :6:43:53 PM
+lordmcfuzz: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 34 :6:43:59 PM
+Ruined Druid: Added a Medium Ring at Station [1,0]
+Move 35 :6:44:53 PM
+lordmcfuzz: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 36 :6:45:40 PM
+Ruined Druid: Added a Medium Ring at Station [0,1]
+Move 37 :6:45:53 PM
+lordmcfuzz: Added a Large Ring at Station [0,1]
+Move 38 :6:46:30 PM
+Ruined Druid: Moved a Base Post at Station [0,1]
+Ruined Druid has to remove 4 orphaned rings
+Move 39 :6:46:38 PM
+lordmcfuzz: Added a Small Ring at Station [-1,0]
+Move 40 :6:47:04 PM
+Ruined Druid: Added a Small Ring at Station [-1,1]
+Move 41 :6:47:09 PM
+lordmcfuzz: Added a Medium Ring at Station [-1,0]
+Move 42 :6:47:17 PM
+Ruined Druid: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+lordmcfuzz has to remove 2 orphaned rings
+Move 43 :6:47:31 PM
+lordmcfuzz: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 44 :6:47:40 PM
+Ruined Druid: Added a Large Ring at Station [-1,0]
+Move 45 :6:47:45 PM
+lordmcfuzz: Added a Small Ring at Station [1,0]
+Move 46 :6:48:32 PM
+Ruined Druid: Added a Medium Ring at Station [-1,1]
+Move 47 :6:48:45 PM
+lordmcfuzz: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 48 :6:48:51 PM
+Ruined Druid: Moved a Base Post at Station [-1,1]
+Move 49 :6:49:18 PM
+lordmcfuzz: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 50 :6:49:26 PM
+Ruined Druid: Added a Large Ring at Station [0,-1]
+Move 51 :6:49:32 PM
+lordmcfuzz: Moved a Base Post at Station [1,0]
+Move 52 :6:49:39 PM
+Ruined Druid: Added a Small Ring at Station [1,1]
+Move 53 :6:49:58 PM
+lordmcfuzz: Added a Large Ring at Station [0,1]
+Move 54 :6:50:05 PM
+Ruined Druid: Added a Medium Ring at Station [1,0]
+The end of the game: Ruined Druid wins!

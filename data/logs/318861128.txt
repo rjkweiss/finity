@@ -1,0 +1,68 @@
+Game log
+Move 3 :11/18/2022 11:07:39 AM
+galadriellamirifique: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :11:09:17 AM
+4273ttt: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 5 :11:10:18 AM
+galadriellamirifique: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 6 :11:10:51 AM
+4273ttt: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 7 :11:11:11 AM
+galadriellamirifique: Added a Small Ring at Station [-1,0]
+Move 8 :11:11:35 AM
+4273ttt: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 9 :11:13:35 AM
+galadriellamirifique: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 10 :11:13:45 AM
+4273ttt: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 11 :11:13:55 AM
+galadriellamirifique: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 12 :11:14:36 AM
+4273ttt: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 13 :11:15:30 AM
+galadriellamirifique: Added a Medium Ring at Station [-1,0]
+Move 14 :11:15:42 AM
+4273ttt: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 15 :11:16:00 AM
+galadriellamirifique: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 16 :11:16:10 AM
+4273ttt: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 17 :11:16:26 AM
+galadriellamirifique: Added a Large Ring at Station [-1,0]
+Move 18 :11:16:58 AM
+4273ttt: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 19 :11:18:13 AM
+galadriellamirifique: Moved a Base Post at Station [-1,0]
+Move 20 :11:18:30 AM
+4273ttt: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 21 :11:22:36 AM
+galadriellamirifique: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 22 :11:23:03 AM
+4273ttt: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 23 :11:23:14 AM
+galadriellamirifique: Added a Small Ring at Station [-1,1]
+Move 24 :11:23:24 AM
+4273ttt: Added a Large Ring at Station [0,-1]
+Move 25 :11:23:45 AM
+galadriellamirifique: Moved a Base Post at Station [-1,1]
+Move 26 :11:24:54 AM
+4273ttt: Added a Medium Ring at Station [0,-1]
+Move 27 :11:25:49 AM
+galadriellamirifique: Moved a Base Post at Station [-1,0]
+Move 28 :11:26:04 AM
+4273ttt: Added a Small Ring at Station [0,-1]
+Move 29 :11:26:13 AM
+galadriellamirifique: Added a Medium Ring at Station [-1,1]
+Move 30 :11:26:51 AM
+4273ttt: Moved a Base Post at Station [0,-1]
+Move 31 :11:26:57 AM
+galadriellamirifique: Added a Large Ring at Station [-1,1]
+Move 32 :11:27:06 AM
+4273ttt: Added a Small Ring at Station [1,-1]
+Move 33 :11:27:12 AM
+galadriellamirifique: Moved a Base Post at Station [-1,1]
+Move 34 :11:27:18 AM
+4273ttt: Added a Medium Ring at Station [1,-1]
+Move 35 :11:27:29 AM
+galadriellamirifique: Added a Small Ring at Station [0,1]
+The end of the game: galadriellamirifique wins!

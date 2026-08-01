@@ -1,0 +1,129 @@
+Move 1 :
+4/6/2020 6:15:44 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:33:31 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+11:29:00 AM
+janus: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+11:46:07 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+11:59:27 AM
+janus: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :
+12:57:55 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 7 :
+1:07:34 PM
+janus: Added a Medium Ring at Station [1,0]
+Move 8 :
+1:24:32 PM
+tony1021: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+janus has to remove 1 orphaned rings
+Move 9 :
+1:32:46 PM
+janus: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :
+1:35:51 PM
+tony1021: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 11 :
+1:37:05 PM
+janus: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 12 :
+1:58:32 PM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 13 :
+3:24:28 PM
+janus: Added a Medium Ring at Station [1,0]
+Move 14 :
+4:43:53 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 15 :
+4:58:43 PM
+janus: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+7:09:08 PM
+tony1021: Moved a Blocker at Station [1,1] => [1,0] Position:Right
+Move 17 :
+4/7/2020 10:05:11 AM
+janus: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 18 :
+10:33:56 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 19 :
+11:54:12 AM
+janus: Added a Small Ring at Station [1,1]
+Move 20 :
+12:27:38 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 21 :
+2:02:38 PM
+janus: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+2:55:25 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 23 :
+4:19:54 PM
+janus: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 24 :
+4:30:20 PM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 25 :
+4/8/2020 6:02:15 AM
+janus: Added a Large Ring at Station [1,0]
+Move 26 :
+10:04:45 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 27 :
+10:06:01 AM
+janus: Added a Medium Ring at Station [0,1]
+Move 28 :
+10:51:10 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 29 :
+5:11:34 PM
+janus: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 30 :
+5:40:37 PM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 31 :
+7:10:33 PM
+janus: Added a Small Ring at Station [1,0]
+Move 32 :
+7:39:19 PM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Right
+janus has to remove 2 orphaned rings
+Move 33 :
+4/9/2020 6:52:55 AM
+janus: Moved a Base Post at Station [1,0]
+Move 34 :
+7:16:06 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 35 :
+4/10/2020 9:39:26 AM
+janus: Added a Small Ring at Station [1,-1]
+Move 36 :
+10:25:31 AM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 37 :
+11:10:41 AM
+janus: Moved a Base Post at Station [1,-1]
+Move 38 :
+11:28:41 AM
+tony1021: Added a Medium Ring at Station [-1,-1]
+Move 39 :
+1:46:06 PM
+janus: Added a Small Ring at Station [1,1]
+Move 40 :
+1:46:21 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 41 :
+1:48:00 PM
+janus: Added a Small Ring at Station [0,1]
+Move 42 :
+1:49:28 PM
+tony1021: Added a Large Ring at Station [-1,0]
+The end of the game: tony1021 wins!

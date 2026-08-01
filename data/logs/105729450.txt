@@ -1,0 +1,145 @@
+Move 1 :
+8/7/2020 10:55:25 PM
+The colors of Jonty22, Alli217 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8/8/2020 2:08:35 AM
+Jonty22: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 3 :
+2:13:43 AM
+Alli217: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 4 :
+2:20:15 AM
+Jonty22: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+2:47:41 AM
+Alli217: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 6 :
+5:14:00 PM
+Jonty22: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 7 :
+10:14:09 PM
+Alli217: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 8 :
+8/9/2020 1:48:46 PM
+Jonty22: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 9 :
+9:14:02 PM
+Alli217: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 10 :
+8/10/2020 4:42:50 PM
+Jonty22: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 11 :
+8:21:22 PM
+Alli217: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 12 :
+8/11/2020 2:00:12 AM
+Jonty22: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+2:02:01 AM
+Alli217: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 14 :
+2:03:20 AM
+Jonty22: Added a Small Ring at Station [0,1]
+Move 15 :
+2:04:27 AM
+Alli217: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 16 :
+6:56:31 PM
+Jonty22: Added a Medium Ring at Station [0,1]
+Move 17 :
+7:35:27 PM
+Alli217: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 18 :
+7:38:02 PM
+Jonty22: Added a Large Ring at Station [0,1]
+Move 19 :
+7:39:35 PM
+Alli217: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 20 :
+7:45:43 PM
+Jonty22: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :
+7:53:59 PM
+Alli217: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 22 :
+8:16:49 PM
+Jonty22: Added a Small Ring at Station [-1,0]
+Move 23 :
+8:17:37 PM
+Alli217: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 24 :
+8:18:10 PM
+Jonty22: Added a Medium Ring at Station [-1,0]
+Move 25 :
+8:18:24 PM
+Alli217: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 26 :
+8:22:43 PM
+Jonty22: Added a Large Ring at Station [-1,0]
+Move 27 :
+8:23:42 PM
+Alli217: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 28 :
+9:23:32 PM
+Jonty22: Added a Small Ring at Station [-1,-1]
+Move 29 :
+9:28:34 PM
+Alli217: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 30 :
+9:32:20 PM
+Jonty22: Added a White Bridge at Station [0,0] => [-1,1] Position:Left
+Move 31 :
+9:32:57 PM
+Alli217: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 32 :
+9:34:57 PM
+Jonty22: Added a Small Ring at Station [1,1]
+Move 33 :
+9:36:10 PM
+Alli217: Added a Large Ring at Station [0,-1]
+Move 34 :
+9:37:38 PM
+Jonty22: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 35 :
+9:42:02 PM
+Alli217: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 36 :
+9:43:06 PM
+Jonty22: Added a Medium Ring at Station [0,-1]
+Move 37 :
+9:43:42 PM
+Alli217: Added a Large Ring at Station [1,0]
+Move 38 :
+9:45:02 PM
+Jonty22: Added a Small Ring at Station [0,-1]
+Move 39 :
+9:45:39 PM
+Alli217: Added a Large Ring at Station [1,1]
+Move 40 :
+9:46:33 PM
+Jonty22: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 41 :
+9:47:01 PM
+Alli217: Added a Large Ring at Station [-1,-1]
+Move 42 :
+9:48:30 PM
+Jonty22: Added a Small Ring at Station [1,-1]
+Move 43 :
+9:48:49 PM
+Alli217: Added a Medium Ring at Station [-1,-1]
+Move 44 :
+9:49:30 PM
+Jonty22: Added a Medium Ring at Station [1,-1]
+Move 45 :
+9:54:22 PM
+Alli217: Added a Medium Ring at Station [1,0]
+Move 46 :
+9:55:19 PM
+Jonty22: Added a Large Ring at Station [1,-1]
+Move 47 :
+9:55:47 PM
+Alli217: Added a Medium Ring at Station [1,1]
+Move 48 :
+9:56:01 PM
+Jonty22: Added a Small Ring at Station [1,0]
+The end of the game: Jonty22 wins!

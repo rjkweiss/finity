@@ -1,0 +1,168 @@
+Move 2 :
+8/11/2020 3:12:47 AM
+Lermm: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 3 :
+3:14:03 AM
+Rosegamey: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+3:14:29 AM
+Lermm: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+3:14:50 AM
+Rosegamey: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 6 :
+3:15:09 AM
+Lermm: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 7 :
+3:15:46 AM
+Rosegamey: Added a Large Ring at Station [0,-1]
+Move 8 :
+3:15:53 AM
+Lermm: Added a Large Ring at Station [-1,0]
+Move 9 :
+3:16:12 AM
+Rosegamey: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 10 :
+3:16:48 AM
+Lermm: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 11 :
+3:17:13 AM
+Rosegamey: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+3:17:28 AM
+Lermm: Added a Medium Ring at Station [-1,0]
+Move 13 :
+3:17:54 AM
+Rosegamey: Added a Small Ring at Station [-1,0]
+Move 14 :
+3:18:08 AM
+Lermm: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 15 :
+3:19:10 AM
+Rosegamey: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 16 :
+3:20:29 AM
+Lermm: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Rosegamey has to remove 2 orphaned rings
+Move 17 :
+3:21:23 AM
+Rosegamey: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Lermm has to remove 2 orphaned rings
+Move 18 :
+3:21:36 AM
+Lermm: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 19 :
+3:22:04 AM
+Rosegamey: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 20 :
+3:22:25 AM
+Lermm: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :
+3:23:01 AM
+Rosegamey: Added a Large Ring at Station [0,-1]
+Move 22 :
+3:23:13 AM
+Lermm: Added a Large Ring at Station [-1,0]
+Move 23 :
+3:23:44 AM
+Rosegamey: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 24 :
+3:24:01 AM
+Lermm: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 25 :
+3:24:18 AM
+Rosegamey: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 26 :
+3:24:28 AM
+Lermm: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 27 :
+3:25:04 AM
+Rosegamey: Reversed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 28 :
+3:25:15 AM
+Lermm: Added a Large Ring at Station [0,1]
+Move 29 :
+3:25:40 AM
+Rosegamey: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 30 :
+3:26:47 AM
+Lermm: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 31 :
+3:27:28 AM
+Rosegamey: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 32 :
+3:28:08 AM
+Lermm: Added a Large Ring at Station [-1,-1]
+Move 33 :
+3:28:17 AM
+Rosegamey: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 34 :
+3:28:28 AM
+Lermm: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 35 :
+3:30:21 AM
+Rosegamey: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 36 :
+3:30:51 AM
+Lermm: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 37 :
+3:31:37 AM
+Rosegamey: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 38 :
+3:31:56 AM
+Lermm: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 39 :
+3:32:08 AM
+Rosegamey: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 40 :
+3:32:17 AM
+Lermm: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 41 :
+3:32:31 AM
+Rosegamey: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 42 :
+3:32:42 AM
+Lermm: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 43 :
+3:32:51 AM
+Rosegamey: Reversed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 44 :
+3:33:02 AM
+Lermm: Added a Medium Ring at Station [0,-1]
+Move 45 :
+3:34:01 AM
+Rosegamey: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 46 :
+3:34:16 AM
+Lermm: Added a Large Ring at Station [1,-1]
+Move 47 :
+3:34:27 AM
+Rosegamey: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 48 :
+3:34:34 AM
+Lermm: Added a Large Ring at Station [1,0]
+Move 49 :
+3:34:53 AM
+Rosegamey: Added a Medium Ring at Station [-1,0]
+Move 50 :
+3:35:04 AM
+Lermm: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 51 :
+3:35:37 AM
+Rosegamey: Added a Medium Ring at Station [-1,-1]
+Move 52 :
+3:35:50 AM
+Lermm: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 53 :
+3:36:07 AM
+Rosegamey: Added a Large Ring at Station [-1,1]
+Move 54 :
+3:36:15 AM
+Lermm: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 55 :
+3:36:26 AM
+Rosegamey: Added a Medium Ring at Station [0,1]
+Move 56 :
+3:36:36 AM
+Lermm: Added a Large Ring at Station [1,1]
+The end of the game: Lermm wins!

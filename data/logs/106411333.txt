@@ -1,0 +1,131 @@
+Move 3 :
+8/11/2020 3:12:05 PM
+saghars: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+3:12:26 PM
+tayutama777: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 5 :
+3:12:54 PM
+saghars: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 6 :
+3:13:10 PM
+tayutama777: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 7 :
+3:13:21 PM
+saghars: Added a Medium Ring at Station [0,1]
+Move 8 :
+3:13:40 PM
+tayutama777: Added a Small Ring at Station [1,0]
+Move 9 :
+3:14:01 PM
+saghars: Moved a Base Post at Station [0,1]
+Move 10 :
+3:14:28 PM
+tayutama777: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 11 :
+3:14:48 PM
+saghars: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 12 :
+3:15:27 PM
+tayutama777: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :
+3:16:17 PM
+saghars: Added a Medium Ring at Station [-1,1]
+Move 14 :
+3:16:40 PM
+tayutama777: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 15 :
+3:17:28 PM
+saghars: Added a Small Ring at Station [-1,1]
+Move 16 :
+3:17:42 PM
+tayutama777: Added a Small Ring at Station [0,1]
+Move 17 :
+3:17:52 PM
+saghars: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 18 :
+3:18:11 PM
+tayutama777: Added a Medium Ring at Station [1,0]
+Move 19 :
+3:18:33 PM
+saghars: Added a Medium Ring at Station [-1,0]
+Move 20 :
+3:18:45 PM
+tayutama777: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 21 :
+3:18:55 PM
+saghars: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 22 :
+3:19:31 PM
+tayutama777: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+saghars has to remove 1 orphaned rings
+Move 23 :
+3:19:47 PM
+saghars: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 24 :
+3:19:58 PM
+tayutama777: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 25 :
+3:20:13 PM
+saghars: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 26 :
+3:20:57 PM
+tayutama777: Added a Small Ring at Station [1,1]
+Move 27 :
+3:21:03 PM
+saghars: Removed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 28 :
+3:21:17 PM
+tayutama777: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 29 :
+3:21:31 PM
+saghars: Added a Medium Ring at Station [-1,0]
+Move 30 :
+3:21:55 PM
+tayutama777: Moved a Base Post at Station [1,0]
+tayutama777 has to remove 1 orphaned rings
+Move 31 :
+3:22:05 PM
+saghars: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 32 :
+3:22:21 PM
+tayutama777: Added a Small Ring at Station [1,-1]
+Move 33 :
+3:23:27 PM
+saghars: Removed a White Bridge at Station [1,0] => [0,1] Position:Right
+tayutama777 has to remove 1 orphaned rings
+Move 34 :
+3:23:46 PM
+tayutama777: Moved a Base Post at Station [1,-1]
+Move 35 :
+3:25:26 PM
+saghars: Moved a Base Post at Station [-1,0]
+Move 36 :
+3:25:56 PM
+tayutama777: Added a Small Ring at Station [0,1]
+Move 37 :
+3:26:17 PM
+saghars: Moved a Base Post at Station [0,1]
+Move 38 :
+3:26:42 PM
+tayutama777: Added a Small Ring at Station [1,1]
+Move 39 :
+3:26:48 PM
+saghars: Added a Small Ring at Station [-1,0]
+Move 40 :
+3:26:57 PM
+tayutama777: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 41 :
+3:27:04 PM
+saghars: Moved a Base Post at Station [-1,0]
+Move 42 :
+3:27:34 PM
+tayutama777: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+saghars has to remove 1 orphaned rings
+Move 43 :
+3:29:09 PM
+saghars: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 44 :
+3:29:20 PM
+tayutama777: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+The end of the game: tayutama777 wins!

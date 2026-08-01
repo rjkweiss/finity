@@ -1,0 +1,116 @@
+Move 2 :
+9/5/2020 4:43:25 AM
+stuts: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+4:43:56 AM
+SherryYuki: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+4:44:13 AM
+stuts: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+4:44:42 AM
+SherryYuki: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 6 :
+4:45:00 AM
+stuts: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 7 :
+4:45:26 AM
+SherryYuki: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 8 :
+4:45:47 AM
+stuts: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 9 :
+4:46:06 AM
+SherryYuki: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 10 :
+4:47:02 AM
+stuts: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 11 :
+4:47:17 AM
+SherryYuki: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 12 :
+4:47:41 AM
+stuts: Added a Large Ring at Station [0,1]
+Move 13 :
+4:48:14 AM
+SherryYuki: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 14 :
+4:48:46 AM
+stuts: Added a Medium Ring at Station [0,1]
+Move 15 :
+4:50:02 AM
+SherryYuki: Added a Medium Ring at Station [1,0]
+Move 16 :
+4:50:18 AM
+stuts: Added a Large Ring at Station [-1,0]
+Move 17 :
+4:50:47 AM
+SherryYuki: Moved a Base Post at Station [1,0]
+Move 18 :
+4:51:07 AM
+stuts: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 19 :
+4:51:36 AM
+SherryYuki: Moved a Base Post at Station [1,-1]
+Move 20 :
+4:51:56 AM
+stuts: Added a Large Ring at Station [0,-1]
+Move 21 :
+4:52:03 AM
+SherryYuki: Added a Medium Ring at Station [0,-1]
+Move 22 :
+4:52:17 AM
+stuts: Added a Large Ring at Station [1,-1]
+Move 23 :
+4:54:20 AM
+SherryYuki: Moved a Base Post at Station [0,-1]
+SherryYuki has to remove 1 orphaned rings
+Move 24 :
+4:54:54 AM
+stuts: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 25 :
+4:55:04 AM
+SherryYuki: Added a Medium Ring at Station [1,-1]
+Move 26 :
+4:55:17 AM
+stuts: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 27 :
+4:55:24 AM
+SherryYuki: Moved a Base Post at Station [1,-1]
+Move 28 :
+4:55:36 AM
+stuts: Added a Small Ring at Station [1,0]
+Move 29 :
+4:55:45 AM
+SherryYuki: Added a Medium Ring at Station [1,0]
+Move 30 :
+4:55:53 AM
+stuts: Added a Large Ring at Station [1,1]
+Move 31 :
+4:56:03 AM
+SherryYuki: Added a Medium Ring at Station [1,1]
+Move 32 :
+4:56:20 AM
+stuts: Moved a Base Post at Station [-1,0]
+Move 33 :
+4:56:26 AM
+SherryYuki: Added a Small Ring at Station [0,1]
+Move 34 :
+4:56:33 AM
+stuts: Added a Large Ring at Station [-1,1]
+Move 35 :
+4:56:44 AM
+SherryYuki: Added a Medium Ring at Station [-1,1]
+Move 36 :
+4:57:07 AM
+stuts: Moved a Base Post at Station [-1,1]
+Move 37 :
+4:57:14 AM
+SherryYuki: Added a Medium Ring at Station [-1,0]
+Move 38 :
+4:57:26 AM
+stuts: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 39 :
+4:57:37 AM
+SherryYuki: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: SherryYuki wins!

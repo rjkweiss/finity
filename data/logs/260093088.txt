@@ -1,0 +1,68 @@
+Game log
+Move 1 :4/19/2022 7:36:22 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :4/20/2022 1:16:14 PM
+asmig: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :4/21/2022 6:35:57 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :7:48:36 AM
+asmig: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 5 :12:59:01 PM
+tony1021: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 6 :1:00:30 PM
+asmig: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 7 :1:14:45 PM
+tony1021: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 8 :1:16:21 PM
+asmig: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 9 :2:07:47 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 10 :2:10:13 PM
+asmig: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 11 :4:03:16 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 12 :4/22/2022 12:55:41 AM
+asmig: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 13 :6:44:55 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 14 :7:02:05 AM
+asmig: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 15 :3:40:55 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 16 :4:28:32 PM
+asmig: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 17 :6:19:50 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 18 :4/23/2022 11:57:59 AM
+asmig: Added a Small Ring at Station [0,1]
+Move 19 :1:55:05 PM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 20 :1:55:21 PM
+asmig: Added a Medium Ring at Station [0,1]
+Move 21 :1:55:42 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 22 :1:56:50 PM
+asmig: Added a Large Ring at Station [0,1]
+Move 23 :2:07:13 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 24 :2:18:48 PM
+asmig: Moved a Base Post at Station [0,1]
+Move 25 :3:16:05 PM
+tony1021: Added a Small Ring at Station [1,1]
+Move 26 :3:22:55 PM
+asmig: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 27 :4:21:38 PM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 28 :4/24/2022 11:44:51 AM
+asmig: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 29 :12:23:36 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 30 :12:50:58 PM
+asmig: Added a Large Ring at Station [1,0]
+Move 31 :1:02:32 PM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 32 :1:12:14 PM
+asmig: Added a Small Ring at Station [-1,1]
+Move 33 :3:49:09 PM
+tony1021: Added a Small Ring at Station [0,-1]
+The end of the game: tony1021 wins!

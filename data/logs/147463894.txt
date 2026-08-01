@@ -1,0 +1,58 @@
+Game log
+Move 1 :2/13/2021 12:56:09 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :10:24:00 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :10:32:06 AM
+Khalmant: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 4 :1:16:03 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :1:27:07 PM
+Khalmant: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 6 :1:29:39 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 7 :1:38:49 PM
+Khalmant: Added a Black Bridge at Station [0,0] => [-1,0] Position:Left
+Move 8 :2:02:43 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 9 :2:24:04 PM
+Khalmant: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 10 :7:33:27 PM
+tony1021: Moved a Base Post at Station [0,1]
+Move 11 :2/14/2021 1:30:55 AM
+Khalmant: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 12 :4:41:03 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 13 :4:45:31 AM
+Khalmant: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 14 :8:42:32 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 15 :10:06:45 AM
+Khalmant: Added a White Bridge at Station [0,0] => [1,0] Position:Right
+Move 16 :10:30:32 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 17 :10:34:58 AM
+Khalmant: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 18 :10:45:26 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 19 :11:52:04 AM
+Khalmant: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 20 :2:03:12 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 21 :4:21:18 PM
+Khalmant: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 22 :8:21:07 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 23 :2/15/2021 3:08:59 AM
+Khalmant: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 24 :6:49:08 AM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 25 :8:38:19 AM
+Khalmant: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 26 :3:25:33 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 27 :3:35:07 PM
+Khalmant: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 28 :3:49:22 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+The end of the game: tony1021 wins!

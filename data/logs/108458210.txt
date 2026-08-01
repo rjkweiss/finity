@@ -1,0 +1,167 @@
+Move 1 :
+8/23/2020 10:38:32 AM
+The colors of CGTribal, pinkieval have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:38:54 AM
+CGTribal: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+10:39:08 AM
+pinkieval: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+10:39:21 AM
+CGTribal: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 5 :
+10:39:36 AM
+pinkieval: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+10:39:47 AM
+CGTribal: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 7 :
+10:39:53 AM
+pinkieval: Added a Small Ring at Station [1,0]
+Move 8 :
+10:40:09 AM
+CGTribal: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 9 :
+10:40:35 AM
+pinkieval: Moved a Base Post at Station [1,0]
+Move 10 :
+10:40:46 AM
+CGTribal: Added a Medium Ring at Station [-1,0]
+Move 11 :
+10:40:57 AM
+pinkieval: Added a Small Ring at Station [1,-1]
+Move 12 :
+10:41:15 AM
+CGTribal: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 13 :
+10:41:21 AM
+pinkieval: Added a Medium Ring at Station [1,-1]
+Move 14 :
+10:41:30 AM
+CGTribal: Added a Small Ring at Station [-1,0]
+Move 15 :
+10:42:44 AM
+pinkieval: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 16 :
+10:43:50 AM
+CGTribal: Moved a Base Post at Station [-1,0]
+Move 17 :
+10:44:11 AM
+pinkieval: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 18 :
+10:44:22 AM
+CGTribal: Added a Medium Ring at Station [-1,1]
+Move 19 :
+10:44:36 AM
+pinkieval: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 20 :
+10:44:43 AM
+CGTribal: Added a Small Ring at Station [0,-1]
+Move 21 :
+10:45:14 AM
+pinkieval: Moved a Base Post at Station [1,-1]
+Move 22 :
+10:45:23 AM
+CGTribal: Added a Small Ring at Station [-1,1]
+Move 23 :
+10:45:40 AM
+pinkieval: Added a Medium Ring at Station [0,-1]
+Move 24 :
+10:46:04 AM
+CGTribal: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 25 :
+10:46:29 AM
+pinkieval: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 26 :
+10:46:37 AM
+CGTribal: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+pinkieval has to remove 1 orphaned rings
+Move 27 :
+10:47:50 AM
+pinkieval: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 28 :
+10:48:07 AM
+CGTribal: Added a Medium Ring at Station [0,-1]
+Move 29 :
+10:48:21 AM
+pinkieval: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 30 :
+10:48:29 AM
+CGTribal: Reversed a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 31 :
+10:48:40 AM
+pinkieval: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 32 :
+10:49:01 AM
+CGTribal: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 33 :
+10:49:10 AM
+pinkieval: Moved a Base Post at Station [0,-1]
+Move 34 :
+10:49:36 AM
+CGTribal: Moved a Base Post at Station [1,-1]
+CGTribal has to remove 4 orphaned rings
+Move 35 :
+10:51:18 AM
+pinkieval: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 36 :
+10:51:28 AM
+CGTribal: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+pinkieval has to remove 3 orphaned rings
+Move 37 :
+10:52:16 AM
+pinkieval: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+CGTribal has to remove 2 orphaned rings
+Move 38 :
+10:52:30 AM
+CGTribal: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 39 :
+10:52:38 AM
+pinkieval: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 40 :
+10:52:54 AM
+CGTribal: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 41 :
+10:53:01 AM
+pinkieval: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 42 :
+10:53:10 AM
+CGTribal: Added a Small Ring at Station [1,0]
+Move 43 :
+10:53:58 AM
+pinkieval: Added a Small Ring at Station [-1,-1]
+Move 44 :
+10:54:09 AM
+CGTribal: Added a Medium Ring at Station [1,0]
+Move 45 :
+10:54:41 AM
+pinkieval: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 46 :
+10:54:46 AM
+CGTribal: Moved a Base Post at Station [1,0]
+Move 47 :
+10:55:09 AM
+pinkieval: Moved a Base Post at Station [-1,-1]
+Move 48 :
+10:55:21 AM
+CGTribal: Added a Small Ring at Station [1,-1]
+Move 49 :
+10:55:39 AM
+pinkieval: Added a Small Ring at Station [0,-1]
+Move 50 :
+10:55:58 AM
+CGTribal: Added a Small Ring at Station [0,1]
+Move 51 :
+10:56:30 AM
+pinkieval: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 52 :
+10:56:36 AM
+CGTribal: Added a Medium Ring at Station [0,1]
+Move 53 :
+10:56:41 AM
+pinkieval: Moved a Base Post at Station [1,-1]
+Move 54 :
+10:57:01 AM
+CGTribal: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: CGTribal wins!

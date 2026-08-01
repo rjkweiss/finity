@@ -1,0 +1,222 @@
+Move 2 :
+8/30/2020 2:28:38 PM
+ptorru: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 3 :
+2:29:22 PM
+danyperez92: Added a White Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 4 :
+2:30:24 PM
+simara12: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+2:30:37 PM
+ptorru: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+2:31:05 PM
+danyperez92: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 7 :
+2:32:32 PM
+simara12: Added a Small Ring at Station [1,1]
+Move 8 :
+2:33:46 PM
+ptorru: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 9 :
+2:34:00 PM
+danyperez92: Added a Small Ring at Station [-2,1]
+Move 10 :
+2:34:28 PM
+simara12: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 11 :
+2:35:15 PM
+ptorru: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 12 :
+2:35:45 PM
+danyperez92: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 13 :
+2:36:14 PM
+simara12: Added a Small Ring at Station [1,0]
+Move 14 :
+2:36:44 PM
+ptorru: Added a Medium Ring at Station [1,0]
+Move 15 :
+2:37:17 PM
+danyperez92: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 16 :
+2:37:45 PM
+simara12: Added a Large Ring at Station [1,0]
+Move 17 :
+2:37:59 PM
+ptorru: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+simara12 has to remove 3 orphaned rings
+Move 18 :
+2:39:09 PM
+danyperez92: Added a Small Ring at Station [-1,1]
+Move 19 :
+2:41:21 PM
+simara12: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 20 :
+2:41:33 PM
+ptorru: Moved a Base Post at Station [1,0]
+Move 21 :
+2:41:50 PM
+danyperez92: Added a Medium Ring at Station [-2,1]
+Move 22 :
+2:43:17 PM
+simara12: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 23 :
+2:43:45 PM
+ptorru: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 24 :
+2:44:53 PM
+danyperez92: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 25 :
+2:45:08 PM
+simara12: Added a Small Ring at Station [1,1]
+Move 26 :
+2:45:22 PM
+ptorru: Added a Small Ring at Station [1,-1]
+Move 27 :
+2:45:43 PM
+danyperez92: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 28 :
+2:47:49 PM
+simara12: Added a Large Ring at Station [1,0]
+Move 29 :
+2:48:40 PM
+ptorru: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 30 :
+2:52:35 PM
+danyperez92: Moved a Base Post at Station [-2,1]
+danyperez92 has to remove 1 orphaned rings
+Move 31 :
+2:54:26 PM
+simara12: Added a Medium Ring at Station [1,-1]
+Move 32 :
+2:55:15 PM
+ptorru: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 33 :
+2:55:26 PM
+danyperez92: Added a Small Ring at Station [-1,0]
+Move 34 :
+2:56:45 PM
+simara12: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 35 :
+2:58:48 PM
+ptorru: Added a Large Ring at Station [1,-1]
+Move 36 :
+2:58:59 PM
+danyperez92: Added a Small Ring at Station [0,-1]
+Move 37 :
+3:00:07 PM
+simara12: Added a Medium Ring at Station [0,-1]
+Move 38 :
+3:00:25 PM
+ptorru: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 39 :
+3:01:49 PM
+danyperez92: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 40 :
+3:04:11 PM
+simara12: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 41 :
+3:04:39 PM
+ptorru: Added a Medium Ring at Station [1,1]
+Move 42 :
+3:05:37 PM
+danyperez92: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 43 :
+3:06:02 PM
+simara12: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+danyperez92 has to remove 1 orphaned rings
+Move 44 :
+3:07:42 PM
+ptorru: Moved a Base Post at Station [1,-1]
+ptorru has to remove 2 orphaned rings
+Move 45 :
+3:11:33 PM
+danyperez92: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 46 :
+3:12:01 PM
+simara12: Added a Medium Ring at Station [-1,0]
+Move 47 :
+3:12:24 PM
+ptorru: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 48 :
+3:12:51 PM
+danyperez92: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 49 :
+3:13:49 PM
+simara12: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 50 :
+3:13:58 PM
+ptorru: Added a Small Ring at Station [1,0]
+Move 51 :
+3:14:07 PM
+danyperez92: Added a Small Ring at Station [-1,1]
+Move 52 :
+3:14:35 PM
+simara12: Added a Large Ring at Station [-1,0]
+Move 53 :
+3:15:07 PM
+ptorru: Added a Medium Ring at Station [1,1]
+Move 54 :
+3:17:46 PM
+danyperez92: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+simara12 has to remove 2 orphaned rings
+Move 55 :
+3:18:51 PM
+simara12: Added a Small Ring at Station [0,-1]
+Move 56 :
+3:19:03 PM
+ptorru: Added a Large Ring at Station [0,-1]
+Move 57 :
+3:19:17 PM
+danyperez92: Added a Medium Ring at Station [-1,0]
+Move 58 :
+3:19:43 PM
+simara12: Added a Small Ring at Station [1,-2]
+Move 59 :
+3:20:01 PM
+ptorru: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 60 :
+3:21:08 PM
+danyperez92: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 61 :
+3:22:36 PM
+simara12: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 62 :
+3:22:54 PM
+ptorru: Added a Medium Ring at Station [1,0]
+Move 63 :
+3:23:25 PM
+danyperez92: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 64 :
+3:24:43 PM
+simara12: Added a Medium Ring at Station [1,-2]
+Move 65 :
+3:24:53 PM
+ptorru: Added a Small Ring at Station [0,1]
+Move 66 :
+3:25:18 PM
+danyperez92: Added a Large Ring at Station [0,1]
+Move 67 :
+3:26:00 PM
+simara12: Added a White Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 68 :
+3:26:25 PM
+ptorru: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 69 :
+3:27:02 PM
+danyperez92: Moved a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 70 :
+3:28:09 PM
+simara12: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 71 :
+3:28:24 PM
+ptorru: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 72 :
+3:30:54 PM
+danyperez92: Added a Medium Ring at Station [0,1]
+Move 73 :
+3:31:01 PM
+simara12: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+The end of the game: simara12 wins!

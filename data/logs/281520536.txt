@@ -1,0 +1,89 @@
+Move 1 : 7/7/2022 1:55:46 PM
+The colors of Morbo18 have been chosen according to their preferences. Change my preferences.
+Move 2 : 2:07:06 PM
+Morbo18: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 : 7/8/2022 3:14:57 AM
+Emphyrio: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 4 : 3:21:23 AM
+Morbo18: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 : 3:26:00 AM
+Emphyrio: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 : 3:29:50 AM
+Morbo18: Added a Small Ring at Station [0,1]
+Move 7 : 4:01:08 AM
+Emphyrio: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 8 : 4:16:29 AM
+Morbo18: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 : 4:28:18 AM
+Emphyrio: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 : 5:28:10 AM
+Morbo18: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 11 : 8:10:56 AM
+Emphyrio: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 : 8:49:25 AM
+Morbo18: Moved a Blocker at Station [1,-1] => [0,-1] Position:Right
+Move 13 : 9:53:36 AM
+Emphyrio: Added a Small Ring at Station [1,0]
+Move 14 : 10:03:38 AM
+Morbo18: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 15 : 12:36:43 PM
+Emphyrio: Added a Medium Ring at Station [1,0]
+Move 16 : 1:10:41 PM
+Morbo18: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 17 : 2:59:43 PM
+Emphyrio: Added a Large Ring at Station [1,0]
+Move 18 : 3:38:32 PM
+Morbo18: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 19 : 5:44:29 PM
+Emphyrio: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 : 11:25:19 PM
+Morbo18: Added a Medium Ring at Station [0,1]
+Move 21 : 7/9/2022 5:03:14 AM
+Emphyrio: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 22 : 6:39:32 AM
+Morbo18: Added a Large Ring at Station [0,1]
+Move 23 : 7/10/2022 4:23:26 AM
+Emphyrio: Added a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 24 : 7:04:13 AM
+Morbo18: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 25 : 8:39:09 AM
+Emphyrio: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 26 : 8:58:16 AM
+Morbo18: Added a Large Ring at Station [-1,0]
+Move 27 : 9:24:56 AM
+Emphyrio: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 28 : 1:51:35 PM
+Morbo18: Added a Medium Ring at Station [-1,-1]
+Move 29 : 2:26:41 PM
+Emphyrio: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 30 : 2:28:28 PM
+Morbo18: Added a Medium Ring at Station [-1,0]
+Move 31 : 2:34:23 PM
+Emphyrio: Added a White Bridge at Station [0,0] => [0,-1] Position:Right
+Move 32 : 2:35:23 PM
+Morbo18: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 33 : 2:36:45 PM
+Emphyrio: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 34 : 2:37:32 PM
+Morbo18: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 35 : 2:59:12 PM
+Emphyrio: Added a Small Ring at Station [1,1]
+Move 36 : 2:59:53 PM
+Morbo18: Added a Large Ring at Station [0,-1]
+Move 37 : 3:06:41 PM
+Emphyrio: Added a Medium Ring at Station [1,1]
+Move 38 : 3:15:29 PM
+Morbo18: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 39 : 3:25:39 PM
+Emphyrio: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 40 : 3:56:27 PM
+Morbo18: Added a Small Ring at Station [-1,-1]
+Move 41 : 7/11/2022 3:26:28 AM
+Emphyrio: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 42 : 4:36:30 AM
+Morbo18: Added a Medium Ring at Station [0,-1]
+Move 43 : 4:38:45 AM
+Emphyrio: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Right
+Move 44 : 4:58:42 AM
+Morbo18: Added a Small Ring at Station [1,-1]
+The end of the game: Morbo18 wins!

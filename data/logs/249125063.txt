@@ -1,0 +1,91 @@
+Game log
+Move 1 :3/11/2022 12:59:40 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :1:01:50 AM
+JonMD: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :6:29:29 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :7:06:01 AM
+JonMD: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :7:31:51 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :8:02:00 AM
+JonMD: Added a Small Ring at Station [-1,0]
+Move 7 :3/13/2022 7:01:55 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 8 :12:28:25 PM
+JonMD: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 9 :1:07:48 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 10 :3/14/2022 3:12:37 AM
+JonMD: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 11 :6:42:33 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 12 :1:16:32 PM
+JonMD: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 13 :3/17/2022 12:22:19 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 14 :2:33:45 AM
+JonMD: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :5:18:10 AM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 16 :5:18:48 AM
+JonMD: Added a Medium Ring at Station [0,-1]
+Move 17 :5:19:23 AM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+JonMD has to remove 2 orphaned rings
+Move 18 :5:21:06 AM
+JonMD: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 19 :6:18:22 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 20 :6:27:26 AM
+JonMD: Added a Small Ring at Station [-1,0]
+Move 21 :6:55:55 AM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 22 :3/18/2022 1:38:40 AM
+JonMD: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 23 :3/19/2022 11:27:46 AM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+JonMD has to remove 1 orphaned rings
+Move 24 :11:36:25 PM
+JonMD: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 25 :3/20/2022 8:07:47 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 26 :11:36:09 AM
+JonMD: Added a Small Ring at Station [0,1]
+Move 27 :12:10:53 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 28 :3/21/2022 1:50:28 AM
+JonMD: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 29 :3/22/2022 9:49:34 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 30 :3/23/2022 1:25:06 AM
+JonMD: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 31 :3/24/2022 3:50:36 PM
+tony1021: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 32 :3/25/2022 1:26:37 AM
+JonMD: Added a Small Ring at Station [1,1]
+Move 33 :3/26/2022 5:43:19 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :10:54:21 PM
+JonMD: Added a Small Ring at Station [1,0]
+Move 35 :3/28/2022 5:52:10 AM
+tony1021: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+JonMD has to remove 3 orphaned rings
+Move 36 :7:50:27 AM
+JonMD: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 37 :8:51:36 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 38 :1:26:25 PM
+JonMD: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 39 :7:04:40 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 40 :3/29/2022 12:34:49 AM
+JonMD: Added a Small Ring at Station [0,1]
+Move 41 :4:53:23 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 42 :5:27:08 AM
+JonMD: Moved a Base Post at Station [0,1]
+Move 43 :3/30/2022 10:32:40 AM
+tony1021: Added a Large Ring at Station [1,-1]
+The end of the game: tony1021 wins!

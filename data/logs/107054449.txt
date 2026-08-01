@@ -1,0 +1,190 @@
+Move 1 :
+8/15/2020 1:36:43 PM
+The colors of DeimosDown, Thanuhad have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:39:35 PM
+DeimosDown: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 3 :
+3:10:30 PM
+Thanuhad: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+3:11:10 PM
+DeimosDown: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 5 :
+3:25:27 PM
+Thanuhad: Added a Small Ring at Station [1,0]
+Move 6 :
+5:27:08 PM
+DeimosDown: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+11:08:22 PM
+Thanuhad: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+8/16/2020 4:14:36 AM
+DeimosDown: Added a Small Ring at Station [0,1]
+Move 9 :
+4:57:30 AM
+Thanuhad: Added a Small Ring at Station [1,1]
+Move 10 :
+5:39:10 AM
+DeimosDown: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 11 :
+1:32:14 PM
+Thanuhad: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 12 :
+8/17/2020 12:47:54 PM
+DeimosDown: Added a Medium Ring at Station [1,0]
+Move 13 :
+2:01:20 PM
+Thanuhad: Added a Medium Ring at Station [0,1]
+Move 14 :
+2:01:43 PM
+DeimosDown: Added a Medium Ring at Station [1,1]
+Move 15 :
+2:13:14 PM
+Thanuhad: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :
+2:17:47 PM
+DeimosDown: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 17 :
+2:19:23 PM
+Thanuhad: Added a Large Ring at Station [1,0]
+Move 18 :
+8/18/2020 3:05:22 PM
+DeimosDown: Added a Large Ring at Station [0,1]
+Move 19 :
+10:40:07 PM
+Thanuhad: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :
+8/19/2020 12:54:10 PM
+DeimosDown: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 21 :
+1:27:25 PM
+Thanuhad: Added a White Bridge at Station [0,0] => [-1,0] Position:Left
+Move 22 :
+2:03:13 PM
+DeimosDown: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 23 :
+9:30:54 PM
+Thanuhad: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 24 :
+8/21/2020 1:15:38 PM
+DeimosDown: Added a Large Ring at Station [-1,0]
+Move 25 :
+9:47:48 PM
+Thanuhad: Added a White Bridge at Station [0,0] => [0,-1] Position:Left
+Move 26 :
+8/22/2020 6:28:40 AM
+DeimosDown: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 27 :
+8:40:54 AM
+Thanuhad: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Left
+Move 28 :
+9:07:06 AM
+DeimosDown: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 29 :
+3:07:22 PM
+Thanuhad: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 30 :
+8/23/2020 7:42:36 AM
+DeimosDown: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 31 :
+8:19:45 AM
+Thanuhad: Added a Medium Ring at Station [-1,1]
+Move 32 :
+8:23:18 AM
+DeimosDown: Added a Small Ring at Station [-1,0]
+Move 33 :
+8:42:07 AM
+Thanuhad: Added a Medium Ring at Station [-1,0]
+Move 34 :
+9:46:23 AM
+DeimosDown: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 35 :
+10:09:41 AM
+Thanuhad: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 36 :
+1:01:11 PM
+DeimosDown: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 37 :
+2:35:36 PM
+Thanuhad: Added a Small Ring at Station [-1,-1]
+Move 38 :
+3:15:03 PM
+DeimosDown: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 39 :
+3:19:56 PM
+Thanuhad: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 40 :
+3:21:36 PM
+DeimosDown: Removed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Thanuhad has to remove 4 orphaned rings
+Move 41 :
+3:25:56 PM
+Thanuhad: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 42 :
+8/25/2020 2:01:46 PM
+DeimosDown: Added a Large Ring at Station [1,1]
+Move 43 :
+2:52:48 PM
+Thanuhad: Removed a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 44 :
+8/26/2020 3:01:50 PM
+DeimosDown: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 45 :
+11:16:08 PM
+Thanuhad: Added a Medium Ring at Station [0,1]
+Move 46 :
+8/28/2020 12:51:13 PM
+DeimosDown: Added a Medium Ring at Station [-1,0]
+Move 47 :
+1:57:24 PM
+Thanuhad: Added a Medium Ring at Station [-1,1]
+Move 48 :
+8/29/2020 4:10:56 AM
+DeimosDown: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 49 :
+4:38:01 AM
+Thanuhad: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 50 :
+8/30/2020 4:22:00 AM
+DeimosDown: Moved a Base Post at Station [1,0]
+DeimosDown has to remove 5 orphaned rings
+Move 51 :
+6:27:39 AM
+Thanuhad: Added a Small Ring at Station [-1,0]
+Move 52 :
+6:39:30 AM
+DeimosDown: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 53 :
+7:10:07 AM
+Thanuhad: Added a Small Ring at Station [-1,-1]
+Move 54 :
+9:25:40 AM
+DeimosDown: Added a Small Ring at Station [0,1]
+Move 55 :
+9:30:29 AM
+Thanuhad: Added a Small Ring at Station [0,-1]
+Move 56 :
+9:36:44 AM
+DeimosDown: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Thanuhad has to remove 8 orphaned rings
+Move 57 :
+9:49:38 AM
+Thanuhad: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 58 :
+9:51:45 AM
+DeimosDown: Added a Large Ring at Station [0,1]
+Move 59 :
+10:26:02 AM
+Thanuhad: Added a Large Ring at Station [1,0]
+Move 60 :
+10:30:00 AM
+DeimosDown: Added a Medium Ring at Station [0,1]
+Move 61 :
+10:32:19 AM
+Thanuhad: Added a Small Ring at Station [1,1]
+Move 62 :
+10:32:50 AM
+DeimosDown: Added a Large Ring at Station [-1,1]
+The end of the game: DeimosDown wins!

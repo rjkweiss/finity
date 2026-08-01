@@ -1,0 +1,131 @@
+Move 1 :
+5/3/2020 5:35:27 AM
+The colors of ollyfish2002 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+6:46:44 AM
+Iguana: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+8:34:11 AM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+10:27:34 AM
+Iguana: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 5 :
+10:31:52 AM
+ollyfish2002: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 6 :
+10:33:50 AM
+Iguana: Added a Small Ring at Station [0,1]
+Move 7 :
+10:34:48 AM
+ollyfish2002: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 8 :
+10:35:18 AM
+Iguana: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+10:35:45 AM
+ollyfish2002: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 10 :
+10:36:06 AM
+Iguana: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 11 :
+10:46:53 AM
+ollyfish2002: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 12 :
+10:52:37 AM
+Iguana: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :
+11:14:46 AM
+ollyfish2002: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+11:18:56 AM
+Iguana: Added a Small Ring at Station [1,0]
+Move 15 :
+11:53:11 AM
+ollyfish2002: Added a Medium Ring at Station [1,0]
+Move 16 :
+12:35:18 PM
+Iguana: Added a Medium Ring at Station [0,1]
+Move 17 :
+2:27:53 PM
+ollyfish2002: Added a Large Ring at Station [0,1]
+Move 18 :
+2:29:53 PM
+Iguana: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 19 :
+2:31:59 PM
+ollyfish2002: Added a Small Ring at Station [1,1]
+Move 20 :
+2:32:30 PM
+Iguana: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Left
+ollyfish2002 has to remove 1 orphaned rings
+Move 21 :
+11:40:39 PM
+ollyfish2002: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+11:51:07 PM
+Iguana: Added a Small Ring at Station [1,-1]
+Move 23 :
+5/4/2020 12:08:10 AM
+ollyfish2002: Added a Small Ring at Station [1,1]
+Move 24 :
+12:22:12 AM
+Iguana: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+ollyfish2002 has to remove 1 orphaned rings
+Move 25 :
+12:34:05 AM
+ollyfish2002: Added a Medium Ring at Station [-1,1]
+Move 26 :
+12:51:28 AM
+Iguana: Added a Large Ring at Station [1,0]
+Move 27 :
+12:52:29 AM
+ollyfish2002: Moved a Base Post at Station [1,1]
+ollyfish2002 has to remove 1 orphaned rings
+Move 28 :
+12:52:40 AM
+Iguana: Moved a Base Post at Station [1,-1]
+Move 29 :
+12:53:13 AM
+ollyfish2002: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 30 :
+12:53:28 AM
+Iguana: Added a Small Ring at Station [-1,1]
+Move 31 :
+12:53:36 AM
+ollyfish2002: Added a Medium Ring at Station [-1,1]
+Move 32 :
+12:53:42 AM
+Iguana: Added a Large Ring at Station [-1,1]
+Move 33 :
+12:54:16 AM
+ollyfish2002: Added a Large Ring at Station [1,-1]
+Move 34 :
+12:54:30 AM
+Iguana: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 35 :
+12:55:40 AM
+ollyfish2002: Moved a Base Post at Station [1,0]
+ollyfish2002 has to remove 2 orphaned rings
+Move 36 :
+12:55:58 AM
+Iguana: Moved a Base Post at Station [-1,1]
+Move 37 :
+12:56:42 AM
+ollyfish2002: Added a Small Ring at Station [1,1]
+Move 38 :
+12:57:42 AM
+Iguana: Added a Medium Ring at Station [1,1]
+Move 39 :
+1:03:11 AM
+ollyfish2002: Added a Large Ring at Station [1,1]
+Move 40 :
+1:05:18 AM
+Iguana: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 41 :
+1:05:44 AM
+ollyfish2002: Added a Large Ring at Station [0,1]
+Move 42 :
+1:05:51 AM
+Iguana: Added a Small Ring at Station [-1,0]
+The end of the game: Iguana wins!

@@ -1,0 +1,103 @@
+Move 2 :
+8/10/2020 11:09:11 AM
+shunpowpow: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+11:09:26 AM
+Irynaa: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+11:09:37 AM
+shunpowpow: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+11:09:45 AM
+Irynaa: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+11:09:53 AM
+shunpowpow: Added a Small Ring at Station [-1,0]
+Move 7 :
+11:10:00 AM
+Irynaa: Added a Small Ring at Station [1,0]
+Move 8 :
+11:10:23 AM
+shunpowpow: Added a Medium Ring at Station [-1,0]
+Move 9 :
+11:11:42 AM
+Irynaa: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 10 :
+11:12:01 AM
+shunpowpow: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 11 :
+11:12:19 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :
+11:12:29 AM
+shunpowpow: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+11:14:21 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 14 :
+11:14:36 AM
+shunpowpow: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :
+11:14:43 AM
+Irynaa: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 16 :
+11:14:57 AM
+shunpowpow: Added a Small Ring at Station [-1,-1]
+Move 17 :
+11:15:37 AM
+Irynaa: Added a Small Ring at Station [0,1]
+Move 18 :
+11:16:05 AM
+shunpowpow: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 19 :
+11:16:36 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 20 :
+11:16:41 AM
+shunpowpow: Added a Medium Ring at Station [0,1]
+Move 21 :
+11:17:40 AM
+Irynaa: Added a Large Ring at Station [0,1]
+Move 22 :
+11:17:49 AM
+shunpowpow: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 23 :
+11:18:30 AM
+Irynaa: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 24 :
+11:18:43 AM
+shunpowpow: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 25 :
+11:18:50 AM
+Irynaa: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 26 :
+11:18:58 AM
+shunpowpow: Added a Small Ring at Station [0,-1]
+Move 27 :
+11:19:15 AM
+Irynaa: Added a Medium Ring at Station [1,0]
+Move 28 :
+11:19:36 AM
+shunpowpow: Added a Medium Ring at Station [0,-1]
+Move 29 :
+11:20:44 AM
+Irynaa: Moved a Base Post at Station [1,1]
+Move 30 :
+11:21:49 AM
+shunpowpow: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 31 :
+11:22:57 AM
+Irynaa: Added a Large Ring at Station [1,0]
+Move 32 :
+11:23:17 AM
+shunpowpow: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 33 :
+11:23:25 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 34 :
+11:23:31 AM
+shunpowpow: Added a Large Ring at Station [0,-1]
+Move 35 :
+11:24:39 AM
+Irynaa: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: Irynaa wins!

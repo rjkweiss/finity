@@ -1,0 +1,110 @@
+Move 1 :
+5/30/2020 4:33:06 PM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+4:39:38 PM
+bloodies: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+5/31/2020 2:49:36 AM
+whotimwait: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+12:58:04 PM
+bloodies: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 5 :
+2:17:25 PM
+whotimwait: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 6 :
+6:07:07 PM
+bloodies: Added a Small Ring at Station [-1,0]
+Move 7 :
+9:02:54 PM
+whotimwait: Added a Small Ring at Station [0,-1]
+Move 8 :
+9:17:59 PM
+bloodies: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 9 :
+10:13:25 PM
+whotimwait: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 10 :
+10:14:50 PM
+bloodies: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 11 :
+10:45:31 PM
+whotimwait: Moved a Base Post at Station [0,-1]
+Move 12 :
+6/1/2020 8:04:56 AM
+bloodies: Added a Small Ring at Station [-1,-1]
+Move 13 :
+8:07:23 AM
+whotimwait: Added a Small Ring at Station [1,-1]
+Move 14 :
+8:07:46 AM
+bloodies: Moved a Base Post at Station [-1,-1]
+Move 15 :
+8:08:28 AM
+whotimwait: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 16 :
+8:09:05 AM
+bloodies: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 17 :
+8:09:31 AM
+whotimwait: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 18 :
+8:09:51 AM
+bloodies: Added a Small Ring at Station [-1,1]
+Move 19 :
+8:10:14 AM
+whotimwait: Added a Medium Ring at Station [1,-1]
+Move 20 :
+8:10:57 AM
+bloodies: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 21 :
+8:11:04 AM
+whotimwait: Added a Small Ring at Station [1,0]
+Move 22 :
+8:11:35 AM
+bloodies: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+whotimwait has to remove 1 orphaned rings
+Move 23 :
+8:11:46 AM
+whotimwait: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 24 :
+8:12:01 AM
+bloodies: Added a Small Ring at Station [0,1]
+Move 25 :
+8:12:08 AM
+whotimwait: Added a Small Ring at Station [1,0]
+Move 26 :
+8:13:35 AM
+bloodies: Added a Medium Ring at Station [-1,1]
+Move 27 :
+8:15:49 AM
+whotimwait: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 28 :
+8:16:08 AM
+bloodies: Added a Medium Ring at Station [-1,0]
+Move 29 :
+8:18:13 AM
+whotimwait: Added a Medium Ring at Station [1,0]
+Move 30 :
+8:18:41 AM
+bloodies: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 31 :
+8:19:55 AM
+whotimwait: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 32 :
+8:20:17 AM
+bloodies: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 33 :
+8:20:45 AM
+whotimwait: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 34 :
+8:20:55 AM
+bloodies: Added a Medium Ring at Station [0,-1]
+Move 35 :
+8:21:23 AM
+whotimwait: Added a Small Ring at Station [1,1]
+Move 36 :
+8:21:31 AM
+bloodies: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+The end of the game: bloodies wins!

@@ -1,0 +1,143 @@
+Move 1 :
+8/10/2020 6:56:31 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+6:58:34 AM
+order2020: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+6:59:13 AM
+Nagasaki Unv: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 4 :
+6:59:29 AM
+order2020: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :
+6:59:50 AM
+Nagasaki Unv: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 6 :
+7:00:08 AM
+order2020: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 7 :
+7:00:19 AM
+Nagasaki Unv: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+7:00:30 AM
+order2020: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 9 :
+7:00:39 AM
+Nagasaki Unv: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 10 :
+7:01:18 AM
+order2020: Added a Large Ring at Station [-1,0]
+Move 11 :
+7:01:30 AM
+Nagasaki Unv: Added a Large Ring at Station [1,0]
+Move 12 :
+7:01:36 AM
+order2020: Added a Large Ring at Station [-1,-1]
+Move 13 :
+7:01:50 AM
+Nagasaki Unv: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 14 :
+7:02:02 AM
+order2020: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 15 :
+7:04:47 AM
+Nagasaki Unv: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 16 :
+7:05:02 AM
+order2020: Added a Medium Ring at Station [0,-1]
+Move 17 :
+7:05:08 AM
+Nagasaki Unv: Moved a Base Post at Station [1,0]
+Move 18 :
+7:05:18 AM
+order2020: Added a Small Ring at Station [1,-1]
+Move 19 :
+7:05:53 AM
+Nagasaki Unv: Moved a Base Post at Station [1,-1]
+Move 20 :
+7:06:03 AM
+order2020: Added a Small Ring at Station [1,0]
+Move 21 :
+7:06:10 AM
+Nagasaki Unv: Moved a Base Post at Station [1,0]
+Move 22 :
+7:06:26 AM
+order2020: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 23 :
+7:06:34 AM
+Nagasaki Unv: Added a Large Ring at Station [1,-1]
+Move 24 :
+7:06:43 AM
+order2020: Added a Medium Ring at Station [1,1]
+Move 25 :
+7:06:48 AM
+Nagasaki Unv: Added a Medium Ring at Station [1,-1]
+Move 26 :
+7:07:00 AM
+order2020: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 27 :
+7:09:02 AM
+Nagasaki Unv: Moved a Base Post at Station [1,-1]
+Move 28 :
+7:09:18 AM
+order2020: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 29 :
+7:09:41 AM
+Nagasaki Unv: Reversed a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 30 :
+7:09:50 AM
+order2020: Added a Small Ring at Station [0,1]
+Move 31 :
+7:10:10 AM
+Nagasaki Unv: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+order2020 has to remove 7 orphaned rings
+Move 32 :
+7:10:44 AM
+order2020: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 33 :
+7:11:07 AM
+Nagasaki Unv: Added a Medium Ring at Station [1,0]
+Move 34 :
+7:11:24 AM
+order2020: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 35 :
+7:11:41 AM
+Nagasaki Unv: Added a Large Ring at Station [0,-1]
+Move 36 :
+7:12:42 AM
+order2020: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 37 :
+7:13:03 AM
+Nagasaki Unv: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 38 :
+7:13:29 AM
+order2020: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 39 :
+7:13:36 AM
+Nagasaki Unv: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 40 :
+7:13:49 AM
+order2020: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 41 :
+7:13:55 AM
+Nagasaki Unv: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 42 :
+7:14:19 AM
+order2020: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 43 :
+7:14:35 AM
+Nagasaki Unv: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 44 :
+7:14:43 AM
+order2020: Added a Medium Ring at Station [-1,0]
+Move 45 :
+7:14:47 AM
+Nagasaki Unv: Added a Large Ring at Station [1,1]
+Move 46 :
+7:15:00 AM
+order2020: Added a Small Ring at Station [-1,-1]
+Move 47 :
+7:15:05 AM
+Nagasaki Unv: Added a Large Ring at Station [0,1]
+The end of the game: Nagasaki Unv wins!

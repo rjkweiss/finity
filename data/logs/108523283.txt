@@ -1,0 +1,303 @@
+Move 2 :
+8/23/2020 8:32:52 PM
+insertname78: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 3 :
+8:33:21 PM
+Chuckleberry Finn: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 4 :
+8:33:54 PM
+eugen3: Added a Black Bridge at Station [0,1] => [-1,2] Position:Right
+Move 5 :
+8:34:10 PM
+AmadeusAmadeus: Added a Black Bridge at Station [1,0] => [2,-1] Position:Left
+Move 6 :
+8:34:27 PM
+insertname78: Added a Large Ring at Station [-2,1]
+Move 7 :
+8:34:37 PM
+Chuckleberry Finn: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 8 :
+8:36:14 PM
+eugen3: Added a Large Ring at Station [-1,2]
+Move 9 :
+8:36:24 PM
+AmadeusAmadeus: Added a White Bridge at Station [2,-1] => [1,0] Position:Left
+Move 10 :
+8:36:50 PM
+insertname78: Added a White Bridge at Station [-2,1] => [-1,1] Position:Right
+Move 11 :
+8:36:58 PM
+Chuckleberry Finn: Added a Large Ring at Station [1,-2]
+Move 12 :
+8:37:32 PM
+eugen3: Added a White Bridge at Station [-1,2] => [-1,1] Position:Left
+Move 13 :
+8:37:44 PM
+AmadeusAmadeus: Added a Large Ring at Station [2,-1]
+Move 14 :
+8:38:09 PM
+insertname78: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 15 :
+8:38:53 PM
+Chuckleberry Finn: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 16 :
+8:39:33 PM
+eugen3: Added a Large Ring at Station [-1,1]
+Move 17 :
+8:40:01 PM
+AmadeusAmadeus: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 18 :
+8:40:07 PM
+insertname78: Added a Medium Ring at Station [-1,1]
+Move 19 :
+8:40:14 PM
+Chuckleberry Finn: Added a Large Ring at Station [1,-1]
+Move 20 :
+8:40:44 PM
+eugen3: Added a Small Ring at Station [-1,1]
+Move 21 :
+8:40:58 PM
+AmadeusAmadeus: Added a Large Ring at Station [1,1]
+Move 22 :
+8:41:37 PM
+insertname78: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 23 :
+8:41:54 PM
+Chuckleberry Finn: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 24 :
+8:42:10 PM
+eugen3: Added a Medium Ring at Station [-2,1]
+Move 25 :
+8:42:52 PM
+AmadeusAmadeus: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 26 :
+8:43:07 PM
+insertname78: Added a Small Ring at Station [-2,1]
+Move 27 :
+8:43:19 PM
+Chuckleberry Finn: Added a Medium Ring at Station [1,-2]
+Move 28 :
+8:45:25 PM
+eugen3: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 29 :
+8:47:40 PM
+AmadeusAmadeus: Added a Medium Ring at Station [2,-1]
+Move 30 :
+8:48:45 PM
+insertname78: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 31 :
+8:50:30 PM
+Chuckleberry Finn: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 32 :
+8:51:54 PM
+eugen3: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 33 :
+8:52:24 PM
+AmadeusAmadeus: Moved a Base Post at Station [2,-1]
+AmadeusAmadeus has to remove 1 orphaned rings
+Move 34 :
+8:53:30 PM
+insertname78: Moved a Base Post at Station [-2,1]
+insertname78 has to remove 1 orphaned rings
+Move 35 :
+8:53:57 PM
+Chuckleberry Finn: Added a Black Bridge at Station [1,-1] => [2,-1] Position:Right
+Move 36 :
+8:56:43 PM
+eugen3: Added a Medium Ring at Station [-1,1]
+Move 37 :
+8:57:20 PM
+AmadeusAmadeus: Reversed a Black Bridge at Station [1,0] => [2,-1] Position:Left
+Move 38 :
+8:57:32 PM
+insertname78: Reversed a White Bridge at Station [-1,2] => [-1,1] Position:Left
+eugen3 has to remove 4 orphaned rings
+Move 39 :
+8:58:14 PM
+Chuckleberry Finn: Moved a Base Post at Station [1,-2]
+Move 40 :
+8:59:00 PM
+eugen3: Reversed a White Bridge at Station [-1,1] => [-1,2] Position:Right
+Move 41 :
+8:59:07 PM
+AmadeusAmadeus: Added a Large Ring at Station [1,0]
+Move 42 :
+8:59:32 PM
+insertname78: Reversed a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 43 :
+8:59:57 PM
+Chuckleberry Finn: Reversed a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 44 :
+9:00:52 PM
+eugen3: Added a Large Ring at Station [-1,1]
+Move 45 :
+9:00:58 PM
+AmadeusAmadeus: Reversed a White Bridge at Station [2,-1] => [1,0] Position:Left
+Move 46 :
+9:01:04 PM
+insertname78: Added a Small Ring at Station [-1,1]
+Move 47 :
+9:01:10 PM
+Chuckleberry Finn: Added a Large Ring at Station [0,-1]
+Move 48 :
+9:02:19 PM
+eugen3: Moved a Base Post at Station [-1,1]
+eugen3 has to remove 1 orphaned rings
+Move 49 :
+9:03:04 PM
+AmadeusAmadeus: Added a Small Ring at Station [1,0]
+Move 50 :
+9:03:27 PM
+insertname78: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 51 :
+9:03:40 PM
+Chuckleberry Finn: Added a Medium Ring at Station [0,-1]
+Move 52 :
+9:03:48 PM
+eugen3: Added a Large Ring at Station [0,1]
+Move 53 :
+9:04:20 PM
+AmadeusAmadeus: Added a Medium Ring at Station [1,0]
+Move 54 :
+9:04:41 PM
+insertname78: Added a Small Ring at Station [-1,0]
+Move 55 :
+9:04:49 PM
+Chuckleberry Finn: Moved a Base Post at Station [0,-1]
+Move 56 :
+9:05:01 PM
+eugen3: Reversed a Black Bridge at Station [2,-1] => [1,0] Position:Right
+AmadeusAmadeus has to remove 3 orphaned rings
+Move 57 :
+9:05:48 PM
+AmadeusAmadeus: Moved a Base Post at Station [1,0]
+Move 58 :
+9:05:58 PM
+insertname78: Added a Large Ring at Station [-1,0]
+Move 59 :
+9:06:29 PM
+Chuckleberry Finn: Reversed a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 60 :
+9:08:14 PM
+eugen3: Reversed a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+insertname78 has to remove 3 orphaned rings
+Move 61 :
+9:08:30 PM
+AmadeusAmadeus: Added a White Bridge at Station [2,-1] => [1,0] Position:Middle
+Move 62 :
+9:09:29 PM
+insertname78: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 63 :
+9:09:37 PM
+Chuckleberry Finn: Added a Small Ring at Station [2,-1]
+Move 64 :
+9:09:47 PM
+eugen3: Added a Medium Ring at Station [-2,1]
+Move 65 :
+9:10:01 PM
+AmadeusAmadeus: Moved a Base Post at Station [2,-1]
+Move 66 :
+9:10:25 PM
+insertname78: Added a Small Ring at Station [-1,1]
+Move 67 :
+9:10:42 PM
+Chuckleberry Finn: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 68 :
+9:11:17 PM
+eugen3: Added a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 69 :
+9:11:42 PM
+AmadeusAmadeus: Removed a Black Bridge at Station [1,-1] => [2,-1] Position:Right
+Chuckleberry Finn has to remove 1 orphaned rings
+Move 70 :
+9:12:58 PM
+insertname78: Added a Small Ring at Station [-1,0]
+Move 71 :
+9:13:07 PM
+Chuckleberry Finn: Added a Medium Ring at Station [1,-1]
+Move 72 :
+9:13:23 PM
+eugen3: Added a Small Ring at Station [-1,2]
+Move 73 :
+9:14:41 PM
+AmadeusAmadeus: Added a Small Ring at Station [1,-1]
+Move 74 :
+9:14:52 PM
+insertname78: Added a Medium Ring at Station [-1,0]
+Move 75 :
+9:16:56 PM
+Chuckleberry Finn: Reversed a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+AmadeusAmadeus has to remove 1 orphaned rings
+Move 76 :
+9:18:11 PM
+eugen3: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 77 :
+9:21:04 PM
+AmadeusAmadeus: Reversed a Black Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 78 :
+9:21:41 PM
+insertname78: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 79 :
+9:21:48 PM
+Chuckleberry Finn: Added a Small Ring at Station [1,-1]
+Move 80 :
+9:24:25 PM
+eugen3: Added a Small Ring at Station [0,1]
+Move 81 :
+9:25:09 PM
+AmadeusAmadeus: Added a White Bridge at Station [1,-1] => [2,-1] Position:Right
+Move 82 :
+9:25:45 PM
+insertname78: Added a Small Ring at Station [0,-1]
+Move 83 :
+9:26:12 PM
+Chuckleberry Finn: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 84 :
+9:26:50 PM
+eugen3: Added a Medium Ring at Station [0,1]
+Move 85 :
+9:28:01 PM
+AmadeusAmadeus: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Chuckleberry Finn has to remove 3 orphaned rings
+Move 86 :
+9:28:15 PM
+insertname78: Added a Small Ring at Station [1,-2]
+Move 87 :
+9:29:37 PM
+Chuckleberry Finn: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 88 :
+9:29:56 PM
+eugen3: Reversed a Black Bridge at Station [0,1] => [-1,2] Position:Right
+Move 89 :
+9:31:26 PM
+AmadeusAmadeus: Added a Small Ring at Station [1,-1]
+Move 90 :
+9:31:34 PM
+insertname78: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 91 :
+9:31:53 PM
+Chuckleberry Finn: Moved a Base Post at Station [1,-1]
+Chuckleberry Finn has to remove 2 orphaned rings
+Move 92 :
+9:32:01 PM
+eugen3: Added a Small Ring at Station [1,1]
+Move 93 :
+9:32:58 PM
+AmadeusAmadeus: Added a Medium Ring at Station [1,-1]
+Move 94 :
+9:33:07 PM
+insertname78: Added a Large Ring at Station [1,-1]
+Move 95 :
+9:34:56 PM
+Chuckleberry Finn: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+eugen3 has to remove 4 orphaned rings
+Move 96 :
+9:35:15 PM
+eugen3: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 97 :
+9:35:41 PM
+AmadeusAmadeus: Reversed a Black Bridge at Station [1,0] => [2,-1] Position:Left
+Move 98 :
+9:35:48 PM
+insertname78: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: insertname78 wins!

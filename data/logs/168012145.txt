@@ -1,0 +1,121 @@
+Game log
+Move 1 :4/28/2021 10:48:10 AM
+The colors of Rowanb, tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :11:20:31 AM
+Rowanb: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :11:23:18 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :11:24:50 AM
+Rowanb: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :11:59:58 AM
+tony1021: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 6 :1:08:21 PM
+Rowanb: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :1:57:38 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :9:28:52 PM
+Rowanb: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :4/29/2021 6:10:59 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 10 :8:33:22 AM
+Rowanb: Added a Small Ring at Station [-1,0]
+Move 11 :10:55:29 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 12 :11:33:52 AM
+Rowanb: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 13 :12:09:30 PM
+tony1021: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 14 :12:11:21 PM
+Rowanb: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 15 :4:32:48 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 16 :9:39:37 PM
+Rowanb: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 17 :4/30/2021 6:03:15 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 18 :9:40:25 AM
+Rowanb: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 19 :7:40:33 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :5/1/2021 10:48:18 AM
+Rowanb: Added a Medium Ring at Station [-1,0]
+Move 21 :12:07:38 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 22 :5/2/2021 12:01:17 AM
+Rowanb: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 23 :5:56:04 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 24 :6:00:57 AM
+Rowanb: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 25 :9:10:59 AM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 26 :5/3/2021 1:28:31 AM
+Rowanb: Added a Small Ring at Station [-1,-1]
+Move 27 :10:20:10 AM
+tony1021: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Rowanb has to remove 1 orphaned rings
+Move 28 :10:25:42 AM
+Rowanb: Added a Small Ring at Station [0,-1]
+Move 29 :10:28:21 AM
+tony1021: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Rowanb has to remove 1 orphaned rings
+Move 30 :10:31:16 AM
+Rowanb: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 31 :12:13:09 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 32 :5/4/2021 2:30:09 AM
+Rowanb: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 33 :5:32:19 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 34 :5/5/2021 2:21:03 AM
+Rowanb: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 35 :5:37:00 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 36 :11:51:10 AM
+Rowanb: Removed a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 37 :10:03:54 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 38 :5/6/2021 12:39:22 AM
+Rowanb: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 39 :5:22:48 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 40 :12:05:21 PM
+Rowanb: Added a Large Ring at Station [0,-1]
+Move 41 :7:32:00 PM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 42 :5/7/2021 10:44:23 AM
+Rowanb: Moved a Base Post at Station [0,-1]
+Rowanb has to remove 2 orphaned rings
+Move 43 :11:49:08 AM
+tony1021: Moved a Base Post at Station [1,-1]
+Move 44 :5/8/2021 5:24:37 AM
+Rowanb: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+tony1021 has to remove 2 orphaned rings
+Move 45 :7:47:46 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 46 :10:48:32 AM
+Rowanb: Added a Small Ring at Station [-1,-1]
+Move 47 :5/9/2021 7:46:46 PM
+tony1021: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 48 :10:26:02 PM
+Rowanb: Added a Medium Ring at Station [-1,-1]
+Move 49 :5/10/2021 5:46:59 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 50 :5/11/2021 1:19:43 AM
+Rowanb: Moved a Base Post at Station [-1,-1]
+Rowanb has to remove 1 orphaned rings
+Move 51 :5/12/2021 6:19:41 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 52 :5/13/2021 2:12:24 AM
+Rowanb: Added a Small Ring at Station [-1,0]
+Move 53 :7:05:31 AM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 54 :10:27:19 AM
+Rowanb: Added a Small Ring at Station [0,-1]
+Move 55 :10:45:12 AM
+tony1021: Added a Large Ring at Station [1,0]
+Move 56 :10:48:27 AM
+Rowanb: Added a Medium Ring at Station [-1,0]
+Move 57 :12:39:51 PM
+tony1021: Moved a Base Post at Station [1,0]
+The end of the game: tony1021 wins!

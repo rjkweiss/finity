@@ -1,0 +1,145 @@
+Move 1 :
+8/10/2020 6:24:29 PM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :
+6:25:10 PM
+Flowerofmarch: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+6:25:20 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+6:25:30 PM
+Flowerofmarch: Added a Small Ring at Station [-1,0]
+Move 5 :
+6:25:51 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :
+6:26:24 PM
+Flowerofmarch: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+6:26:39 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 8 :
+6:27:02 PM
+Flowerofmarch: Added a Small Ring at Station [0,-1]
+Move 9 :
+6:27:11 PM
+SixPigeons: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Flowerofmarch has to remove 2 orphaned rings
+Move 10 :
+6:28:11 PM
+Flowerofmarch: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 11 :
+6:28:37 PM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 12 :
+6:29:12 PM
+Flowerofmarch: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 13 :
+6:29:59 PM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 14 :
+6:30:15 PM
+Flowerofmarch: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :
+6:30:40 PM
+SixPigeons: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 16 :
+6:30:50 PM
+Flowerofmarch: Added a Small Ring at Station [0,1]
+Move 17 :
+6:30:59 PM
+SixPigeons: Added a Small Ring at Station [0,-1]
+Move 18 :
+6:31:34 PM
+Flowerofmarch: Added a Medium Ring at Station [0,1]
+Move 19 :
+6:31:42 PM
+SixPigeons: Added a Medium Ring at Station [0,-1]
+Move 20 :
+6:33:37 PM
+Flowerofmarch: Removed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 21 :
+6:34:01 PM
+SixPigeons: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Flowerofmarch has to remove 2 orphaned rings
+Move 22 :
+6:35:06 PM
+Flowerofmarch: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 23 :
+6:35:17 PM
+SixPigeons: Added a Large Ring at Station [0,-1]
+Move 24 :
+6:35:39 PM
+Flowerofmarch: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 25 :
+6:35:56 PM
+SixPigeons: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 26 :
+6:36:05 PM
+Flowerofmarch: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 27 :
+6:36:24 PM
+SixPigeons: Moved a Base Post at Station [0,-1]
+Move 28 :
+6:37:03 PM
+Flowerofmarch: Added a Small Ring at Station [0,1]
+Move 29 :
+6:37:19 PM
+SixPigeons: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 30 :
+6:38:35 PM
+Flowerofmarch: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 31 :
+6:38:55 PM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 32 :
+6:39:13 PM
+Flowerofmarch: Added a Small Ring at Station [1,1]
+Move 33 :
+6:39:40 PM
+SixPigeons: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Flowerofmarch has to remove 2 orphaned rings
+Move 34 :
+6:39:55 PM
+Flowerofmarch: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 35 :
+6:40:07 PM
+SixPigeons: Added a Medium Ring at Station [1,-1]
+Move 36 :
+6:40:34 PM
+Flowerofmarch: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Right
+Move 37 :
+6:40:56 PM
+SixPigeons: Moved a Base Post at Station [1,-1]
+Move 38 :
+6:41:34 PM
+Flowerofmarch: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 39 :
+6:42:55 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 40 :
+6:44:45 PM
+Flowerofmarch: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 41 :
+6:45:05 PM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+Move 42 :
+6:46:01 PM
+Flowerofmarch: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 43 :
+6:46:53 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 44 :
+6:47:34 PM
+Flowerofmarch: Added a Small Ring at Station [-1,0]
+Move 45 :
+6:47:53 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 46 :
+6:48:26 PM
+Flowerofmarch: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 47 :
+6:49:47 PM
+SixPigeons: Added a Small Ring at Station [1,0]
+The end of the game: SixPigeons wins!

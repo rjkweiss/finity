@@ -1,0 +1,88 @@
+Move 2 :
+8/10/2020 11:38:55 AM
+shirin-g: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+11:39:05 AM
+Irynaa: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+11:39:24 AM
+shirin-g: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+11:39:39 AM
+Irynaa: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+11:39:53 AM
+shirin-g: Added a Large Ring at Station [-1,0]
+Move 7 :
+11:40:07 AM
+Irynaa: Added a Small Ring at Station [1,0]
+Move 8 :
+11:40:34 AM
+shirin-g: Moved a Base Post at Station [-1,0]
+Move 9 :
+11:40:51 AM
+Irynaa: Moved a Base Post at Station [1,0]
+Move 10 :
+11:41:00 AM
+shirin-g: Added a Large Ring at Station [-1,1]
+Move 11 :
+11:41:15 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 12 :
+11:41:26 AM
+shirin-g: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+11:42:32 AM
+Irynaa: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 14 :
+11:42:43 AM
+shirin-g: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :
+11:42:51 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 16 :
+11:43:14 AM
+shirin-g: Added a Medium Ring at Station [-1,1]
+Move 17 :
+11:43:22 AM
+Irynaa: Added a Small Ring at Station [0,1]
+Move 18 :
+11:43:49 AM
+shirin-g: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 19 :
+11:43:58 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 20 :
+11:44:05 AM
+shirin-g: Added a Large Ring at Station [0,1]
+Move 21 :
+11:44:14 AM
+Irynaa: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+11:44:23 AM
+shirin-g: Added a Medium Ring at Station [0,1]
+Move 23 :
+11:44:33 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 24 :
+11:45:04 AM
+shirin-g: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 25 :
+11:48:19 AM
+Irynaa: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 26 :
+11:48:31 AM
+shirin-g: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 27 :
+11:49:00 AM
+Irynaa: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 28 :
+11:49:08 AM
+shirin-g: Added a Large Ring at Station [1,0]
+Move 29 :
+11:49:59 AM
+Irynaa: Moved a Base Post at Station [0,-1]
+Move 30 :
+11:50:09 AM
+shirin-g: Added a Small Ring at Station [-1,1]
+The end of the game: shirin-g wins!

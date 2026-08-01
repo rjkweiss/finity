@@ -1,0 +1,180 @@
+Move 1 :
+8/11/2020 10:12:04 AM
+The colors of Irynaa have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:12:20 AM
+Andy99: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+10:12:31 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+10:12:41 AM
+Andy99: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 5 :
+10:12:48 AM
+Irynaa: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+10:12:59 AM
+Andy99: Added a Large Ring at Station [-1,0]
+Move 7 :
+10:13:06 AM
+Irynaa: Added a Small Ring at Station [1,0]
+Move 8 :
+10:13:14 AM
+Andy99: Moved a Base Post at Station [-1,0]
+Move 9 :
+10:13:22 AM
+Irynaa: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 10 :
+10:13:42 AM
+Andy99: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+10:13:50 AM
+Irynaa: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 12 :
+10:14:00 AM
+Andy99: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 13 :
+10:14:07 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 14 :
+10:14:32 AM
+Andy99: Added a Small Ring at Station [-1,1]
+Move 15 :
+10:15:29 AM
+Irynaa: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 16 :
+10:16:29 AM
+Andy99: Added a Small Ring at Station [0,1]
+Move 17 :
+10:16:43 AM
+Irynaa: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 18 :
+10:18:15 AM
+Andy99: Added a Medium Ring at Station [-1,1]
+Move 19 :
+10:18:37 AM
+Irynaa: Added a Medium Ring at Station [1,0]
+Move 20 :
+10:19:30 AM
+Andy99: Added a Large Ring at Station [-1,1]
+Move 21 :
+10:19:36 AM
+Irynaa: Added a Large Ring at Station [1,0]
+Move 22 :
+10:19:43 AM
+Andy99: Moved a Base Post at Station [-1,1]
+Andy99 has to remove 1 orphaned rings
+Move 23 :
+10:19:53 AM
+Irynaa: Added a Small Ring at Station [0,1]
+Move 24 :
+10:20:45 AM
+Andy99: Moved a Base Post at Station [-1,0]
+Move 25 :
+10:21:08 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 26 :
+10:21:14 AM
+Andy99: Added a Medium Ring at Station [0,1]
+Move 27 :
+10:21:21 AM
+Irynaa: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 28 :
+10:21:39 AM
+Andy99: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 29 :
+10:21:59 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 30 :
+10:22:12 AM
+Andy99: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 31 :
+10:22:24 AM
+Irynaa: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 32 :
+10:22:38 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 33 :
+10:22:46 AM
+Irynaa: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 34 :
+10:22:53 AM
+Andy99: Added a Small Ring at Station [-1,-1]
+Move 35 :
+10:23:22 AM
+Irynaa: Added a Medium Ring at Station [-1,-1]
+Move 36 :
+10:23:50 AM
+Andy99: Removed a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Irynaa has to remove 1 orphaned rings
+Move 37 :
+10:24:00 AM
+Irynaa: Moved a Base Post at Station [1,0]
+Irynaa has to remove 2 orphaned rings
+Move 38 :
+10:25:11 AM
+Andy99: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 39 :
+10:25:17 AM
+Irynaa: Moved a Base Post at Station [0,1]
+Move 40 :
+10:25:41 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 41 :
+10:25:47 AM
+Irynaa: Added a Small Ring at Station [1,1]
+Move 42 :
+10:26:14 AM
+Andy99: Added a Small Ring at Station [0,-1]
+Move 43 :
+10:26:24 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 44 :
+10:26:57 AM
+Andy99: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 45 :
+10:27:12 AM
+Irynaa: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 46 :
+10:27:53 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 47 :
+10:28:19 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 48 :
+10:28:59 AM
+Andy99: Added a Medium Ring at Station [1,-1]
+Move 49 :
+10:29:27 AM
+Irynaa: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Andy99 has to remove 1 orphaned rings
+Move 50 :
+10:29:41 AM
+Andy99: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 51 :
+10:29:50 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 52 :
+10:30:14 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 53 :
+10:30:49 AM
+Irynaa: Added a Medium Ring at Station [0,-1]
+Move 54 :
+10:31:00 AM
+Andy99: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Irynaa has to remove 1 orphaned rings
+Move 55 :
+10:31:15 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 56 :
+10:31:36 AM
+Andy99: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 57 :
+10:32:13 AM
+Irynaa: Added a Medium Ring at Station [0,-1]
+Move 58 :
+10:32:21 AM
+Andy99: Added a Medium Ring at Station [1,-1]
+The end of the game: Andy99 wins!

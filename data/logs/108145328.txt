@@ -1,0 +1,120 @@
+Move 2 :
+8/21/2020 5:37:36 PM
+Reefwood: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+5:38:07 PM
+JMartin1618: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+5:39:20 PM
+Reefwood: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+5:41:02 PM
+JMartin1618: Added a Small Ring at Station [0,-1]
+Move 6 :
+5:42:34 PM
+Reefwood: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :
+5:44:38 PM
+JMartin1618: Moved a Base Post at Station [0,-1]
+Move 8 :
+5:45:00 PM
+Reefwood: Added a Small Ring at Station [0,1]
+Move 9 :
+5:45:22 PM
+JMartin1618: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :
+5:45:37 PM
+Reefwood: Added a Medium Ring at Station [0,1]
+Move 11 :
+5:45:55 PM
+JMartin1618: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 12 :
+5:46:05 PM
+Reefwood: Moved a Base Post at Station [0,1]
+Move 13 :
+5:46:19 PM
+JMartin1618: Added a Small Ring at Station [1,-1]
+Move 14 :
+5:46:38 PM
+Reefwood: Added a Small Ring at Station [-1,1]
+Move 15 :
+5:46:56 PM
+JMartin1618: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 16 :
+5:47:10 PM
+Reefwood: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 17 :
+5:48:54 PM
+JMartin1618: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 18 :
+5:49:17 PM
+Reefwood: Moved a Base Post at Station [-1,1]
+Move 19 :
+5:49:35 PM
+JMartin1618: Added a Small Ring at Station [-1,-1]
+Move 20 :
+5:49:45 PM
+Reefwood: Added a Small Ring at Station [-1,0]
+Move 21 :
+5:50:56 PM
+JMartin1618: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 22 :
+5:51:13 PM
+Reefwood: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+JMartin1618 has to remove 1 orphaned rings
+Move 23 :
+5:52:02 PM
+JMartin1618: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Reefwood has to remove 1 orphaned rings
+Move 24 :
+5:53:43 PM
+Reefwood: Added a Large Ring at Station [0,1]
+Move 25 :
+5:54:27 PM
+JMartin1618: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 26 :
+5:54:51 PM
+Reefwood: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 27 :
+5:55:22 PM
+JMartin1618: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 28 :
+5:57:34 PM
+Reefwood: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 29 :
+5:58:36 PM
+JMartin1618: Moved a Base Post at Station [-1,-1]
+Move 30 :
+5:58:44 PM
+Reefwood: Added a Small Ring at Station [1,1]
+Move 31 :
+5:58:56 PM
+JMartin1618: Added a Small Ring at Station [1,-1]
+Move 32 :
+5:59:05 PM
+Reefwood: Added a Medium Ring at Station [1,1]
+Move 33 :
+5:59:35 PM
+JMartin1618: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :
+6:00:50 PM
+Reefwood: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 35 :
+6:02:32 PM
+JMartin1618: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 36 :
+6:02:50 PM
+Reefwood: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 37 :
+6:03:53 PM
+JMartin1618: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 38 :
+6:04:01 PM
+Reefwood: Added a Small Ring at Station [-1,0]
+Move 39 :
+6:04:10 PM
+JMartin1618: Added a Small Ring at Station [1,0]
+Move 40 :
+6:04:18 PM
+Reefwood: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: Reefwood wins!

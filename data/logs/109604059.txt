@@ -1,0 +1,117 @@
+Move 1 :
+8/30/2020 6:26:09 AM
+The colors of Fiftyralph have been chosen according to their preferences. Change my preferences.
+Move 2 :
+6:27:06 AM
+Fiftyralph: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 3 :
+6:53:48 AM
+Ironmagog: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+7:39:14 AM
+Fiftyralph: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 5 :
+1:43:35 PM
+Ironmagog: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :
+1:57:22 PM
+Fiftyralph: Added a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 7 :
+3:12:00 PM
+Ironmagog: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 8 :
+8/31/2020 3:31:53 AM
+Fiftyralph: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 9 :
+3:48:40 AM
+Ironmagog: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+4:01:19 AM
+Fiftyralph: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+4:46:14 AM
+Ironmagog: Added a Large Ring at Station [1,0]
+Move 12 :
+4:59:51 AM
+Fiftyralph: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 13 :
+6:29:25 AM
+Ironmagog: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 14 :
+12:19:51 PM
+Fiftyralph: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 15 :
+3:11:08 PM
+Ironmagog: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+9/1/2020 12:57:11 AM
+Fiftyralph: Added a Small Ring at Station [0,1]
+Move 17 :
+3:29:17 AM
+Ironmagog: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :
+6:54:58 AM
+Fiftyralph: Added a Small Ring at Station [1,1]
+Move 19 :
+7:46:33 AM
+Ironmagog: Added a Medium Ring at Station [1,1]
+Move 20 :
+10:04:00 AM
+Fiftyralph: Added a Small Ring at Station [1,0]
+Move 21 :
+11:50:22 AM
+Ironmagog: Added a Medium Ring at Station [1,0]
+Move 22 :
+2:33:06 PM
+Fiftyralph: Added a Small Ring at Station [1,-1]
+Move 23 :
+5:22:56 PM
+Ironmagog: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Fiftyralph has to remove 3 orphaned rings
+Move 24 :
+9/2/2020 3:54:33 AM
+Fiftyralph: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 25 :
+6:57:40 AM
+Ironmagog: Added a Large Ring at Station [0,-1]
+Move 26 :
+11:53:07 AM
+Fiftyralph: Added a Small Ring at Station [1,1]
+Move 27 :
+7:46:16 PM
+Ironmagog: Moved a Base Post at Station [1,0]
+Ironmagog has to remove 1 orphaned rings
+Move 28 :
+9/3/2020 1:12:20 AM
+Fiftyralph: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 29 :
+8:56:22 AM
+Ironmagog: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 30 :
+1:39:24 PM
+Fiftyralph: Added a Small Ring at Station [1,0]
+Move 31 :
+5:27:49 PM
+Ironmagog: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 32 :
+9/4/2020 4:15:47 AM
+Fiftyralph: Added a Medium Ring at Station [1,-1]
+Move 33 :
+4:43:47 AM
+Ironmagog: Added a Large Ring at Station [1,-1]
+Move 34 :
+1:55:24 PM
+Fiftyralph: Added a Small Ring at Station [0,-1]
+Move 35 :
+3:26:12 PM
+Ironmagog: Moved a Base Post at Station [1,-1]
+Move 36 :
+9/5/2020 6:54:16 AM
+Fiftyralph: Added a Small Ring at Station [-1,-1]
+Move 37 :
+7:49:09 AM
+Ironmagog: Added a Medium Ring at Station [0,-1]
+Move 38 :
+7:49:37 AM
+Fiftyralph: Added a Medium Ring at Station [-1,0]
+The end of the game: Fiftyralph wins!

@@ -1,0 +1,141 @@
+Move 3 :
+8/21/2020 4:09:29 PM
+TaxableGold: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+4:09:46 PM
+AgentGoldfish: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 5 :
+4:10:16 PM
+TaxableGold: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 6 :
+4:10:26 PM
+AgentGoldfish: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 7 :
+4:10:32 PM
+TaxableGold: Added a Large Ring at Station [-1,0]
+Move 8 :
+4:10:38 PM
+AgentGoldfish: Added a Small Ring at Station [0,-1]
+Move 9 :
+4:11:47 PM
+TaxableGold: Added a Medium Ring at Station [-1,0]
+Move 10 :
+4:11:52 PM
+AgentGoldfish: Added a Medium Ring at Station [0,-1]
+Move 11 :
+4:12:41 PM
+TaxableGold: Added a Small Ring at Station [-1,0]
+Move 12 :
+4:12:49 PM
+AgentGoldfish: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+TaxableGold has to remove 3 orphaned rings
+Move 13 :
+4:13:42 PM
+TaxableGold: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 14 :
+4:13:51 PM
+AgentGoldfish: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 15 :
+4:14:33 PM
+TaxableGold: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 16 :
+4:14:42 PM
+AgentGoldfish: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 17 :
+4:14:51 PM
+TaxableGold: Added a Large Ring at Station [-1,0]
+Move 18 :
+4:15:03 PM
+AgentGoldfish: Added a Small Ring at Station [-1,0]
+Move 19 :
+4:15:11 PM
+TaxableGold: Added a Large Ring at Station [0,-1]
+Move 20 :
+4:15:16 PM
+AgentGoldfish: Added a Medium Ring at Station [-1,0]
+Move 21 :
+4:16:29 PM
+TaxableGold: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 22 :
+4:16:34 PM
+AgentGoldfish: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 23 :
+4:18:25 PM
+TaxableGold: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 24 :
+4:18:32 PM
+AgentGoldfish: Added a Small Ring at Station [-1,-1]
+Move 25 :
+4:18:54 PM
+TaxableGold: Added a Large Ring at Station [-1,-1]
+Move 26 :
+4:18:59 PM
+AgentGoldfish: Added a Medium Ring at Station [-1,-1]
+Move 27 :
+4:20:14 PM
+TaxableGold: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 28 :
+4:20:21 PM
+AgentGoldfish: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 29 :
+4:20:28 PM
+TaxableGold: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 30 :
+4:20:37 PM
+AgentGoldfish: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 31 :
+4:22:20 PM
+TaxableGold: Added a Large Ring at Station [0,1]
+Move 32 :
+4:23:29 PM
+AgentGoldfish: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 33 :
+4:24:09 PM
+TaxableGold: Moved a Base Post at Station [0,-1]
+TaxableGold has to remove 3 orphaned rings
+Move 34 :
+4:25:08 PM
+AgentGoldfish: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 35 :
+4:25:43 PM
+TaxableGold: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 36 :
+4:25:50 PM
+AgentGoldfish: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 37 :
+4:26:36 PM
+TaxableGold: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 38 :
+4:26:44 PM
+AgentGoldfish: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 39 :
+4:27:05 PM
+TaxableGold: Added a Large Ring at Station [-1,0]
+Move 40 :
+4:27:27 PM
+AgentGoldfish: Added a Small Ring at Station [-1,1]
+Move 41 :
+4:27:37 PM
+TaxableGold: Added a Large Ring at Station [-1,1]
+Move 42 :
+4:28:19 PM
+AgentGoldfish: Added a Small Ring at Station [0,1]
+Move 43 :
+4:28:29 PM
+TaxableGold: Added a Large Ring at Station [-1,-1]
+Move 44 :
+4:28:38 PM
+AgentGoldfish: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 45 :
+4:29:24 PM
+TaxableGold: Added a Medium Ring at Station [-1,1]
+Move 46 :
+4:29:32 PM
+AgentGoldfish: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 47 :
+4:29:57 PM
+TaxableGold: Added a Medium Ring at Station [0,1]
+Move 48 :
+4:31:30 PM
+AgentGoldfish: Added a Small Ring at Station [1,0]
+The end of the game: AgentGoldfish wins!

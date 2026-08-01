@@ -1,0 +1,147 @@
+Move 1 :
+8/24/2020 12:25:58 PM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:26:29 PM
+WarKan 1: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+5:19:34 PM
+SixPigeons: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+6:07:24 PM
+WarKan 1: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+7:22:07 PM
+SixPigeons: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 6 :
+7:25:00 PM
+WarKan 1: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 7 :
+7:27:28 PM
+SixPigeons: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 8 :
+7:29:48 PM
+WarKan 1: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 9 :
+7:32:33 PM
+SixPigeons: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 10 :
+7:42:26 PM
+WarKan 1: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 11 :
+7:43:25 PM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 12 :
+7:44:43 PM
+WarKan 1: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 13 :
+7:45:27 PM
+SixPigeons: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 14 :
+7:46:20 PM
+WarKan 1: Added a Large Ring at Station [0,1]
+Move 15 :
+7:46:36 PM
+SixPigeons: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+WarKan 1 has to remove 1 orphaned rings
+Move 16 :
+7:49:25 PM
+WarKan 1: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 17 :
+7:50:26 PM
+SixPigeons: Added a Small Ring at Station [1,0]
+Move 18 :
+7:50:57 PM
+WarKan 1: Added a Large Ring at Station [0,1]
+Move 19 :
+7:51:33 PM
+SixPigeons: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 20 :
+7:51:50 PM
+WarKan 1: Added a Medium Ring at Station [1,1]
+Move 21 :
+7:53:31 PM
+SixPigeons: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+WarKan 1 has to remove 1 orphaned rings
+Move 22 :
+7:54:15 PM
+WarKan 1: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 23 :
+7:54:32 PM
+SixPigeons: Added a Medium Ring at Station [1,0]
+Move 24 :
+7:54:45 PM
+WarKan 1: Added a Large Ring at Station [1,0]
+Move 25 :
+7:55:04 PM
+SixPigeons: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+WarKan 1 has to remove 1 orphaned rings
+Move 26 :
+7:55:22 PM
+WarKan 1: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 27 :
+7:55:34 PM
+SixPigeons: Added a Large Ring at Station [1,0]
+Move 28 :
+7:56:18 PM
+WarKan 1: Added a Medium Ring at Station [1,1]
+Move 29 :
+7:56:37 PM
+SixPigeons: Moved a Base Post at Station [1,0]
+Move 30 :
+7:57:07 PM
+WarKan 1: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 31 :
+7:57:23 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 32 :
+7:58:14 PM
+WarKan 1: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 33 :
+7:58:25 PM
+SixPigeons: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 34 :
+7:59:09 PM
+WarKan 1: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 35 :
+7:59:48 PM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 36 :
+8:01:11 PM
+WarKan 1: Added a Medium Ring at Station [0,1]
+Move 37 :
+8:02:10 PM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 38 :
+8:02:56 PM
+WarKan 1: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 39 :
+8:03:20 PM
+SixPigeons: Moved a Base Post at Station [1,-1]
+Move 40 :
+8:03:28 PM
+WarKan 1: Added a Large Ring at Station [-1,0]
+Move 41 :
+8:04:32 PM
+SixPigeons: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 42 :
+8:05:43 PM
+WarKan 1: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 43 :
+8:06:45 PM
+SixPigeons: Added a Small Ring at Station [1,1]
+Move 44 :
+8:08:12 PM
+WarKan 1: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+WarKan 1 has to remove 1 orphaned rings
+Move 45 :
+8:08:34 PM
+SixPigeons: Added a Medium Ring at Station [1,1]
+Move 46 :
+8:08:57 PM
+WarKan 1: Moved a Base Post at Station [0,1]
+WarKan 1 has to remove 1 orphaned rings
+Move 47 :
+8:09:33 PM
+SixPigeons: Added a Small Ring at Station [0,-1]
+The end of the game: SixPigeons wins!

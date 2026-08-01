@@ -1,0 +1,103 @@
+Game log
+Move 1 :12/27/2020 10:27:06 PM
+The colors of dvious_sphinx, tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :10:41:22 PM
+dvious_sphinx: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :10:51:42 PM
+tony1021: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 4 :11:00:21 PM
+dvious_sphinx: Added a Medium Ring at Station [0,1]
+Move 5 :11:01:09 PM
+tony1021: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+dvious_sphinx has to remove 1 orphaned rings
+Move 6 :11:04:43 PM
+dvious_sphinx: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :12/28/2020 4:27:50 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 8 :12/29/2020 1:17:19 PM
+dvious_sphinx: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 9 :2:25:14 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 10 :10:17:29 PM
+dvious_sphinx: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 11 :12/30/2020 7:52:57 AM
+tony1021: Moved a Blocker at Station [1,1] => [0,1] Position:Right
+Move 12 :5:08:41 PM
+dvious_sphinx: Added a Medium Ring at Station [0,1]
+Move 13 :9:33:43 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 14 :12/31/2020 3:21:46 PM
+dvious_sphinx: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :10:39:34 PM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 16 :1/1/2021 12:15:51 PM
+dvious_sphinx: Added a Small Ring at Station [0,1]
+Move 17 :2:35:00 PM
+tony1021: Added a Large Ring at Station [1,0]
+Move 18 :1/2/2021 2:27:43 PM
+dvious_sphinx: Added a Small Ring at Station [1,1]
+Move 19 :2:33:38 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 20 :6:40:38 PM
+dvious_sphinx: Added a Medium Ring at Station [1,1]
+Move 21 :8:20:20 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 22 :9:47:50 PM
+dvious_sphinx: Removed a White Bridge at Station [0,1] => [1,1] Position:Middle
+dvious_sphinx has to remove 2 orphaned rings
+Move 23 :10:07:07 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 24 :1/4/2021 8:03:46 AM
+dvious_sphinx: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 25 :9:01:33 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 26 :8:10:26 PM
+dvious_sphinx: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 27 :1/5/2021 8:36:11 PM
+tony1021: Added a Medium Ring at Station [1,1]
+Move 28 :1/9/2021 6:56:52 PM
+dvious_sphinx: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 29 :1/10/2021 10:21:12 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 30 :1/12/2021 6:58:02 PM
+dvious_sphinx: Added a Large Ring at Station [1,1]
+Move 31 :1/13/2021 1:00:12 PM
+tony1021: Removed a White Bridge at Station [0,1] => [1,1] Position:Middle
+dvious_sphinx has to remove 1 orphaned rings
+Move 32 :1/14/2021 8:11:48 AM
+dvious_sphinx: Added a Large Ring at Station [0,1]
+Move 33 :10:32:44 AM
+tony1021: Added a Large Ring at Station [1,1]
+Move 34 :1:13:04 PM
+dvious_sphinx: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 35 :2:41:16 PM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 36 :1/16/2021 6:50:16 PM
+dvious_sphinx: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 37 :1/17/2021 11:43:17 AM
+tony1021: Moved a Base Post at Station [1,-1]
+Move 38 :3:08:02 PM
+dvious_sphinx: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 39 :4:25:48 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 40 :1/19/2021 9:04:32 PM
+dvious_sphinx: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 41 :1/20/2021 7:10:49 AM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 42 :5:34:53 PM
+dvious_sphinx: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 43 :8:47:02 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 44 :1/21/2021 10:22:18 AM
+dvious_sphinx: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 45 :11:00:26 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 46 :8:17:33 PM
+dvious_sphinx: Added a Large Ring at Station [-1,0]
+Move 47 :1/22/2021 8:06:09 PM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 48 :8:09:07 PM
+dvious_sphinx: Added a Large Ring at Station [-1,-1]
+Move 49 :8:11:26 PM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+The end of the game: tony1021 wins!

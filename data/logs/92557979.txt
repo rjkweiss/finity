@@ -1,0 +1,154 @@
+Move 2 :
+6/2/2020 11:11:25 AM
+nare_noedel: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 3 :
+11:11:57 AM
+Rolliebollie2000: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+11:12:13 AM
+nare_noedel: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 5 :
+11:12:27 AM
+Rolliebollie2000: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+11:12:49 AM
+nare_noedel: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 7 :
+11:13:01 AM
+Rolliebollie2000: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 8 :
+11:13:53 AM
+nare_noedel: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+11:14:02 AM
+Rolliebollie2000: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 10 :
+11:14:13 AM
+nare_noedel: Added a Small Ring at Station [-1,0]
+Move 11 :
+11:14:33 AM
+Rolliebollie2000: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 12 :
+11:14:54 AM
+nare_noedel: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 13 :
+11:15:03 AM
+Rolliebollie2000: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 14 :
+11:15:10 AM
+nare_noedel: Added a Medium Ring at Station [0,-1]
+Move 15 :
+11:15:32 AM
+Rolliebollie2000: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 16 :
+11:16:59 AM
+nare_noedel: Moved a Base Post at Station [-1,0]
+nare_noedel has to remove 1 orphaned rings
+Move 17 :
+11:17:45 AM
+Rolliebollie2000: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 18 :
+11:17:51 AM
+nare_noedel: Moved a Base Post at Station [-1,1]
+Move 19 :
+11:17:59 AM
+Rolliebollie2000: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 20 :
+11:18:27 AM
+nare_noedel: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 21 :
+11:18:34 AM
+Rolliebollie2000: Added a Large Ring at Station [1,0]
+Move 22 :
+11:19:08 AM
+nare_noedel: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 23 :
+11:19:14 AM
+Rolliebollie2000: Added a Large Ring at Station [1,1]
+Move 24 :
+11:19:44 AM
+nare_noedel: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 25 :
+11:19:52 AM
+Rolliebollie2000: Added a Small Ring at Station [0,1]
+Move 26 :
+11:20:39 AM
+nare_noedel: Moved a Blocker at Station [0,1] => [1,0] Position:Left
+Move 27 :
+11:20:45 AM
+Rolliebollie2000: Added a Small Ring at Station [0,-1]
+Move 28 :
+11:21:17 AM
+nare_noedel: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 29 :
+11:21:58 AM
+Rolliebollie2000: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 30 :
+11:23:30 AM
+nare_noedel: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 31 :
+11:23:38 AM
+Rolliebollie2000: Added a Medium Ring at Station [1,0]
+Move 32 :
+11:24:00 AM
+nare_noedel: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 33 :
+11:25:02 AM
+Rolliebollie2000: Moved a Base Post at Station [-1,-1]
+Rolliebollie2000 has to remove 4 orphaned rings
+Move 34 :
+11:26:17 AM
+nare_noedel: Added a Medium Ring at Station [0,-1]
+Move 35 :
+11:26:42 AM
+Rolliebollie2000: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+nare_noedel has to remove 1 orphaned rings
+Move 36 :
+11:26:53 AM
+nare_noedel: Added a Medium Ring at Station [-1,0]
+Move 37 :
+11:27:16 AM
+Rolliebollie2000: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 38 :
+11:27:47 AM
+nare_noedel: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 39 :
+11:28:08 AM
+Rolliebollie2000: Added a Large Ring at Station [1,-1]
+Move 40 :
+11:28:23 AM
+nare_noedel: Added a Small Ring at Station [0,1]
+Move 41 :
+11:28:40 AM
+Rolliebollie2000: Added a Large Ring at Station [1,0]
+Move 42 :
+11:29:39 AM
+nare_noedel: Moved a Blocker at Station [1,1] => [1,0] Position:Right
+Move 43 :
+11:29:45 AM
+Rolliebollie2000: Added a Large Ring at Station [1,1]
+Move 44 :
+11:30:08 AM
+nare_noedel: Removed a Blocker at Station [1,-1] => [0,0] Position:Right
+Move 45 :
+11:30:16 AM
+Rolliebollie2000: Added a Medium Ring at Station [0,1]
+Move 46 :
+11:30:24 AM
+nare_noedel: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 47 :
+11:30:33 AM
+Rolliebollie2000: Added a Medium Ring at Station [1,0]
+Move 48 :
+11:30:52 AM
+nare_noedel: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 49 :
+11:30:59 AM
+Rolliebollie2000: Added a Medium Ring at Station [1,-1]
+Move 50 :
+11:31:17 AM
+nare_noedel: Added a Small Ring at Station [-1,-1]
+Move 51 :
+11:31:28 AM
+Rolliebollie2000: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+The end of the game: Rolliebollie2000 wins!

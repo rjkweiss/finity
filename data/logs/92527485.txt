@@ -1,0 +1,194 @@
+Move 1 :
+6/2/2020 8:25:24 AM
+The colors of a_homosapien have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8:26:33 AM
+a_homosapien: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+8:27:09 AM
+FelixBraxton: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 4 :
+8:27:27 AM
+a_homosapien: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 :
+8:27:42 AM
+FelixBraxton: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 6 :
+8:28:22 AM
+a_homosapien: Added a Small Ring at Station [-1,0]
+Move 7 :
+8:28:53 AM
+FelixBraxton: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 8 :
+8:29:26 AM
+a_homosapien: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+a_homosapien has to remove 1 orphaned rings
+Move 9 :
+8:30:09 AM
+FelixBraxton: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 10 :
+8:30:28 AM
+a_homosapien: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 11 :
+8:31:15 AM
+FelixBraxton: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 12 :
+8:31:32 AM
+a_homosapien: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 13 :
+8:31:41 AM
+FelixBraxton: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 14 :
+8:32:07 AM
+a_homosapien: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 15 :
+8:34:17 AM
+FelixBraxton: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 16 :
+8:34:26 AM
+a_homosapien: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 17 :
+8:34:35 AM
+FelixBraxton: Added a Small Ring at Station [0,-1]
+Move 18 :
+8:34:59 AM
+a_homosapien: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 19 :
+8:35:21 AM
+FelixBraxton: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 20 :
+8:35:35 AM
+a_homosapien: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 21 :
+8:35:51 AM
+FelixBraxton: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 22 :
+8:36:02 AM
+a_homosapien: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 23 :
+8:36:11 AM
+FelixBraxton: Added a Small Ring at Station [-1,0]
+Move 24 :
+8:36:22 AM
+a_homosapien: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 25 :
+8:36:40 AM
+FelixBraxton: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 26 :
+8:36:50 AM
+a_homosapien: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 27 :
+8:36:59 AM
+FelixBraxton: Added a Small Ring at Station [-1,1]
+Move 28 :
+8:37:12 AM
+a_homosapien: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+FelixBraxton has to remove 1 orphaned rings
+Move 29 :
+8:37:39 AM
+FelixBraxton: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 30 :
+8:38:23 AM
+a_homosapien: Reversed a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 31 :
+8:39:13 AM
+FelixBraxton: Removed a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 32 :
+8:39:44 AM
+a_homosapien: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 33 :
+8:39:55 AM
+FelixBraxton: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 34 :
+8:40:57 AM
+a_homosapien: Added a Medium Ring at Station [-1,0]
+Move 35 :
+8:41:19 AM
+FelixBraxton: Added a Large Ring at Station [-1,0]
+Move 36 :
+8:41:30 AM
+a_homosapien: Added a Medium Ring at Station [0,-1]
+Move 37 :
+8:41:36 AM
+FelixBraxton: Added a Large Ring at Station [0,-1]
+Move 38 :
+8:41:53 AM
+a_homosapien: Added a Small Ring at Station [1,-1]
+Move 39 :
+8:42:13 AM
+FelixBraxton: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+a_homosapien has to remove 3 orphaned rings
+Move 40 :
+8:43:35 AM
+a_homosapien: Moved a Blocker at Station [0,0] => [0,-1] Position:Right
+Move 41 :
+8:43:49 AM
+FelixBraxton: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 42 :
+8:44:35 AM
+a_homosapien: Added a Small Ring at Station [0,1]
+Move 43 :
+8:44:54 AM
+FelixBraxton: Added a Medium Ring at Station [-1,-1]
+Move 44 :
+8:45:09 AM
+a_homosapien: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 45 :
+8:45:15 AM
+FelixBraxton: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 46 :
+8:45:50 AM
+a_homosapien: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 47 :
+8:46:01 AM
+FelixBraxton: Added a Medium Ring at Station [-1,1]
+Move 48 :
+8:46:11 AM
+a_homosapien: Added a Medium Ring at Station [-1,0]
+Move 49 :
+8:46:21 AM
+FelixBraxton: Added a Medium Ring at Station [0,1]
+Move 50 :
+8:48:46 AM
+a_homosapien: Moved a Base Post at Station [0,1]
+a_homosapien has to remove 1 orphaned rings
+Move 51 :
+8:51:30 AM
+FelixBraxton: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 52 :
+8:51:39 AM
+a_homosapien: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 53 :
+8:52:38 AM
+FelixBraxton: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 54 :
+8:53:11 AM
+a_homosapien: Added a Large Ring at Station [-1,1]
+Move 55 :
+8:53:28 AM
+FelixBraxton: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 56 :
+8:53:44 AM
+a_homosapien: Added a Medium Ring at Station [-1,0]
+Move 57 :
+8:54:16 AM
+FelixBraxton: Added a Small Ring at Station [-1,-1]
+Move 58 :
+8:54:23 AM
+a_homosapien: Added a Large Ring at Station [-1,-1]
+Move 59 :
+8:54:38 AM
+FelixBraxton: Added a Medium Ring at Station [1,0]
+Move 60 :
+8:54:54 AM
+a_homosapien: Added a Small Ring at Station [-1,1]
+Move 61 :
+8:55:14 AM
+FelixBraxton: Added a Large Ring at Station [0,1]
+Move 62 :
+8:55:38 AM
+a_homosapien: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 63 :
+8:55:46 AM
+FelixBraxton: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+The end of the game: FelixBraxton wins!

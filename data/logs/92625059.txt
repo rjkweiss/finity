@@ -1,0 +1,139 @@
+Move 1 :
+6/2/2020 3:58:35 PM
+The colors of erinosaure have been chosen according to their preferences. Change my preferences.
+Move 2 :
+3:59:42 PM
+erinosaure: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+4:00:10 PM
+duanecurrie: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+4:00:34 PM
+erinosaure: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 5 :
+4:01:05 PM
+duanecurrie: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+4:02:20 PM
+erinosaure: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+4:03:51 PM
+duanecurrie: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :
+4:04:01 PM
+erinosaure: Added a Large Ring at Station [-1,0]
+Move 9 :
+4:04:12 PM
+duanecurrie: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+erinosaure has to remove 1 orphaned rings
+Move 10 :
+4:04:23 PM
+erinosaure: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 11 :
+4:04:47 PM
+duanecurrie: Added a Medium Ring at Station [0,-1]
+Move 12 :
+4:05:43 PM
+erinosaure: Added a Large Ring at Station [-1,0]
+Move 13 :
+4:06:22 PM
+duanecurrie: Added a Large Ring at Station [0,-1]
+Move 14 :
+4:06:37 PM
+erinosaure: Added a Medium Ring at Station [-1,0]
+Move 15 :
+4:07:03 PM
+duanecurrie: Added a Small Ring at Station [0,-1]
+Move 16 :
+4:07:15 PM
+erinosaure: Added a Small Ring at Station [-1,0]
+Move 17 :
+4:08:38 PM
+duanecurrie: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 18 :
+4:09:19 PM
+erinosaure: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 19 :
+4:09:51 PM
+duanecurrie: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Left
+Move 20 :
+4:09:58 PM
+erinosaure: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 21 :
+4:10:24 PM
+duanecurrie: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 22 :
+4:10:47 PM
+erinosaure: Added a Large Ring at Station [-1,-1]
+Move 23 :
+4:11:11 PM
+duanecurrie: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 24 :
+4:12:45 PM
+erinosaure: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 25 :
+4:12:51 PM
+duanecurrie: Moved a Base Post at Station [0,-1]
+Move 26 :
+4:13:48 PM
+erinosaure: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 27 :
+4:14:26 PM
+duanecurrie: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 28 :
+4:16:12 PM
+erinosaure: Added a Medium Ring at Station [0,1]
+Move 29 :
+4:16:24 PM
+duanecurrie: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+erinosaure has to remove 1 orphaned rings
+Move 30 :
+4:16:34 PM
+erinosaure: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 31 :
+4:16:43 PM
+duanecurrie: Added a Medium Ring at Station [1,-1]
+Move 32 :
+4:16:58 PM
+erinosaure: Added a Medium Ring at Station [0,1]
+Move 33 :
+4:17:12 PM
+duanecurrie: Added a Large Ring at Station [1,0]
+Move 34 :
+4:18:14 PM
+erinosaure: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 35 :
+4:18:21 PM
+duanecurrie: Added a Large Ring at Station [1,-1]
+Move 36 :
+4:18:29 PM
+erinosaure: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 37 :
+4:19:37 PM
+duanecurrie: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 38 :
+4:20:01 PM
+erinosaure: Added a Small Ring at Station [0,1]
+Move 39 :
+4:21:43 PM
+duanecurrie: Added a Small Ring at Station [1,0]
+Move 40 :
+4:23:58 PM
+erinosaure: Moved a Base Post at Station [0,1]
+erinosaure has to remove 4 orphaned rings
+Move 41 :
+4:24:23 PM
+duanecurrie: Added a Small Ring at Station [1,-1]
+Move 42 :
+4:24:48 PM
+erinosaure: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 43 :
+4:24:54 PM
+duanecurrie: Added a Large Ring at Station [0,1]
+Move 44 :
+4:25:10 PM
+erinosaure: Added a Medium Ring at Station [1,0]
+Move 45 :
+4:25:19 PM
+duanecurrie: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: duanecurrie wins!

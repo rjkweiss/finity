@@ -1,0 +1,64 @@
+Move 2 :
+8/11/2020 10:57:23 AM
+tayutama777: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+10:58:33 AM
+TygoKersje: Moved a Blocker at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+10:58:45 AM
+tayutama777: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+10:59:29 AM
+TygoKersje: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 6 :
+10:59:35 AM
+tayutama777: Added a Small Ring at Station [-1,0]
+Move 7 :
+10:59:45 AM
+TygoKersje: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :
+10:59:51 AM
+tayutama777: Added a Medium Ring at Station [-1,0]
+Move 9 :
+11:00:07 AM
+TygoKersje: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :
+11:00:20 AM
+tayutama777: Moved a Base Post at Station [-1,0]
+Move 11 :
+11:00:26 AM
+TygoKersje: Added a Medium Ring at Station [0,-1]
+Move 12 :
+11:00:33 AM
+tayutama777: Added a Small Ring at Station [-1,1]
+Move 13 :
+11:00:40 AM
+TygoKersje: Moved a Base Post at Station [0,-1]
+Move 14 :
+11:01:03 AM
+tayutama777: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 15 :
+11:01:17 AM
+TygoKersje: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 16 :
+11:01:32 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 17 :
+11:01:51 AM
+TygoKersje: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 18 :
+11:02:02 AM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 19 :
+11:02:18 AM
+TygoKersje: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 20 :
+11:02:24 AM
+tayutama777: Added a Medium Ring at Station [-1,1]
+Move 21 :
+11:02:37 AM
+TygoKersje: Added a Small Ring at Station [1,-1]
+Move 22 :
+11:02:44 AM
+tayutama777: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+The end of the game: tayutama777 wins!

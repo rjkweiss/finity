@@ -1,0 +1,90 @@
+Game log
+Move 1 :4/27/2020 11:53:19 PM
+The colors of januszk0 have been chosen according to their preferences. Change my preferences.
+Move 2 :11:55:04 PM
+Jak: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 3 :4/28/2020 12:03:30 AM
+januszk0: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 4 :12:04:06 AM
+Jak: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 5 :12:05:37 AM
+januszk0: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 6 :4:44:22 AM
+Jak: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :4:45:08 AM
+januszk0: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 8 :8:36:19 AM
+Jak: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 9 :9:15:02 AM
+januszk0: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :9:15:48 AM
+Jak: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 11 :9:22:44 AM
+januszk0: Added a Small Ring at Station [1,0]
+Move 12 :9:24:32 AM
+Jak: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 13 :9:29:01 AM
+januszk0: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 14 :9:31:25 AM
+Jak: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 15 :9:56:58 AM
+januszk0: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 16 :9:57:40 AM
+Jak: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 17 :9:59:05 AM
+januszk0: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 18 :9:59:17 AM
+Jak: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 19 :10:01:04 AM
+januszk0: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 20 :10:01:25 AM
+Jak: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 21 :10:02:00 AM
+januszk0: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 22 :10:02:19 AM
+Jak: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 23 :10:02:34 AM
+januszk0: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 24 :10:03:00 AM
+Jak: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 25 :10:03:17 AM
+januszk0: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 26 :10:03:34 AM
+Jak: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 27 :10:03:56 AM
+januszk0: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 28 :10:04:16 AM
+Jak: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 29 :10:05:07 AM
+januszk0: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 30 :11:09:16 AM
+Jak: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 31 :11:12:33 AM
+januszk0: Added a Medium Ring at Station [1,0]
+Move 32 :11:14:40 AM
+Jak: Added a Small Ring at Station [-1,0]
+Move 33 :11:14:58 AM
+januszk0: Added a Small Ring at Station [1,1]
+Move 34 :11:15:10 AM
+Jak: Added a Small Ring at Station [-1,-1]
+Move 35 :11:15:25 AM
+januszk0: Added a Medium Ring at Station [0,1]
+Move 36 :11:15:38 AM
+Jak: Added a Small Ring at Station [0,-1]
+Move 37 :11:15:49 AM
+januszk0: Added a Medium Ring at Station [-1,1]
+Move 38 :11:15:57 AM
+Jak: Added a Medium Ring at Station [1,-1]
+Move 39 :11:16:04 AM
+januszk0: Added a Medium Ring at Station [-1,0]
+Move 40 :11:16:18 AM
+Jak: Added a Large Ring at Station [1,0]
+Move 41 :11:16:45 AM
+januszk0: Added a Medium Ring at Station [-1,-1]
+Move 42 :11:16:55 AM
+Jak: Added a Medium Ring at Station [1,1]
+Move 43 :11:17:08 AM
+januszk0: Added a Medium Ring at Station [0,-1]
+Move 44 :11:17:22 AM
+Jak: Added a Large Ring at Station [0,1]
+The end of the game: Jak wins!

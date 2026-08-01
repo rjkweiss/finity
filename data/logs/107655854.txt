@@ -1,0 +1,67 @@
+Move 2 :
+8/18/2020 8:19:19 PM
+DrewKeys: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 3 :
+8:20:01 PM
+thejoethompson: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+8:20:59 PM
+DrewKeys: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :
+8:21:14 PM
+thejoethompson: Added a Medium Ring at Station [1,0]
+Move 6 :
+8:23:39 PM
+DrewKeys: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+8:23:50 PM
+thejoethompson: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+8:25:11 PM
+DrewKeys: Added a Small Ring at Station [-1,0]
+Move 9 :
+8:25:33 PM
+thejoethompson: Added a Small Ring at Station [1,1]
+Move 10 :
+8:25:47 PM
+DrewKeys: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 11 :
+8:25:59 PM
+thejoethompson: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 12 :
+8:26:18 PM
+DrewKeys: Added a Small Ring at Station [0,-1]
+Move 13 :
+8:26:41 PM
+thejoethompson: Added a Small Ring at Station [0,1]
+Move 14 :
+8:26:53 PM
+DrewKeys: Added a Medium Ring at Station [1,-1]
+Move 15 :
+8:27:13 PM
+thejoethompson: Added a Small Ring at Station [1,0]
+Move 16 :
+8:27:59 PM
+DrewKeys: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 17 :
+8:28:11 PM
+thejoethompson: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 18 :
+8:29:10 PM
+DrewKeys: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 19 :
+8:29:19 PM
+thejoethompson: Added a Medium Ring at Station [1,1]
+Move 20 :
+8:29:29 PM
+DrewKeys: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 21 :
+8:30:11 PM
+thejoethompson: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 22 :
+8:30:19 PM
+DrewKeys: Added a Medium Ring at Station [0,-1]
+Move 23 :
+8:30:29 PM
+thejoethompson: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: thejoethompson wins!

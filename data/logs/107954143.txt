@@ -1,0 +1,106 @@
+Move 2 :
+8/20/2020 2:16:33 PM
+Piratey Pete: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 3 :
+2:17:51 PM
+aamarks2002: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 :
+2:18:56 PM
+Piratey Pete: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+2:20:06 PM
+aamarks2002: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 6 :
+2:20:40 PM
+Piratey Pete: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+2:21:10 PM
+aamarks2002: Added a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 8 :
+2:21:21 PM
+Piratey Pete: Added a Large Ring at Station [0,1]
+Move 9 :
+2:21:55 PM
+aamarks2002: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 10 :
+2:22:30 PM
+Piratey Pete: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 11 :
+2:22:47 PM
+aamarks2002: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 12 :
+2:23:09 PM
+Piratey Pete: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 13 :
+2:23:16 PM
+aamarks2002: Added a Large Ring at Station [0,-1]
+Move 14 :
+2:23:26 PM
+Piratey Pete: Added a Large Ring at Station [1,1]
+Move 15 :
+2:23:34 PM
+aamarks2002: Added a Large Ring at Station [-1,-1]
+Move 16 :
+2:24:07 PM
+Piratey Pete: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :
+2:24:24 PM
+aamarks2002: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 18 :
+2:24:32 PM
+Piratey Pete: Added a Medium Ring at Station [0,1]
+Move 19 :
+2:24:44 PM
+aamarks2002: Added a Large Ring at Station [-1,0]
+Move 20 :
+2:26:21 PM
+Piratey Pete: Added a Medium Ring at Station [1,1]
+Move 21 :
+2:26:54 PM
+aamarks2002: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 22 :
+2:27:20 PM
+Piratey Pete: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 23 :
+2:27:54 PM
+aamarks2002: Added a Medium Ring at Station [-1,-1]
+Move 24 :
+2:28:05 PM
+Piratey Pete: Added a Large Ring at Station [1,0]
+Move 25 :
+2:28:40 PM
+aamarks2002: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 26 :
+2:28:47 PM
+Piratey Pete: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 27 :
+2:29:02 PM
+aamarks2002: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 28 :
+2:29:25 PM
+Piratey Pete: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 29 :
+2:30:25 PM
+aamarks2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 30 :
+2:30:33 PM
+Piratey Pete: Added a Medium Ring at Station [1,0]
+Move 31 :
+2:32:52 PM
+aamarks2002: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 32 :
+2:33:07 PM
+Piratey Pete: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 33 :
+2:33:55 PM
+aamarks2002: Added a Medium Ring at Station [-1,0]
+Move 34 :
+2:34:07 PM
+Piratey Pete: Added a Small Ring at Station [0,1]
+Move 35 :
+2:34:30 PM
+aamarks2002: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 36 :
+2:34:39 PM
+Piratey Pete: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: Piratey Pete wins!

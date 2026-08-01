@@ -1,0 +1,94 @@
+Move 1 :
+9/3/2020 4:19:05 AM
+The colors of Messier have been chosen according to their preferences. Change my preferences.
+Move 2 :
+6:52:48 AM
+Messier: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+8:06:31 AM
+picidz: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+11:17:14 AM
+Messier: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :
+11:17:54 AM
+picidz: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+11:20:37 AM
+Messier: Added a Small Ring at Station [-1,0]
+Move 7 :
+12:40:17 PM
+picidz: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 8 :
+12:45:58 PM
+Messier: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 9 :
+12:49:19 PM
+picidz: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 10 :
+1:00:09 PM
+Messier: Reversed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 11 :
+9:48:27 PM
+picidz: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 12 :
+10:04:41 PM
+Messier: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 13 :
+10:31:25 PM
+picidz: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 14 :
+11:37:51 PM
+Messier: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 15 :
+11:38:16 PM
+picidz: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 16 :
+11:39:46 PM
+Messier: Added a Small Ring at Station [-1,-1]
+Move 17 :
+11:54:29 PM
+picidz: Added a Small Ring at Station [1,0]
+Move 18 :
+9/4/2020 12:12:46 AM
+Messier: Added a Small Ring at Station [0,-1]
+Move 19 :
+12:24:15 AM
+picidz: Added a Medium Ring at Station [1,1]
+Move 20 :
+12:48:51 AM
+Messier: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 21 :
+1:09:10 AM
+picidz: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 22 :
+4:08:51 AM
+Messier: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 23 :
+4:13:57 AM
+picidz: Added a Large Ring at Station [0,1]
+Move 24 :
+4:42:03 AM
+Messier: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 25 :
+4:43:34 AM
+picidz: Added a Medium Ring at Station [-1,1]
+Move 26 :
+10:04:01 AM
+Messier: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 27 :
+10:10:53 AM
+picidz: Added a Medium Ring at Station [-1,0]
+Move 28 :
+10:28:10 AM
+Messier: Added a Large Ring at Station [-1,0]
+Move 29 :
+12:37:37 PM
+picidz: Added a Medium Ring at Station [-1,-1]
+Move 30 :
+1:02:32 PM
+Messier: Added a Large Ring at Station [-1,-1]
+Move 31 :
+1:04:05 PM
+picidz: Added a Large Ring at Station [0,-1]
+The end of the game: picidz wins!

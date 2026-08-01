@@ -1,0 +1,170 @@
+Move 2 :
+6/2/2020 12:30:13 AM
+epihamlet: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 3 :
+12:30:32 AM
+yadisbeles2016: Added a White Bridge at Station [0,0] => [-1,0] Position:Right
+Move 4 :
+12:30:46 AM
+epihamlet: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 5 :
+12:31:25 AM
+yadisbeles2016: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+12:31:43 AM
+epihamlet: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :
+12:33:17 AM
+yadisbeles2016: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :
+12:33:28 AM
+epihamlet: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+12:33:32 AM
+yadisbeles2016: Added a Small Ring at Station [0,-1]
+Move 10 :
+12:33:43 AM
+epihamlet: Added a Large Ring at Station [0,1]
+Move 11 :
+12:34:00 AM
+yadisbeles2016: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 12 :
+12:34:22 AM
+epihamlet: Moved a Base Post at Station [0,1]
+Move 13 :
+12:34:48 AM
+yadisbeles2016: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 14 :
+12:35:16 AM
+epihamlet: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 15 :
+12:37:06 AM
+yadisbeles2016: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :
+12:37:42 AM
+epihamlet: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 17 :
+12:37:59 AM
+yadisbeles2016: Added a Small Ring at Station [-1,-1]
+Move 18 :
+12:38:08 AM
+epihamlet: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 19 :
+12:38:26 AM
+yadisbeles2016: Added a Medium Ring at Station [0,-1]
+Move 20 :
+12:39:09 AM
+epihamlet: Added a Medium Ring at Station [-1,1]
+Move 21 :
+12:39:20 AM
+yadisbeles2016: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 22 :
+12:39:32 AM
+epihamlet: Added a Small Ring at Station [-1,0]
+Move 23 :
+12:39:39 AM
+yadisbeles2016: Added a Medium Ring at Station [-1,0]
+Move 24 :
+12:39:53 AM
+epihamlet: Added a Medium Ring at Station [-1,-1]
+Move 25 :
+12:40:06 AM
+yadisbeles2016: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+epihamlet has to remove 2 orphaned rings
+Move 26 :
+12:40:30 AM
+epihamlet: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+yadisbeles2016 has to remove 4 orphaned rings
+Move 27 :
+12:40:48 AM
+yadisbeles2016: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 28 :
+12:40:58 AM
+epihamlet: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 29 :
+12:41:19 AM
+yadisbeles2016: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 30 :
+12:41:44 AM
+epihamlet: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 31 :
+12:42:01 AM
+yadisbeles2016: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 32 :
+12:42:19 AM
+epihamlet: Added a Small Ring at Station [-1,0]
+Move 33 :
+12:42:38 AM
+yadisbeles2016: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+epihamlet has to remove 2 orphaned rings
+Move 34 :
+12:43:00 AM
+epihamlet: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 35 :
+12:43:09 AM
+yadisbeles2016: Added a Small Ring at Station [0,-1]
+Move 36 :
+12:43:16 AM
+epihamlet: Added a Small Ring at Station [-1,1]
+Move 37 :
+12:43:23 AM
+yadisbeles2016: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 38 :
+12:43:51 AM
+epihamlet: Added a Medium Ring at Station [-1,0]
+Move 39 :
+12:43:56 AM
+yadisbeles2016: Added a Small Ring at Station [-1,-1]
+Move 40 :
+12:44:27 AM
+epihamlet: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 41 :
+12:44:50 AM
+yadisbeles2016: Added a Large Ring at Station [-1,0]
+Move 42 :
+12:44:57 AM
+epihamlet: Added a Small Ring at Station [-1,0]
+Move 43 :
+12:46:20 AM
+yadisbeles2016: Added a Medium Ring at Station [0,-1]
+Move 44 :
+12:46:40 AM
+epihamlet: Added a Medium Ring at Station [-1,-1]
+Move 45 :
+12:46:47 AM
+yadisbeles2016: Added a Medium Ring at Station [-1,1]
+Move 46 :
+12:47:20 AM
+epihamlet: Added a Large Ring at Station [-1,1]
+Move 47 :
+12:48:15 AM
+yadisbeles2016: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 48 :
+12:49:58 AM
+epihamlet: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 49 :
+12:50:24 AM
+yadisbeles2016: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 50 :
+12:50:46 AM
+epihamlet: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 51 :
+12:51:12 AM
+yadisbeles2016: Added a Medium Ring at Station [1,0]
+Move 52 :
+12:51:20 AM
+epihamlet: Added a Small Ring at Station [1,0]
+Move 53 :
+12:51:27 AM
+yadisbeles2016: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 54 :
+12:52:03 AM
+epihamlet: Removed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 55 :
+12:52:34 AM
+yadisbeles2016: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+epihamlet has to remove 5 orphaned rings
+Move 56 :
+12:52:44 AM
+epihamlet concedes the game.
+The end of the game: yadisbeles2016 wins!

@@ -1,0 +1,126 @@
+Move 1 :
+9/2/2020 11:08:09 AM
+The colors of jaimus, Schlotto have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:09:52 AM
+jaimus: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+11:10:44 AM
+Schlotto: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 4 :
+11:11:55 AM
+jaimus: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+11:20:31 AM
+Schlotto: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :
+11:31:27 AM
+jaimus: Added a Black Bridge at Station [0,0] => [-1,0] Position:Left
+Move 7 :
+11:35:11 AM
+Schlotto: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 8 :
+11:52:21 AM
+jaimus: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+12:12:56 PM
+Schlotto: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 10 :
+3:24:09 PM
+jaimus: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 11 :
+7:56:50 PM
+Schlotto: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 12 :
+8:19:39 PM
+jaimus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 13 :
+8:22:15 PM
+Schlotto: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 14 :
+8:22:49 PM
+jaimus: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 15 :
+8:23:47 PM
+Schlotto: Added a Small Ring at Station [1,0]
+Move 16 :
+8:26:20 PM
+jaimus: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 17 :
+8:26:56 PM
+Schlotto: Added a Small Ring at Station [1,1]
+Move 18 :
+8:29:25 PM
+jaimus: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 19 :
+8:29:49 PM
+Schlotto: Added a Medium Ring at Station [0,1]
+Move 20 :
+8:31:14 PM
+jaimus: Added a Large Ring at Station [-1,0]
+Move 21 :
+8:33:45 PM
+Schlotto: Added a Large Ring at Station [-1,1]
+Move 22 :
+9:51:42 PM
+jaimus: Added a Medium Ring at Station [-1,0]
+Move 23 :
+9:54:03 PM
+Schlotto: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 24 :
+9/3/2020 6:29:22 AM
+jaimus: Added a Medium Ring at Station [-1,-1]
+Move 25 :
+6:35:23 AM
+Schlotto: Reversed a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 26 :
+6:36:33 AM
+jaimus: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 27 :
+6:47:30 AM
+Schlotto: Added a Small Ring at Station [-1,0]
+Move 28 :
+6:48:24 AM
+jaimus: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 29 :
+6:53:38 AM
+Schlotto: Added a Small Ring at Station [-1,-1]
+Move 30 :
+7:01:41 AM
+jaimus: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 31 :
+7:07:01 AM
+Schlotto: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+jaimus has to remove 3 orphaned rings
+Schlotto has to remove 2 orphaned rings
+Move 32 :
+7:46:07 AM
+jaimus: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 33 :
+7:57:12 AM
+Schlotto: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 34 :
+8:03:03 AM
+jaimus: Added a Large Ring at Station [-1,0]
+Move 35 :
+8:10:09 AM
+Schlotto: Added a Small Ring at Station [-1,0]
+Move 36 :
+8:20:15 AM
+jaimus: Added a Medium Ring at Station [-1,0]
+Move 37 :
+8:25:05 AM
+Schlotto: Added a Medium Ring at Station [-1,-1]
+Move 38 :
+8:26:04 AM
+jaimus: Added a Small Ring at Station [-1,-1]
+Move 39 :
+8:27:07 AM
+Schlotto: Added a Small Ring at Station [0,-1]
+Move 40 :
+8:29:04 AM
+jaimus: Added a Large Ring at Station [0,-1]
+Move 41 :
+8:29:27 AM
+Schlotto: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: Schlotto wins!

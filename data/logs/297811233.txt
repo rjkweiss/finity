@@ -1,0 +1,47 @@
+Game log
+Move 1 :9/6/2022 6:22:48 AM
+The colors of FoxyProxy have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :6:22:59 AM
+FoxyProxy: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :6:23:05 AM
+Anchoretta: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :6:23:18 AM
+FoxyProxy: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :6:23:38 AM
+Anchoretta: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 6 :6:23:55 AM
+FoxyProxy: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 7 :6:24:21 AM
+Anchoretta: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 8 :6:25:29 AM
+FoxyProxy: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 9 :6:25:36 AM
+Anchoretta: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 10 :6:25:42 AM
+FoxyProxy: Added a Large Ring at Station [0,1]
+Move 11 :6:25:46 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 12 :6:25:52 AM
+FoxyProxy: Added a Large Ring at Station [1,1]
+Move 13 :6:25:57 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 14 :6:26:01 AM
+FoxyProxy: Added a Medium Ring at Station [0,1]
+Move 15 :6:26:05 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 16 :6:26:12 AM
+FoxyProxy: Added a Medium Ring at Station [1,1]
+Move 17 :6:26:16 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 18 :6:26:21 AM
+FoxyProxy: Added a Small Ring at Station [0,1]
+Move 19 :6:26:26 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 20 :6:26:32 AM
+FoxyProxy: Added a Large Ring at Station [1,0]
+Move 21 :6:26:36 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 22 :6:26:42 AM
+FoxyProxy: Added a Large Ring at Station [1,-1]
+The end of the game: FoxyProxy wins!

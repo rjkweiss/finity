@@ -1,0 +1,641 @@
+Move 2 :
+8/11/2020 3:31:45 AM
+Sugi-K: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+3:32:49 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 4 :
+3:33:35 AM
+Sugi-K: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :
+3:34:02 AM
+Rarudo_Siori: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 6 :
+3:34:14 AM
+Sugi-K: Added a Small Ring at Station [-1,0]
+Move 7 :
+3:34:48 AM
+Rarudo_Siori: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 8 :
+3:35:28 AM
+Sugi-K: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 9 :
+3:35:35 AM
+Rarudo_Siori: Added a Small Ring at Station [0,-1]
+Move 10 :
+3:36:50 AM
+Sugi-K: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 11 :
+3:37:07 AM
+Rarudo_Siori: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 12 :
+3:37:34 AM
+Sugi-K: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 13 :
+3:37:40 AM
+Rarudo_Siori: Added a Medium Ring at Station [0,-1]
+Move 14 :
+3:38:00 AM
+Sugi-K: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 15 :
+3:38:10 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 16 :
+3:38:41 AM
+Sugi-K: Added a Medium Ring at Station [-1,0]
+Move 17 :
+3:39:06 AM
+Rarudo_Siori: Added a Large Ring at Station [0,-1]
+Move 18 :
+3:39:31 AM
+Sugi-K: Added a Large Ring at Station [-1,0]
+Move 19 :
+3:40:29 AM
+Rarudo_Siori: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :
+3:40:43 AM
+Sugi-K: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :
+3:40:52 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 22 :
+3:41:32 AM
+Sugi-K: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 23 :
+3:41:44 AM
+Rarudo_Siori: Moved a Base Post at Station [1,0]
+Rarudo_Siori has to remove 3 orphaned rings
+Move 24 :
+3:42:05 AM
+Sugi-K: Moved a Base Post at Station [-1,0]
+Move 25 :
+3:42:21 AM
+Rarudo_Siori: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 26 :
+3:43:26 AM
+Sugi-K: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 27 :
+3:44:14 AM
+Rarudo_Siori: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 28 :
+3:44:31 AM
+Sugi-K: Added a Small Ring at Station [0,-1]
+Move 29 :
+3:45:09 AM
+Rarudo_Siori: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 30 :
+3:45:18 AM
+Sugi-K: Added a Medium Ring at Station [0,-1]
+Move 31 :
+3:45:24 AM
+Rarudo_Siori: Moved a Base Post at Station [1,-1]
+Move 32 :
+3:45:37 AM
+Sugi-K: Added a Large Ring at Station [0,-1]
+Move 33 :
+3:46:20 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,0]
+Move 34 :
+3:47:16 AM
+Sugi-K: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 35 :
+3:47:31 AM
+Rarudo_Siori: Added a Large Ring at Station [1,0]
+Move 36 :
+3:48:40 AM
+Sugi-K: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 37 :
+3:49:05 AM
+Rarudo_Siori: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 38 :
+3:49:23 AM
+Sugi-K: Added a Small Ring at Station [-1,1]
+Move 39 :
+3:49:34 AM
+Rarudo_Siori: Moved a Base Post at Station [1,0]
+Move 40 :
+3:50:21 AM
+Sugi-K: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 41 :
+3:50:46 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 42 :
+3:50:55 AM
+Sugi-K: Added a Small Ring at Station [1,-1]
+Move 43 :
+3:51:08 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,-1]
+Move 44 :
+3:51:25 AM
+Sugi-K: Added a Large Ring at Station [1,-1]
+Move 45 :
+3:52:12 AM
+Rarudo_Siori: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 46 :
+3:53:02 AM
+Sugi-K: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 47 :
+3:53:07 AM
+Rarudo_Siori: Added a Small Ring at Station [0,1]
+Move 48 :
+3:53:20 AM
+Sugi-K: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 49 :
+3:53:26 AM
+Rarudo_Siori: Added a Medium Ring at Station [0,1]
+Move 50 :
+3:53:36 AM
+Sugi-K: Added a Large Ring at Station [0,1]
+Move 51 :
+3:53:48 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 52 :
+3:54:09 AM
+Sugi-K: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 53 :
+3:54:15 AM
+Rarudo_Siori: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 54 :
+3:54:23 AM
+Sugi-K: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 55 :
+3:54:31 AM
+Rarudo_Siori: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 56 :
+3:54:46 AM
+Sugi-K: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 57 :
+3:55:42 AM
+Rarudo_Siori: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Sugi-K has to remove 2 orphaned rings
+Move 58 :
+3:56:34 AM
+Sugi-K: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 59 :
+3:56:47 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 60 :
+3:57:19 AM
+Sugi-K: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 61 :
+3:57:42 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Sugi-K has to remove 3 orphaned rings
+Move 62 :
+3:57:54 AM
+Sugi-K: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 63 :
+3:59:21 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 64 :
+3:59:34 AM
+Sugi-K: Added a Small Ring at Station [1,1]
+Move 65 :
+4:00:14 AM
+Rarudo_Siori: Added a Small Ring at Station [1,-1]
+Move 66 :
+4:00:30 AM
+Sugi-K: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 67 :
+4:00:38 AM
+Rarudo_Siori: Added a Small Ring at Station [0,-1]
+Move 68 :
+4:00:47 AM
+Sugi-K: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 69 :
+4:00:56 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,-1]
+Move 70 :
+4:01:06 AM
+Sugi-K: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Middle
+Move 71 :
+4:01:16 AM
+Rarudo_Siori: Added a Large Ring at Station [1,1]
+Move 72 :
+4:01:35 AM
+Sugi-K: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 73 :
+4:01:47 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,1]
+Move 74 :
+4:01:56 AM
+Sugi-K: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 75 :
+4:02:16 AM
+Rarudo_Siori: Added a Large Ring at Station [1,-1]
+Move 76 :
+4:02:23 AM
+Sugi-K: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Rarudo_Siori has to remove 4 orphaned rings
+Move 77 :
+4:02:36 AM
+Rarudo_Siori: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 78 :
+4:02:49 AM
+Sugi-K: Added a Small Ring at Station [-1,-1]
+Move 79 :
+4:03:03 AM
+Rarudo_Siori: Added a Small Ring at Station [1,-1]
+Move 80 :
+4:03:34 AM
+Sugi-K: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 81 :
+4:04:34 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,-1]
+Move 82 :
+4:04:43 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Rarudo_Siori has to remove 4 orphaned rings
+Move 83 :
+4:05:43 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 84 :
+4:06:13 AM
+Sugi-K: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 85 :
+4:06:26 AM
+Rarudo_Siori: Added a Small Ring at Station [1,-1]
+Move 86 :
+4:07:35 AM
+Sugi-K: Added a Medium Ring at Station [-1,1]
+Move 87 :
+4:07:57 AM
+Rarudo_Siori: Moved a Base Post at Station [0,1]
+Rarudo_Siori has to remove 4 orphaned rings
+Move 88 :
+4:08:36 AM
+Sugi-K: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 89 :
+4:09:05 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Sugi-K has to remove 4 orphaned rings
+Move 90 :
+4:09:39 AM
+Sugi-K: Added a Medium Ring at Station [0,-1]
+Move 91 :
+4:09:49 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Sugi-K has to remove 1 orphaned rings
+Move 92 :
+4:10:13 AM
+Sugi-K: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 93 :
+4:10:43 AM
+Rarudo_Siori: Moved a Base Post at Station [-1,1]
+Move 94 :
+4:10:52 AM
+Sugi-K: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 95 :
+4:11:03 AM
+Rarudo_Siori: Moved a Base Post at Station [0,1]
+Move 96 :
+4:11:24 AM
+Sugi-K: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 97 :
+4:12:02 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Sugi-K has to remove 1 orphaned rings
+Move 98 :
+4:12:25 AM
+Sugi-K: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 99 :
+4:12:34 AM
+Rarudo_Siori: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 100 :
+4:12:44 AM
+Sugi-K: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 101 :
+4:13:37 AM
+Rarudo_Siori: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 102 :
+4:13:46 AM
+Sugi-K: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 103 :
+4:14:09 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 104 :
+4:14:20 AM
+Sugi-K: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 105 :
+4:14:26 AM
+Rarudo_Siori: Added a Small Ring at Station [-1,1]
+Move 106 :
+4:14:34 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 107 :
+4:14:56 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 108 :
+4:15:07 AM
+Sugi-K: Added a Medium Ring at Station [0,-1]
+Move 109 :
+4:15:17 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 110 :
+4:15:23 AM
+Sugi-K: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 111 :
+4:15:36 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 112 :
+4:15:43 AM
+Sugi-K: Added a Large Ring at Station [-1,-1]
+Move 113 :
+4:15:52 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Sugi-K has to remove 1 orphaned rings
+Move 114 :
+4:16:12 AM
+Sugi-K: Removed a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 115 :
+4:16:44 AM
+Rarudo_Siori: Added a Small Ring at Station [1,1]
+Move 116 :
+4:16:54 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,0] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 117 :
+4:17:02 AM
+Rarudo_Siori: Removed a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 118 :
+4:17:50 AM
+Sugi-K: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 119 :
+4:18:15 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 120 :
+4:18:30 AM
+Sugi-K: Added a Medium Ring at Station [-1,1]
+Move 121 :
+4:18:35 AM
+Rarudo_Siori: Added a Small Ring at Station [-1,1]
+Move 122 :
+4:18:42 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 123 :
+4:19:00 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Sugi-K has to remove 1 orphaned rings
+Move 124 :
+4:19:15 AM
+Sugi-K: Added a Medium Ring at Station [1,-1]
+Move 125 :
+4:19:29 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Sugi-K has to remove 2 orphaned rings
+Move 126 :
+4:19:37 AM
+Sugi-K: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 127 :
+4:20:08 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 128 :
+4:20:24 AM
+Sugi-K: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 129 :
+4:20:31 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 130 :
+4:20:54 AM
+Sugi-K: Added a Medium Ring at Station [-1,1]
+Move 131 :
+4:21:14 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 132 :
+4:21:32 AM
+Sugi-K: Added a Large Ring at Station [0,1]
+Move 133 :
+4:21:52 AM
+Rarudo_Siori: Added a Small Ring at Station [1,-1]
+Move 134 :
+4:22:08 AM
+Sugi-K: Added a Medium Ring at Station [1,0]
+Move 135 :
+4:22:24 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Sugi-K has to remove 2 orphaned rings
+Move 136 :
+4:22:35 AM
+Sugi-K: Added a Medium Ring at Station [0,-1]
+Move 137 :
+4:22:47 AM
+Rarudo_Siori: Added a Small Ring at Station [0,-1]
+Move 138 :
+4:23:05 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,0] Position:Left
+Rarudo_Siori has to remove 3 orphaned rings
+Move 139 :
+4:23:27 AM
+Rarudo_Siori: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 140 :
+4:23:48 AM
+Sugi-K: Added a Medium Ring at Station [1,-1]
+Move 141 :
+4:24:01 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,1]
+Move 142 :
+4:24:10 AM
+Sugi-K: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 143 :
+4:24:23 AM
+Rarudo_Siori: Added a Medium Ring at Station [1,0]
+Move 144 :
+4:24:32 AM
+Sugi-K: Added a Large Ring at Station [-1,-1]
+Move 145 :
+4:24:51 AM
+Rarudo_Siori: Added a Small Ring at Station [-1,1]
+Move 146 :
+4:25:02 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 147 :
+4:25:13 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 148 :
+4:25:26 AM
+Sugi-K: Added a Large Ring at Station [0,1]
+Move 149 :
+4:25:40 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Sugi-K has to remove 2 orphaned rings
+Move 150 :
+4:25:48 AM
+Sugi-K: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 151 :
+4:25:55 AM
+Rarudo_Siori: Added a Large Ring at Station [1,1]
+Move 152 :
+4:26:06 AM
+Sugi-K: Added a Large Ring at Station [1,0]
+Move 153 :
+4:26:16 AM
+Rarudo_Siori: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Sugi-K has to remove 2 orphaned rings
+Move 154 :
+4:26:32 AM
+Sugi-K: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 155 :
+4:26:39 AM
+Rarudo_Siori: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 156 :
+4:27:22 AM
+Sugi-K: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 157 :
+4:27:47 AM
+Rarudo_Siori: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 158 :
+4:28:01 AM
+Sugi-K: Added a Small Ring at Station [-1,1]
+Move 159 :
+4:28:36 AM
+Rarudo_Siori: Added a Large Ring at Station [1,0]
+Move 160 :
+4:28:45 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Rarudo_Siori has to remove 6 orphaned rings
+Move 161 :
+4:29:14 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 162 :
+4:29:27 AM
+Sugi-K: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 163 :
+4:29:37 AM
+Rarudo_Siori: Added a Medium Ring at Station [-1,1]
+Move 164 :
+4:29:44 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 165 :
+4:29:54 AM
+Rarudo_Siori: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Sugi-K has to remove 1 orphaned rings
+Move 166 :
+4:30:08 AM
+Sugi-K: Added a Medium Ring at Station [1,-1]
+Move 167 :
+4:30:30 AM
+Rarudo_Siori: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Sugi-K has to remove 1 orphaned rings
+Move 168 :
+4:30:43 AM
+Sugi-K: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 169 :
+4:30:49 AM
+Rarudo_Siori: Moved a Base Post at Station [-1,1]
+Move 170 :
+4:30:58 AM
+Sugi-K: Added a Medium Ring at Station [-1,1]
+Move 171 :
+4:31:16 AM
+Rarudo_Siori: Added a Large Ring at Station [0,1]
+Move 172 :
+4:31:33 AM
+Sugi-K: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 173 :
+4:31:58 AM
+Rarudo_Siori: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 174 :
+4:32:14 AM
+Sugi-K: Added a Small Ring at Station [1,-1]
+Move 175 :
+4:32:54 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 176 :
+4:33:14 AM
+Sugi-K: Added a Large Ring at Station [1,0]
+Move 177 :
+4:33:32 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 178 :
+4:34:30 AM
+Sugi-K: Added a Large Ring at Station [-1,1]
+Move 179 :
+4:34:42 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 180 :
+4:34:50 AM
+Sugi-K: Added a Small Ring at Station [-1,1]
+Move 181 :
+4:35:12 AM
+Rarudo_Siori: Moved a Base Post at Station [0,1]
+Move 182 :
+4:36:18 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,0] Position:Left
+Rarudo_Siori has to remove 1 orphaned rings
+Move 183 :
+4:36:28 AM
+Rarudo_Siori: Moved a Base Post at Station [1,1]
+Move 184 :
+4:36:37 AM
+Sugi-K: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Rarudo_Siori has to remove 3 orphaned rings
+Move 185 :
+4:37:07 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 186 :
+4:37:15 AM
+Sugi-K: Added a Medium Ring at Station [0,1]
+Move 187 :
+4:37:34 AM
+Rarudo_Siori: Added a Small Ring at Station [1,0]
+Move 188 :
+4:38:18 AM
+Sugi-K: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Rarudo_Siori has to remove 1 orphaned rings
+Move 189 :
+4:38:32 AM
+Rarudo_Siori: Removed a Blocker at Station [-1,-1] => [0,-1] Position:Middle
+Move 190 :
+4:42:30 AM
+Sugi-K: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 191 :
+4:42:36 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 192 :
+4:42:43 AM
+Sugi-K: Added a Small Ring at Station [1,1]
+Move 193 :
+4:43:10 AM
+Rarudo_Siori: Moved a Blocker at Station [1,1] => [1,0] Position:Right
+Move 194 :
+4:43:30 AM
+Sugi-K: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 195 :
+4:43:39 AM
+Rarudo_Siori: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 196 :
+4:44:22 AM
+Sugi-K: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 197 :
+4:44:36 AM
+Rarudo_Siori: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 198 :
+4:45:05 AM
+Sugi-K: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 199 :
+4:45:21 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 200 :
+4:45:42 AM
+Sugi-K: Added a Medium Ring at Station [1,1]
+Move 201 :
+4:46:13 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 202 :
+4:46:52 AM
+Sugi-K: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 203 :
+4:47:04 AM
+Rarudo_Siori: Added a Large Ring at Station [0,1]
+Move 204 :
+4:47:18 AM
+Sugi-K: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 205 :
+4:47:51 AM
+Rarudo_Siori: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+The end of the game: Sugi-K wins!

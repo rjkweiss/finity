@@ -1,0 +1,198 @@
+Move 1 :
+4/27/2020 5:11:44 AM
+The colors of ollyfish2002 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:40:46 PM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+11:47:34 PM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+4/28/2020 1:27:16 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 5 :
+1:32:31 AM
+ollyfish2002: Added a Small Ring at Station [1,0]
+Move 6 :
+1:39:33 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+1:42:43 AM
+ollyfish2002: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 8 :
+1:55:18 AM
+SixPigeons: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+ollyfish2002 has to remove 1 orphaned rings
+Move 9 :
+1:56:32 AM
+ollyfish2002: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 10 :
+1:59:52 AM
+SixPigeons: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 11 :
+2:00:32 AM
+ollyfish2002: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 12 :
+2:00:57 AM
+SixPigeons: Added a Small Ring at Station [-1,0]
+Move 13 :
+2:01:42 AM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 14 :
+2:03:48 AM
+SixPigeons: Moved a Base Post at Station [-1,0]
+Move 15 :
+2:04:18 AM
+ollyfish2002: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :
+2:05:11 AM
+SixPigeons: Added a Small Ring at Station [-1,1]
+Move 17 :
+2:05:23 AM
+ollyfish2002: Added a Small Ring at Station [1,0]
+Move 18 :
+2:06:10 AM
+SixPigeons: Added a Medium Ring at Station [-1,1]
+Move 19 :
+2:06:25 AM
+ollyfish2002: Added a Small Ring at Station [0,1]
+Move 20 :
+2:07:16 AM
+SixPigeons: Moved a Base Post at Station [-1,1]
+Move 21 :
+2:07:38 AM
+ollyfish2002: Added a Large Ring at Station [-1,1]
+Move 22 :
+2:08:40 AM
+SixPigeons: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+ollyfish2002 has to remove 1 orphaned rings
+Move 23 :
+2:09:42 AM
+ollyfish2002: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 24 :
+2:11:02 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 25 :
+2:11:39 AM
+ollyfish2002: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 26 :
+2:11:49 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 27 :
+2:11:56 AM
+ollyfish2002: Added a Large Ring at Station [-1,1]
+Move 28 :
+2:16:18 AM
+SixPigeons: Added a Medium Ring at Station [-1,0]
+Move 29 :
+2:16:24 AM
+ollyfish2002: Added a Large Ring at Station [-1,0]
+Move 30 :
+2:16:50 AM
+SixPigeons: Moved a Base Post at Station [-1,0]
+Move 31 :
+2:18:06 AM
+ollyfish2002: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 32 :
+2:18:20 AM
+SixPigeons: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+ollyfish2002 has to remove 2 orphaned rings
+Move 33 :
+2:18:54 AM
+ollyfish2002: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 34 :
+2:19:05 AM
+SixPigeons: Added a Large Ring at Station [-1,1]
+Move 35 :
+2:19:14 AM
+ollyfish2002: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 36 :
+2:20:39 AM
+SixPigeons: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 37 :
+2:21:04 AM
+ollyfish2002: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 38 :
+2:23:09 AM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 39 :
+2:23:50 AM
+ollyfish2002: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 40 :
+2:24:13 AM
+SixPigeons: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 41 :
+2:24:22 AM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 42 :
+2:24:37 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 43 :
+2:25:09 AM
+ollyfish2002: Added a Small Ring at Station [1,1]
+Move 44 :
+2:25:25 AM
+SixPigeons: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 45 :
+2:26:34 AM
+ollyfish2002: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 46 :
+2:27:17 AM
+SixPigeons: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 47 :
+2:28:09 AM
+ollyfish2002: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 48 :
+2:28:23 AM
+SixPigeons: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 49 :
+2:29:21 AM
+ollyfish2002: Added a Medium Ring at Station [1,0]
+Move 50 :
+2:29:51 AM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+Move 51 :
+2:29:59 AM
+ollyfish2002: Added a Medium Ring at Station [0,1]
+Move 52 :
+2:30:24 AM
+SixPigeons: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 53 :
+2:31:10 AM
+ollyfish2002: Moved a Base Post at Station [0,1]
+Move 54 :
+2:32:44 AM
+SixPigeons: Reversed a White Bridge at Station [0,1] => [1,0] Position:Left
+ollyfish2002 has to remove 3 orphaned rings
+Move 55 :
+2:34:07 AM
+ollyfish2002: Removed a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 56 :
+2:35:20 AM
+SixPigeons: Moved a Base Post at Station [-1,1]
+SixPigeons has to remove 1 orphaned rings
+Move 57 :
+2:35:59 AM
+ollyfish2002: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 58 :
+2:37:21 AM
+SixPigeons: Added a Large Ring at Station [-1,0]
+Move 59 :
+2:37:33 AM
+ollyfish2002: Added a Small Ring at Station [1,0]
+Move 60 :
+2:38:22 AM
+SixPigeons: Added a Small Ring at Station [0,-1]
+Move 61 :
+2:38:36 AM
+ollyfish2002: Added a Small Ring at Station [1,-1]
+Move 62 :
+2:39:48 AM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+Move 63 :
+2:39:57 AM
+ollyfish2002: Added a Medium Ring at Station [1,0]
+Move 64 :
+2:42:25 AM
+SixPigeons: Added a Medium Ring at Station [0,-1]
+The end of the game: SixPigeons wins!

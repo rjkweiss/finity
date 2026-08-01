@@ -1,0 +1,100 @@
+Move 2 :
+8/18/2020 11:19:01 AM
+Monsieur Pluche: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+11:19:12 AM
+Andy99: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+11:19:50 AM
+Monsieur Pluche: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 5 :
+11:20:05 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 6 :
+11:20:16 AM
+Monsieur Pluche: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 7 :
+11:20:31 AM
+Andy99: Added a Large Ring at Station [0,-1]
+Move 8 :
+11:20:46 AM
+Monsieur Pluche: Added a Large Ring at Station [0,1]
+Move 9 :
+11:21:19 AM
+Andy99: Moved a Base Post at Station [0,-1]
+Move 10 :
+11:21:33 AM
+Monsieur Pluche: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 11 :
+11:22:01 AM
+Andy99: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Monsieur Pluche has to remove 1 orphaned rings
+Move 12 :
+11:22:20 AM
+Monsieur Pluche: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 13 :
+11:22:42 AM
+Andy99: Added a Medium Ring at Station [1,-1]
+Move 14 :
+11:23:02 AM
+Monsieur Pluche: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 15 :
+11:23:10 AM
+Andy99: Added a Small Ring at Station [1,-1]
+Move 16 :
+11:23:20 AM
+Monsieur Pluche: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 17 :
+11:23:46 AM
+Andy99: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 18 :
+11:24:09 AM
+Monsieur Pluche: Added a Small Ring at Station [0,1]
+Move 19 :
+11:24:24 AM
+Andy99: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Monsieur Pluche has to remove 1 orphaned rings
+Move 20 :
+11:24:38 AM
+Monsieur Pluche: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 21 :
+11:24:49 AM
+Andy99: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 22 :
+11:25:21 AM
+Monsieur Pluche: Added a Large Ring at Station [0,1]
+Move 23 :
+11:25:33 AM
+Andy99: Added a Large Ring at Station [1,-1]
+Move 24 :
+11:26:39 AM
+Monsieur Pluche: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 25 :
+11:27:01 AM
+Andy99: Added a Small Ring at Station [1,0]
+Move 26 :
+11:27:25 AM
+Monsieur Pluche: Added a Medium Ring at Station [0,1]
+Move 27 :
+11:27:32 AM
+Andy99: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Monsieur Pluche has to remove 2 orphaned rings
+Move 28 :
+11:27:48 AM
+Monsieur Pluche: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 29 :
+11:27:56 AM
+Andy99: Added a Medium Ring at Station [1,0]
+Move 30 :
+11:28:13 AM
+Monsieur Pluche: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 31 :
+11:28:22 AM
+Andy99: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 32 :
+11:28:36 AM
+Monsieur Pluche: Added a Large Ring at Station [-1,0]
+Move 33 :
+11:28:42 AM
+Andy99: Added a Small Ring at Station [0,1]
+The end of the game: Andy99 wins!

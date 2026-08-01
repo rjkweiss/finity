@@ -1,0 +1,132 @@
+Move 1 :
+6/3/2020 1:25:56 PM
+The colors of Vikingattien have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:26:36 PM
+Gioggi: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 3 :
+1:27:07 PM
+Vikingattien: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 4 :
+1:27:18 PM
+Gioggi: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 5 :
+1:27:31 PM
+Vikingattien: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 6 :
+1:27:48 PM
+Gioggi: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 7 :
+1:27:56 PM
+Vikingattien: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 8 :
+1:28:05 PM
+Gioggi: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 9 :
+1:28:41 PM
+Vikingattien: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 10 :
+1:28:59 PM
+Gioggi: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+1:29:09 PM
+Vikingattien: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 12 :
+1:29:17 PM
+Gioggi: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 13 :
+1:29:24 PM
+Vikingattien: Added a Small Ring at Station [0,-1]
+Move 14 :
+1:29:42 PM
+Gioggi: Added a Medium Ring at Station [0,1]
+Move 15 :
+1:29:53 PM
+Vikingattien: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Gioggi has to remove 1 orphaned rings
+Move 16 :
+1:30:06 PM
+Gioggi: Added a Small Ring at Station [-1,0]
+Move 17 :
+1:30:26 PM
+Vikingattien: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 18 :
+1:30:33 PM
+Gioggi: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 19 :
+1:30:45 PM
+Vikingattien: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 20 :
+1:30:51 PM
+Gioggi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 21 :
+1:30:59 PM
+Vikingattien: Added a Small Ring at Station [-1,-1]
+Move 22 :
+1:31:59 PM
+Gioggi: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 23 :
+1:32:08 PM
+Vikingattien: Added a Medium Ring at Station [0,-1]
+Move 24 :
+1:32:18 PM
+Gioggi: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Gioggi has to remove 1 orphaned rings
+Move 25 :
+1:32:33 PM
+Vikingattien: Added a Medium Ring at Station [-1,-1]
+Move 26 :
+1:32:56 PM
+Gioggi: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 27 :
+1:33:03 PM
+Vikingattien: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 28 :
+1:33:21 PM
+Gioggi: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 29 :
+1:33:28 PM
+Vikingattien: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 30 :
+1:33:41 PM
+Gioggi: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 31 :
+1:33:47 PM
+Vikingattien: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 32 :
+1:34:09 PM
+Gioggi: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 33 :
+1:34:25 PM
+Vikingattien: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 34 :
+1:34:40 PM
+Gioggi: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 35 :
+1:34:46 PM
+Vikingattien: Added a Small Ring at Station [-1,0]
+Move 36 :
+1:35:32 PM
+Gioggi: Removed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 37 :
+1:36:20 PM
+Vikingattien: Added a Medium Ring at Station [-1,0]
+Move 38 :
+1:36:59 PM
+Gioggi: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 39 :
+1:37:29 PM
+Vikingattien: Moved a Base Post at Station [-1,-1]
+Move 40 :
+1:37:39 PM
+Gioggi: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 41 :
+1:38:14 PM
+Vikingattien: Added a Small Ring at Station [1,-1]
+Move 42 :
+1:38:32 PM
+Gioggi: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 43 :
+1:38:39 PM
+Vikingattien: Reversed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+The end of the game: Vikingattien wins!

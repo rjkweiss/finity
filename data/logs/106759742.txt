@@ -1,0 +1,194 @@
+Move 1 :
+8/13/2020 8:52:44 PM
+The colors of Hulmus Gerrik, mumblefish, weevo have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:05:20 PM
+bryon: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 3 :
+8/14/2020 9:10:03 AM
+Hulmus Gerrik: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 4 :
+11:42:38 AM
+mumblefish: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+1:05:07 PM
+weevo: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 6 :
+1:07:55 PM
+bryon: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 7 :
+1:21:36 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :
+2:46:33 PM
+mumblefish: Added a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 9 :
+8:57:59 PM
+weevo: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 10 :
+8/15/2020 5:59:34 AM
+bryon: Added a Medium Ring at Station [-1,1]
+Move 11 :
+3:18:33 PM
+Hulmus Gerrik: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 12 :
+5:57:06 PM
+mumblefish: Added a White Bridge at Station [-1,2] => [-1,1] Position:Left
+Move 13 :
+8/16/2020 5:03:01 PM
+weevo: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 14 :
+7:35:22 PM
+bryon: Moved a Base Post at Station [-1,1]
+Move 15 :
+8/17/2020 7:04:51 AM
+Hulmus Gerrik: Added a Small Ring at Station [1,-1]
+Move 16 :
+10:12:41 AM
+mumblefish: Added a Small Ring at Station [-1,2]
+Move 17 :
+11:11:25 AM
+weevo: Added a Medium Ring at Station [0,1]
+Move 18 :
+12:24:28 PM
+bryon: Added a Small Ring at Station [-1,0]
+Move 19 :
+1:04:44 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 20 :
+4:38:11 PM
+mumblefish: Added a Small Ring at Station [-1,1]
+Move 21 :
+10:55:35 PM
+weevo: Added a Medium Ring at Station [-1,2]
+Move 22 :
+8/18/2020 4:41:14 AM
+bryon: Added a Medium Ring at Station [-1,0]
+Move 23 :
+7:11:16 AM
+Hulmus Gerrik: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 24 :
+11:30:16 AM
+mumblefish: Added a Large Ring at Station [-1,0]
+Move 25 :
+12:04:02 PM
+weevo: Added a Large Ring at Station [-1,1]
+Move 26 :
+1:09:17 PM
+bryon: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 27 :
+4:25:03 PM
+Hulmus Gerrik: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 28 :
+4:47:23 PM
+mumblefish: Added a Small Ring at Station [0,-1]
+Move 29 :
+7:28:03 PM
+weevo: Added a Small Ring at Station [-2,1]
+Move 30 :
+8/19/2020 6:21:20 AM
+bryon: Added a Medium Ring at Station [0,-1]
+Move 31 :
+7:26:19 AM
+Hulmus Gerrik: Removed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+bryon has to remove 1 orphaned rings
+mumblefish has to remove 1 orphaned rings
+Move 32 :
+9:05:50 AM
+mumblefish: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 33 :
+9:07:28 AM
+weevo: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 34 :
+9:42:13 AM
+bryon: Added a Large Ring at Station [0,-1]
+Move 35 :
+10:12:46 AM
+Hulmus Gerrik: Added a Medium Ring at Station [1,-1]
+Move 36 :
+1:41:50 PM
+mumblefish: Added a Medium Ring at Station [0,-1]
+Move 37 :
+1:42:23 PM
+weevo: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 38 :
+2:09:00 PM
+bryon: Added a Large Ring at Station [1,-1]
+Move 39 :
+3:22:58 PM
+Hulmus Gerrik: Removed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+bryon has to remove 2 orphaned rings
+mumblefish has to remove 1 orphaned rings
+Move 40 :
+5:16:19 PM
+mumblefish: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 41 :
+6:22:53 PM
+weevo: Added a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 42 :
+7:31:39 PM
+bryon: Added a Large Ring at Station [0,-1]
+Move 43 :
+8/20/2020 8:32:36 AM
+Hulmus Gerrik: Removed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+bryon has to remove 1 orphaned rings
+Move 44 :
+11:40:03 AM
+mumblefish: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 45 :
+1:42:48 PM
+weevo: Added a Medium Ring at Station [1,1]
+Move 46 :
+1:51:01 PM
+bryon: Added a Large Ring at Station [0,-1]
+Move 47 :
+1:54:42 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,-1] => [2,-1] Position:Left
+Move 48 :
+3:15:10 PM
+mumblefish: Added a Medium Ring at Station [0,-1]
+Move 49 :
+9:28:29 PM
+weevo: Added a Large Ring at Station [1,1]
+Move 50 :
+9:39:00 PM
+bryon: Added a Large Ring at Station [1,-1]
+Move 51 :
+8/21/2020 9:10:53 AM
+Hulmus Gerrik: Added a Small Ring at Station [2,-1]
+Move 52 :
+10:59:52 AM
+mumblefish: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 53 :
+11:03:02 AM
+weevo: Reversed a White Bridge at Station [-1,2] => [-1,1] Position:Left
+mumblefish has to remove 1 orphaned rings
+weevo has to remove 1 orphaned rings
+Move 54 :
+11:06:42 AM
+bryon: Added a Medium Ring at Station [0,-1]
+Move 55 :
+11:42:35 AM
+Hulmus Gerrik: Added a White Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 56 :
+12:49:26 PM
+mumblefish: Added a White Bridge at Station [-1,2] => [-1,1] Position:Right
+Move 57 :
+8/22/2020 1:11:27 AM
+weevo: Added a White Bridge at Station [1,0] => [2,-1] Position:Left
+Move 58 :
+6:51:23 PM
+bryon: Added a Medium Ring at Station [1,-2]
+Move 59 :
+7:15:43 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,-2]
+Move 60 :
+8/23/2020 5:25:37 PM
+mumblefish: Added a White Bridge at Station [-1,1] => [0,0] Position:Right
+Move 61 :
+5:44:57 PM
+weevo: Added a Large Ring at Station [-2,1]
+Move 62 :
+10:10:05 PM
+bryon: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+The end of the game: bryon wins!

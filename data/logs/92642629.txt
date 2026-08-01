@@ -1,0 +1,104 @@
+Move 3 :
+6/2/2020 6:35:41 PM
+claudiob: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 4 :
+6:36:08 PM
+Nicolettes: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 :
+6:36:37 PM
+claudiob: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+6:37:13 PM
+Nicolettes: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 7 :
+6:37:40 PM
+claudiob: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 8 :
+6:38:05 PM
+Nicolettes: Added a Small Ring at Station [1,0]
+Move 9 :
+6:38:18 PM
+claudiob: Added a Large Ring at Station [0,1]
+Move 10 :
+6:38:40 PM
+Nicolettes: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 11 :
+6:39:08 PM
+claudiob: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :
+6:39:31 PM
+Nicolettes: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 13 :
+6:39:43 PM
+claudiob: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 14 :
+6:39:52 PM
+Nicolettes: Added a Small Ring at Station [1,1]
+Move 15 :
+6:40:07 PM
+claudiob: Added a Medium Ring at Station [1,0]
+Move 16 :
+6:40:29 PM
+Nicolettes: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 17 :
+6:40:53 PM
+claudiob: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 18 :
+6:41:10 PM
+Nicolettes: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 19 :
+6:41:34 PM
+claudiob: Added a Medium Ring at Station [1,1]
+Move 20 :
+6:42:13 PM
+Nicolettes: Added a Small Ring at Station [0,1]
+Move 21 :
+6:42:32 PM
+claudiob: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 22 :
+6:42:51 PM
+Nicolettes: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+claudiob has to remove 3 orphaned rings
+Move 23 :
+6:43:37 PM
+claudiob: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 24 :
+6:43:59 PM
+Nicolettes: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 25 :
+6:46:06 PM
+claudiob: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 26 :
+6:46:35 PM
+Nicolettes: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 27 :
+6:47:52 PM
+claudiob: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 28 :
+6:48:22 PM
+Nicolettes: Added a Medium Ring at Station [1,1]
+Move 29 :
+6:48:33 PM
+claudiob: Added a Medium Ring at Station [-1,0]
+Move 30 :
+6:48:52 PM
+Nicolettes: Added a Medium Ring at Station [1,0]
+Move 31 :
+6:49:18 PM
+claudiob: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 32 :
+6:49:28 PM
+Nicolettes: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 33 :
+6:50:28 PM
+claudiob: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 34 :
+6:50:35 PM
+Nicolettes: Added a Medium Ring at Station [0,1]
+Move 35 :
+6:51:26 PM
+claudiob: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 36 :
+6:51:35 PM
+Nicolettes: Added a Small Ring at Station [-1,1]
+The end of the game: Nicolettes wins!

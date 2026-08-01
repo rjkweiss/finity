@@ -1,0 +1,177 @@
+Move 2 :
+8/18/2020 5:51:22 PM
+Emperor Keith: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 3 :
+5:52:52 PM
+CommanderJim: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 4 :
+5:54:47 PM
+etung: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+5:55:29 PM
+Emperor Keith: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 6 :
+5:58:27 PM
+CommanderJim: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 7 :
+5:59:13 PM
+etung: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 8 :
+6:00:08 PM
+Emperor Keith: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 9 :
+6:02:41 PM
+CommanderJim: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 10 :
+6:02:53 PM
+etung: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 11 :
+6:09:12 PM
+Emperor Keith: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 12 :
+6:10:52 PM
+CommanderJim: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 13 :
+6:11:03 PM
+etung: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 14 :
+6:11:13 PM
+Emperor Keith: Added a Small Ring at Station [1,-2]
+Move 15 :
+6:12:26 PM
+CommanderJim: Added a Small Ring at Station [-2,1]
+Move 16 :
+6:12:36 PM
+etung: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 17 :
+6:13:14 PM
+Emperor Keith: Added a White Bridge at Station [0,-1] => [1,-2] Position:Left
+Move 18 :
+6:13:53 PM
+CommanderJim: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 19 :
+6:14:02 PM
+etung: Added a Small Ring at Station [-1,1]
+Move 20 :
+6:14:10 PM
+Emperor Keith: Added a Small Ring at Station [0,-1]
+Move 21 :
+6:14:28 PM
+CommanderJim: Added a Medium Ring at Station [-1,1]
+Move 22 :
+6:14:41 PM
+etung: Added a Medium Ring at Station [-2,1]
+Move 23 :
+6:14:49 PM
+Emperor Keith: Added a Small Ring at Station [-1,0]
+Move 24 :
+6:15:41 PM
+CommanderJim: Added a Large Ring at Station [-2,1]
+Move 25 :
+6:16:41 PM
+etung: Added a Large Ring at Station [-1,1]
+Move 26 :
+6:17:46 PM
+Emperor Keith: Added a Medium Ring at Station [1,-2]
+Move 27 :
+6:31:21 PM
+CommanderJim: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 28 :
+6:31:52 PM
+etung: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 29 :
+6:34:15 PM
+Emperor Keith: Added a Medium Ring at Station [0,-1]
+Move 30 :
+6:37:40 PM
+CommanderJim: Added a Large Ring at Station [0,-1]
+Move 31 :
+6:37:55 PM
+etung: Added a Small Ring at Station [1,0]
+Move 32 :
+6:40:38 PM
+Emperor Keith: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 33 :
+6:43:39 PM
+CommanderJim: Added a Large Ring at Station [1,-2]
+Move 34 :
+6:52:08 PM
+etung: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 35 :
+6:53:28 PM
+Emperor Keith: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 36 :
+6:58:30 PM
+CommanderJim: Moved a Base Post at Station [1,-2]
+CommanderJim has to remove 3 orphaned rings
+Move 37 :
+6:59:02 PM
+etung: Added a Medium Ring at Station [-1,0]
+Move 38 :
+7:00:06 PM
+Emperor Keith: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 39 :
+7:00:40 PM
+CommanderJim: Added a Large Ring at Station [-1,0]
+Move 40 :
+7:01:19 PM
+etung: Moved a Base Post at Station [-1,0]
+etung has to remove 1 orphaned rings
+Move 41 :
+7:01:37 PM
+Emperor Keith: Moved a Base Post at Station [-2,1]
+Move 42 :
+7:02:34 PM
+CommanderJim: Removed a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 43 :
+7:02:52 PM
+etung: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 44 :
+7:02:59 PM
+Emperor Keith: Added a Small Ring at Station [1,-1]
+Move 45 :
+7:03:15 PM
+CommanderJim: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 46 :
+7:03:30 PM
+etung: Added a Small Ring at Station [0,1]
+Move 47 :
+7:03:37 PM
+Emperor Keith: Added a Medium Ring at Station [1,-1]
+Move 48 :
+7:04:20 PM
+CommanderJim: Added a Large Ring at Station [1,-1]
+Move 49 :
+7:05:08 PM
+etung: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 50 :
+7:10:05 PM
+Emperor Keith: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 51 :
+7:11:20 PM
+CommanderJim: Added a Small Ring at Station [1,0]
+Move 52 :
+7:11:41 PM
+etung: Added a Medium Ring at Station [1,0]
+Move 53 :
+7:11:47 PM
+Emperor Keith: Added a Large Ring at Station [1,0]
+Move 54 :
+7:12:19 PM
+CommanderJim: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 55 :
+7:12:46 PM
+etung: Added a Small Ring at Station [1,1]
+Move 56 :
+7:12:53 PM
+Emperor Keith: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 57 :
+7:14:53 PM
+CommanderJim: Added a Medium Ring at Station [1,1]
+Move 58 :
+7:15:06 PM
+etung: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 59 :
+7:15:14 PM
+Emperor Keith: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+The end of the game: Emperor Keith wins!

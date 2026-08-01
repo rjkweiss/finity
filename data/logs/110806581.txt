@@ -1,0 +1,173 @@
+Move 1 :
+9/6/2020 4:00:48 AM
+The colors of kaflee have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:01:21 AM
+kaflee: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 3 :
+4:03:08 AM
+kwan2yee: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 4 :
+4:03:22 AM
+kaflee: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+4:03:49 AM
+kwan2yee: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+4:04:03 AM
+kaflee: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 7 :
+4:05:28 AM
+kwan2yee: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 8 :
+4:05:38 AM
+kaflee: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 9 :
+4:05:53 AM
+kwan2yee: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 10 :
+4:06:41 AM
+kaflee: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 11 :
+4:06:55 AM
+kwan2yee: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 12 :
+4:07:20 AM
+kaflee: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 13 :
+4:07:31 AM
+kwan2yee: Reversed a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 14 :
+4:07:52 AM
+kaflee: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 15 :
+4:08:42 AM
+kwan2yee: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 16 :
+4:09:09 AM
+kaflee: Added a Small Ring at Station [0,1]
+Move 17 :
+4:09:53 AM
+kwan2yee: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 18 :
+4:09:58 AM
+kaflee: Moved a Base Post at Station [0,1]
+Move 19 :
+4:10:56 AM
+kwan2yee: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :
+4:11:30 AM
+kaflee: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :
+4:11:43 AM
+kwan2yee: Added a Small Ring at Station [1,0]
+Move 22 :
+4:11:58 AM
+kaflee: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 23 :
+4:12:19 AM
+kwan2yee: Added a Small Ring at Station [1,1]
+Move 24 :
+4:12:26 AM
+kaflee: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 25 :
+4:12:36 AM
+kwan2yee: Moved a Base Post at Station [1,1]
+Move 26 :
+4:13:47 AM
+kaflee: Moved a Base Post at Station [-1,1]
+Move 27 :
+4:14:09 AM
+kwan2yee: Moved a Base Post at Station [0,1]
+kwan2yee has to remove 1 orphaned rings
+Move 28 :
+4:14:44 AM
+kaflee: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 29 :
+4:14:53 AM
+kwan2yee: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 30 :
+4:15:27 AM
+kaflee: Added a Small Ring at Station [-1,0]
+Move 31 :
+4:16:14 AM
+kwan2yee: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 32 :
+4:16:35 AM
+kaflee: Moved a Base Post at Station [-1,0]
+kaflee has to remove 1 orphaned rings
+Move 33 :
+4:17:52 AM
+kwan2yee: Moved a Base Post at Station [1,1]
+Move 34 :
+4:18:00 AM
+kaflee: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 35 :
+4:18:44 AM
+kwan2yee: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 36 :
+4:19:04 AM
+kaflee: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 37 :
+4:19:32 AM
+kwan2yee: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 38 :
+4:21:23 AM
+kaflee: Added a Small Ring at Station [0,-1]
+Move 39 :
+4:21:59 AM
+kwan2yee: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 40 :
+4:22:07 AM
+kaflee: Added a Small Ring at Station [1,-1]
+Move 41 :
+4:22:19 AM
+kwan2yee: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+kaflee has to remove 2 orphaned rings
+Move 42 :
+4:22:34 AM
+kaflee: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 43 :
+4:23:02 AM
+kwan2yee: Added a Small Ring at Station [1,0]
+Move 44 :
+4:23:09 AM
+kaflee: Added a Small Ring at Station [0,-1]
+Move 45 :
+4:23:16 AM
+kwan2yee: Added a Small Ring at Station [1,-1]
+Move 46 :
+4:23:21 AM
+kaflee: Added a Medium Ring at Station [1,-1]
+Move 47 :
+4:23:26 AM
+kwan2yee: Moved a Base Post at Station [1,-1]
+Move 48 :
+4:23:57 AM
+kaflee: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 49 :
+4:24:04 AM
+kwan2yee: Added a Medium Ring at Station [0,-1]
+Move 50 :
+4:24:11 AM
+kaflee: Added a Medium Ring at Station [1,0]
+Move 51 :
+4:24:30 AM
+kwan2yee: Moved a Base Post at Station [0,-1]
+kwan2yee has to remove 3 orphaned rings
+Move 52 :
+4:25:14 AM
+kaflee: Added a Small Ring at Station [1,1]
+Move 53 :
+4:25:40 AM
+kwan2yee: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 54 :
+4:26:05 AM
+kaflee: Added a Small Ring at Station [0,1]
+Move 55 :
+4:26:12 AM
+kwan2yee: Added a Medium Ring at Station [-1,0]
+Move 56 :
+4:26:22 AM
+kaflee: Added a Small Ring at Station [-1,1]
+The end of the game: kaflee wins!

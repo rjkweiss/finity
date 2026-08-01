@@ -1,0 +1,210 @@
+Move 3 :
+8/29/2020 8:26:15 PM
+abyss511: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :
+8:26:31 PM
+asker_Asker: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 5 :
+8:26:48 PM
+abyss511: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 6 :
+8:27:36 PM
+asker_Asker: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 7 :
+8:27:51 PM
+abyss511: Added a Small Ring at Station [-1,0]
+Move 8 :
+8:28:39 PM
+asker_Asker: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 9 :
+8:28:48 PM
+abyss511: Added a Small Ring at Station [0,1]
+Move 10 :
+8:29:09 PM
+asker_Asker: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 11 :
+8:29:15 PM
+abyss511: Added a Medium Ring at Station [0,1]
+Move 12 :
+8:29:42 PM
+asker_Asker: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 13 :
+8:29:51 PM
+abyss511: Added a Large Ring at Station [0,1]
+Move 14 :
+8:30:02 PM
+asker_Asker: Added a Small Ring at Station [0,-1]
+Move 15 :
+8:30:14 PM
+abyss511: Added a Medium Ring at Station [-1,0]
+Move 16 :
+8:30:37 PM
+asker_Asker: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 17 :
+8:31:04 PM
+abyss511: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 18 :
+8:31:27 PM
+asker_Asker: Added a Medium Ring at Station [0,-1]
+Move 19 :
+8:31:46 PM
+abyss511: Added a Large Ring at Station [-1,0]
+Move 20 :
+8:32:05 PM
+asker_Asker: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 21 :
+8:32:13 PM
+abyss511: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 22 :
+8:32:50 PM
+asker_Asker: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 23 :
+8:32:56 PM
+abyss511: Added a Small Ring at Station [1,0]
+Move 24 :
+8:33:22 PM
+asker_Asker: Added a Large Ring at Station [0,-1]
+Move 25 :
+8:33:34 PM
+abyss511: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 26 :
+8:34:05 PM
+asker_Asker: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 27 :
+8:34:12 PM
+abyss511: Added a Medium Ring at Station [1,0]
+Move 28 :
+8:34:19 PM
+asker_Asker: Added a Small Ring at Station [-1,-1]
+Move 29 :
+8:34:24 PM
+abyss511: Added a Large Ring at Station [1,0]
+Move 30 :
+8:34:35 PM
+asker_Asker: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 31 :
+8:35:09 PM
+abyss511: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 32 :
+8:35:33 PM
+asker_Asker: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 33 :
+8:35:43 PM
+abyss511: Added a Medium Ring at Station [-1,-1]
+Move 34 :
+8:36:07 PM
+asker_Asker: Added a Large Ring at Station [-1,-1]
+Move 35 :
+8:36:16 PM
+abyss511: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 36 :
+8:36:47 PM
+asker_Asker: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 37 :
+8:36:54 PM
+abyss511: Added a Small Ring at Station [1,-1]
+Move 38 :
+8:38:10 PM
+asker_Asker: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 39 :
+8:38:17 PM
+abyss511: Added a Medium Ring at Station [1,-1]
+Move 40 :
+8:38:58 PM
+asker_Asker: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 41 :
+8:39:10 PM
+abyss511: Added a Large Ring at Station [1,-1]
+Move 42 :
+8:39:55 PM
+asker_Asker: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 43 :
+8:40:04 PM
+abyss511: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 44 :
+8:40:30 PM
+asker_Asker: Moved a Base Post at Station [-1,0]
+asker_Asker has to remove 3 orphaned rings
+Move 45 :
+8:40:41 PM
+abyss511: Added a Small Ring at Station [0,-1]
+Move 46 :
+8:40:58 PM
+asker_Asker: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 47 :
+8:41:07 PM
+abyss511: Added a Medium Ring at Station [0,-1]
+Move 48 :
+8:41:15 PM
+asker_Asker: Added a Large Ring at Station [-1,1]
+Move 49 :
+8:41:24 PM
+abyss511: Added a Large Ring at Station [0,-1]
+Move 50 :
+8:41:43 PM
+asker_Asker: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 51 :
+8:41:53 PM
+abyss511: Moved a Base Post at Station [1,0]
+abyss511 has to remove 4 orphaned rings
+Move 52 :
+8:42:23 PM
+asker_Asker: Added a Medium Ring at Station [0,1]
+Move 53 :
+8:42:30 PM
+abyss511: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 54 :
+8:42:55 PM
+asker_Asker: Added a Medium Ring at Station [-1,-1]
+Move 55 :
+8:44:06 PM
+abyss511: Added a Small Ring at Station [1,1]
+Move 56 :
+8:44:20 PM
+asker_Asker: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 57 :
+8:44:25 PM
+abyss511: Added a Medium Ring at Station [1,1]
+Move 58 :
+8:44:31 PM
+asker_Asker: Added a Large Ring at Station [1,1]
+Move 59 :
+8:44:50 PM
+abyss511: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 60 :
+8:45:03 PM
+asker_Asker: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 61 :
+8:45:16 PM
+abyss511: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 62 :
+8:45:26 PM
+asker_Asker: Added a Large Ring at Station [0,1]
+Move 63 :
+8:45:32 PM
+abyss511: Added a Small Ring at Station [0,1]
+Move 64 :
+8:45:39 PM
+asker_Asker: Added a Small Ring at Station [-1,1]
+Move 65 :
+8:46:05 PM
+abyss511: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 66 :
+8:47:02 PM
+asker_Asker: Added a Medium Ring at Station [-1,1]
+Move 67 :
+8:47:15 PM
+abyss511: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 68 :
+8:47:58 PM
+asker_Asker: Reversed a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 69 :
+8:48:35 PM
+abyss511: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 70 :
+8:48:42 PM
+asker_Asker: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 71 :
+8:48:53 PM
+abyss511: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+The end of the game: abyss511 wins!

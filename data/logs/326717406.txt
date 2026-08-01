@@ -1,0 +1,109 @@
+Game log
+Move 2 :12/14/2022 7:16:47 PM
+oilcansquire: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :7:17:01 PM
+anna121093: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :7:17:10 PM
+oilcansquire: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :7:17:33 PM
+anna121093: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 6 :7:17:40 PM
+oilcansquire: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :7:17:48 PM
+anna121093: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :7:17:56 PM
+oilcansquire: Added a Small Ring at Station [0,1]
+Move 9 :7:18:01 PM
+anna121093: Added a Small Ring at Station [1,0]
+Move 10 :7:18:16 PM
+oilcansquire: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 11 :7:18:22 PM
+anna121093: Added a Medium Ring at Station [1,0]
+Move 12 :7:18:51 PM
+oilcansquire: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 13 :7:18:57 PM
+anna121093: Added a Medium Ring at Station [0,1]
+Move 14 :7:19:32 PM
+oilcansquire: Added a Large Ring at Station [1,0]
+Move 15 :7:19:37 PM
+anna121093: Added a Large Ring at Station [0,1]
+Move 16 :7:19:46 PM
+oilcansquire: Removed a Black Bridge at Station [1,0] => [0,1] Position:Left
+anna121093 has to remove 2 orphaned rings
+Move 17 :7:19:58 PM
+anna121093: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+oilcansquire has to remove 1 orphaned rings
+Move 18 :7:20:09 PM
+oilcansquire: Removed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 19 :7:20:16 PM
+anna121093: Added a Large Ring at Station [1,0]
+Move 20 :7:20:23 PM
+oilcansquire: Added a Medium Ring at Station [0,1]
+Move 21 :7:20:31 PM
+anna121093: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 22 :7:20:40 PM
+oilcansquire: Added a Small Ring at Station [1,1]
+Move 23 :7:20:55 PM
+anna121093: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 24 :7:21:01 PM
+oilcansquire: Added a Large Ring at Station [0,1]
+Move 25 :7:21:13 PM
+anna121093: Added a Medium Ring at Station [1,1]
+Move 26 :7:21:19 PM
+oilcansquire: Removed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+anna121093 has to remove 1 orphaned rings
+Move 27 :7:21:40 PM
+anna121093: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 28 :7:21:46 PM
+oilcansquire: Moved a Base Post at Station [0,1]
+oilcansquire has to remove 1 orphaned rings
+Move 29 :7:22:09 PM
+anna121093: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 30 :7:22:22 PM
+oilcansquire: Added a Small Ring at Station [-1,1]
+Move 31 :7:22:39 PM
+anna121093: Moved a Base Post at Station [1,0]
+Move 32 :7:23:49 PM
+oilcansquire: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 33 :7:23:54 PM
+anna121093: Added a Small Ring at Station [1,-1]
+Move 34 :7:24:42 PM
+oilcansquire: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 35 :7:24:51 PM
+anna121093: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 36 :7:25:00 PM
+oilcansquire: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 37 :7:25:11 PM
+anna121093: Added a Small Ring at Station [0,-1]
+Move 38 :7:25:36 PM
+oilcansquire: Added a Small Ring at Station [-1,0]
+Move 39 :7:25:47 PM
+anna121093: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 40 :7:26:12 PM
+oilcansquire: Added a Medium Ring at Station [-1,1]
+Move 41 :7:26:21 PM
+anna121093: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 42 :7:27:17 PM
+oilcansquire: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 43 :7:27:24 PM
+anna121093: Added a Small Ring at Station [-1,-1]
+Move 44 :7:27:41 PM
+oilcansquire: Added a Small Ring at Station [1,1]
+Move 45 :7:28:02 PM
+anna121093: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+oilcansquire has to remove 1 orphaned rings
+Move 46 :7:30:03 PM
+oilcansquire: Added a Medium Ring at Station [-1,0]
+Move 47 :7:30:15 PM
+anna121093: Added a Medium Ring at Station [0,-1]
+Move 48 :7:31:20 PM
+oilcansquire: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 49 :7:31:47 PM
+anna121093: Added a Medium Ring at Station [1,-1]
+Move 50 :7:34:15 PM
+oilcansquire: Added a Large Ring at Station [-1,1]
+Move 51 :7:35:19 PM
+anna121093: Added a Large Ring at Station [1,-1]
+Move 52 :7:35:23 PM
+oilcansquire: Moved a Base Post at Station [-1,1]
+The end of the game: oilcansquire wins!

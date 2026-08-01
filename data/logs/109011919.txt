@@ -1,0 +1,134 @@
+Move 1 :
+8/26/2020 7:08:05 PM
+The colors of tkfocht, MarkRG, eokngo have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:10:04 PM
+tkfocht: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 3 :
+7:11:13 PM
+MarkRG: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 4 :
+7:12:37 PM
+eokngo: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+7:13:22 PM
+tkfocht: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 6 :
+7:14:04 PM
+MarkRG: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+7:14:44 PM
+eokngo: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 8 :
+7:15:02 PM
+tkfocht: Added a Medium Ring at Station [0,-1]
+Move 9 :
+7:15:54 PM
+MarkRG: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 10 :
+7:17:45 PM
+eokngo: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 11 :
+7:17:57 PM
+tkfocht: Added a Small Ring at Station [0,-1]
+Move 12 :
+7:18:50 PM
+MarkRG: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 13 :
+7:19:49 PM
+eokngo: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 14 :
+7:20:02 PM
+tkfocht: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 15 :
+7:20:13 PM
+MarkRG: Added a Medium Ring at Station [-2,1]
+Move 16 :
+7:20:27 PM
+eokngo: Added a Large Ring at Station [-1,1]
+Move 17 :
+7:21:09 PM
+tkfocht: Moved a Base Post at Station [0,-1]
+Move 18 :
+7:21:39 PM
+MarkRG: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 19 :
+7:22:14 PM
+eokngo: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 20 :
+7:23:15 PM
+tkfocht: Reversed a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 21 :
+7:23:52 PM
+MarkRG: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 22 :
+7:24:06 PM
+eokngo: Added a Large Ring at Station [-1,0]
+Move 23 :
+7:24:44 PM
+tkfocht: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 24 :
+7:25:17 PM
+MarkRG: Added a Small Ring at Station [-1,1]
+Move 25 :
+7:25:26 PM
+eokngo: Added a Large Ring at Station [-2,1]
+Move 26 :
+7:25:50 PM
+tkfocht: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 27 :
+7:26:05 PM
+MarkRG: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 28 :
+7:28:55 PM
+eokngo: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 29 :
+7:29:14 PM
+tkfocht: Added a Medium Ring at Station [1,-1]
+Move 30 :
+7:29:52 PM
+MarkRG: Added a Medium Ring at Station [0,1]
+Move 31 :
+7:30:01 PM
+eokngo: Moved a Base Post at Station [-1,1]
+Move 32 :
+7:31:17 PM
+tkfocht: Added a Small Ring at Station [1,-1]
+Move 33 :
+7:32:05 PM
+MarkRG: Added a Large Ring at Station [1,1]
+Move 34 :
+7:32:17 PM
+eokngo: Added a Large Ring at Station [0,1]
+Move 35 :
+7:32:24 PM
+tkfocht: Added a Medium Ring at Station [-1,0]
+Move 36 :
+7:32:54 PM
+MarkRG: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 37 :
+7:33:55 PM
+eokngo: Moved a Base Post at Station [0,1]
+Move 38 :
+7:34:20 PM
+tkfocht: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 39 :
+7:34:55 PM
+MarkRG: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 40 :
+7:35:24 PM
+eokngo: Added a Medium Ring at Station [1,1]
+Move 41 :
+7:35:37 PM
+tkfocht: Added a Medium Ring at Station [-1,1]
+Move 42 :
+7:36:01 PM
+MarkRG: Reversed a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 43 :
+7:36:15 PM
+eokngo: Moved a Base Post at Station [1,1]
+eokngo has to remove 4 orphaned rings
+Move 44 :
+7:36:35 PM
+tkfocht: Added a Small Ring at Station [-1,0]
+The end of the game: tkfocht wins!

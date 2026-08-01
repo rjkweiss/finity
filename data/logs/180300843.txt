@@ -1,0 +1,56 @@
+Game log
+Move 1 :6/15/2021 6:05:21 AM
+The colors of tony1021, Gust_avo have been chosen according to their preferences. Change my preferences.
+Move 2 :6:36:53 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :6:58:23 AM
+Gust_avo: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 4 :7:04:10 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 5 :7:04:53 AM
+Gust_avo: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 6 :8:09:20 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 7 :8:09:59 AM
+Gust_avo: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 8 :8:12:30 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 9 :8:13:40 AM
+Gust_avo: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 10 :8:28:48 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 11 :8:37:07 AM
+Gust_avo: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 12 :9:23:42 AM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 13 :11:51:43 AM
+Gust_avo: Added a Black Bridge at Station [0,0] => [1,-1] Position:Left
+Move 14 :12:08:12 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 15 :12:18:05 PM
+Gust_avo: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 16 :12:18:51 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 17 :12:22:54 PM
+Gust_avo: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 18 :12:46:28 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 19 :1:06:48 PM
+Gust_avo: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 20 :3:15:20 PM
+tony1021: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 21 :3:32:52 PM
+Gust_avo: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 22 :5:15:35 PM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 23 :5:46:10 PM
+Gust_avo: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 24 :6:11:21 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 25 :6:36:37 PM
+Gust_avo: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 26 :10:04:49 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 27 :6/16/2021 3:40:45 AM
+Gust_avo concedes the game.
+The end of the game: tony1021 wins!

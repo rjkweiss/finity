@@ -1,0 +1,146 @@
+Move 2 :
+8/11/2020 2:42:58 PM
+Hellep: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+2:43:44 PM
+chacn: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+2:43:53 PM
+Hellep: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+2:44:36 PM
+chacn: Added a Medium Ring at Station [0,-1]
+Move 6 :
+2:44:57 PM
+Hellep: Added a Small Ring at Station [0,1]
+Move 7 :
+2:45:21 PM
+chacn: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 8 :
+2:45:30 PM
+Hellep: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+chacn has to remove 1 orphaned rings
+Move 9 :
+2:46:34 PM
+chacn: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 10 :
+2:46:51 PM
+Hellep: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 11 :
+2:47:21 PM
+chacn: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 12 :
+2:47:28 PM
+Hellep: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 13 :
+2:48:29 PM
+chacn: Added a Small Ring at Station [0,-1]
+Move 14 :
+2:48:36 PM
+Hellep: Added a Small Ring at Station [1,1]
+Move 15 :
+2:48:57 PM
+chacn: Moved a Base Post at Station [0,-1]
+Move 16 :
+2:49:22 PM
+Hellep: Added a Medium Ring at Station [0,1]
+Move 17 :
+2:49:54 PM
+chacn: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+2:50:43 PM
+Hellep: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 19 :
+2:51:22 PM
+chacn: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 20 :
+2:52:07 PM
+Hellep: Moved a Base Post at Station [0,1]
+Hellep has to remove 1 orphaned rings
+Move 21 :
+2:53:23 PM
+chacn: Added a Medium Ring at Station [-1,0]
+Move 22 :
+2:53:45 PM
+Hellep: Added a Small Ring at Station [-1,1]
+Move 23 :
+2:54:26 PM
+chacn: Moved a Base Post at Station [-1,0]
+chacn has to remove 1 orphaned rings
+Move 24 :
+2:55:35 PM
+Hellep: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 25 :
+2:56:05 PM
+chacn: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 26 :
+2:56:10 PM
+Hellep: Moved a Base Post at Station [-1,1]
+Move 27 :
+2:56:41 PM
+chacn: Added a Small Ring at Station [0,-1]
+Move 28 :
+2:56:47 PM
+Hellep: Added a Small Ring at Station [1,1]
+Move 29 :
+2:56:55 PM
+chacn: Added a Medium Ring at Station [0,-1]
+Move 30 :
+2:58:00 PM
+Hellep: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 31 :
+2:58:59 PM
+chacn: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 32 :
+2:59:13 PM
+Hellep: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 33 :
+2:59:33 PM
+chacn: Added a Small Ring at Station [1,-1]
+Move 34 :
+3:00:30 PM
+Hellep: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 35 :
+3:01:47 PM
+chacn: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 36 :
+3:02:38 PM
+Hellep: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 37 :
+3:03:45 PM
+chacn: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 38 :
+3:03:51 PM
+Hellep: Added a Small Ring at Station [1,0]
+Move 39 :
+3:04:19 PM
+chacn: Added a Medium Ring at Station [1,0]
+Move 40 :
+3:04:24 PM
+Hellep: Added a Large Ring at Station [1,0]
+Move 41 :
+3:04:54 PM
+chacn: Added a Large Ring at Station [0,1]
+Move 42 :
+3:05:07 PM
+Hellep: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 43 :
+3:06:09 PM
+chacn: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 44 :
+3:06:28 PM
+Hellep: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+chacn has to remove 1 orphaned rings
+Move 45 :
+3:08:51 PM
+chacn: Added a Large Ring at Station [1,1]
+Move 46 :
+3:08:58 PM
+Hellep: Added a Large Ring at Station [0,1]
+Move 47 :
+3:12:21 PM
+chacn: Added a Medium Ring at Station [-1,1]
+Move 48 :
+3:12:55 PM
+Hellep: Added a Medium Ring at Station [1,1]
+The end of the game: Hellep wins!

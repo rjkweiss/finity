@@ -1,0 +1,346 @@
+Move 1 :
+8/30/2020 2:46:09 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :
+2:47:15 AM
+ry0ry0ry0: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 4 :
+2:47:44 AM
+suzuki1234: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 5 :
+2:48:04 AM
+ishida-san: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 6 :
+2:48:13 AM
+ry0ry0ry0: Moved a Blocker at Station [-2,1] => [-1,1] Position:Middle
+Move 7 :
+2:48:25 AM
+suzuki1234: Added a Small Ring at Station [-2,1]
+Move 8 :
+2:48:40 AM
+ishida-san: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 9 :
+2:48:54 AM
+ry0ry0ry0: Moved a Blocker at Station [-2,1] => [-1,1] Position:Right
+Move 10 :
+2:49:14 AM
+suzuki1234: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 11 :
+2:50:04 AM
+ishida-san: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 12 :
+2:50:17 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 13 :
+2:50:24 AM
+suzuki1234: Added a Large Ring at Station [-1,1]
+Move 14 :
+2:51:09 AM
+ishida-san: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 15 :
+2:51:17 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+suzuki1234 has to remove 2 orphaned rings
+Move 16 :
+2:51:35 AM
+suzuki1234: Reversed a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 17 :
+2:52:24 AM
+ishida-san: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 18 :
+2:52:36 AM
+ry0ry0ry0: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 19 :
+2:53:04 AM
+suzuki1234: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 20 :
+2:53:14 AM
+ishida-san: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 21 :
+2:53:39 AM
+ry0ry0ry0: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 22 :
+2:54:07 AM
+suzuki1234: Added a Small Ring at Station [-2,1]
+Move 23 :
+2:54:15 AM
+ishida-san: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 24 :
+2:54:30 AM
+ry0ry0ry0: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 25 :
+2:54:59 AM
+suzuki1234: Moved a Base Post at Station [-2,1]
+Move 26 :
+2:55:06 AM
+ishida-san: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 27 :
+2:55:13 AM
+ry0ry0ry0: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 28 :
+2:55:19 AM
+suzuki1234: Added a Small Ring at Station [-1,0]
+Move 29 :
+2:55:34 AM
+ishida-san: Added a Large Ring at Station [1,1]
+Move 30 :
+2:55:45 AM
+ry0ry0ry0: Added a Small Ring at Station [1,0]
+Move 31 :
+2:56:10 AM
+suzuki1234: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :
+2:56:16 AM
+ishida-san: Added a Medium Ring at Station [1,0]
+Move 33 :
+2:56:26 AM
+ry0ry0ry0: Reversed a White Bridge at Station [1,1] => [1,0] Position:Right
+ishida-san has to remove 1 orphaned rings
+Move 34 :
+2:56:36 AM
+suzuki1234: Removed a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 35 :
+2:58:42 AM
+ishida-san: Removed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 36 :
+2:58:53 AM
+ry0ry0ry0: Added a Small Ring at Station [1,1]
+Move 37 :
+2:59:19 AM
+suzuki1234: Added a Small Ring at Station [-1,1]
+Move 38 :
+2:59:54 AM
+ishida-san: Reversed a White Bridge at Station [1,0] => [1,1] Position:Left
+ry0ry0ry0 has to remove 1 orphaned rings
+Move 39 :
+3:00:07 AM
+ry0ry0ry0: Added a Large Ring at Station [1,0]
+Move 40 :
+3:00:18 AM
+suzuki1234: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 41 :
+3:00:47 AM
+ishida-san: Added a Medium Ring at Station [1,1]
+Move 42 :
+3:01:09 AM
+ry0ry0ry0: Added a Medium Ring at Station [1,0]
+Move 43 :
+3:01:33 AM
+suzuki1234: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 44 :
+3:01:49 AM
+ishida-san: Moved a Base Post at Station [1,0]
+Move 45 :
+3:02:37 AM
+ry0ry0ry0: Moved a Base Post at Station [1,1]
+Move 46 :
+3:03:20 AM
+suzuki1234: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 47 :
+3:03:46 AM
+ishida-san: Removed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+ry0ry0ry0 has to remove 3 orphaned rings
+Move 48 :
+3:04:03 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+ishida-san has to remove 2 orphaned rings
+Move 49 :
+3:04:15 AM
+suzuki1234: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 50 :
+3:04:31 AM
+ishida-san: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 51 :
+3:04:39 AM
+ry0ry0ry0: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+suzuki1234 has to remove 1 orphaned rings
+Move 52 :
+3:04:46 AM
+suzuki1234: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 53 :
+3:05:33 AM
+ishida-san: Added a White Bridge at Station [1,-1] => [1,-2] Position:Right
+Move 54 :
+3:05:40 AM
+ry0ry0ry0: Added a Small Ring at Station [0,1]
+Move 55 :
+3:05:48 AM
+suzuki1234: Added a Small Ring at Station [-1,1]
+Move 56 :
+3:06:00 AM
+ishida-san: Added a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 57 :
+3:06:09 AM
+ry0ry0ry0: Added a Large Ring at Station [0,1]
+Move 58 :
+3:07:12 AM
+suzuki1234: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 59 :
+3:07:28 AM
+ishida-san: Removed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 60 :
+3:07:33 AM
+ry0ry0ry0: Added a Medium Ring at Station [0,1]
+Move 61 :
+3:07:50 AM
+suzuki1234: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 62 :
+3:08:14 AM
+ishida-san: Added a Large Ring at Station [1,-1]
+Move 63 :
+3:08:21 AM
+ry0ry0ry0: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 64 :
+3:08:50 AM
+suzuki1234: Added a Medium Ring at Station [-1,1]
+Move 65 :
+3:08:56 AM
+ishida-san: Added a Large Ring at Station [1,-2]
+Move 66 :
+3:09:03 AM
+ry0ry0ry0: Added a Large Ring at Station [-1,1]
+Move 67 :
+3:09:31 AM
+suzuki1234: Added a Medium Ring at Station [-1,0]
+Move 68 :
+3:09:48 AM
+ishida-san: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 69 :
+3:10:18 AM
+ry0ry0ry0: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 70 :
+3:10:26 AM
+suzuki1234: Added a Large Ring at Station [-1,0]
+Move 71 :
+3:11:00 AM
+ishida-san: Added a Large Ring at Station [0,-1]
+Move 72 :
+3:11:12 AM
+ry0ry0ry0: Added a Small Ring at Station [1,0]
+Move 73 :
+3:11:20 AM
+suzuki1234: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+ry0ry0ry0 has to remove 1 orphaned rings
+Move 74 :
+3:11:44 AM
+ishida-san: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 75 :
+3:11:50 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 76 :
+3:12:35 AM
+suzuki1234: Moved a Base Post at Station [-1,0]
+Move 77 :
+3:12:47 AM
+ishida-san: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 78 :
+3:12:57 AM
+ry0ry0ry0: Added a Small Ring at Station [1,0]
+Move 79 :
+3:13:58 AM
+suzuki1234: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 80 :
+3:14:07 AM
+ishida-san: Added a Medium Ring at Station [1,-1]
+Move 81 :
+3:14:30 AM
+ry0ry0ry0: Added a Small Ring at Station [1,-1]
+Move 82 :
+3:14:37 AM
+suzuki1234: Added a Medium Ring at Station [-2,1]
+Move 83 :
+3:14:48 AM
+ishida-san: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+ry0ry0ry0 has to remove 2 orphaned rings
+Move 84 :
+3:15:59 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+suzuki1234 has to remove 2 orphaned rings
+Move 85 :
+3:16:22 AM
+suzuki1234: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 86 :
+3:17:17 AM
+ishida-san: Added a Medium Ring at Station [1,-2]
+Move 87 :
+3:17:33 AM
+ry0ry0ry0: Added a Medium Ring at Station [-1,1]
+Move 88 :
+3:17:45 AM
+suzuki1234: Added a Small Ring at Station [-1,1]
+Move 89 :
+3:18:13 AM
+ishida-san: Removed a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 90 :
+3:18:24 AM
+ry0ry0ry0: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 91 :
+3:18:40 AM
+suzuki1234: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 92 :
+3:19:12 AM
+ishida-san: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 93 :
+3:21:38 AM
+ry0ry0ry0: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 94 :
+3:21:49 AM
+suzuki1234: Added a Large Ring at Station [-2,1]
+Move 95 :
+3:23:33 AM
+ishida-san: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 96 :
+3:23:50 AM
+ry0ry0ry0: Reversed a White Bridge at Station [1,-1] => [1,-2] Position:Right
+ishida-san has to remove 3 orphaned rings
+Move 97 :
+3:24:05 AM
+suzuki1234: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 98 :
+3:24:53 AM
+ishida-san: Added a Small Ring at Station [1,-1]
+Move 99 :
+3:25:12 AM
+ry0ry0ry0: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 100 :
+3:25:18 AM
+suzuki1234: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 101 :
+3:25:40 AM
+ishida-san: Added a Large Ring at Station [1,1]
+Move 102 :
+3:27:06 AM
+ry0ry0ry0: Added a Large Ring at Station [1,0]
+Move 103 :
+3:27:21 AM
+suzuki1234: Added a Small Ring at Station [0,-1]
+Move 104 :
+3:28:10 AM
+ishida-san: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 105 :
+3:28:39 AM
+ry0ry0ry0: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+ishida-san has to remove 1 orphaned rings
+Move 106 :
+3:28:48 AM
+suzuki1234: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 107 :
+3:29:59 AM
+ishida-san: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 108 :
+3:30:44 AM
+ry0ry0ry0: Reversed a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 109 :
+3:31:25 AM
+suzuki1234: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 110 :
+3:31:37 AM
+ishida-san: Added a Large Ring at Station [1,-2]
+Move 111 :
+3:32:30 AM
+ry0ry0ry0: Moved a Base Post at Station [0,1]
+ry0ry0ry0 has to remove 2 orphaned rings
+Move 112 :
+3:33:23 AM
+suzuki1234: Added a White Bridge at Station [-2,1] => [-1,0] Position:Left
+The end of the game: suzuki1234 wins!

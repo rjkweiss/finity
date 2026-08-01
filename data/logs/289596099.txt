@@ -1,0 +1,148 @@
+Game log
+Move 2 :8/7/2022 1:02:58 AM
+ASerFloat: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 3 :1:05:31 AM
+Ryan_JEC: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :1:11:18 AM
+ASerFloat: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :1:11:30 AM
+Ryan_JEC: Added a Small Ring at Station [1,0]
+Move 6 :1:15:25 AM
+ASerFloat: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 7 :1:16:04 AM
+Ryan_JEC: Moved a Base Post at Station [1,0]
+Move 8 :1:21:38 AM
+ASerFloat: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 9 :1:22:03 AM
+Ryan_JEC: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 10 :1:23:55 AM
+ASerFloat: Added a Large Ring at Station [-1,0]
+Move 11 :1:24:13 AM
+Ryan_JEC: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 12 :1:25:38 AM
+ASerFloat: Moved a Base Post at Station [-1,0]
+Move 13 :1:27:47 AM
+Ryan_JEC: Moved a Base Post at Station [1,-1]
+Move 14 :1:29:42 AM
+ASerFloat: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 15 :1:29:58 AM
+Ryan_JEC: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 16 :1:30:18 AM
+ASerFloat: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 17 :1:30:32 AM
+Ryan_JEC: Added a Small Ring at Station [0,1]
+Move 18 :1:30:50 AM
+ASerFloat: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 19 :1:31:09 AM
+Ryan_JEC: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 20 :1:33:25 AM
+ASerFloat: Added a Large Ring at Station [-1,1]
+Move 21 :1:33:50 AM
+Ryan_JEC: Added a Small Ring at Station [-1,1]
+Move 22 :1:34:23 AM
+ASerFloat: Added a Large Ring at Station [0,1]
+Move 23 :1:34:31 AM
+Ryan_JEC: Added a Medium Ring at Station [-1,1]
+Move 24 :1:35:33 AM
+ASerFloat: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 25 :1:35:54 AM
+Ryan_JEC: Added a Small Ring at Station [-1,0]
+Move 26 :1:39:01 AM
+ASerFloat: Added a Medium Ring at Station [0,1]
+Move 27 :1:39:47 AM
+Ryan_JEC: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 28 :1:41:16 AM
+ASerFloat: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 29 :1:41:46 AM
+Ryan_JEC: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 30 :1:42:27 AM
+ASerFloat: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 31 :1:43:02 AM
+Ryan_JEC: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 32 :1:46:48 AM
+ASerFloat: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Ryan_JEC has to remove 1 orphaned rings
+Move 33 :1:47:30 AM
+Ryan_JEC: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+ASerFloat has to remove 3 orphaned rings
+Move 34 :1:49:35 AM
+ASerFloat: Added a Small Ring at Station [-1,-1]
+Move 35 :1:50:08 AM
+Ryan_JEC: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 36 :1:50:20 AM
+ASerFloat: Added a Small Ring at Station [0,-1]
+Move 37 :1:51:04 AM
+Ryan_JEC: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 38 :1:51:29 AM
+ASerFloat: Added a Small Ring at Station [1,-1]
+Move 39 :1:52:17 AM
+Ryan_JEC: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+ASerFloat has to remove 1 orphaned rings
+Move 40 :1:52:51 AM
+ASerFloat: Added a Large Ring at Station [-1,1]
+Move 41 :1:53:03 AM
+Ryan_JEC: Added a Medium Ring at Station [0,1]
+Move 42 :1:53:09 AM
+ASerFloat: Added a Large Ring at Station [0,1]
+Move 43 :1:54:17 AM
+Ryan_JEC: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 44 :1:54:45 AM
+ASerFloat: Added a Large Ring at Station [1,0]
+Move 45 :1:55:14 AM
+Ryan_JEC: Added a Medium Ring at Station [1,0]
+Move 46 :1:56:48 AM
+ASerFloat: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Ryan_JEC has to remove 6 orphaned rings
+Move 47 :1:57:08 AM
+Ryan_JEC: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+ASerFloat has to remove 3 orphaned rings
+Move 48 :1:58:38 AM
+ASerFloat: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 49 :1:58:49 AM
+Ryan_JEC: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 50 :2:00:28 AM
+ASerFloat: Added a Small Ring at Station [-1,1]
+Move 51 :2:00:35 AM
+Ryan_JEC: Added a Small Ring at Station [1,0]
+Move 52 :2:00:43 AM
+ASerFloat: Added a Small Ring at Station [0,1]
+Move 53 :2:00:49 AM
+Ryan_JEC: Added a Medium Ring at Station [0,1]
+Move 54 :2:01:11 AM
+ASerFloat: Added a Medium Ring at Station [1,0]
+Move 55 :2:01:38 AM
+Ryan_JEC: Removed a Black Bridge at Station [0,1] => [1,0] Position:Right
+ASerFloat has to remove 1 orphaned rings
+Move 56 :2:02:23 AM
+ASerFloat: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 57 :2:02:38 AM
+Ryan_JEC: Added a Small Ring at Station [1,1]
+Move 58 :2:02:53 AM
+ASerFloat: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Ryan_JEC has to remove 2 orphaned rings
+Move 59 :2:04:08 AM
+Ryan_JEC: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+ASerFloat has to remove 2 orphaned rings
+Move 60 :2:04:18 AM
+ASerFloat: Added a Medium Ring at Station [-1,1]
+Move 61 :2:05:16 AM
+Ryan_JEC: Moved a Base Post at Station [1,0]
+Move 62 :2:06:52 AM
+ASerFloat: Added a Medium Ring at Station [0,1]
+Move 63 :2:07:32 AM
+Ryan_JEC: Added a Small Ring at Station [1,-1]
+Move 64 :2:09:19 AM
+ASerFloat: Added a Large Ring at Station [-1,1]
+Move 65 :2:09:44 AM
+Ryan_JEC: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 66 :2:10:14 AM
+ASerFloat: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 67 :2:10:41 AM
+Ryan_JEC: Added a Small Ring at Station [0,-1]
+Move 68 :2:11:02 AM
+ASerFloat: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 69 :2:11:13 AM
+Ryan_JEC: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 70 :2:11:32 AM
+ASerFloat: Added a Large Ring at Station [1,0]
+The end of the game: ASerFloat wins!

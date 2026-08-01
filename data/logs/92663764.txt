@@ -1,0 +1,148 @@
+Move 1 :
+6/2/2020 8:48:47 PM
+The colors of yaolu have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8:49:30 PM
+yaolu: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+8:50:56 PM
+DenielB: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 4 :
+8:52:09 PM
+yaolu: Added a Small Ring at Station [0,1]
+Move 5 :
+8:52:59 PM
+DenielB: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 6 :
+8:54:15 PM
+yaolu: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :
+8:55:46 PM
+DenielB: Added a Black Bridge at Station [1,-1] => [0,0] Position:Right
+Move 8 :
+8:56:56 PM
+yaolu: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 9 :
+8:57:10 PM
+DenielB: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+8:57:26 PM
+yaolu: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 11 :
+8:57:37 PM
+DenielB: Added a Medium Ring at Station [1,0]
+Move 12 :
+8:58:59 PM
+yaolu: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 13 :
+9:01:11 PM
+DenielB: Moved a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 14 :
+9:01:32 PM
+yaolu: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 15 :
+9:01:55 PM
+DenielB: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+9:02:12 PM
+yaolu: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 17 :
+9:02:21 PM
+DenielB: Added a Small Ring at Station [0,-1]
+Move 18 :
+9:02:45 PM
+yaolu: Moved a Base Post at Station [0,1]
+Move 19 :
+9:03:04 PM
+DenielB: Added a Medium Ring at Station [0,-1]
+Move 20 :
+9:03:25 PM
+yaolu: Added a Small Ring at Station [-1,1]
+Move 21 :
+9:04:10 PM
+DenielB: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 22 :
+9:07:48 PM
+yaolu: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 23 :
+9:08:18 PM
+DenielB: Added a Large Ring at Station [1,0]
+Move 24 :
+9:08:41 PM
+yaolu: Moved a Base Post at Station [-1,1]
+Move 25 :
+9:09:02 PM
+DenielB: Added a Large Ring at Station [0,-1]
+Move 26 :
+9:09:14 PM
+yaolu: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+DenielB has to remove 3 orphaned rings
+Move 27 :
+9:10:44 PM
+DenielB: Moved a Base Post at Station [1,0]
+Move 28 :
+9:11:20 PM
+yaolu: Added a Small Ring at Station [-1,0]
+Move 29 :
+9:12:25 PM
+DenielB: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 30 :
+9:12:37 PM
+yaolu: Added a Medium Ring at Station [-1,0]
+Move 31 :
+9:13:21 PM
+DenielB: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 32 :
+9:13:33 PM
+yaolu: Added a Large Ring at Station [-1,0]
+Move 33 :
+9:13:47 PM
+DenielB: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 34 :
+9:14:51 PM
+yaolu: Moved a Base Post at Station [-1,0]
+yaolu has to remove 2 orphaned rings
+Move 35 :
+9:15:38 PM
+DenielB: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 36 :
+9:16:01 PM
+yaolu: Added a Small Ring at Station [0,-1]
+Move 37 :
+9:18:24 PM
+DenielB: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 38 :
+9:18:40 PM
+yaolu: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 39 :
+9:19:03 PM
+DenielB: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 40 :
+9:19:13 PM
+yaolu: Added a Small Ring at Station [-1,1]
+Move 41 :
+9:19:20 PM
+DenielB: Added a Small Ring at Station [0,1]
+Move 42 :
+9:19:32 PM
+yaolu: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+DenielB has to remove 1 orphaned rings
+Move 43 :
+9:19:57 PM
+DenielB: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 44 :
+9:20:15 PM
+yaolu: Added a Medium Ring at Station [-1,1]
+Move 45 :
+9:21:06 PM
+DenielB: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 46 :
+9:21:13 PM
+yaolu: Added a Small Ring at Station [0,1]
+Move 47 :
+9:21:24 PM
+DenielB: Added a Large Ring at Station [1,1]
+Move 48 :
+9:21:48 PM
+yaolu: Added a Large Ring at Station [-1,1]
+The end of the game: yaolu wins!

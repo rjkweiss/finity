@@ -1,0 +1,77 @@
+Game log
+Move 3 :10/12/2022 11:18:32 AM
+Nadzuna: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 4 :11:36:28 AM
+Eternal Library: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 5 :7:01:50 PM
+Nadzuna: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :7:05:44 PM
+Eternal Library: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 7 :7:06:24 PM
+Nadzuna: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 8 :7:06:39 PM
+Eternal Library: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 9 :7:06:55 PM
+Nadzuna: Added a Small Ring at Station [0,1]
+Move 10 :7:07:09 PM
+Eternal Library: Added a Large Ring at Station [1,0]
+Move 11 :7:07:33 PM
+Nadzuna: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 12 :7:07:40 PM
+Eternal Library: Added a Medium Ring at Station [1,0]
+Move 13 :7:08:50 PM
+Nadzuna: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 14 :7:11:11 PM
+Eternal Library: Moved a Base Post at Station [1,0]
+Move 15 :7:11:52 PM
+Nadzuna: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 16 :7:14:46 PM
+Eternal Library: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 17 :9:37:34 PM
+Nadzuna: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 18 :9:38:54 PM
+Eternal Library: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 19 :10/13/2022 12:10:46 AM
+Nadzuna: Added a Small Ring at Station [1,1]
+Move 20 :12:18:40 AM
+Eternal Library: Added a Medium Ring at Station [1,1]
+Move 21 :12:21:56 AM
+Nadzuna: Added a Medium Ring at Station [0,1]
+Move 22 :12:24:24 AM
+Eternal Library: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 23 :12:41:59 AM
+Nadzuna: Added a Large Ring at Station [1,1]
+Move 24 :1:05:39 AM
+Eternal Library: Added a Large Ring at Station [1,-1]
+Move 25 :1:35:52 AM
+Nadzuna: Moved a Base Post at Station [0,1]
+Move 26 :1:50:44 AM
+Eternal Library: Moved a Base Post at Station [1,-1]
+Move 27 :1:56:10 AM
+Nadzuna: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 28 :1:56:25 AM
+Eternal Library: Added a Large Ring at Station [0,-1]
+Move 29 :2:03:43 AM
+Nadzuna: Added a Small Ring at Station [1,0]
+Move 30 :2:04:02 AM
+Eternal Library: Added a Medium Ring at Station [0,-1]
+Move 31 :2:04:37 AM
+Nadzuna: Added a Small Ring at Station [-1,1]
+Move 32 :2:05:08 AM
+Eternal Library: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 33 :2:05:26 AM
+Nadzuna: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 34 :2:10:29 AM
+Eternal Library: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 35 :2:38:27 AM
+Nadzuna: Added a Medium Ring at Station [-1,1]
+Move 36 :2:41:28 AM
+Eternal Library: Moved a Base Post at Station [1,0]
+Eternal Library has to remove 2 orphaned rings
+Move 37 :2:43:16 AM
+Nadzuna: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 38 :2:43:37 AM
+Eternal Library: Added a Medium Ring at Station [1,-1]
+Move 39 :3:15:13 AM
+Nadzuna: Added a Small Ring at Station [-1,0]
+The end of the game: Nadzuna wins!

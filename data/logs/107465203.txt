@@ -1,0 +1,115 @@
+Move 1 :
+8/17/2020 4:00:11 PM
+The colors of SixPigeons, ethorad have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:02:56 PM
+SixPigeons: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+8/18/2020 12:11:08 AM
+ethorad: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+12:45:49 AM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 5 :
+2:05:58 AM
+ethorad: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 6 :
+2:33:21 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 7 :
+2:54:29 AM
+ethorad: Added a Small Ring at Station [0,-1]
+Move 8 :
+3:36:04 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 9 :
+4:24:11 AM
+ethorad: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 10 :
+4:25:38 AM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 11 :
+5:11:08 AM
+ethorad: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+5:11:36 AM
+SixPigeons: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Right
+Move 13 :
+5:13:46 AM
+ethorad: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 14 :
+5:14:02 AM
+SixPigeons: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 15 :
+5:15:19 AM
+ethorad: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 16 :
+5:19:27 AM
+SixPigeons: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 17 :
+5:22:18 AM
+ethorad: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 18 :
+5:23:20 AM
+SixPigeons: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 19 :
+5:28:05 AM
+ethorad: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 20 :
+5:28:49 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 21 :
+6:20:11 AM
+ethorad: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 22 :
+6:21:36 AM
+SixPigeons: Added a Small Ring at Station [-1,0]
+Move 23 :
+6:24:31 AM
+ethorad: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 24 :
+6:29:21 AM
+SixPigeons: Added a Medium Ring at Station [-1,0]
+Move 25 :
+6:43:15 AM
+ethorad: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 26 :
+6:54:26 AM
+SixPigeons: Added a Large Ring at Station [-1,0]
+Move 27 :
+7:01:49 AM
+ethorad: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 28 :
+7:03:21 AM
+SixPigeons: Moved a Base Post at Station [-1,0]
+Move 29 :
+7:18:23 AM
+ethorad: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 30 :
+7:20:25 AM
+SixPigeons: Added a Small Ring at Station [-1,1]
+Move 31 :
+7:20:42 AM
+ethorad: Removed a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 32 :
+7:21:13 AM
+SixPigeons: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 33 :
+7:23:02 AM
+ethorad: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :
+7:24:55 AM
+SixPigeons: Added a Small Ring at Station [-1,-1]
+Move 35 :
+7:33:35 AM
+ethorad: Moved a Base Post at Station [0,-1]
+Move 36 :
+7:36:08 AM
+SixPigeons: Added a Medium Ring at Station [-1,-1]
+Move 37 :
+9:05:16 AM
+ethorad: Added a Small Ring at Station [1,-1]
+Move 38 :
+9:31:07 AM
+SixPigeons: Added a Medium Ring at Station [-1,1]
+The end of the game: SixPigeons wins!

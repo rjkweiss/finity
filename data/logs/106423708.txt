@@ -1,0 +1,129 @@
+Move 3 :
+8/11/2020 5:33:21 PM
+polyhedra: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+5:35:13 PM
+QuasiAiden: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 5 :
+5:36:08 PM
+polyhedra: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 6 :
+5:37:12 PM
+QuasiAiden: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+5:37:34 PM
+polyhedra: Added a Large Ring at Station [0,1]
+Move 8 :
+5:37:48 PM
+QuasiAiden: Added a Black Bridge at Station [0,0] => [1,-1] Position:Left
+Move 9 :
+5:38:17 PM
+polyhedra: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 10 :
+5:39:42 PM
+QuasiAiden: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 11 :
+5:40:22 PM
+polyhedra: Added a Medium Ring at Station [-1,0]
+Move 12 :
+5:40:59 PM
+QuasiAiden: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 13 :
+5:41:34 PM
+polyhedra: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 14 :
+5:44:21 PM
+QuasiAiden: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 15 :
+5:44:49 PM
+polyhedra: Added a Small Ring at Station [0,-1]
+Move 16 :
+5:45:28 PM
+QuasiAiden: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+polyhedra has to remove 1 orphaned rings
+Move 17 :
+5:46:16 PM
+polyhedra: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+5:47:17 PM
+QuasiAiden: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 19 :
+5:47:44 PM
+polyhedra: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 20 :
+5:49:23 PM
+QuasiAiden: Added a Small Ring at Station [0,-1]
+Move 21 :
+5:49:32 PM
+polyhedra: Added a Large Ring at Station [0,-1]
+Move 22 :
+5:52:53 PM
+QuasiAiden: Added a Small Ring at Station [-1,0]
+Move 23 :
+5:53:27 PM
+polyhedra: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :
+5:55:32 PM
+QuasiAiden: Added a Large Ring at Station [-1,1]
+Move 25 :
+5:55:41 PM
+polyhedra: Added a Medium Ring at Station [0,-1]
+Move 26 :
+5:58:00 PM
+QuasiAiden: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 27 :
+6:01:04 PM
+polyhedra: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 28 :
+6:04:50 PM
+QuasiAiden: Added a Medium Ring at Station [0,1]
+Move 29 :
+6:06:52 PM
+polyhedra: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 30 :
+6:07:21 PM
+QuasiAiden: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 31 :
+6:07:35 PM
+polyhedra: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 32 :
+6:08:15 PM
+QuasiAiden: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 33 :
+6:08:27 PM
+polyhedra: Added a Medium Ring at Station [-1,-1]
+Move 34 :
+6:08:37 PM
+QuasiAiden: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 35 :
+6:08:44 PM
+polyhedra: Added a Large Ring at Station [-1,0]
+Move 36 :
+6:13:24 PM
+QuasiAiden: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 37 :
+6:13:55 PM
+polyhedra: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 38 :
+6:15:10 PM
+QuasiAiden: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 39 :
+6:15:23 PM
+polyhedra: Added a Small Ring at Station [1,-1]
+Move 40 :
+6:15:30 PM
+QuasiAiden: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 41 :
+6:17:19 PM
+polyhedra: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+QuasiAiden has to remove 4 orphaned rings
+Move 42 :
+6:19:22 PM
+QuasiAiden: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 43 :
+6:19:33 PM
+polyhedra: Added a Medium Ring at Station [1,-1]
+Move 44 :
+6:19:44 PM
+QuasiAiden: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+The end of the game: polyhedra wins!

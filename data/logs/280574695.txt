@@ -1,0 +1,53 @@
+Move 1 : 7/5/2022 8:59:14 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 : 9:56:50 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 : 1:37:12 PM
+Kahil01: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 : 1:47:30 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 5 : 3:20:23 PM
+Kahil01: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 6 : 4:06:47 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 : 4:35:44 PM
+Kahil01: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 8 : 8:32:53 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 9 : 7/6/2022 2:40:07 PM
+Kahil01: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 10 : 5:58:16 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 11 : 7/9/2022 8:20:16 AM
+Kahil01: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 12 : 7/11/2022 6:48:44 PM
+tony1021: Moved a Base Post at Station [0,1]
+Move 13 : 7/12/2022 9:50:10 AM
+Kahil01: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 14 : 10:46:35 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 15 : 2:45:18 PM
+Kahil01: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 16 : 3:00:17 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 17 : 3:03:21 PM
+Kahil01: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 18 : 5:04:08 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 19 : 5:20:42 PM
+Kahil01: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 20 : 6:06:37 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 21 : 7/13/2022 8:22:52 AM
+Kahil01: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 22 : 7/14/2022 4:34:25 PM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 23 : 7/15/2022 4:32:15 PM
+Kahil01: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 24 : 6:35:45 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 25 : 7/16/2022 10:13:12 PM
+Kahil01: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 26 : 7/18/2022 7:33:08 PM
+tony1021: Added a Small Ring at Station [0,-1]
+The end of the game: tony1021 wins!

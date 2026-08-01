@@ -1,0 +1,147 @@
+Game log
+Move 1 :5/9/2021 7:52:07 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :5/10/2021 8:36:32 AM
+Phynec: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :10:29:20 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :5/11/2021 12:59:18 AM
+Phynec: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 5 :7:12:13 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 6 :5/12/2021 12:09:01 AM
+Phynec: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 7 :6:17:44 AM
+tony1021: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 8 :6:28:24 AM
+Phynec: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 9 :6:44:32 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :6:47:45 AM
+Phynec: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 11 :6:49:25 AM
+tony1021: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 12 :9:52:16 AM
+Phynec: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 13 :10:02:03 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 14 :10:04:28 AM
+Phynec: Added a Small Ring at Station [0,1]
+Move 15 :10:04:51 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 16 :10:06:58 AM
+Phynec: Moved a Base Post at Station [0,1]
+Move 17 :10:07:37 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 18 :10:09:35 AM
+Phynec: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 19 :10:14:05 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 20 :10:21:01 AM
+Phynec: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 21 :11:06:46 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 22 :11:44:40 AM
+Phynec: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 23 :8:42:06 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 24 :5/13/2021 1:39:02 AM
+Phynec: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 25 :7:07:04 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 26 :5/14/2021 8:29:30 AM
+Phynec: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 27 :8:33:22 AM
+tony1021: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 28 :8:45:03 AM
+Phynec: Added a Small Ring at Station [-1,1]
+Move 29 :7:13:25 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 30 :5/15/2021 12:08:10 AM
+Phynec: Added a Medium Ring at Station [-1,1]
+Move 31 :5:04:51 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 32 :5:14:03 AM
+Phynec: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 33 :5:46:20 AM
+tony1021: Removed a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 34 :8:00:11 AM
+Phynec: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 35 :7:12:46 PM
+tony1021: Removed a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 36 :5/16/2021 12:31:25 AM
+Phynec: Moved a Base Post at Station [-1,1]
+Move 37 :11:35:13 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 38 :11:40:54 AM
+Phynec: Added a Medium Ring at Station [0,1]
+Move 39 :8:04:18 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Phynec has to remove 2 orphaned rings
+Move 40 :5/17/2021 12:31:41 AM
+Phynec: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 41 :9:10:34 AM
+tony1021: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 42 :9:16:23 AM
+Phynec: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 43 :9:31:55 AM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 44 :9:36:49 AM
+Phynec: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 45 :10:42:42 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 46 :6:48:51 PM
+Phynec: Removed a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 47 :7:24:30 PM
+tony1021: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 48 :5/18/2021 3:55:56 AM
+Phynec: Removed a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 49 :10:51:23 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 50 :1:13:09 PM
+Phynec: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 51 :7:10:52 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 52 :5/19/2021 4:25:11 AM
+Phynec: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 53 :5:03:02 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 54 :5:04:24 AM
+Phynec: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 55 :5:55:37 AM
+tony1021: Added a Large Ring at Station [1,0]
+Move 56 :7:11:28 AM
+Phynec: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 57 :7:37:17 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 58 :7:40:09 AM
+Phynec: Added a Small Ring at Station [-1,0]
+Move 59 :7:57:51 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 60 :8:53:43 AM
+Phynec: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 61 :10:33:58 AM
+tony1021: Removed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 62 :11:10:34 AM
+Phynec: Added a Medium Ring at Station [-1,0]
+Move 63 :11:22:47 AM
+tony1021: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 64 :5/20/2021 7:00:37 AM
+Phynec: Added a Large Ring at Station [-1,0]
+Move 65 :7:24:33 PM
+tony1021: Added a Small Ring at Station [1,1]
+Move 66 :5/21/2021 4:32:57 AM
+Phynec: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 67 :7:19:12 AM
+tony1021: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 68 :8:22:01 AM
+Phynec: Added a Small Ring at Station [-1,-1]
+Move 69 :10:54:25 AM
+tony1021: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 70 :10:55:33 AM
+Phynec: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 71 :10:55:40 AM
+tony1021: Added a Small Ring at Station [0,-1]
+The end of the game: tony1021 wins!

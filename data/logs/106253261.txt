@@ -1,0 +1,95 @@
+Move 3 :
+8/10/2020 4:29:39 PM
+ernelopez: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 4 :
+4:30:21 PM
+Jagojago: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 5 :
+4:30:41 PM
+ernelopez: Added a Small Ring at Station [-1,0]
+Move 6 :
+4:31:55 PM
+Jagojago: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 7 :
+4:32:20 PM
+ernelopez: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 8 :
+4:33:15 PM
+Jagojago: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 9 :
+4:33:27 PM
+ernelopez: Added a Medium Ring at Station [-1,0]
+Move 10 :
+4:33:36 PM
+Jagojago: Added a Small Ring at Station [1,0]
+Move 11 :
+4:35:06 PM
+ernelopez: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 12 :
+4:35:17 PM
+Jagojago: Added a Medium Ring at Station [1,0]
+Move 13 :
+4:35:30 PM
+ernelopez: Added a Small Ring at Station [-1,-1]
+Move 14 :
+4:35:54 PM
+Jagojago: Added a Large Ring at Station [1,0]
+Move 15 :
+4:36:08 PM
+ernelopez: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 16 :
+4:36:45 PM
+Jagojago: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 17 :
+4:37:03 PM
+ernelopez: Added a Large Ring at Station [-1,0]
+Move 18 :
+4:37:45 PM
+Jagojago: Added a Small Ring at Station [0,-1]
+Move 19 :
+4:38:39 PM
+ernelopez: Added a Medium Ring at Station [-1,-1]
+Move 20 :
+4:38:47 PM
+Jagojago: Added a Medium Ring at Station [0,-1]
+Move 21 :
+4:39:18 PM
+ernelopez: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 22 :
+4:39:41 PM
+Jagojago: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 23 :
+4:39:52 PM
+ernelopez: Added a Large Ring at Station [0,-1]
+Move 24 :
+4:40:09 PM
+Jagojago: Added a Large Ring at Station [-1,-1]
+Move 25 :
+4:40:28 PM
+ernelopez: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 26 :
+4:40:45 PM
+Jagojago: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 27 :
+4:40:54 PM
+ernelopez: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Jagojago has to remove 3 orphaned rings
+Move 28 :
+4:41:14 PM
+Jagojago: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 29 :
+4:41:50 PM
+ernelopez: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 30 :
+4:42:31 PM
+Jagojago: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 31 :
+4:42:40 PM
+ernelopez: Added a Small Ring at Station [0,-1]
+Move 32 :
+4:43:06 PM
+Jagojago: Added a Small Ring at Station [1,1]
+Move 33 :
+4:43:17 PM
+ernelopez: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: ernelopez wins!

@@ -1,0 +1,205 @@
+Move 2 :
+8/27/2020 2:59:55 AM
+galispiar: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 3 :
+3:04:24 AM
+NIGHTGAME: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 4 :
+3:05:45 AM
+mokemoke: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+3:06:30 AM
+galispiar: Added a Large Ring at Station [1,0]
+Move 6 :
+3:06:45 AM
+NIGHTGAME: Added a Small Ring at Station [0,-1]
+Move 7 :
+3:07:02 AM
+mokemoke: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 8 :
+3:07:55 AM
+galispiar: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 9 :
+3:08:02 AM
+NIGHTGAME: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :
+3:10:04 AM
+mokemoke: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+3:10:18 AM
+galispiar: Added a Small Ring at Station [0,1]
+Move 12 :
+3:10:25 AM
+NIGHTGAME: Added a Medium Ring at Station [1,-1]
+Move 13 :
+3:10:38 AM
+mokemoke: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 14 :
+3:10:55 AM
+galispiar: Added a Medium Ring at Station [-1,1]
+Move 15 :
+3:11:05 AM
+NIGHTGAME: Added a Medium Ring at Station [1,0]
+Move 16 :
+3:11:12 AM
+mokemoke: Added a Small Ring at Station [-1,1]
+Move 17 :
+3:11:20 AM
+galispiar: Added a Medium Ring at Station [0,1]
+Move 18 :
+3:11:27 AM
+NIGHTGAME: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 19 :
+3:11:54 AM
+mokemoke: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 20 :
+3:12:00 AM
+galispiar: Added a Large Ring at Station [0,1]
+Move 21 :
+3:14:20 AM
+NIGHTGAME: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 22 :
+3:14:34 AM
+mokemoke: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 23 :
+3:15:31 AM
+galispiar: Added a Large Ring at Station [-1,1]
+Move 24 :
+3:15:40 AM
+NIGHTGAME: Added a Large Ring at Station [1,-1]
+Move 25 :
+3:15:52 AM
+mokemoke: Added a Small Ring at Station [-2,1]
+Move 26 :
+3:16:09 AM
+galispiar: Added a Medium Ring at Station [-2,1]
+Move 27 :
+3:16:22 AM
+NIGHTGAME: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 28 :
+3:17:52 AM
+mokemoke: Added a Large Ring at Station [-2,1]
+Move 29 :
+3:18:04 AM
+galispiar: Added a Large Ring at Station [-1,0]
+Move 30 :
+3:18:18 AM
+NIGHTGAME: Added a Large Ring at Station [1,-2]
+Move 31 :
+3:20:33 AM
+mokemoke: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 32 :
+3:21:45 AM
+galispiar: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 33 :
+3:21:54 AM
+NIGHTGAME: Added a Small Ring at Station [1,0]
+Move 34 :
+3:22:06 AM
+mokemoke: Added a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 35 :
+3:22:18 AM
+galispiar: Added a Medium Ring at Station [0,-1]
+Move 36 :
+3:22:23 AM
+NIGHTGAME: Added a Large Ring at Station [0,-1]
+Move 37 :
+3:22:29 AM
+mokemoke: Added a Small Ring at Station [-1,0]
+Move 38 :
+3:23:51 AM
+galispiar: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 39 :
+3:24:00 AM
+NIGHTGAME: Added a Small Ring at Station [1,-1]
+Move 40 :
+3:24:16 AM
+mokemoke: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 41 :
+3:28:06 AM
+galispiar: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 42 :
+3:28:15 AM
+NIGHTGAME: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 43 :
+3:30:42 AM
+mokemoke: Added a Medium Ring at Station [-1,0]
+Move 44 :
+3:31:58 AM
+galispiar: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 45 :
+3:32:48 AM
+NIGHTGAME: Added a Medium Ring at Station [1,-2]
+Move 46 :
+3:33:41 AM
+mokemoke: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 47 :
+3:34:02 AM
+galispiar: Added a Small Ring at Station [1,1]
+Move 48 :
+3:34:08 AM
+NIGHTGAME: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 49 :
+3:34:43 AM
+mokemoke: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 50 :
+3:34:58 AM
+galispiar: Added a Medium Ring at Station [1,1]
+Move 51 :
+3:35:13 AM
+NIGHTGAME: Removed a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 52 :
+3:35:32 AM
+mokemoke: Removed a Blocker at Station [-1,0] => [0,0] Position:Left
+Move 53 :
+3:35:52 AM
+galispiar: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 54 :
+3:36:14 AM
+NIGHTGAME: Removed a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 55 :
+3:36:31 AM
+mokemoke: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 56 :
+3:36:44 AM
+galispiar: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 57 :
+3:37:23 AM
+NIGHTGAME: Reversed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 58 :
+3:38:46 AM
+mokemoke: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 59 :
+3:38:58 AM
+galispiar: Added a Small Ring at Station [1,-2]
+Move 60 :
+3:39:42 AM
+NIGHTGAME: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 61 :
+3:40:11 AM
+mokemoke: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 62 :
+3:40:21 AM
+galispiar: Added a Large Ring at Station [1,1]
+Move 63 :
+3:42:48 AM
+NIGHTGAME: Reversed a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 64 :
+3:43:30 AM
+mokemoke: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 65 :
+3:44:13 AM
+galispiar: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 66 :
+3:44:55 AM
+NIGHTGAME: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 67 :
+3:45:57 AM
+mokemoke: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 68 :
+3:47:17 AM
+galispiar: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 69 :
+3:47:45 AM
+NIGHTGAME: Added a White Bridge at Station [1,-2] => [1,-1] Position:Left
+The end of the game: NIGHTGAME wins!

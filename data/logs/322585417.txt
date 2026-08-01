@@ -1,0 +1,118 @@
+Game log
+Move 1 :12/1/2022 5:06:27 AM
+The colors of Junserntje02 have been chosen according to their preferences. Change my preferences.
+Move 2 :5:06:57 AM
+Ruben1211: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :5:07:20 AM
+Junserntje02: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 4 :5:07:37 AM
+Ruben1211: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :5:07:48 AM
+Junserntje02: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 6 :5:08:03 AM
+Ruben1211: Added a Medium Ring at Station [0,1]
+Move 7 :5:08:22 AM
+Junserntje02: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 8 :5:08:37 AM
+Ruben1211: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 9 :5:10:44 AM
+Junserntje02: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :5:11:14 AM
+Ruben1211: Added a Small Ring at Station [1,0]
+Move 11 :5:11:25 AM
+Junserntje02: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 12 :5:11:37 AM
+Ruben1211: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 13 :5:12:02 AM
+Junserntje02: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 14 :5:12:33 AM
+Ruben1211: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 15 :5:13:06 AM
+Junserntje02: Added a Medium Ring at Station [1,0]
+Move 16 :5:13:41 AM
+Ruben1211: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 17 :5:13:54 AM
+Junserntje02: Added a Small Ring at Station [0,1]
+Move 18 :5:14:06 AM
+Ruben1211: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 19 :5:14:14 AM
+Junserntje02: Added a Large Ring at Station [0,1]
+Move 20 :5:14:30 AM
+Ruben1211: Added a Medium Ring at Station [-1,0]
+Move 21 :5:14:55 AM
+Junserntje02: Added a Small Ring at Station [1,1]
+Move 22 :5:15:10 AM
+Ruben1211: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 23 :5:15:39 AM
+Junserntje02: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 24 :5:15:49 AM
+Ruben1211: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 25 :5:16:01 AM
+Junserntje02: Added a Small Ring at Station [-1,1]
+Move 26 :5:16:46 AM
+Ruben1211: Added a Small Ring at Station [-1,-1]
+Move 27 :5:16:59 AM
+Junserntje02: Moved a Base Post at Station [-1,0]
+Move 28 :5:17:30 AM
+Ruben1211: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 29 :5:18:23 AM
+Junserntje02: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 30 :5:18:40 AM
+Ruben1211: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 31 :5:18:48 AM
+Junserntje02: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 32 :5:18:58 AM
+Ruben1211: Added a Large Ring at Station [0,-1]
+Move 33 :5:19:15 AM
+Junserntje02: Added a Medium Ring at Station [-1,1]
+Move 34 :5:20:19 AM
+Ruben1211: Removed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 35 :5:20:31 AM
+Junserntje02: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 36 :5:20:41 AM
+Ruben1211: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 37 :5:21:42 AM
+Junserntje02: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 38 :5:22:11 AM
+Ruben1211: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 39 :5:22:30 AM
+Junserntje02: Added a Medium Ring at Station [-1,-1]
+Move 40 :5:22:49 AM
+Ruben1211: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 41 :5:22:59 AM
+Junserntje02: Added a Small Ring at Station [0,-1]
+Move 42 :5:23:05 AM
+Ruben1211: Added a Small Ring at Station [1,-1]
+Move 43 :5:24:29 AM
+Junserntje02: Added a Medium Ring at Station [0,-1]
+Move 44 :10:05:10 AM
+Ruben1211: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 45 :11:33:59 PM
+Junserntje02: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 46 :12/2/2022 12:00:41 AM
+Ruben1211: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 47 :12:14:08 AM
+Junserntje02: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 48 :2:21:29 AM
+Ruben1211: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 49 :3:17:39 AM
+Junserntje02: Added a Medium Ring at Station [1,-1]
+Move 50 :4:37:43 AM
+Ruben1211: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 51 :12/3/2022 6:43:52 AM
+Junserntje02: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 52 :10:00:30 AM
+Ruben1211: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 53 :12/4/2022 8:38:41 AM
+Junserntje02: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 54 :12/5/2022 12:32:51 AM
+Ruben1211: Added a Medium Ring at Station [1,1]
+Move 55 :12:34:51 AM
+Junserntje02: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 56 :12:41:55 AM
+Ruben1211: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 57 :12:42:27 AM
+Junserntje02: Removed a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 58 :12:42:35 AM
+Ruben1211: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: Ruben1211 wins!

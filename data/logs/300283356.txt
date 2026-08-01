@@ -1,0 +1,115 @@
+Game log
+Move 1 :9/15/2022 9:20:11 AM
+The colors of __X__ have been chosen according to their preferences. Change my preferences.
+Move 2 :9:22:29 AM
+__X__: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :9:24:17 AM
+lezlisa: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :9:24:36 AM
+__X__: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 5 :9:25:12 AM
+lezlisa: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :9:25:24 AM
+__X__: Added a Medium Ring at Station [0,1]
+Move 7 :9:26:09 AM
+lezlisa: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 8 :9:26:42 AM
+__X__: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 9 :9:26:52 AM
+lezlisa: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :9:27:18 AM
+__X__: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 11 :9:28:39 AM
+lezlisa: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 12 :9:28:52 AM
+__X__: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 13 :9:29:17 AM
+lezlisa: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 14 :9:29:51 AM
+__X__: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 15 :9:31:05 AM
+lezlisa: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 16 :9:31:40 AM
+__X__: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 17 :9:31:59 AM
+lezlisa: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 18 :9:32:47 AM
+__X__: Added a Large Ring at Station [1,1]
+Move 19 :9:33:14 AM
+lezlisa: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 20 :9:33:27 AM
+__X__: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 21 :9:33:53 AM
+lezlisa: Added a Large Ring at Station [1,0]
+Move 22 :9:34:09 AM
+__X__: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 23 :9:34:21 AM
+lezlisa: Added a Medium Ring at Station [1,0]
+Move 24 :9:34:28 AM
+__X__: Added a Small Ring at Station [1,0]
+Move 25 :9:39:07 AM
+lezlisa: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 26 :9:39:16 AM
+__X__: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+lezlisa has to remove 2 orphaned rings
+Move 27 :9:40:10 AM
+lezlisa: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 28 :9:40:17 AM
+__X__: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 29 :9:41:02 AM
+lezlisa: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 30 :9:41:14 AM
+__X__: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 31 :9:41:28 AM
+lezlisa: Removed a Blocker at Station [-1,1] => [0,0] Position:Left
+Move 32 :9:41:52 AM
+__X__: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 33 :9:42:00 AM
+lezlisa: Removed a Blocker at Station [-1,1] => [0,0] Position:Right
+Move 34 :9:42:07 AM
+__X__: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 35 :9:42:38 AM
+lezlisa: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 36 :9:42:46 AM
+__X__: Added a Medium Ring at Station [1,0]
+Move 37 :9:44:26 AM
+lezlisa: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 38 :9:44:34 AM
+__X__: Added a Small Ring at Station [0,1]
+Move 39 :9:44:53 AM
+lezlisa: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 40 :9:45:04 AM
+__X__: Added a Medium Ring at Station [1,-1]
+Move 41 :9:46:23 AM
+lezlisa: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 42 :9:46:33 AM
+__X__: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 43 :9:46:47 AM
+lezlisa: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 44 :9:46:53 AM
+__X__: Added a Large Ring at Station [0,1]
+Move 45 :9:47:10 AM
+lezlisa: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 46 :9:47:47 AM
+__X__: Added a Small Ring at Station [0,-1]
+Move 47 :9:48:01 AM
+lezlisa: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 48 :9:48:08 AM
+__X__: Added a Small Ring at Station [-1,0]
+Move 49 :9:48:28 AM
+lezlisa: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 50 :9:49:58 AM
+__X__: Removed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 51 :9:50:24 AM
+lezlisa: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 52 :9:51:54 AM
+__X__: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 53 :9:52:20 AM
+lezlisa: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 54 :9:52:32 AM
+__X__: Added a Small Ring at Station [1,1]
+Move 55 :9:54:49 AM
+lezlisa: Moved a Blocker at Station [0,0] => [-1,1] Position:Left
+Move 56 :9:55:01 AM
+__X__: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Right
+The end of the game: __X__ wins!

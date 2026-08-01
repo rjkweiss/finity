@@ -1,0 +1,86 @@
+Game log
+Move 2 :7/25/2022 1:50:10 PM
+Ritterchen27: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 3 :1:51:54 PM
+CAS_LU: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 4 :1:53:39 PM
+Ritterchen27: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 5 :1:54:12 PM
+CAS_LU: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :1:55:32 PM
+Ritterchen27: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :1:57:37 PM
+CAS_LU: Added a Small Ring at Station [1,0]
+Move 8 :1:59:52 PM
+Ritterchen27: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 9 :2:00:32 PM
+CAS_LU: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 10 :2:00:42 PM
+Ritterchen27: Added a Large Ring at Station [0,1]
+Move 11 :2:01:25 PM
+CAS_LU: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 12 :2:01:54 PM
+Ritterchen27: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 13 :2:03:05 PM
+CAS_LU: Added a Medium Ring at Station [1,1]
+Move 14 :2:03:15 PM
+Ritterchen27: Added a Medium Ring at Station [0,1]
+Move 15 :2:04:05 PM
+CAS_LU: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 16 :2:05:30 PM
+Ritterchen27: Moved a Base Post at Station [0,1]
+Move 17 :2:05:43 PM
+CAS_LU: Added a Small Ring at Station [0,1]
+Move 18 :2:07:07 PM
+Ritterchen27: Reversed a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 19 :2:08:06 PM
+CAS_LU: Added a Medium Ring at Station [1,0]
+Move 20 :2:08:32 PM
+Ritterchen27: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 21 :2:08:50 PM
+CAS_LU: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 22 :2:09:27 PM
+Ritterchen27: Removed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 23 :2:11:03 PM
+CAS_LU: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 24 :2:11:58 PM
+Ritterchen27: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 25 :2:12:16 PM
+CAS_LU: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 26 :2:12:55 PM
+Ritterchen27: Added a Medium Ring at Station [-1,1]
+Move 27 :2:14:04 PM
+CAS_LU: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 28 :2:14:23 PM
+Ritterchen27: Added a Small Ring at Station [-1,1]
+Move 29 :2:14:38 PM
+CAS_LU: Added a Large Ring at Station [-1,1]
+Move 30 :2:15:24 PM
+Ritterchen27: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 31 :2:15:52 PM
+CAS_LU: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :2:16:03 PM
+Ritterchen27: Added a Small Ring at Station [-1,0]
+Move 33 :2:16:13 PM
+CAS_LU: Added a Medium Ring at Station [-1,0]
+Move 34 :2:16:55 PM
+Ritterchen27: Added a Large Ring at Station [-1,0]
+Move 35 :2:17:38 PM
+CAS_LU: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 36 :2:18:43 PM
+Ritterchen27: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 37 :2:18:49 PM
+CAS_LU: Added a Small Ring at Station [-1,-1]
+Move 38 :2:19:40 PM
+Ritterchen27: Added a Medium Ring at Station [0,-1]
+Move 39 :2:20:00 PM
+CAS_LU: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 40 :2:20:20 PM
+Ritterchen27: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 41 :2:20:31 PM
+CAS_LU: Added a Small Ring at Station [0,-1]
+Move 42 :2:20:57 PM
+Ritterchen27: Added a Medium Ring at Station [1,-1]
+Move 43 :2:21:04 PM
+CAS_LU: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: CAS_LU wins!

@@ -1,0 +1,204 @@
+Move 1 :
+8/23/2020 7:09:49 AM
+The colors of CGTribal have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:10:34 AM
+hadjm: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+7:10:46 AM
+CGTribal: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+7:11:37 AM
+hadjm: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+7:12:02 AM
+CGTribal: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 6 :
+7:13:17 AM
+hadjm: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :
+7:13:43 AM
+CGTribal: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 8 :
+7:14:07 AM
+hadjm: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+7:14:13 AM
+CGTribal: Added a Medium Ring at Station [1,0]
+Move 10 :
+7:14:22 AM
+hadjm: Added a Small Ring at Station [-1,0]
+Move 11 :
+7:14:28 AM
+CGTribal: Moved a Base Post at Station [1,0]
+Move 12 :
+7:14:44 AM
+hadjm: Moved a Base Post at Station [-1,0]
+Move 13 :
+7:14:59 AM
+CGTribal: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 14 :
+7:15:21 AM
+hadjm: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 15 :
+7:15:44 AM
+CGTribal: Moved a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 16 :
+7:15:56 AM
+hadjm: Added a Medium Ring at Station [0,-1]
+Move 17 :
+7:16:22 AM
+CGTribal: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :
+7:17:37 AM
+hadjm: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 19 :
+7:17:49 AM
+CGTribal: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+hadjm has to remove 1 orphaned rings
+Move 20 :
+7:19:07 AM
+hadjm: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 21 :
+7:19:26 AM
+CGTribal: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 22 :
+7:19:43 AM
+hadjm: Moved a Base Post at Station [-1,1]
+Move 23 :
+7:20:48 AM
+CGTribal: Added a Small Ring at Station [1,1]
+Move 24 :
+7:21:01 AM
+hadjm: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 25 :
+7:21:10 AM
+CGTribal: Moved a Base Post at Station [1,1]
+Move 26 :
+7:21:42 AM
+hadjm: Added a Medium Ring at Station [-1,0]
+Move 27 :
+7:21:50 AM
+CGTribal: Added a Large Ring at Station [1,0]
+Move 28 :
+7:23:45 AM
+hadjm: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 29 :
+7:25:02 AM
+CGTribal: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 30 :
+7:25:13 AM
+hadjm: Moved a Base Post at Station [-1,0]
+Move 31 :
+7:25:31 AM
+CGTribal: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 32 :
+7:26:23 AM
+hadjm: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 33 :
+7:26:34 AM
+CGTribal: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 34 :
+7:26:42 AM
+hadjm: Added a Medium Ring at Station [0,-1]
+Move 35 :
+7:27:31 AM
+CGTribal: Added a Small Ring at Station [1,0]
+Move 36 :
+7:27:42 AM
+hadjm: Added a Large Ring at Station [0,-1]
+Move 37 :
+7:27:53 AM
+CGTribal: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+hadjm has to remove 2 orphaned rings
+Move 38 :
+7:29:36 AM
+hadjm: Moved a Base Post at Station [-1,1]
+Move 39 :
+7:30:09 AM
+CGTribal: Added a Small Ring at Station [0,1]
+Move 40 :
+7:30:23 AM
+hadjm: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 41 :
+7:30:28 AM
+CGTribal: Added a Medium Ring at Station [0,1]
+Move 42 :
+7:31:03 AM
+hadjm: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 43 :
+7:31:11 AM
+CGTribal: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 44 :
+7:31:18 AM
+hadjm: Moved a Base Post at Station [-1,0]
+Move 45 :
+7:32:44 AM
+CGTribal: Moved a Base Post at Station [0,1]
+Move 46 :
+7:32:55 AM
+hadjm: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 47 :
+7:33:07 AM
+CGTribal: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Left
+Move 48 :
+7:33:18 AM
+hadjm: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 49 :
+7:33:30 AM
+CGTribal: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 50 :
+7:33:52 AM
+hadjm: Added a Small Ring at Station [-1,-1]
+Move 51 :
+7:34:04 AM
+CGTribal: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 52 :
+7:34:15 AM
+hadjm: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 53 :
+7:34:45 AM
+CGTribal: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Right
+Move 54 :
+7:35:04 AM
+hadjm: Added a Medium Ring at Station [-1,-1]
+Move 55 :
+7:35:37 AM
+CGTribal: Removed a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 56 :
+7:36:01 AM
+hadjm: Removed a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 57 :
+7:36:17 AM
+CGTribal: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 58 :
+7:38:16 AM
+hadjm: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 59 :
+7:38:30 AM
+CGTribal: Added a Small Ring at Station [1,-1]
+Move 60 :
+7:38:39 AM
+hadjm: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 61 :
+7:39:09 AM
+CGTribal: Added a Small Ring at Station [0,-1]
+Move 62 :
+7:39:45 AM
+hadjm: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 63 :
+7:41:08 AM
+CGTribal: Added a Medium Ring at Station [0,-1]
+Move 64 :
+7:41:46 AM
+hadjm: Moved a Base Post at Station [-1,1]
+Move 65 :
+7:42:00 AM
+CGTribal: Added a Medium Ring at Station [1,-1]
+Move 66 :
+7:42:13 AM
+hadjm: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 67 :
+7:42:36 AM
+CGTribal: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: CGTribal wins!

@@ -1,0 +1,136 @@
+Move 1 :
+8/29/2020 8:57:30 PM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :
+8:59:00 PM
+asker_Asker: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 4 :
+8:59:22 PM
+abyss511: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 5 :
+8:59:34 PM
+asker_Asker: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :
+8:59:56 PM
+abyss511: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 7 :
+9:00:24 PM
+asker_Asker: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 8 :
+9:00:45 PM
+abyss511: Added a Small Ring at Station [0,-1]
+Move 9 :
+9:00:58 PM
+asker_Asker: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 10 :
+9:01:15 PM
+abyss511: Added a Medium Ring at Station [-1,-1]
+Move 11 :
+9:01:27 PM
+asker_Asker: Added a Medium Ring at Station [-1,0]
+Move 12 :
+9:01:51 PM
+abyss511: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 13 :
+9:01:58 PM
+asker_Asker: Added a Medium Ring at Station [0,-1]
+Move 14 :
+9:02:13 PM
+abyss511: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 15 :
+9:02:29 PM
+asker_Asker: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+abyss511 has to remove 2 orphaned rings
+Move 16 :
+9:02:46 PM
+abyss511: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Left
+asker_Asker has to remove 2 orphaned rings
+Move 17 :
+9:02:57 PM
+asker_Asker: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 18 :
+9:03:05 PM
+abyss511: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 19 :
+9:03:11 PM
+asker_Asker: Added a Small Ring at Station [0,1]
+Move 20 :
+9:03:21 PM
+abyss511: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 21 :
+9:03:28 PM
+asker_Asker: Added a Medium Ring at Station [0,1]
+Move 22 :
+9:03:37 PM
+abyss511: Added a Small Ring at Station [0,-1]
+Move 23 :
+9:04:00 PM
+asker_Asker: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 24 :
+9:04:13 PM
+abyss511: Added a Medium Ring at Station [0,-1]
+Move 25 :
+9:04:23 PM
+asker_Asker: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :
+9:05:00 PM
+abyss511: Added a Small Ring at Station [-1,-1]
+Move 27 :
+9:05:10 PM
+asker_Asker: Added a Medium Ring at Station [1,0]
+Move 28 :
+9:05:17 PM
+abyss511: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 29 :
+9:05:24 PM
+asker_Asker: Added a Small Ring at Station [1,0]
+Move 30 :
+9:05:38 PM
+abyss511: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 31 :
+9:05:50 PM
+asker_Asker: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+abyss511 has to remove 1 orphaned rings
+Move 32 :
+9:06:15 PM
+abyss511: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 33 :
+9:06:26 PM
+asker_Asker: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 34 :
+9:06:35 PM
+abyss511: Added a Small Ring at Station [-1,0]
+Move 35 :
+9:06:44 PM
+asker_Asker: Added a Small Ring at Station [1,-1]
+Move 36 :
+9:06:49 PM
+abyss511: Added a Small Ring at Station [-1,1]
+Move 37 :
+9:07:30 PM
+asker_Asker: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 38 :
+9:07:59 PM
+abyss511: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 39 :
+9:08:09 PM
+asker_Asker: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 40 :
+9:08:29 PM
+abyss511: Added a Medium Ring at Station [-1,0]
+Move 41 :
+9:08:50 PM
+asker_Asker: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 42 :
+9:09:06 PM
+abyss511: Added a Medium Ring at Station [-1,1]
+Move 43 :
+9:09:15 PM
+asker_Asker: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 44 :
+9:09:22 PM
+abyss511: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 45 :
+9:09:30 PM
+asker_Asker: Added a Small Ring at Station [1,1]
+The end of the game: asker_Asker wins!

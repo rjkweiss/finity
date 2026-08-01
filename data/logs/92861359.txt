@@ -1,0 +1,98 @@
+Move 1 :
+6/3/2020 4:06:53 PM
+The colors of Vikingattien have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:07:27 PM
+iFeli: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 3 :
+4:07:41 PM
+Vikingattien: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+4:08:42 PM
+iFeli: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+4:08:51 PM
+Vikingattien: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+4:09:24 PM
+iFeli: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 7 :
+4:09:32 PM
+Vikingattien: Added a Small Ring at Station [1,0]
+Move 8 :
+4:09:39 PM
+iFeli: Added a Small Ring at Station [0,1]
+Move 9 :
+4:09:48 PM
+Vikingattien: Added a Medium Ring at Station [1,0]
+Move 10 :
+4:10:23 PM
+iFeli: Added a Medium Ring at Station [0,1]
+Move 11 :
+4:10:31 PM
+Vikingattien: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+iFeli has to remove 2 orphaned rings
+Move 12 :
+4:11:12 PM
+iFeli: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 13 :
+4:11:44 PM
+Vikingattien: Added a Large Ring at Station [1,0]
+Move 14 :
+4:12:35 PM
+iFeli: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 15 :
+4:12:44 PM
+Vikingattien: Moved a Base Post at Station [1,0]
+Move 16 :
+4:12:53 PM
+iFeli: Added a Small Ring at Station [0,1]
+Move 17 :
+4:13:05 PM
+Vikingattien: Added a Small Ring at Station [1,-1]
+Move 18 :
+4:13:10 PM
+iFeli: Added a Medium Ring at Station [0,1]
+Move 19 :
+4:13:42 PM
+Vikingattien: Added a Medium Ring at Station [1,-1]
+Move 20 :
+4:14:02 PM
+iFeli: Added a Large Ring at Station [0,1]
+Move 21 :
+4:14:10 PM
+Vikingattien: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 22 :
+4:14:40 PM
+iFeli: Moved a Blocker at Station [1,1] => [1,0] Position:Right
+Move 23 :
+4:14:50 PM
+Vikingattien: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 24 :
+4:15:04 PM
+iFeli: Added a Black Bridge at Station [-1,1] => [0,0] Position:Right
+Move 25 :
+4:15:31 PM
+Vikingattien: Moved a Base Post at Station [1,-1]
+Move 26 :
+4:15:51 PM
+iFeli: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 27 :
+4:16:02 PM
+Vikingattien: Added a Small Ring at Station [1,1]
+Move 28 :
+4:16:13 PM
+iFeli: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 29 :
+4:16:55 PM
+Vikingattien: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 30 :
+4:17:16 PM
+iFeli: Moved a Base Post at Station [0,1]
+Move 31 :
+4:17:29 PM
+Vikingattien: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 32 :
+4:17:59 PM
+iFeli concedes the game.
+The end of the game: Vikingattien wins!

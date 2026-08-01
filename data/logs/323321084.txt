@@ -1,0 +1,116 @@
+Game log
+Move 1 :12/6/2022 6:21:15 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :2:02:23 PM
+keikeiya: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :3:25:43 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :3:26:21 PM
+keikeiya: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :12/8/2022 6:02:35 AM
+tony1021: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 6 :2:11:32 PM
+keikeiya: Added a Small Ring at Station [0,1]
+Move 7 :10:15:30 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 8 :12/9/2022 5:37:38 AM
+keikeiya: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 9 :6:10:23 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 10 :6:11:18 AM
+keikeiya: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 11 :7:18:17 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 12 :10:01:18 AM
+keikeiya: Added a Small Ring at Station [1,1]
+Move 13 :12/11/2022 8:15:31 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 14 :12/12/2022 5:58:20 AM
+keikeiya: Removed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 15 :6:19:18 AM
+tony1021: Moved a Blocker at Station [1,1] => [0,1] Position:Right
+Move 16 :7:02:35 AM
+keikeiya: Removed a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 17 :7:53:26 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 18 :2:45:24 PM
+keikeiya: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 19 :12/14/2022 12:50:32 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :2:50:24 PM
+keikeiya: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 21 :7:17:09 PM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 22 :12/15/2022 3:42:17 AM
+keikeiya: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 23 :5:58:58 AM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :7:00:52 AM
+keikeiya: Added a Medium Ring at Station [1,0]
+Move 25 :7:49:44 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 26 :7:54:30 AM
+keikeiya: Added a Large Ring at Station [1,0]
+Move 27 :8:44:57 AM
+tony1021: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 28 :2:06:34 PM
+keikeiya: Added a Medium Ring at Station [0,1]
+Move 29 :12/16/2022 7:49:47 AM
+tony1021: Removed a Black Bridge at Station [1,1] => [1,0] Position:Left
+keikeiya has to remove 2 orphaned rings
+Move 30 :9:02:36 AM
+keikeiya: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 31 :12/17/2022 7:35:30 PM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :7:39:54 PM
+keikeiya: Added a Large Ring at Station [0,1]
+Move 33 :10:27:56 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 34 :10:36:36 PM
+keikeiya: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 35 :12/18/2022 8:10:16 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 36 :2:47:24 PM
+keikeiya: Added a Medium Ring at Station [1,1]
+Move 37 :12/19/2022 7:59:23 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 38 :12/20/2022 2:11:42 PM
+keikeiya: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 39 :8:32:17 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 40 :12/21/2022 4:50:03 AM
+keikeiya: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 41 :12/23/2022 8:31:08 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 42 :12/24/2022 3:26:06 PM
+keikeiya uses a holiday time joker (+4 days thinking time)
+Move 43 :12/27/2022 7:45:07 PM
+keikeiya: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 44 :12/28/2022 7:50:29 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 45 :8:00:34 PM
+keikeiya: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 46 :12/29/2022 1:21:43 AM
+tony1021: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 47 :2:04:02 AM
+keikeiya: Removed a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 48 :2:46:28 AM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 49 :3:35:03 AM
+keikeiya: Moved a Base Post at Station [1,1]
+keikeiya has to remove 3 orphaned rings
+Move 50 :3:42:09 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 51 :3:43:25 AM
+keikeiya: Removed a Blocker at Station [1,1] => [0,1] Position:Right
+Move 52 :7:04:32 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 53 :7:06:07 AM
+keikeiya: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 54 :12/30/2022 2:59:33 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 55 :3:38:39 AM
+keikeiya: Added a Small Ring at Station [0,1]
+Move 56 :1/1/2023 12:28:57 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+The end of the game: tony1021 wins!

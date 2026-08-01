@@ -1,0 +1,158 @@
+Move 2 :
+8/26/2020 5:50:55 PM
+tintin2sn: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 3 :
+5:51:19 PM
+thepolt: Added a White Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 4 :
+5:51:55 PM
+emilynguist: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 5 :
+5:52:17 PM
+sebasm: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+5:52:45 PM
+tintin2sn: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Right
+Move 7 :
+5:53:21 PM
+thepolt: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 8 :
+5:53:37 PM
+emilynguist: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 9 :
+5:54:37 PM
+sebasm: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :
+5:55:13 PM
+tintin2sn: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 11 :
+5:55:22 PM
+thepolt: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 12 :
+5:55:31 PM
+emilynguist: Added a Small Ring at Station [-1,1]
+Move 13 :
+5:56:54 PM
+sebasm: Added a Large Ring at Station [1,-1]
+Move 14 :
+5:58:12 PM
+tintin2sn: Added a Small Ring at Station [-2,1]
+Move 15 :
+5:58:31 PM
+thepolt: Added a Small Ring at Station [1,-2]
+Move 16 :
+5:58:42 PM
+emilynguist: Added a Medium Ring at Station [-1,1]
+Move 17 :
+5:58:49 PM
+sebasm: Added a Small Ring at Station [0,-1]
+Move 18 :
+5:59:13 PM
+tintin2sn: Added a Large Ring at Station [-1,1]
+Move 19 :
+5:59:30 PM
+thepolt: Added a Small Ring at Station [1,-1]
+Move 20 :
+6:00:29 PM
+emilynguist: Added a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 21 :
+6:00:44 PM
+sebasm: Added a Medium Ring at Station [1,-2]
+Move 22 :
+6:01:12 PM
+tintin2sn: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 23 :
+6:01:28 PM
+thepolt: Added a White Bridge at Station [1,-1] => [1,-2] Position:Right
+Move 24 :
+6:01:59 PM
+emilynguist: Added a White Bridge at Station [-1,2] => [0,1] Position:Middle
+Move 25 :
+6:02:14 PM
+sebasm: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 26 :
+6:02:35 PM
+tintin2sn: Moved a Base Post at Station [-1,1]
+tintin2sn has to remove 1 orphaned rings
+Move 27 :
+6:03:18 PM
+thepolt: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 28 :
+6:03:37 PM
+emilynguist: Added a Small Ring at Station [-2,1]
+Move 29 :
+6:03:54 PM
+sebasm: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 30 :
+6:06:12 PM
+tintin2sn: Added a Small Ring at Station [0,1]
+Move 31 :
+6:06:25 PM
+thepolt: Added a Medium Ring at Station [1,-1]
+Move 32 :
+6:07:21 PM
+emilynguist: Added a Small Ring at Station [-1,2]
+Move 33 :
+6:07:33 PM
+sebasm: Added a Medium Ring at Station [0,-1]
+Move 34 :
+6:07:58 PM
+tintin2sn: Added a Medium Ring at Station [0,1]
+Move 35 :
+6:08:30 PM
+thepolt: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 36 :
+6:09:26 PM
+emilynguist: Added a White Bridge at Station [-1,1] => [-1,2] Position:Left
+Move 37 :
+6:09:55 PM
+sebasm: Added a Large Ring at Station [0,-1]
+Move 38 :
+6:11:16 PM
+tintin2sn: Added a Medium Ring at Station [-1,2]
+Move 39 :
+6:11:25 PM
+thepolt: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 40 :
+6:11:34 PM
+emilynguist: Moved a Base Post at Station [-1,0]
+Move 41 :
+6:12:06 PM
+sebasm: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 42 :
+6:18:42 PM
+tintin2sn: Added a Large Ring at Station [0,1]
+Move 43 :
+6:18:50 PM
+thepolt: Added a Small Ring at Station [-1,0]
+Move 44 :
+6:19:21 PM
+emilynguist: Added a White Bridge at Station [-1,2] => [-1,1] Position:Left
+Move 45 :
+6:19:29 PM
+sebasm: Added a Medium Ring at Station [-1,0]
+Move 46 :
+6:19:51 PM
+tintin2sn: Added a Large Ring at Station [-1,2]
+Move 47 :
+6:19:59 PM
+thepolt: Added a Large Ring at Station [1,-2]
+Move 48 :
+6:23:46 PM
+emilynguist: Added a Medium Ring at Station [-2,1]
+Move 49 :
+6:24:06 PM
+sebasm: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 50 :
+6:25:55 PM
+tintin2sn: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 51 :
+6:27:18 PM
+thepolt: Added a Small Ring at Station [-1,-1]
+Move 52 :
+6:27:28 PM
+emilynguist: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 53 :
+6:27:41 PM
+sebasm: Added a Medium Ring at Station [-1,-1]
+The end of the game: sebasm wins!

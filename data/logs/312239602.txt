@@ -1,0 +1,45 @@
+Game log
+Move 1 :10/27/2022 7:37:44 AM
+The colors of Elaineinnd, Chinsky have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :7:49:21 AM
+Elaineinnd: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :8:07:25 AM
+Chinsky: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :8:34:56 AM
+Elaineinnd: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 5 :8:45:27 AM
+Chinsky: Added a Large Ring at Station [1,0]
+Move 6 :1:45:43 PM
+Elaineinnd: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 7 :2:27:41 PM
+Chinsky: Added a Large Ring at Station [1,1]
+Move 8 :2:40:56 PM
+Elaineinnd: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 9 :10/28/2022 5:17:15 AM
+Chinsky: Added a Large Ring at Station [0,1]
+Move 10 :8:13:47 AM
+Elaineinnd: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 11 :8:24:36 AM
+Chinsky: Added a Large Ring at Station [-1,1]
+Move 12 :8:47:28 AM
+Elaineinnd: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 13 :8:57:23 AM
+Chinsky: Added a Medium Ring at Station [0,1]
+Move 14 :9:04:59 AM
+Elaineinnd: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 15 :9:05:47 AM
+Chinsky: Added a Medium Ring at Station [1,1]
+Move 16 :7:38:13 PM
+Elaineinnd: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 17 :10/29/2022 5:57:54 AM
+Chinsky: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 18 :3:22:15 PM
+Elaineinnd: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 19 :3:43:19 PM
+Chinsky: Added a Medium Ring at Station [1,0]
+Move 20 :10/30/2022 9:38:59 AM
+Elaineinnd: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :10/31/2022 5:31:42 AM
+Chinsky: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+The end of the game: Chinsky wins!

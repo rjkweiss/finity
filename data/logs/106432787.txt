@@ -1,0 +1,227 @@
+Move 2 :
+8/11/2020 7:21:52 PM
+jakesamsonite: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 3 :
+7:22:34 PM
+hjk123: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 4 :
+7:23:37 PM
+cviebrock: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 5 :
+7:25:00 PM
+jakesamsonite: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+7:25:53 PM
+hjk123: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 7 :
+7:26:29 PM
+cviebrock: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 8 :
+7:27:23 PM
+jakesamsonite: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 9 :
+7:27:38 PM
+hjk123: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 10 :
+7:28:39 PM
+cviebrock: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 11 :
+7:30:59 PM
+jakesamsonite: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 12 :
+7:31:14 PM
+hjk123: Added a Large Ring at Station [0,-1]
+Move 13 :
+7:31:28 PM
+cviebrock: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 14 :
+7:31:52 PM
+jakesamsonite: Added a Medium Ring at Station [1,0]
+Move 15 :
+7:32:06 PM
+hjk123: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 16 :
+7:32:27 PM
+cviebrock: Added a Large Ring at Station [1,1]
+Move 17 :
+7:32:49 PM
+jakesamsonite: Added a Medium Ring at Station [0,1]
+Move 18 :
+7:34:05 PM
+hjk123: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 19 :
+7:34:46 PM
+cviebrock: Added a Small Ring at Station [1,0]
+Move 20 :
+7:34:55 PM
+jakesamsonite: Added a Large Ring at Station [1,0]
+Move 21 :
+7:35:06 PM
+hjk123: Added a Small Ring at Station [1,-2]
+Move 22 :
+7:36:42 PM
+cviebrock: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 23 :
+7:36:52 PM
+jakesamsonite: Added a Medium Ring at Station [1,1]
+Move 24 :
+7:37:18 PM
+hjk123: Added a Large Ring at Station [1,-1]
+Move 25 :
+7:37:54 PM
+cviebrock: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 26 :
+7:38:10 PM
+jakesamsonite: Added a Small Ring at Station [0,1]
+Move 27 :
+7:38:22 PM
+hjk123: Added a Medium Ring at Station [0,-1]
+Move 28 :
+7:40:58 PM
+cviebrock: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 29 :
+7:43:39 PM
+jakesamsonite: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 30 :
+7:43:49 PM
+hjk123: Added a Small Ring at Station [0,-1]
+Move 31 :
+7:44:31 PM
+cviebrock: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+jakesamsonite has to remove 5 orphaned rings
+Move 32 :
+7:45:05 PM
+jakesamsonite: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+cviebrock has to remove 2 orphaned rings
+Move 33 :
+7:45:24 PM
+hjk123: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 34 :
+7:46:03 PM
+cviebrock: Reversed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 35 :
+7:46:12 PM
+jakesamsonite: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+hjk123 has to remove 5 orphaned rings
+Move 36 :
+7:46:27 PM
+hjk123: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 37 :
+7:47:37 PM
+cviebrock: Added a Small Ring at Station [1,1]
+Move 38 :
+7:47:48 PM
+jakesamsonite: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+cviebrock has to remove 1 orphaned rings
+Move 39 :
+7:48:15 PM
+hjk123: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 40 :
+7:49:04 PM
+cviebrock: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 41 :
+7:49:40 PM
+jakesamsonite: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 42 :
+7:51:11 PM
+hjk123: Added a Large Ring at Station [0,-1]
+Move 43 :
+7:51:21 PM
+cviebrock: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 44 :
+7:51:38 PM
+jakesamsonite: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 45 :
+7:51:47 PM
+hjk123: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 46 :
+7:51:54 PM
+cviebrock: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 47 :
+7:52:11 PM
+jakesamsonite: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 48 :
+7:52:17 PM
+hjk123: Added a Large Ring at Station [1,-2]
+Move 49 :
+7:52:45 PM
+cviebrock: Added a Small Ring at Station [1,1]
+Move 50 :
+7:53:12 PM
+jakesamsonite: Added a Medium Ring at Station [0,-1]
+Move 51 :
+7:53:33 PM
+hjk123: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 52 :
+7:53:46 PM
+cviebrock: Added a Small Ring at Station [1,0]
+Move 53 :
+7:53:53 PM
+jakesamsonite: Added a Medium Ring at Station [1,-2]
+Move 54 :
+7:54:03 PM
+hjk123: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 55 :
+7:54:35 PM
+cviebrock: Added a Medium Ring at Station [1,-1]
+Move 56 :
+7:55:15 PM
+jakesamsonite: Added a Medium Ring at Station [-1,0]
+Move 57 :
+7:55:25 PM
+hjk123: Added a Large Ring at Station [1,-1]
+Move 58 :
+7:55:32 PM
+cviebrock: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 59 :
+7:56:09 PM
+jakesamsonite: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 60 :
+7:56:27 PM
+hjk123: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 61 :
+7:58:02 PM
+cviebrock: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 62 :
+7:59:10 PM
+jakesamsonite: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 63 :
+7:59:25 PM
+hjk123: Added a Large Ring at Station [1,0]
+Move 64 :
+8:00:11 PM
+cviebrock: Added a Small Ring at Station [-1,1]
+Move 65 :
+8:00:31 PM
+jakesamsonite: Added a Medium Ring at Station [-1,1]
+Move 66 :
+8:00:47 PM
+hjk123: Added a Small Ring at Station [0,1]
+Move 67 :
+8:01:04 PM
+cviebrock: Added a Large Ring at Station [-1,1]
+Move 68 :
+8:01:11 PM
+jakesamsonite: Added a Large Ring at Station [0,1]
+Move 69 :
+8:01:25 PM
+hjk123: Added a Medium Ring at Station [1,0]
+Move 70 :
+8:01:40 PM
+cviebrock: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 71 :
+8:02:32 PM
+jakesamsonite: Added a Medium Ring at Station [1,1]
+Move 72 :
+8:02:40 PM
+hjk123: Added a Large Ring at Station [1,1]
+Move 73 :
+8:03:55 PM
+cviebrock: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 74 :
+8:05:28 PM
+jakesamsonite: Added a Medium Ring at Station [0,1]
+Move 75 :
+8:05:36 PM
+hjk123: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+The end of the game: hjk123 wins!

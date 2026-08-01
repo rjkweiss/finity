@@ -1,0 +1,67 @@
+Game log
+Move 1 :2/4/2023 1:51:14 AM
+The colors of Ashen Sugar, FurryLemur have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :2:01:16 AM
+Ashen Sugar: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :2:45:07 AM
+FurryLemur: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :3:28:25 AM
+Ashen Sugar: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :4:33:44 AM
+FurryLemur: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :4:48:56 AM
+Ashen Sugar: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 7 :4:50:15 AM
+FurryLemur: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 8 :5:01:48 AM
+Ashen Sugar: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 9 :7:09:20 AM
+FurryLemur: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 10 :6:55:26 PM
+Ashen Sugar: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 11 :11:39:39 PM
+FurryLemur: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 12 :2/5/2023 3:52:11 AM
+Ashen Sugar: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 13 :3:52:36 AM
+FurryLemur: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 14 :4:05:28 AM
+Ashen Sugar: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :7:44:29 AM
+FurryLemur: Added a Small Ring at Station [1,0]
+Move 16 :4:52:29 PM
+Ashen Sugar: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 17 :11:35:26 PM
+FurryLemur: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 18 :2/6/2023 1:40:24 AM
+Ashen Sugar: Added a Small Ring at Station [-1,0]
+Move 19 :1:56:43 AM
+FurryLemur: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 20 :2:06:29 AM
+Ashen Sugar: Added a Small Ring at Station [-1,-1]
+Move 21 :2:07:52 AM
+FurryLemur: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 22 :2:17:24 AM
+Ashen Sugar: Added a Small Ring at Station [0,-1]
+Move 23 :2:43:24 AM
+FurryLemur: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 24 :2:59:43 AM
+Ashen Sugar: Added a Small Ring at Station [1,-1]
+Move 25 :3:01:47 AM
+FurryLemur: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 26 :3:11:09 AM
+Ashen Sugar: Added a Medium Ring at Station [-1,0]
+Move 27 :4:35:53 AM
+FurryLemur: Added a Small Ring at Station [1,1]
+Move 28 :3:19:00 PM
+Ashen Sugar: Added a Large Ring at Station [-1,0]
+Move 29 :11:46:38 PM
+FurryLemur: Added a Medium Ring at Station [1,1]
+Move 30 :2/7/2023 12:41:12 AM
+Ashen Sugar: Added a Medium Ring at Station [-1,-1]
+Move 31 :2:00:04 AM
+FurryLemur: Added a Medium Ring at Station [0,1]
+Move 32 :2:20:29 AM
+Ashen Sugar: Added a Medium Ring at Station [0,-1]
+The end of the game: Ashen Sugar wins!

@@ -1,0 +1,83 @@
+Move 2 :
+6/2/2020 6:42:58 PM
+TheBelt: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 3 :
+6:44:06 PM
+_Bluezam: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+6:44:35 PM
+TheBelt: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :
+6:45:19 PM
+_Bluezam: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 6 :
+6:45:39 PM
+TheBelt: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 7 :
+6:46:40 PM
+_Bluezam: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 8 :
+6:46:56 PM
+TheBelt: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 9 :
+6:47:25 PM
+_Bluezam: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 10 :
+6:47:50 PM
+TheBelt: Added a Medium Ring at Station [-1,0]
+Move 11 :
+6:48:03 PM
+_Bluezam: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 12 :
+6:48:13 PM
+TheBelt: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 13 :
+6:48:57 PM
+_Bluezam: Added a Medium Ring at Station [1,0]
+Move 14 :
+6:49:07 PM
+TheBelt: Added a Medium Ring at Station [-1,-1]
+Move 15 :
+6:49:21 PM
+_Bluezam: Added a Medium Ring at Station [0,1]
+Move 16 :
+6:49:38 PM
+TheBelt: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 17 :
+6:50:15 PM
+_Bluezam: Moved a Base Post at Station [0,1]
+_Bluezam has to remove 1 orphaned rings
+Move 18 :
+6:50:57 PM
+TheBelt: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 19 :
+6:52:30 PM
+_Bluezam: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 20 :
+6:52:40 PM
+TheBelt: Added a Medium Ring at Station [0,-1]
+Move 21 :
+6:53:41 PM
+_Bluezam: Reversed a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 22 :
+6:54:20 PM
+TheBelt: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 23 :
+6:54:37 PM
+_Bluezam: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 24 :
+6:54:49 PM
+TheBelt: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 25 :
+6:55:13 PM
+_Bluezam: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 26 :
+6:56:31 PM
+TheBelt: Added a Small Ring at Station [-1,0]
+Move 27 :
+6:57:10 PM
+_Bluezam: Added a Medium Ring at Station [1,1]
+Move 28 :
+6:57:23 PM
+TheBelt: Added a Small Ring at Station [-1,-1]
+The end of the game: TheBelt wins!

@@ -1,0 +1,417 @@
+Move 1 :
+8/11/2020 8:32:05 AM
+The colors of LadyDrakhan have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:28:14 AM
+LadyDrakhan: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+2:01:29 PM
+Nicole CB: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 4 :
+8/12/2020 1:33:58 AM
+LadyDrakhan: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 5 :
+2:02:35 AM
+Nicole CB: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 6 :
+2:10:01 AM
+LadyDrakhan: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 7 :
+2:21:58 AM
+Nicole CB: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 8 :
+2:29:38 AM
+LadyDrakhan: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 9 :
+3:12:52 AM
+Nicole CB: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 10 :
+3:32:23 AM
+LadyDrakhan: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Right
+Move 11 :
+4:11:48 AM
+Nicole CB: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+4:13:08 AM
+LadyDrakhan: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 13 :
+4:15:04 AM
+Nicole CB: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 14 :
+4:16:36 AM
+LadyDrakhan: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 15 :
+4:18:30 AM
+Nicole CB: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+6:08:08 AM
+LadyDrakhan: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 17 :
+9:26:00 AM
+Nicole CB: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+No rings placed or orphaned. 4 moves until a forced draw
+Move 18 :
+11:06:24 AM
+LadyDrakhan: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+No rings placed or orphaned. 3 moves until a forced draw
+Move 19 :
+12:29:39 PM
+Nicole CB: Added a Small Ring at Station [0,-1]
+Move 20 :
+1:06:19 PM
+LadyDrakhan: Added a Large Ring at Station [-1,0]
+Move 21 :
+1:06:57 PM
+Nicole CB: Added a Large Ring at Station [1,0]
+Move 22 :
+1:07:11 PM
+LadyDrakhan: Added a Medium Ring at Station [-1,-1]
+Move 23 :
+1:10:01 PM
+Nicole CB: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 24 :
+1:25:39 PM
+LadyDrakhan: Added a Small Ring at Station [-1,-1]
+Move 25 :
+11:09:51 PM
+Nicole CB: Added a Small Ring at Station [1,1]
+Move 26 :
+8/13/2020 2:46:53 AM
+LadyDrakhan: Added a Small Ring at Station [-1,0]
+Move 27 :
+4:20:24 AM
+Nicole CB: Added a Large Ring at Station [0,-1]
+Move 28 :
+4:27:11 AM
+LadyDrakhan: Added a Large Ring at Station [0,1]
+Move 29 :
+5:24:15 AM
+Nicole CB: Added a Small Ring at Station [1,0]
+Move 30 :
+6:27:38 AM
+LadyDrakhan: Added a Medium Ring at Station [0,1]
+Move 31 :
+6:42:52 AM
+Nicole CB: Added a Medium Ring at Station [0,-1]
+Move 32 :
+6:43:58 AM
+LadyDrakhan: Added a Large Ring at Station [1,1]
+Move 33 :
+6:51:02 AM
+Nicole CB: Added a Medium Ring at Station [1,0]
+Move 34 :
+6:59:18 AM
+LadyDrakhan: Added a Medium Ring at Station [1,1]
+Move 35 :
+7:03:07 AM
+Nicole CB: Added a Large Ring at Station [-1,-1]
+Move 36 :
+7:16:38 AM
+LadyDrakhan: Added a Medium Ring at Station [-1,0]
+Move 37 :
+9:27:10 AM
+Nicole CB: Added a Black Bridge at Station [-1,1] => [0,0] Position:Right
+Move 38 :
+3:42:32 PM
+LadyDrakhan: Added a Small Ring at Station [0,1]
+Move 39 :
+9:43:22 PM
+Nicole CB: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 40 :
+8/14/2020 4:06:29 AM
+LadyDrakhan: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 41 :
+4:30:52 AM
+Nicole CB: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 42 :
+5:33:24 AM
+LadyDrakhan: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 43 :
+6:19:50 AM
+Nicole CB: Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 44 :
+7:45:36 AM
+LadyDrakhan: Added a White Bridge at Station [0,0] => [1,-1] Position:Right
+Move 45 :
+8:45:04 AM
+Nicole CB: Moved a Blocker at Station [1,-1] => [0,-1] Position:Right
+Move 46 :
+9:32:57 AM
+LadyDrakhan: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 47 :
+9:45:11 AM
+Nicole CB: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 48 :
+10:39:57 AM
+LadyDrakhan: Moved a Base Post at Station [0,1]
+LadyDrakhan has to remove 5 orphaned rings
+Move 49 :
+11:00:11 AM
+Nicole CB: Added a Medium Ring at Station [-1,-1]
+Move 50 :
+1:40:30 PM
+LadyDrakhan: Added a White Bridge at Station [0,0] => [-1,0] Position:Left
+Move 51 :
+10:27:22 PM
+Nicole CB: Added a Small Ring at Station [-1,-1]
+Move 52 :
+8/15/2020 12:56:13 AM
+LadyDrakhan: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 53 :
+2:49:17 AM
+Nicole CB: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 54 :
+4:55:12 AM
+LadyDrakhan: Moved a Base Post at Station [1,0]
+LadyDrakhan has to remove 3 orphaned rings
+Move 55 :
+5:29:14 AM
+Nicole CB: Moved a Base Post at Station [0,-1]
+Nicole CB has to remove 4 orphaned rings
+Move 56 :
+1:02:08 PM
+LadyDrakhan: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 57 :
+1:30:36 PM
+Nicole CB: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 58 :
+8/16/2020 1:16:55 AM
+LadyDrakhan: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 59 :
+1:35:55 AM
+Nicole CB: Added a Small Ring at Station [-1,0]
+Move 60 :
+6:48:23 AM
+LadyDrakhan: Moved a Base Post at Station [1,1]
+Move 61 :
+7:19:34 AM
+Nicole CB: Added a Medium Ring at Station [-1,0]
+Move 62 :
+3:15:31 PM
+LadyDrakhan: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 63 :
+9:15:13 PM
+Nicole CB: Added a Large Ring at Station [-1,0]
+Move 64 :
+8/17/2020 3:03:43 AM
+LadyDrakhan: Moved a Base Post at Station [1,0]
+Move 65 :
+3:04:20 AM
+Nicole CB: Added a Medium Ring at Station [1,-1]
+Move 66 :
+3:05:04 AM
+LadyDrakhan: Added a Large Ring at Station [1,-1]
+Move 67 :
+3:26:56 AM
+Nicole CB: Added a Small Ring at Station [1,-1]
+Move 68 :
+4:01:49 AM
+LadyDrakhan: Moved a Base Post at Station [1,-1]
+LadyDrakhan has to remove 2 orphaned rings
+Move 69 :
+4:58:31 AM
+Nicole CB: Moved a Base Post at Station [-1,1]
+Move 70 :
+6:12:07 AM
+LadyDrakhan: Added a Medium Ring at Station [1,0]
+Move 71 :
+8:31:42 AM
+Nicole CB: Added a Medium Ring at Station [0,1]
+Move 72 :
+8:35:27 AM
+LadyDrakhan: Added a Medium Ring at Station [1,1]
+Move 73 :
+8:38:39 AM
+Nicole CB: Added a Small Ring at Station [0,1]
+Move 74 :
+8:46:56 AM
+LadyDrakhan: Added a Large Ring at Station [1,1]
+Move 75 :
+8:51:49 AM
+Nicole CB: Added a Large Ring at Station [0,1]
+Move 76 :
+8:57:06 AM
+LadyDrakhan: Added a Large Ring at Station [1,0]
+Move 77 :
+9:12:00 AM
+Nicole CB: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Right
+Move 78 :
+9:12:48 AM
+LadyDrakhan: Added a Small Ring at Station [1,0]
+Move 79 :
+9:29:31 AM
+Nicole CB: Added a Small Ring at Station [1,1]
+Move 80 :
+9:31:27 AM
+LadyDrakhan: Removed a Blocker at Station [1,-1] => [0,0] Position:Right
+Move 81 :
+9:40:59 AM
+Nicole CB: Moved a Blocker at Station [0,0] => [-1,0] Position:Right
+Move 82 :
+9:47:05 AM
+LadyDrakhan: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 83 :
+10:13:13 AM
+Nicole CB: Moved a Base Post at Station [-1,-1]
+Nicole CB has to remove 4 orphaned rings
+Move 84 :
+10:30:16 AM
+LadyDrakhan: Added a Medium Ring at Station [0,1]
+Move 85 :
+12:04:37 PM
+Nicole CB: Removed a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 86 :
+1:47:28 PM
+LadyDrakhan: Added a Large Ring at Station [0,1]
+Move 87 :
+9:21:06 PM
+Nicole CB: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 88 :
+8/18/2020 1:28:10 AM
+LadyDrakhan: Added a Small Ring at Station [0,1]
+Move 89 :
+1:50:42 AM
+Nicole CB: Removed a Blocker at Station [-1,-1] => [-1,0] Position:Right
+Move 90 :
+1:55:00 AM
+LadyDrakhan: Added a Small Ring at Station [1,1]
+Move 91 :
+3:48:51 AM
+Nicole CB: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 92 :
+4:05:26 AM
+LadyDrakhan: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 93 :
+6:06:39 AM
+Nicole CB: Added a Medium Ring at Station [-1,1]
+Move 94 :
+6:39:05 AM
+LadyDrakhan: Removed a Blocker at Station [0,0] => [-1,0] Position:Right
+Move 95 :
+7:22:57 AM
+Nicole CB: Added a Small Ring at Station [-1,1]
+Move 96 :
+7:37:00 AM
+LadyDrakhan: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 97 :
+8:48:44 AM
+Nicole CB: Added a Large Ring at Station [-1,1]
+Move 98 :
+8:55:43 AM
+LadyDrakhan: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 99 :
+11:40:25 AM
+Nicole CB: Moved a Base Post at Station [0,-1]
+Move 100 :
+11:45:12 AM
+LadyDrakhan: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 101 :
+12:12:03 PM
+Nicole CB: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 102 :
+2:56:02 PM
+LadyDrakhan: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+LadyDrakhan has to remove 3 orphaned rings
+Move 103 :
+9:10:06 PM
+Nicole CB: Added a Medium Ring at Station [0,1]
+Move 104 :
+8/19/2020 2:26:51 AM
+LadyDrakhan: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 105 :
+3:06:46 AM
+Nicole CB: Added a Large Ring at Station [0,1]
+Move 106 :
+3:15:04 AM
+LadyDrakhan: Removed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 107 :
+3:30:01 AM
+Nicole CB: Added a Small Ring at Station [0,1]
+Move 108 :
+3:35:03 AM
+LadyDrakhan: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Nicole CB has to remove 14 orphaned rings
+Move 109 :
+8:33:54 AM
+Nicole CB: Moved a Base Post at Station [-1,-1]
+Move 110 :
+8:34:33 AM
+LadyDrakhan: Reversed a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Nicole CB has to remove 3 orphaned rings
+Move 111 :
+8:36:15 AM
+Nicole CB: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+LadyDrakhan has to remove 3 orphaned rings
+Move 112 :
+8:51:47 AM
+LadyDrakhan: Added a Medium Ring at Station [0,-1]
+Move 113 :
+9:23:12 AM
+Nicole CB: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 114 :
+9:28:48 AM
+LadyDrakhan: Added a Large Ring at Station [0,-1]
+Move 115 :
+10:43:41 AM
+Nicole CB: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 116 :
+10:48:08 AM
+LadyDrakhan: Added a Medium Ring at Station [-1,-1]
+Move 117 :
+11:07:48 AM
+Nicole CB: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Left
+Move 118 :
+12:42:37 PM
+LadyDrakhan: Added a Medium Ring at Station [-1,0]
+Move 119 :
+8/20/2020 12:05:30 AM
+Nicole CB: Added a Large Ring at Station [-1,0]
+Move 120 :
+1:10:35 AM
+LadyDrakhan: Added a Large Ring at Station [-1,-1]
+Move 121 :
+3:28:09 AM
+Nicole CB: Added a Small Ring at Station [0,-1]
+Move 122 :
+3:41:09 AM
+LadyDrakhan: Added a Medium Ring at Station [-1,1]
+Move 123 :
+3:41:45 AM
+Nicole CB: Added a Large Ring at Station [-1,1]
+Move 124 :
+3:50:18 AM
+LadyDrakhan: Added a Small Ring at Station [-1,-1]
+Move 125 :
+4:54:18 AM
+Nicole CB: Added a Medium Ring at Station [0,1]
+Move 126 :
+7:09:26 AM
+LadyDrakhan: Added a Small Ring at Station [-1,0]
+Move 127 :
+8:44:32 AM
+Nicole CB: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 128 :
+8:45:06 AM
+LadyDrakhan: Added a Small Ring at Station [-1,1]
+Move 129 :
+9:15:02 AM
+Nicole CB: Added a Large Ring at Station [0,1]
+Move 130 :
+9:33:01 AM
+LadyDrakhan: Added a Small Ring at Station [0,1]
+Move 131 :
+10:11:40 AM
+Nicole CB: Added a Large Ring at Station [1,1]
+Move 132 :
+10:15:33 AM
+LadyDrakhan: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 133 :
+10:25:03 AM
+Nicole CB: Added a Medium Ring at Station [1,1]
+Move 134 :
+8/21/2020 1:52:00 AM
+LadyDrakhan: Added a Small Ring at Station [1,1]
+Move 135 :
+8:55:16 AM
+Nicole CB: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: LadyDrakhan wins!

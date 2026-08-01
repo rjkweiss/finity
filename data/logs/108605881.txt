@@ -1,0 +1,88 @@
+Move 2 :
+8/24/2020 9:23:56 AM
+Tashina: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+10:48:12 AM
+B4ldf1sh: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+10:58:57 AM
+Tashina: Added a Small Ring at Station [-1,0]
+Move 5 :
+11:30:41 AM
+B4ldf1sh: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :
+12:34:02 PM
+Tashina: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 7 :
+2:19:58 PM
+B4ldf1sh: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 8 :
+2:30:11 PM
+Tashina: Added a Large Ring at Station [-1,-1]
+Move 9 :
+10:59:44 PM
+B4ldf1sh: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 10 :
+11:01:10 PM
+Tashina: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 11 :
+11:01:28 PM
+B4ldf1sh: Added a Small Ring at Station [1,0]
+Move 12 :
+11:01:54 PM
+Tashina: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 13 :
+11:03:54 PM
+B4ldf1sh: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 14 :
+11:14:56 PM
+Tashina: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 15 :
+8/25/2020 2:42:59 AM
+B4ldf1sh: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 16 :
+4:28:57 AM
+Tashina: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 17 :
+4:41:10 AM
+B4ldf1sh: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 18 :
+4:42:13 AM
+Tashina: Added a Large Ring at Station [0,-1]
+Move 19 :
+7:07:58 AM
+B4ldf1sh: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :
+7:17:43 AM
+Tashina: Added a Medium Ring at Station [0,-1]
+Move 21 :
+7:21:04 AM
+B4ldf1sh: Added a Small Ring at Station [1,1]
+Move 22 :
+7:21:34 AM
+Tashina: Added a Medium Ring at Station [-1,0]
+Move 23 :
+7:22:27 AM
+B4ldf1sh: Added a Small Ring at Station [0,1]
+Move 24 :
+7:23:17 AM
+Tashina: Added a Medium Ring at Station [-1,-1]
+Move 25 :
+7:23:39 AM
+B4ldf1sh: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 26 :
+7:25:17 AM
+Tashina: Added a Large Ring at Station [-1,0]
+Move 27 :
+7:50:32 AM
+B4ldf1sh: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 28 :
+7:54:26 AM
+Tashina: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 29 :
+7:56:01 AM
+B4ldf1sh: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 30 :
+7:56:44 AM
+Tashina: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: Tashina wins!

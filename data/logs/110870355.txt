@@ -1,0 +1,123 @@
+Move 2 :
+9/6/2020 11:54:41 AM
+stroblme: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+11:56:29 AM
+lsriufoxh: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+11:57:11 AM
+stroblme: Added a Large Ring at Station [-1,0]
+Move 5 :
+11:57:33 AM
+lsriufoxh: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+stroblme has to remove 1 orphaned rings
+Move 6 :
+11:58:40 AM
+stroblme: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 7 :
+11:59:17 AM
+lsriufoxh: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 8 :
+11:59:31 AM
+stroblme: Added a Large Ring at Station [-1,0]
+Move 9 :
+11:59:52 AM
+lsriufoxh: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+12:02:50 PM
+stroblme: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 11 :
+12:04:15 PM
+lsriufoxh: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 12 :
+12:05:42 PM
+stroblme: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 13 :
+12:06:51 PM
+lsriufoxh: Added a Small Ring at Station [0,-1]
+Move 14 :
+12:07:34 PM
+stroblme: Added a Large Ring at Station [0,-1]
+Move 15 :
+12:07:43 PM
+lsriufoxh: Added a Medium Ring at Station [0,-1]
+Move 16 :
+12:09:17 PM
+stroblme: Added a Medium Ring at Station [-1,0]
+Move 17 :
+12:11:17 PM
+lsriufoxh: Added a Small Ring at Station [1,0]
+Move 18 :
+12:12:45 PM
+stroblme: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 19 :
+12:13:17 PM
+lsriufoxh: Added a Medium Ring at Station [1,0]
+Move 20 :
+12:17:46 PM
+stroblme: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 21 :
+12:20:08 PM
+lsriufoxh: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 22 :
+12:22:30 PM
+stroblme: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 23 :
+12:23:02 PM
+lsriufoxh: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 24 :
+12:26:29 PM
+stroblme: Moved a Base Post at Station [-1,0]
+Move 25 :
+12:28:31 PM
+lsriufoxh: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 26 :
+12:29:51 PM
+stroblme: Added a Large Ring at Station [-1,1]
+Move 27 :
+12:30:29 PM
+lsriufoxh: Added a Large Ring at Station [1,0]
+Move 28 :
+12:31:00 PM
+stroblme: Added a Large Ring at Station [0,1]
+Move 29 :
+12:32:54 PM
+lsriufoxh: Moved a Base Post at Station [1,0]
+lsriufoxh has to remove 2 orphaned rings
+Move 30 :
+12:33:16 PM
+stroblme: Added a Medium Ring at Station [-1,1]
+Move 31 :
+12:33:47 PM
+lsriufoxh: Added a Small Ring at Station [1,-1]
+Move 32 :
+12:34:52 PM
+stroblme: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 33 :
+12:44:39 PM
+lsriufoxh: Added a Small Ring at Station [0,-1]
+Move 34 :
+12:50:37 PM
+stroblme: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 35 :
+12:50:46 PM
+lsriufoxh: Added a Medium Ring at Station [0,-1]
+Move 36 :
+12:51:15 PM
+stroblme: Added a Large Ring at Station [1,-1]
+Move 37 :
+12:51:29 PM
+lsriufoxh: Added a Medium Ring at Station [1,-1]
+Move 38 :
+12:52:35 PM
+stroblme: Added a Large Ring at Station [1,1]
+Move 39 :
+12:52:43 PM
+lsriufoxh: Moved a Base Post at Station [1,-1]
+Move 40 :
+12:56:33 PM
+stroblme: Added a Small Ring at Station [-1,1]
+Move 41 :
+12:56:41 PM
+lsriufoxh: Added a Small Ring at Station [-1,0]
+The end of the game: lsriufoxh wins!

@@ -1,0 +1,179 @@
+Move 2 :
+8/11/2020 7:26:15 AM
+pie85: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 3 :
+7:26:37 AM
+Fisshi-: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 4 :
+7:27:28 AM
+pie85: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+7:27:58 AM
+Fisshi-: Moved a Blocker at Station [0,0] => [-1,0] Position:Right
+Move 6 :
+7:28:21 AM
+pie85: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 7 :
+7:28:41 AM
+Fisshi-: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+7:29:02 AM
+pie85: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 9 :
+7:29:22 AM
+Fisshi-: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 10 :
+7:29:38 AM
+pie85: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 11 :
+7:29:46 AM
+Fisshi-: Added a Large Ring at Station [1,0]
+Move 12 :
+7:30:11 AM
+pie85: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 13 :
+7:30:18 AM
+Fisshi-: Added a Medium Ring at Station [1,0]
+Move 14 :
+7:30:24 AM
+pie85: Added a Large Ring at Station [-1,0]
+Move 15 :
+7:30:33 AM
+Fisshi-: Added a Small Ring at Station [1,0]
+Move 16 :
+7:30:50 AM
+pie85: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 17 :
+7:31:14 AM
+Fisshi-: Moved a Base Post at Station [1,0]
+Move 18 :
+7:31:31 AM
+pie85: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 19 :
+7:31:50 AM
+Fisshi-: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 20 :
+7:32:12 AM
+pie85: Moved a Blocker at Station [1,1] => [1,0] Position:Left
+Move 21 :
+7:32:19 AM
+Fisshi-: Added a Large Ring at Station [1,1]
+Move 22 :
+7:32:43 AM
+pie85: Added a Medium Ring at Station [-1,0]
+Move 23 :
+7:32:58 AM
+Fisshi-: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 24 :
+7:33:13 AM
+pie85: Added a Small Ring at Station [-1,0]
+Move 25 :
+7:33:32 AM
+Fisshi-: Added a Small Ring at Station [0,1]
+Move 26 :
+7:33:55 AM
+pie85: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 27 :
+7:34:06 AM
+Fisshi-: Added a Large Ring at Station [0,1]
+Move 28 :
+7:34:31 AM
+pie85: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 29 :
+7:35:00 AM
+Fisshi-: Added a Medium Ring at Station [0,1]
+Move 30 :
+7:35:15 AM
+pie85: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 31 :
+7:42:49 AM
+Fisshi-: Moved a Base Post at Station [1,-1]
+Fisshi- has to remove 3 orphaned rings
+Move 32 :
+7:43:33 AM
+pie85: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 33 :
+7:43:54 AM
+Fisshi-: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 34 :
+7:44:19 AM
+pie85: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 35 :
+7:44:29 AM
+Fisshi-: Added a Large Ring at Station [0,1]
+Move 36 :
+7:44:36 AM
+pie85: Added a Large Ring at Station [-1,-1]
+Move 37 :
+7:45:15 AM
+Fisshi-: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 38 :
+7:45:25 AM
+pie85: Added a Large Ring at Station [0,-1]
+Move 39 :
+7:45:50 AM
+Fisshi-: Added a Large Ring at Station [-1,1]
+Move 40 :
+7:46:11 AM
+pie85: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 41 :
+7:46:18 AM
+Fisshi-: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 42 :
+7:46:34 AM
+pie85: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 43 :
+7:46:41 AM
+Fisshi-: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 44 :
+7:48:00 AM
+pie85: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 45 :
+7:48:48 AM
+Fisshi-: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 46 :
+7:49:16 AM
+pie85: Added a Medium Ring at Station [-1,-1]
+Move 47 :
+7:49:39 AM
+Fisshi-: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 48 :
+7:49:54 AM
+pie85: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 49 :
+7:50:02 AM
+Fisshi-: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 50 :
+7:50:09 AM
+pie85: Added a Large Ring at Station [1,-1]
+Move 51 :
+7:50:39 AM
+Fisshi-: Added a Medium Ring at Station [-1,1]
+Move 52 :
+7:50:51 AM
+pie85: Added a Small Ring at Station [1,-1]
+Move 53 :
+7:51:07 AM
+Fisshi-: Added a Medium Ring at Station [0,1]
+Move 54 :
+7:51:13 AM
+pie85: Added a Medium Ring at Station [1,-1]
+Move 55 :
+7:51:33 AM
+Fisshi-: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 56 :
+7:51:50 AM
+pie85: Added a Small Ring at Station [-1,-1]
+Move 57 :
+7:52:11 AM
+Fisshi-: Added a Medium Ring at Station [1,1]
+Move 58 :
+7:52:37 AM
+pie85: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 59 :
+7:53:19 AM
+Fisshi-: Removed a Blocker at Station [1,1] => [1,0] Position:Left
+Move 60 :
+7:53:31 AM
+pie85: Added a Medium Ring at Station [0,-1]
+The end of the game: pie85 wins!

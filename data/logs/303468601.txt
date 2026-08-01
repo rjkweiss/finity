@@ -1,0 +1,97 @@
+Game log
+Move 1 :9/28/2022 1:02:36 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :1:53:35 PM
+P-Rex: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 3 :5:15:19 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :9/29/2022 1:22:32 PM
+P-Rex: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 :8:10:08 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :9/30/2022 11:59:53 AM
+P-Rex: Added a Large Ring at Station [0,1]
+Move 7 :1:26:30 PM
+tony1021: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+P-Rex has to remove 1 orphaned rings
+Move 8 :10/1/2022 11:58:37 AM
+P-Rex: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 9 :9:44:08 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 10 :10/2/2022 2:07:53 PM
+P-Rex: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 11 :2:49:34 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 12 :10/3/2022 1:01:19 PM
+P-Rex: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 13 :1:56:38 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 14 :10/4/2022 12:09:30 PM
+P-Rex: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 15 :10/5/2022 7:47:35 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 16 :10/7/2022 1:21:53 PM
+P-Rex: Added a Large Ring at Station [0,1]
+Move 17 :10/8/2022 12:54:58 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 18 :10/9/2022 1:37:41 PM
+P-Rex: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 19 :9:50:59 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :10/10/2022 12:08:53 PM
+P-Rex: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 21 :12:20:55 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 22 :12:23:22 PM
+P-Rex: Moved a Base Post at Station [0,1]
+Move 23 :12:23:58 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 24 :12:27:17 PM
+P-Rex: Added a Small Ring at Station [-1,1]
+Move 25 :12:27:49 PM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 26 :12:29:04 PM
+P-Rex: Added a Small Ring at Station [-1,0]
+Move 27 :1:03:03 PM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 28 :10/11/2022 1:27:13 PM
+P-Rex: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 29 :10/12/2022 7:23:58 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+P-Rex has to remove 1 orphaned rings
+Move 30 :10/13/2022 11:47:07 AM
+P-Rex: Added a Large Ring at Station [-1,1]
+Move 31 :10/14/2022 10:04:22 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 32 :10/15/2022 3:05:12 PM
+P-Rex: Moved a Base Post at Station [-1,1]
+Move 33 :10/17/2022 2:27:09 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 34 :1:40:39 PM
+P-Rex: Added a Small Ring at Station [0,1]
+Move 35 :4:02:27 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 36 :10/18/2022 2:27:41 PM
+P-Rex uses a holiday time joker (+4 days thinking time)
+Move 37 :10/19/2022 1:06:44 PM
+P-Rex: Added a Medium Ring at Station [1,0]
+Move 38 :10/20/2022 9:40:32 PM
+tony1021: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+P-Rex has to remove 1 orphaned rings
+Move 39 :10/21/2022 1:14:30 PM
+P-Rex: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 40 :5:00:24 PM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 41 :10/22/2022 12:01:36 PM
+P-Rex: Moved a Base Post at Station [0,1]
+Move 42 :7:31:17 PM
+tony1021: Added a Large Ring at Station [0,-1]
+Move 43 :10/23/2022 2:00:38 PM
+P-Rex: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 44 :2:16:32 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 45 :10/24/2022 11:47:32 AM
+P-Rex: Added a Medium Ring at Station [-1,1]
+Move 46 :7:49:44 PM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+The end of the game: tony1021 wins!

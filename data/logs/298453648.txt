@@ -1,0 +1,213 @@
+Game log
+Move 1 :9/8/2022 5:20:29 PM
+The colors of knackeredgeezer have been chosen according to their preferences. Change my preferences.
+Move 2 :9:02:08 PM
+knackeredgeezer: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :9:09:26 PM
+james775: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 4 :9/9/2022 2:56:42 PM
+knackeredgeezer: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 5 :8:02:02 PM
+james775: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 6 :11:05:11 PM
+knackeredgeezer: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 7 :11:09:24 PM
+james775: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 8 :9/10/2022 1:07:01 AM
+knackeredgeezer: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 9 :4:03:28 AM
+james775: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 10 :7:20:56 PM
+knackeredgeezer: Added a Large Ring at Station [-1,0]
+Move 11 :9:02:53 PM
+james775: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 12 :9/11/2022 12:53:29 AM
+knackeredgeezer: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 13 :12:32:59 PM
+james775: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 14 :6:01:25 PM
+knackeredgeezer: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 15 :6:28:55 PM
+james775: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 16 :9:17:59 PM
+knackeredgeezer: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 17 :9:24:03 PM
+james775: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 18 :9/12/2022 2:57:07 PM
+knackeredgeezer: Added a Small Ring at Station [-1,0]
+Move 19 :7:00:24 PM
+james775: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :9:08:16 PM
+knackeredgeezer: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 21 :9:37:56 PM
+james775: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 22 :9/13/2022 12:17:36 PM
+knackeredgeezer: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 23 :12:31:46 PM
+james775: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 24 :9:10:55 PM
+knackeredgeezer: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 25 :9/14/2022 11:08:40 AM
+james775: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 26 :2:18:16 PM
+knackeredgeezer: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 27 :5:45:14 PM
+james775: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 28 :5:57:08 PM
+knackeredgeezer: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 29 :6:07:26 PM
+james775: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 30 :6:31:31 PM
+knackeredgeezer: Moved a Base Post at Station [-1,0]
+Move 31 :9/15/2022 1:27:14 PM
+james775: Removed a Blocker at Station [0,1] => [1,0] Position:Right
+Move 32 :3:54:45 PM
+knackeredgeezer: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 33 :5:44:36 PM
+james775: Removed a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 34 :6:12:29 PM
+knackeredgeezer: Added a Medium Ring at Station [-1,1]
+Move 35 :6:21:42 PM
+james775: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 36 :10:42:30 PM
+knackeredgeezer: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 37 :9/16/2022 12:21:44 PM
+james775: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 38 :12:57:42 PM
+knackeredgeezer: Added a White Bridge at Station [0,0] => [1,-1] Position:Left
+Move 39 :9/19/2022 1:20:10 PM
+james775: Moved a Blocker at Station [0,0] => [-1,1] Position:Right
+Move 40 :4:06:14 PM
+knackeredgeezer: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 41 :4:59:34 PM
+james775: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Left
+Move 42 :6:49:21 PM
+knackeredgeezer: Removed a Blocker at Station [0,1] => [1,0] Position:Right
+Move 43 :9/20/2022 12:36:07 AM
+james775: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 44 :2:19:40 PM
+knackeredgeezer: Removed a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 45 :5:15:40 PM
+james775: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 46 :9:17:31 PM
+knackeredgeezer: Added a Medium Ring at Station [0,1]
+Move 47 :9:36:10 PM
+james775: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 48 :9/21/2022 2:59:00 PM
+knackeredgeezer: Added a Small Ring at Station [-1,1]
+Move 49 :9/23/2022 8:40:28 PM
+james775: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 50 :11:02:41 PM
+knackeredgeezer: Added a Large Ring at Station [0,1]
+Move 51 :9/24/2022 12:39:01 AM
+james775: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 52 :10:11:59 AM
+knackeredgeezer: Added a Small Ring at Station [0,1]
+Move 53 :1:32:01 PM
+james775: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 54 :1:44:39 PM
+knackeredgeezer: Added a Large Ring at Station [-1,1]
+Move 55 :5:47:54 PM
+james775: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 56 :8:41:03 PM
+knackeredgeezer: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 57 :9/25/2022 8:34:47 AM
+james775: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Right
+Move 58 :9:52:16 AM
+knackeredgeezer: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 59 :12:22:10 PM
+james775: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 60 :1:19:25 PM
+knackeredgeezer: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 61 :6:47:13 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 62 :7:05:12 PM
+knackeredgeezer: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 63 :9:29:01 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 64 :9/26/2022 2:24:26 PM
+knackeredgeezer: Added a Small Ring at Station [1,1]
+Move 65 :8:35:33 PM
+james775: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 66 :9:10:57 PM
+knackeredgeezer: Added a Large Ring at Station [1,1]
+Move 67 :10:10:35 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 68 :9/27/2022 3:38:51 PM
+knackeredgeezer: Added a Medium Ring at Station [1,1]
+Move 69 :7:17:56 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 70 :10:25:56 PM
+knackeredgeezer: Moved a Base Post at Station [0,-1]
+knackeredgeezer has to remove 3 orphaned rings
+Move 71 :9/28/2022 12:23:20 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 72 :1:20:40 PM
+knackeredgeezer: Added a Medium Ring at Station [1,-1]
+Move 73 :5:37:17 PM
+james775: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 74 :5:38:51 PM
+knackeredgeezer: Moved a Base Post at Station [-1,0]
+knackeredgeezer has to remove 1 orphaned rings
+Move 75 :5:46:16 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 76 :5:47:35 PM
+knackeredgeezer: Added a Medium Ring at Station [0,-1]
+Move 77 :5:48:44 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 78 :5:51:08 PM
+knackeredgeezer: Added a Small Ring at Station [0,-1]
+Move 79 :9:03:02 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 80 :11:15:56 PM
+knackeredgeezer: Added a Large Ring at Station [1,1]
+Move 81 :9/29/2022 12:33:59 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 82 :2:25:00 PM
+knackeredgeezer: Added a Medium Ring at Station [1,1]
+Move 83 :4:07:33 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 84 :6:15:58 PM
+knackeredgeezer: Added a Medium Ring at Station [-1,-1]
+Move 85 :9:21:43 PM
+james775: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 86 :9:25:19 PM
+knackeredgeezer: Added a Small Ring at Station [1,1]
+Move 87 :9/30/2022 1:00:32 PM
+james775: Reversed a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 88 :1:08:46 PM
+knackeredgeezer: Added a Large Ring at Station [0,-1]
+Move 89 :1:58:44 PM
+james775: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 90 :3:44:45 PM
+knackeredgeezer: Added a Large Ring at Station [-1,-1]
+Move 91 :9:57:37 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 92 :10/1/2022 12:11:02 AM
+knackeredgeezer: Added a Small Ring at Station [-1,-1]
+Move 93 :4:22:41 AM
+james775: Reversed a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 94 :10:15:13 AM
+knackeredgeezer: Added a Medium Ring at Station [1,-1]
+Move 95 :12:58:26 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 96 :7:02:03 PM
+knackeredgeezer: Added a Large Ring at Station [1,-1]
+Move 97 :7:03:22 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 98 :7:06:04 PM
+knackeredgeezer: Added a Small Ring at Station [1,-1]
+Move 99 :9:34:18 PM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 100 :9:53:49 PM
+knackeredgeezer: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 101 :10:59:03 PM
+james775: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 102 :10/2/2022 9:52:48 AM
+knackeredgeezer: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 103 :11:45:22 AM
+james775: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 104 :11:51:39 AM
+knackeredgeezer: Moved a Base Post at Station [-1,1]
+knackeredgeezer has to remove 3 orphaned rings
+The end of the game: knackeredgeezer wins!

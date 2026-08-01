@@ -1,0 +1,63 @@
+Game log
+Move 3 :8/6/2022 10:45:54 AM
+saymaysan: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 4 :10:51:30 AM
+AkStr: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :10:52:33 AM
+saymaysan: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 6 :10:52:41 AM
+AkStr: Added a Small Ring at Station [1,0]
+Move 7 :10:53:17 AM
+saymaysan: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 8 :10:53:53 AM
+AkStr: Added a Medium Ring at Station [1,0]
+Move 9 :10:54:13 AM
+saymaysan: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 10 :10:54:31 AM
+AkStr: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 11 :10:55:28 AM
+saymaysan: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 12 :10:55:49 AM
+AkStr: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 13 :10:55:57 AM
+saymaysan: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :10:56:07 AM
+AkStr: Added a Large Ring at Station [1,0]
+Move 15 :10:56:15 AM
+saymaysan: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 16 :10:57:01 AM
+AkStr: Added a Small Ring at Station [1,1]
+Move 17 :10:57:27 AM
+saymaysan: Added a Small Ring at Station [0,1]
+Move 18 :10:57:37 AM
+AkStr: Added a Large Ring at Station [1,1]
+Move 19 :10:58:06 AM
+saymaysan: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 20 :10:58:15 AM
+AkStr: Added a Medium Ring at Station [0,1]
+Move 21 :10:58:33 AM
+saymaysan: Added a Medium Ring at Station [1,1]
+Move 22 :10:58:46 AM
+AkStr: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 23 :10:59:09 AM
+saymaysan: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 24 :10:59:19 AM
+AkStr: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 25 :11:00:11 AM
+saymaysan: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 26 :11:00:35 AM
+AkStr: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 27 :11:01:04 AM
+saymaysan: Added a Small Ring at Station [-1,0]
+Move 28 :11:01:12 AM
+AkStr: Added a Small Ring at Station [-1,1]
+Move 29 :11:01:26 AM
+saymaysan: Moved a Base Post at Station [-1,0]
+saymaysan has to remove 2 orphaned rings
+Move 30 :11:01:52 AM
+AkStr: Added a Medium Ring at Station [-1,0]
+Move 31 :11:02:00 AM
+saymaysan: Moved a Base Post at Station [-1,1]
+Move 32 :11:02:25 AM
+AkStr: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+The end of the game: AkStr wins!

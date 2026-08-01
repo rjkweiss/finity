@@ -1,0 +1,58 @@
+Move 1 :
+4/24/2020 7:54:26 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+7:54:53 PM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+10:19:37 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+4/25/2020 7:39:57 AM
+SixPigeons: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 5 :
+7:50:53 PM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+8:09:01 PM
+SixPigeons: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 7 :
+4/26/2020 10:35:13 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 8 :
+4:45:56 PM
+SixPigeons: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 9 :
+5:29:55 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 10 :
+4/27/2020 12:06:04 AM
+SixPigeons: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 11 :
+7:36:42 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 12 :
+10:41:35 PM
+SixPigeons: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+tony1021 has to remove 1 orphaned rings
+Move 13 :
+4/28/2020 4:16:53 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 14 :
+5:28:23 AM
+SixPigeons: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 15 :
+7:17:45 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 16 :
+7:26:52 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+9:13:07 AM
+tony1021: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 18 :
+4:16:57 PM
+SixPigeons: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+No rings placed or orphaned. -1 moves until a forced draw
+End of game

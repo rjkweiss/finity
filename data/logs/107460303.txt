@@ -1,0 +1,103 @@
+Move 1 :
+8/17/2020 4:00:07 PM
+The colors of tony1021, ethorad have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:11:43 PM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+8/18/2020 12:11:45 AM
+ethorad: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+7:02:08 AM
+tony1021: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 5 :
+7:02:43 AM
+ethorad: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 6 :
+7:05:44 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 7 :
+7:18:44 AM
+ethorad: Added a Small Ring at Station [0,-1]
+Move 8 :
+1:29:56 PM
+tony1021: Added a White Bridge at Station [-1,0] => [0,0] Position:Right
+Move 9 :
+1:35:03 PM
+ethorad: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+1:46:43 PM
+tony1021: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 11 :
+1:47:41 PM
+ethorad: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 12 :
+7:22:20 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 13 :
+8/19/2020 12:29:22 AM
+ethorad: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 14 :
+6:38:10 AM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :
+7:06:01 AM
+ethorad: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 16 :
+11:49:34 AM
+tony1021: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Right
+Move 17 :
+12:25:54 PM
+ethorad: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+12:35:38 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 19 :
+1:09:09 PM
+ethorad: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 20 :
+2:20:38 PM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 21 :
+2:55:31 PM
+ethorad: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 22 :
+3:43:53 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 23 :
+3:54:01 PM
+ethorad: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 24 :
+4:00:01 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 25 :
+10:31:15 PM
+ethorad: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 26 :
+8/20/2020 6:15:21 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 27 :
+7:22:03 AM
+ethorad: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 28 :
+8:46:34 AM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 29 :
+12:31:10 PM
+ethorad: Removed a Blocker at Station [-1,-1] => [0,-1] Position:Right
+Move 30 :
+12:33:21 PM
+tony1021: Added a Large Ring at Station [0,1]
+Move 31 :
+12:35:43 PM
+ethorad: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 32 :
+12:41:42 PM
+tony1021: Added a Large Ring at Station [1,0]
+Move 33 :
+12:46:50 PM
+ethorad: Added a Small Ring at Station [-1,-1]
+Move 34 :
+3:22:30 PM
+tony1021: Added a Small Ring at Station [1,1]
+The end of the game: tony1021 wins!

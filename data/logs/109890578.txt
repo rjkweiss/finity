@@ -1,0 +1,85 @@
+Move 2 :
+8/31/2020 8:09:32 PM
+swesound: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+8:10:01 PM
+SirSignet: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+8:10:10 PM
+swesound: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 5 :
+8:10:19 PM
+SirSignet: Added a Large Ring at Station [1,0]
+Move 6 :
+8:10:28 PM
+swesound: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 7 :
+8:10:46 PM
+SirSignet: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 8 :
+8:10:55 PM
+swesound: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 9 :
+8:11:31 PM
+SirSignet: Added a Large Ring at Station [0,1]
+Move 10 :
+8:11:43 PM
+swesound: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 11 :
+8:13:14 PM
+SirSignet: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 12 :
+8:13:24 PM
+swesound: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 13 :
+8:13:38 PM
+SirSignet: Added a Large Ring at Station [-1,1]
+Move 14 :
+8:14:12 PM
+swesound: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 15 :
+8:14:29 PM
+SirSignet: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 16 :
+8:14:41 PM
+swesound: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 17 :
+8:14:56 PM
+SirSignet: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 18 :
+8:15:13 PM
+swesound: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 19 :
+8:15:23 PM
+SirSignet: Added a Large Ring at Station [-1,0]
+Move 20 :
+8:15:32 PM
+swesound: Added a Medium Ring at Station [0,1]
+Move 21 :
+8:15:38 PM
+SirSignet: Added a Medium Ring at Station [-1,0]
+Move 22 :
+8:15:45 PM
+swesound: Added a Small Ring at Station [-1,0]
+Move 23 :
+8:16:18 PM
+SirSignet: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 24 :
+8:16:42 PM
+swesound: Added a Small Ring at Station [0,1]
+Move 25 :
+8:16:57 PM
+SirSignet: Added a Medium Ring at Station [-1,1]
+Move 26 :
+8:17:11 PM
+swesound: Added a Large Ring at Station [-1,-1]
+Move 27 :
+8:17:16 PM
+SirSignet: Added a Large Ring at Station [0,-1]
+Move 28 :
+8:17:23 PM
+swesound: Added a Medium Ring at Station [0,-1]
+Move 29 :
+8:17:30 PM
+SirSignet: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: SirSignet wins!

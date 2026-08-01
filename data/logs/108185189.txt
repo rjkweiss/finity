@@ -1,0 +1,150 @@
+Move 1 :
+8/22/2020 12:34:06 AM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:38:36 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+1:25:13 AM
+dandanjudoman: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+2:09:20 AM
+SixPigeons: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :
+4:07:22 AM
+dandanjudoman: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+7:03:49 AM
+SixPigeons: Added a White Bridge at Station [0,0] => [0,-1] Position:Left
+Move 7 :
+8:04:33 AM
+dandanjudoman: Added a Small Ring at Station [1,0]
+Move 8 :
+8:15:05 AM
+SixPigeons: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 9 :
+8:21:51 AM
+dandanjudoman: Added a Medium Ring at Station [1,0]
+Move 10 :
+8:26:17 AM
+SixPigeons: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :
+8:35:29 AM
+dandanjudoman: Added a Large Ring at Station [1,0]
+Move 12 :
+8:39:01 AM
+SixPigeons: Added a Small Ring at Station [0,1]
+Move 13 :
+8:42:35 AM
+dandanjudoman: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 14 :
+8:43:16 AM
+SixPigeons: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 15 :
+8:48:11 AM
+dandanjudoman: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 16 :
+3:16:26 PM
+SixPigeons: Added a Medium Ring at Station [0,1]
+Move 17 :
+3:27:58 PM
+dandanjudoman: Moved a Base Post at Station [1,0]
+Move 18 :
+3:45:04 PM
+SixPigeons: Added a Large Ring at Station [0,1]
+Move 19 :
+4:23:08 PM
+dandanjudoman: Added a Small Ring at Station [1,-1]
+Move 20 :
+6:01:55 PM
+SixPigeons: Moved a Base Post at Station [0,1]
+Move 21 :
+8/23/2020 2:23:10 AM
+dandanjudoman: Added a Medium Ring at Station [1,-1]
+Move 22 :
+2:28:01 AM
+SixPigeons: Added a Small Ring at Station [-1,1]
+Move 23 :
+3:47:13 AM
+dandanjudoman: Added a Large Ring at Station [1,-1]
+Move 24 :
+3:52:08 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 25 :
+3:54:08 AM
+dandanjudoman: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 26 :
+3:54:56 AM
+SixPigeons: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 27 :
+3:55:23 AM
+dandanjudoman: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 28 :
+3:55:49 AM
+SixPigeons: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 29 :
+3:56:31 AM
+dandanjudoman: Added a Small Ring at Station [0,-1]
+Move 30 :
+3:56:43 AM
+SixPigeons: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+dandanjudoman has to remove 1 orphaned rings
+Move 31 :
+4:02:57 AM
+dandanjudoman: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 32 :
+4:03:23 AM
+SixPigeons: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 33 :
+4:06:18 AM
+dandanjudoman: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 34 :
+4:08:44 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 35 :
+4:10:19 AM
+dandanjudoman: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 36 :
+4:12:26 AM
+SixPigeons: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 37 :
+4:14:41 AM
+dandanjudoman: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 38 :
+4:15:38 AM
+SixPigeons: Added a Medium Ring at Station [-1,1]
+Move 39 :
+4:18:42 AM
+dandanjudoman: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 40 :
+4:20:04 AM
+SixPigeons: Added a Large Ring at Station [-1,1]
+Move 41 :
+4:22:25 AM
+dandanjudoman: Removed a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 42 :
+4:22:54 AM
+SixPigeons: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 43 :
+4:23:40 AM
+dandanjudoman: Added a Small Ring at Station [0,-1]
+Move 44 :
+4:24:08 AM
+SixPigeons: Moved a Base Post at Station [-1,1]
+Move 45 :
+4:24:59 AM
+dandanjudoman: Added a Small Ring at Station [-1,0]
+Move 46 :
+4:28:38 AM
+SixPigeons: Added a Medium Ring at Station [-1,0]
+Move 47 :
+4:30:12 AM
+dandanjudoman: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Left
+SixPigeons has to remove 1 orphaned rings
+Move 48 :
+4:30:40 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 49 :
+4:30:51 AM
+dandanjudoman: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+The end of the game: dandanjudoman wins!

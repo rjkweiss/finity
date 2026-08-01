@@ -1,0 +1,218 @@
+Move 1 :
+9/7/2020 9:06:31 PM
+The colors of fuzzyinferno have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:07:29 PM
+TheBlint: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 3 :
+9:08:22 PM
+DiceAdmiral: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :
+9:09:17 PM
+fuzzyinferno: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 5 :
+9:10:46 PM
+TheBlint: Added a Large Ring at Station [1,0]
+Move 6 :
+9:11:49 PM
+DiceAdmiral: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 7 :
+9:11:59 PM
+fuzzyinferno: Added a Medium Ring at Station [1,0]
+Move 8 :
+9:13:27 PM
+TheBlint: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 9 :
+9:14:00 PM
+DiceAdmiral: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 10 :
+9:14:11 PM
+fuzzyinferno: Added a Small Ring at Station [1,0]
+Move 11 :
+9:14:56 PM
+TheBlint: Added a Large Ring at Station [0,-1]
+Move 12 :
+9:15:31 PM
+DiceAdmiral: Added a Medium Ring at Station [0,-1]
+Move 13 :
+9:16:09 PM
+fuzzyinferno: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 14 :
+9:16:41 PM
+TheBlint: Added a Small Ring at Station [0,-1]
+Move 15 :
+9:16:53 PM
+DiceAdmiral: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 16 :
+9:17:05 PM
+fuzzyinferno: Added a Large Ring at Station [1,1]
+Move 17 :
+9:17:11 PM
+TheBlint: Added a Large Ring at Station [-1,0]
+Move 18 :
+9:17:53 PM
+DiceAdmiral: Moved a Base Post at Station [0,-1]
+Move 19 :
+9:18:00 PM
+fuzzyinferno: Added a Medium Ring at Station [1,1]
+Move 20 :
+9:19:14 PM
+TheBlint: Added a Medium Ring at Station [-1,0]
+Move 21 :
+9:19:26 PM
+DiceAdmiral: Added a Small Ring at Station [-1,0]
+Move 22 :
+9:19:34 PM
+fuzzyinferno: Added a Small Ring at Station [1,1]
+Move 23 :
+9:20:03 PM
+TheBlint: Added a Medium Ring at Station [-1,1]
+Move 24 :
+9:21:27 PM
+DiceAdmiral: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 25 :
+9:21:45 PM
+fuzzyinferno: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+fuzzyinferno has to remove 3 orphaned rings
+Move 26 :
+9:22:05 PM
+TheBlint: Added a Large Ring at Station [-1,1]
+Move 27 :
+9:22:37 PM
+DiceAdmiral: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 28 :
+9:22:47 PM
+fuzzyinferno: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 29 :
+9:23:01 PM
+TheBlint: Added a Small Ring at Station [-1,1]
+Move 30 :
+9:23:17 PM
+DiceAdmiral: Added a Large Ring at Station [-2,1]
+Move 31 :
+9:23:24 PM
+fuzzyinferno: Added a Large Ring at Station [1,1]
+Move 32 :
+9:23:42 PM
+TheBlint: Moved a Base Post at Station [-1,0]
+TheBlint has to remove 1 orphaned rings
+Move 33 :
+9:24:01 PM
+DiceAdmiral: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 34 :
+9:24:07 PM
+fuzzyinferno: Added a Medium Ring at Station [1,1]
+Move 35 :
+9:24:52 PM
+TheBlint: Added a Medium Ring at Station [-2,1]
+Move 36 :
+9:25:42 PM
+DiceAdmiral: Added a Small Ring at Station [-2,1]
+Move 37 :
+9:25:50 PM
+fuzzyinferno: Added a Small Ring at Station [1,1]
+Move 38 :
+9:28:01 PM
+TheBlint: Added a Large Ring at Station [0,1]
+Move 39 :
+9:28:29 PM
+DiceAdmiral: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+TheBlint has to remove 4 orphaned rings
+Move 40 :
+9:28:47 PM
+fuzzyinferno: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 41 :
+9:29:32 PM
+TheBlint: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 42 :
+9:29:40 PM
+DiceAdmiral: Added a Small Ring at Station [-1,1]
+Move 43 :
+9:29:57 PM
+fuzzyinferno: Added a Large Ring at Station [1,0]
+Move 44 :
+9:30:17 PM
+TheBlint: Added a Large Ring at Station [-1,1]
+Move 45 :
+9:30:39 PM
+DiceAdmiral: Added a Small Ring at Station [0,1]
+Move 46 :
+9:30:50 PM
+fuzzyinferno: Added a White Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 47 :
+9:31:02 PM
+TheBlint: Added a Medium Ring at Station [-1,1]
+Move 48 :
+9:32:09 PM
+DiceAdmiral: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 49 :
+9:32:21 PM
+fuzzyinferno: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 50 :
+9:33:31 PM
+TheBlint: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Left
+Move 51 :
+9:34:02 PM
+DiceAdmiral: Added a Small Ring at Station [1,-2]
+Move 52 :
+9:34:09 PM
+fuzzyinferno: Moved a Base Post at Station [1,0]
+fuzzyinferno has to remove 3 orphaned rings
+Move 53 :
+9:34:18 PM
+TheBlint: Added a Large Ring at Station [1,-2]
+Move 54 :
+9:34:26 PM
+DiceAdmiral: Added a Medium Ring at Station [1,-2]
+Move 55 :
+9:35:06 PM
+fuzzyinferno: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 56 :
+9:35:51 PM
+TheBlint: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 57 :
+9:36:19 PM
+DiceAdmiral: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 58 :
+9:36:27 PM
+fuzzyinferno: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 59 :
+9:36:37 PM
+TheBlint: Added a Large Ring at Station [1,-1]
+Move 60 :
+9:36:56 PM
+DiceAdmiral: Added a Medium Ring at Station [1,-1]
+Move 61 :
+9:37:16 PM
+fuzzyinferno: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 62 :
+9:37:31 PM
+TheBlint: Added a Small Ring at Station [1,-1]
+Move 63 :
+9:38:24 PM
+DiceAdmiral: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 64 :
+9:38:30 PM
+fuzzyinferno: Added a Large Ring at Station [1,1]
+Move 65 :
+9:39:09 PM
+TheBlint: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 66 :
+9:40:10 PM
+DiceAdmiral: Added a Small Ring at Station [1,1]
+Move 67 :
+9:40:16 PM
+fuzzyinferno: Added a Medium Ring at Station [1,1]
+Move 68 :
+9:40:23 PM
+TheBlint: Added a Large Ring at Station [0,1]
+Move 69 :
+9:41:58 PM
+DiceAdmiral: Added a Medium Ring at Station [0,1]
+Move 70 :
+9:42:39 PM
+fuzzyinferno: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 71 :
+9:43:26 PM
+TheBlint: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+The end of the game: TheBlint wins!

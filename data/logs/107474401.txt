@@ -1,0 +1,126 @@
+Move 2 :
+8/18/2020 12:12:22 AM
+dandanjudoman: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+12:20:36 AM
+Jumbalumba: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+12:24:25 AM
+dandanjudoman: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+12:25:32 AM
+Jumbalumba: Added a Large Ring at Station [1,0]
+Move 6 :
+12:26:42 AM
+dandanjudoman: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+12:29:38 AM
+Jumbalumba: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+12:30:35 AM
+dandanjudoman: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :
+12:33:22 AM
+Jumbalumba: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 10 :
+12:38:59 AM
+dandanjudoman: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 11 :
+12:40:26 AM
+Jumbalumba: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 12 :
+12:42:43 AM
+dandanjudoman: Added a Small Ring at Station [-1,0]
+Move 13 :
+12:43:20 AM
+Jumbalumba: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+dandanjudoman has to remove 1 orphaned rings
+Move 14 :
+12:45:56 AM
+dandanjudoman: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 15 :
+12:47:31 AM
+Jumbalumba: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 16 :
+12:48:54 AM
+dandanjudoman: Added a Small Ring at Station [0,1]
+Move 17 :
+12:49:36 AM
+Jumbalumba: Added a Small Ring at Station [1,1]
+Move 18 :
+12:50:15 AM
+dandanjudoman: Added a Medium Ring at Station [0,1]
+Move 19 :
+12:51:31 AM
+Jumbalumba: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 20 :
+12:52:57 AM
+dandanjudoman: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 21 :
+12:55:16 AM
+Jumbalumba: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 22 :
+12:56:02 AM
+dandanjudoman: Added a Large Ring at Station [0,1]
+Move 23 :
+12:58:43 AM
+Jumbalumba: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 24 :
+9:49:26 AM
+dandanjudoman: Added a Small Ring at Station [1,0]
+Move 25 :
+5:48:31 PM
+Jumbalumba: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 26 :
+8/19/2020 12:10:36 AM
+dandanjudoman: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 27 :
+12:35:30 AM
+Jumbalumba: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 28 :
+12:36:55 AM
+dandanjudoman: Added a Medium Ring at Station [1,-1]
+Move 29 :
+12:38:39 AM
+Jumbalumba: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 30 :
+12:45:29 AM
+dandanjudoman: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 31 :
+12:47:32 AM
+Jumbalumba: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 32 :
+12:53:44 AM
+dandanjudoman: Moved a Base Post at Station [0,1]
+Move 33 :
+12:57:34 AM
+Jumbalumba: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 34 :
+1:00:39 AM
+dandanjudoman: Added a Medium Ring at Station [1,0]
+Move 35 :
+1:01:45 AM
+Jumbalumba: Added a Small Ring at Station [0,-1]
+Move 36 :
+1:41:48 AM
+dandanjudoman: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 37 :
+1:42:05 AM
+Jumbalumba: Added a Medium Ring at Station [0,-1]
+Move 38 :
+1:43:07 AM
+dandanjudoman: Added a Small Ring at Station [-1,1]
+Move 39 :
+3:02:50 AM
+Jumbalumba: Added a Small Ring at Station [-1,-1]
+Move 40 :
+3:13:40 AM
+dandanjudoman: Added a Medium Ring at Station [-1,1]
+Move 41 :
+3:23:48 AM
+Jumbalumba: Moved a Base Post at Station [1,0]
+Jumbalumba has to remove 4 orphaned rings
+Move 42 :
+3:27:58 AM
+dandanjudoman: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: dandanjudoman wins!

@@ -1,0 +1,67 @@
+Game log
+Move 1 :2/8/2023 1:21:23 PM
+The colors of Ashen Sugar have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :1:29:20 PM
+Caffe Latte: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 3 :3:44:30 PM
+Ashen Sugar: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :10:47:46 PM
+Caffe Latte: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 5 :11:59:16 PM
+Ashen Sugar: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :2/9/2023 3:01:00 AM
+Caffe Latte: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 7 :3:03:40 AM
+Ashen Sugar: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 8 :3:04:14 AM
+Caffe Latte: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :3:09:23 AM
+Ashen Sugar: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 10 :3:23:58 AM
+Caffe Latte: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 11 :3:25:08 AM
+Ashen Sugar: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 12 :6:22:54 AM
+Caffe Latte: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 13 :4:46:40 PM
+Ashen Sugar: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 14 :10:06:24 PM
+Caffe Latte: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 15 :2/10/2023 12:49:10 AM
+Ashen Sugar: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 16 :2:50:28 AM
+Caffe Latte: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 17 :3:56:04 AM
+Ashen Sugar: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+No rings placed or orphaned. 4 moves until a forced draw
+Move 18 :4:12:07 AM
+Caffe Latte: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+No rings placed or orphaned. 3 moves until a forced draw
+Move 19 :4:13:46 AM
+Ashen Sugar: Added a Small Ring at Station [1,0]
+Move 20 :8:28:23 AM
+Caffe Latte: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 21 :1:21:11 PM
+Ashen Sugar: Added a Small Ring at Station [1,1]
+Move 22 :2:35:32 PM
+Caffe Latte: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 23 :3:18:20 PM
+Ashen Sugar: Added a Small Ring at Station [0,1]
+Move 24 :9:39:49 PM
+Caffe Latte: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 25 :11:37:49 PM
+Ashen Sugar: Added a Medium Ring at Station [1,0]
+Move 26 :11:52:15 PM
+Caffe Latte: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 27 :2/11/2023 1:08:04 AM
+Ashen Sugar: Added a Small Ring at Station [-1,1]
+Move 28 :1:13:49 AM
+Caffe Latte: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 29 :1:50:19 AM
+Ashen Sugar: Added a Medium Ring at Station [0,1]
+Move 30 :3:41:54 AM
+Caffe Latte: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 31 :3:46:00 AM
+Ashen Sugar: Added a Medium Ring at Station [1,1]
+The end of the game: Ashen Sugar wins!

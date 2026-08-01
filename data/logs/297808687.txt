@@ -1,0 +1,68 @@
+Game log
+Move 1 :9/6/2022 5:59:14 AM
+The colors of FoxyProxy have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :5:59:29 AM
+FoxyProxy: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :5:59:49 AM
+Anchoretta: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :5:59:56 AM
+FoxyProxy: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :6:00:02 AM
+Anchoretta: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 6 :6:00:07 AM
+FoxyProxy: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 7 :6:00:32 AM
+Anchoretta: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 8 :6:00:38 AM
+FoxyProxy: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 9 :6:00:44 AM
+Anchoretta: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 10 :6:00:56 AM
+FoxyProxy: Added a Large Ring at Station [0,1]
+Move 11 :6:01:05 AM
+Anchoretta: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 12 :6:01:09 AM
+FoxyProxy: Moved a Base Post at Station [0,1]
+Move 13 :6:01:21 AM
+Anchoretta: Added a Large Ring at Station [0,-1]
+Move 14 :6:01:31 AM
+FoxyProxy: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 15 :6:01:35 AM
+Anchoretta: Moved a Base Post at Station [0,-1]
+Move 16 :6:01:42 AM
+FoxyProxy: Added a Large Ring at Station [-1,1]
+Move 17 :6:01:50 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :6:01:55 AM
+FoxyProxy: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+FoxyProxy has to remove 1 orphaned rings
+Move 19 :6:02:00 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 20 :6:02:04 AM
+FoxyProxy: Moved a Base Post at Station [-1,1]
+Move 21 :6:02:14 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 22 :6:02:26 AM
+FoxyProxy: Added a Large Ring at Station [1,1]
+Move 23 :6:02:33 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :6:02:37 AM
+FoxyProxy: Added a Large Ring at Station [1,0]
+Move 25 :6:02:43 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 26 :6:02:48 AM
+FoxyProxy: Added a Large Ring at Station [1,-1]
+Move 27 :6:02:52 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 28 :6:02:57 AM
+FoxyProxy: Added a Medium Ring at Station [1,0]
+Move 29 :6:03:02 AM
+Anchoretta: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 30 :6:03:08 AM
+FoxyProxy: Added a Medium Ring at Station [1,1]
+Move 31 :6:03:14 AM
+Anchoretta: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 32 :6:03:31 AM
+FoxyProxy: Added a Medium Ring at Station [0,1]
+The end of the game: FoxyProxy wins!

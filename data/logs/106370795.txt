@@ -1,0 +1,79 @@
+Move 3 :
+8/11/2020 11:07:45 AM
+Rebere: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 4 :
+11:08:02 AM
+tayutama777: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 5 :
+11:08:31 AM
+Rebere: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 6 :
+11:08:40 AM
+tayutama777: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 7 :
+11:09:16 AM
+Rebere: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 8 :
+11:09:27 AM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 9 :
+11:09:38 AM
+Rebere: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 10 :
+11:09:46 AM
+tayutama777: Moved a Base Post at Station [0,-1]
+Move 11 :
+11:09:57 AM
+Rebere: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 12 :
+11:10:34 AM
+tayutama777: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 13 :
+11:10:47 AM
+Rebere: Added a Medium Ring at Station [0,1]
+Move 14 :
+11:10:57 AM
+tayutama777: Added a Small Ring at Station [1,-1]
+Move 15 :
+11:11:02 AM
+Rebere: Added a Small Ring at Station [0,1]
+Move 16 :
+11:11:24 AM
+tayutama777: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 17 :
+11:11:46 AM
+Rebere: Moved a Base Post at Station [0,1]
+Move 18 :
+11:12:03 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 19 :
+11:12:11 AM
+Rebere: Added a Medium Ring at Station [-1,1]
+Move 20 :
+11:12:22 AM
+tayutama777: Added a Small Ring at Station [-1,0]
+Move 21 :
+11:12:27 AM
+Rebere: Added a Small Ring at Station [-1,1]
+Move 22 :
+11:12:46 AM
+tayutama777: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 23 :
+11:13:18 AM
+Rebere: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 24 :
+11:13:31 AM
+tayutama777: Added a Medium Ring at Station [-1,0]
+Move 25 :
+11:14:15 AM
+Rebere: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 26 :
+11:14:21 AM
+tayutama777: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 27 :
+11:14:29 AM
+Rebere: Added a Medium Ring at Station [1,1]
+Move 28 :
+11:14:34 AM
+tayutama777: Added a Small Ring at Station [-1,-1]
+The end of the game: tayutama777 wins!

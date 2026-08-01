@@ -1,0 +1,80 @@
+Move 1 :
+8/23/2020 5:06:26 AM
+The colors of Ed R have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+5:07:16 AM
+Ed R: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+5:07:34 AM
+Tomato93: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+5:07:43 AM
+Ed R: Added a Small Ring at Station [0,1]
+Move 5 :
+5:07:53 AM
+Tomato93: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+5:07:59 AM
+Ed R: Added a Medium Ring at Station [0,1]
+Move 7 :
+5:08:18 AM
+Tomato93: Added a Small Ring at Station [1,0]
+Move 8 :
+5:08:36 AM
+Ed R: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 9 :
+5:08:45 AM
+Tomato93: Added a Medium Ring at Station [1,0]
+Move 10 :
+5:08:53 AM
+Ed R: Moved a Base Post at Station [0,1]
+Move 11 :
+5:09:19 AM
+Tomato93: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 12 :
+5:09:42 AM
+Ed R: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 13 :
+5:10:12 AM
+Tomato93: Added a Small Ring at Station [1,1]
+Move 14 :
+5:10:35 AM
+Ed R: Added a Medium Ring at Station [-1,1]
+Move 15 :
+5:10:46 AM
+Tomato93: Added a Medium Ring at Station [1,1]
+Move 16 :
+5:10:54 AM
+Ed R: Added a Small Ring at Station [-1,1]
+Move 17 :
+5:11:00 AM
+Tomato93: Moved a Base Post at Station [1,0]
+Move 18 :
+5:11:53 AM
+Ed R: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 19 :
+5:12:04 AM
+Tomato93: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 20 :
+5:12:48 AM
+Ed R: Moved a Base Post at Station [-1,1]
+Move 21 :
+5:13:18 AM
+Tomato93: Added a Small Ring at Station [1,-1]
+Move 22 :
+5:13:28 AM
+Ed R: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 23 :
+5:13:52 AM
+Tomato93: Removed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 24 :
+5:14:06 AM
+Ed R: Added a Small Ring at Station [-1,0]
+Move 25 :
+5:15:01 AM
+Tomato93: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 26 :
+5:15:10 AM
+Ed R: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: Ed R wins!

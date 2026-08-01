@@ -1,0 +1,91 @@
+Move 1 :
+8/11/2020 1:59:35 PM
+The colors of Maverick068 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+2:01:00 PM
+Maverick068: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+2:02:08 PM
+ZeUnden: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 4 :
+2:03:33 PM
+Maverick068: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 5 :
+2:05:06 PM
+ZeUnden: Moved a Blocker at Station [1,1] => [0,1] Position:Right
+Move 6 :
+2:05:18 PM
+Maverick068: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 7 :
+2:05:33 PM
+ZeUnden: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 8 :
+2:05:44 PM
+Maverick068: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 9 :
+2:06:02 PM
+ZeUnden: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 10 :
+2:06:11 PM
+Maverick068: Added a Small Ring at Station [-1,0]
+Move 11 :
+2:07:11 PM
+ZeUnden: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 12 :
+2:08:15 PM
+Maverick068: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 13 :
+2:09:01 PM
+ZeUnden: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 14 :
+2:09:18 PM
+Maverick068: Added a Small Ring at Station [-1,-1]
+Move 15 :
+2:09:51 PM
+ZeUnden: Added a White Bridge at Station [0,0] => [-1,0] Position:Left
+Move 16 :
+2:10:08 PM
+Maverick068: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 17 :
+2:13:03 PM
+ZeUnden: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 18 :
+2:13:20 PM
+Maverick068: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 19 :
+2:13:40 PM
+ZeUnden: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 20 :
+2:14:08 PM
+Maverick068: Added a Small Ring at Station [0,-1]
+Move 21 :
+2:14:16 PM
+ZeUnden: Added a Small Ring at Station [1,0]
+Move 22 :
+2:14:48 PM
+Maverick068: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 23 :
+2:15:21 PM
+ZeUnden: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 24 :
+2:16:32 PM
+Maverick068: Added a Large Ring at Station [-1,0]
+Move 25 :
+2:17:34 PM
+ZeUnden: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 26 :
+2:18:12 PM
+Maverick068: Added a Medium Ring at Station [-1,-1]
+Move 27 :
+2:18:25 PM
+ZeUnden: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 28 :
+2:18:34 PM
+Maverick068: Added a Medium Ring at Station [0,-1]
+Move 29 :
+2:18:51 PM
+ZeUnden: Added a Medium Ring at Station [1,0]
+Move 30 :
+2:18:59 PM
+Maverick068: Added a Medium Ring at Station [-1,0]
+The end of the game: Maverick068 wins!

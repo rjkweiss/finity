@@ -1,0 +1,109 @@
+Move 1 :
+8/24/2020 9:02:14 AM
+The colors of Lumimun have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:43:46 AM
+szunyi: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+11:39:40 AM
+Lumimun: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+11:47:31 AM
+szunyi: Added a Small Ring at Station [0,1]
+Move 5 :
+4:50:08 PM
+Lumimun: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+szunyi has to remove 1 orphaned rings
+Move 6 :
+8/25/2020 12:27:08 AM
+szunyi: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :
+12:28:34 AM
+Lumimun: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :
+1:27:42 AM
+szunyi: Added a Small Ring at Station [0,1]
+Move 9 :
+1:55:08 AM
+Lumimun: Added a Small Ring at Station [1,0]
+Move 10 :
+1:56:02 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 11 :
+1:56:30 AM
+Lumimun: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 12 :
+1:57:30 AM
+szunyi: Added a Medium Ring at Station [1,0]
+Move 13 :
+1:58:04 AM
+Lumimun: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Right
+szunyi has to remove 1 orphaned rings
+Move 14 :
+4:04:54 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 15 :
+4:05:28 AM
+Lumimun: Added a Medium Ring at Station [1,0]
+Move 16 :
+4:06:32 AM
+szunyi: Added a Large Ring at Station [1,0]
+Move 17 :
+4:06:44 AM
+Lumimun: Added a Medium Ring at Station [0,1]
+Move 18 :
+4:08:41 AM
+szunyi: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 19 :
+4:08:59 AM
+Lumimun: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 20 :
+4:13:05 AM
+szunyi: Added a Small Ring at Station [1,-1]
+Move 21 :
+4:13:56 AM
+Lumimun: Moved a Base Post at Station [0,1]
+Move 22 :
+4:19:23 AM
+szunyi: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 23 :
+4:20:01 AM
+Lumimun: Added a Medium Ring at Station [1,-1]
+Move 24 :
+4:39:35 AM
+szunyi: Added a Small Ring at Station [1,1]
+Move 25 :
+4:40:22 AM
+Lumimun: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+szunyi has to remove 4 orphaned rings
+Move 26 :
+4:47:08 AM
+szunyi: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 27 :
+4:49:52 AM
+Lumimun: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 28 :
+4:52:32 AM
+szunyi: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 29 :
+4:53:12 AM
+Lumimun: Added a Small Ring at Station [-1,1]
+Move 30 :
+4:53:20 AM
+szunyi: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 31 :
+4:53:33 AM
+Lumimun: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 32 :
+4:53:44 AM
+szunyi: Added a Small Ring at Station [-1,0]
+Move 33 :
+4:53:54 AM
+Lumimun: Added a Medium Ring at Station [-1,0]
+Move 34 :
+4:54:08 AM
+szunyi: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 35 :
+4:54:14 AM
+Lumimun: Added a Small Ring at Station [0,-1]
+The end of the game: Lumimun wins!

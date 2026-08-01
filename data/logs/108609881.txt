@@ -1,0 +1,232 @@
+Move 1 :
+8/24/2020 9:02:18 AM
+The colors of Tintoretto have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:16:03 AM
+Bandus: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+8/26/2020 12:33:23 AM
+Tintoretto: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+12:48:09 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :
+1:52:25 AM
+Tintoretto: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+4:39:29 AM
+Bandus: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 7 :
+11:38:00 AM
+Tintoretto: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 8 :
+12:10:06 PM
+Bandus: Added a Small Ring at Station [-1,0]
+Move 9 :
+12:38:44 PM
+Tintoretto: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 10 :
+12:42:15 PM
+Bandus: Added a Medium Ring at Station [-1,0]
+Move 11 :
+12:46:03 PM
+Tintoretto: Added a Small Ring at Station [1,0]
+Move 12 :
+12:47:44 PM
+Bandus: Added a Large Ring at Station [-1,0]
+Move 13 :
+1:01:39 PM
+Tintoretto: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 14 :
+1:09:02 PM
+Bandus: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 15 :
+1:26:35 PM
+Tintoretto: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :
+10:10:57 PM
+Bandus: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 17 :
+11:24:01 PM
+Tintoretto: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :
+8/27/2020 2:01:50 AM
+Bandus: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 19 :
+9:39:56 AM
+Tintoretto: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 20 :
+8/28/2020 5:26:50 AM
+Bandus: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 21 :
+7:06:27 AM
+Tintoretto: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 22 :
+12:58:55 PM
+Bandus: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 23 :
+10:26:41 PM
+Tintoretto: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 24 :
+10:49:03 PM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 25 :
+8/29/2020 12:01:16 PM
+Tintoretto: Added a Large Ring at Station [1,0]
+Move 26 :
+8/30/2020 2:10:40 AM
+Bandus: Added a Small Ring at Station [-1,-1]
+Move 27 :
+2:58:47 AM
+Tintoretto: Added a Small Ring at Station [1,1]
+Move 28 :
+3:21:44 AM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 29 :
+4:05:32 AM
+Tintoretto: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 30 :
+11:48:30 AM
+Bandus: Added a Small Ring at Station [0,-1]
+Move 31 :
+1:04:36 PM
+Tintoretto: Added a Medium Ring at Station [0,-1]
+Move 32 :
+8/31/2020 12:07:41 AM
+Bandus: Added a Large Ring at Station [-1,-1]
+Move 33 :
+4:33:46 AM
+Tintoretto: Added a Small Ring at Station [0,1]
+Move 34 :
+8:34:19 AM
+Bandus: Added a Large Ring at Station [0,-1]
+Move 35 :
+10:44:01 AM
+Tintoretto: Moved a Base Post at Station [-1,-1]
+Tintoretto has to remove 4 orphaned rings
+Move 36 :
+12:42:39 PM
+Bandus: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 37 :
+1:09:53 PM
+Tintoretto: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 38 :
+9/1/2020 1:58:44 AM
+Bandus: Added a Small Ring at Station [1,-1]
+Move 39 :
+4:58:50 AM
+Tintoretto: Added a Large Ring at Station [1,-1]
+Move 40 :
+5:08:34 AM
+Bandus: Added a Medium Ring at Station [1,-1]
+Move 41 :
+5:09:08 AM
+Tintoretto: Added a Medium Ring at Station [1,0]
+Move 42 :
+5:11:10 AM
+Bandus: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 43 :
+5:13:11 AM
+Tintoretto: Added a Small Ring at Station [0,1]
+Move 44 :
+5:29:24 AM
+Bandus: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 45 :
+6:58:34 AM
+Tintoretto: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Tintoretto has to remove 1 orphaned rings
+Move 46 :
+11:15:25 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 47 :
+2:55:30 PM
+Tintoretto: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Bandus has to remove 7 orphaned rings
+Move 48 :
+10:55:04 PM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 49 :
+9/2/2020 12:17:17 AM
+Tintoretto: Removed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 50 :
+1:49:52 AM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 51 :
+2:31:16 AM
+Tintoretto: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Bandus has to remove 1 orphaned rings
+Move 52 :
+4:24:10 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 53 :
+4:25:55 AM
+Tintoretto: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 54 :
+4:26:13 AM
+Bandus: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 55 :
+4:26:41 AM
+Tintoretto: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 56 :
+4:29:22 AM
+Bandus: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 57 :
+4:30:19 AM
+Tintoretto: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 58 :
+4:30:49 AM
+Bandus: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Tintoretto has to remove 1 orphaned rings
+Move 59 :
+4:31:05 AM
+Tintoretto: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 60 :
+4:31:24 AM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 61 :
+4:31:43 AM
+Tintoretto: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Bandus has to remove 1 orphaned rings
+Move 62 :
+6:22:08 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 63 :
+6:28:59 AM
+Tintoretto: Added a Medium Ring at Station [1,0]
+Move 64 :
+8:08:52 PM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 65 :
+10:26:17 PM
+Tintoretto: Removed a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 66 :
+9/3/2020 12:21:15 AM
+Bandus: Added a Large Ring at Station [-1,-1]
+Move 67 :
+1:07:53 AM
+Tintoretto: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 68 :
+4:12:47 AM
+Bandus: Added a Small Ring at Station [-1,-1]
+Move 69 :
+4:14:09 AM
+Tintoretto: Added a Medium Ring at Station [1,-1]
+Move 70 :
+4:14:57 AM
+Bandus: Added a Small Ring at Station [0,-1]
+Move 71 :
+4:15:29 AM
+Tintoretto: Added a Large Ring at Station [1,0]
+Move 72 :
+4:16:33 AM
+Bandus: Added a Black Bridge at Station [0,0] => [-1,0] Position:Left
+Move 73 :
+4:17:27 AM
+Tintoretto: Added a Large Ring at Station [0,-1]
+Move 74 :
+4:18:19 AM
+Bandus: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 75 :
+4:18:54 AM
+Tintoretto: Added a Small Ring at Station [1,-1]
+The end of the game: Tintoretto wins!

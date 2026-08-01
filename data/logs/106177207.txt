@@ -1,0 +1,168 @@
+Move 1 :
+8/10/2020 8:02:44 AM
+The colors of ace39 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8:03:01 AM
+Irynaa: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+8:03:32 AM
+ace39: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+8:03:43 AM
+Irynaa: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+8:03:55 AM
+ace39: Added a Small Ring at Station [1,0]
+Move 6 :
+8:04:02 AM
+Irynaa: Added a Small Ring at Station [-1,0]
+Move 7 :
+8:04:38 AM
+ace39: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+8:04:47 AM
+Irynaa: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 9 :
+8:05:02 AM
+ace39: Added a Small Ring at Station [1,1]
+Move 10 :
+8:05:17 AM
+Irynaa: Added a Small Ring at Station [-1,-1]
+Move 11 :
+8:05:27 AM
+ace39: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 12 :
+8:05:40 AM
+Irynaa: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 13 :
+8:06:01 AM
+ace39: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 14 :
+8:07:03 AM
+Irynaa: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 15 :
+8:07:19 AM
+ace39: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+8:09:06 AM
+Irynaa: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 17 :
+8:09:55 AM
+ace39: Moved a Base Post at Station [1,0]
+Move 18 :
+8:10:41 AM
+Irynaa: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 19 :
+8:11:03 AM
+ace39: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 20 :
+8:14:03 AM
+Irynaa: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 21 :
+8:14:14 AM
+ace39: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+8:14:29 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 23 :
+8:14:46 AM
+ace39: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 24 :
+8:15:07 AM
+Irynaa: Added a Small Ring at Station [1,-1]
+Move 25 :
+8:15:17 AM
+ace39: Added a Medium Ring at Station [0,1]
+Move 26 :
+8:15:53 AM
+Irynaa: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 27 :
+8:16:26 AM
+ace39: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 28 :
+8:16:34 AM
+Irynaa: Added a Large Ring at Station [1,0]
+Move 29 :
+8:17:00 AM
+ace39: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 30 :
+8:18:55 AM
+Irynaa: Moved a Base Post at Station [1,-1]
+Move 31 :
+8:19:07 AM
+ace39: Added a Small Ring at Station [-1,1]
+Move 32 :
+8:19:50 AM
+Irynaa: Added a Medium Ring at Station [1,0]
+Move 33 :
+8:20:28 AM
+ace39: Removed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Irynaa has to remove 5 orphaned rings
+Move 34 :
+8:23:49 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 35 :
+8:24:04 AM
+ace39: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 36 :
+8:25:12 AM
+Irynaa: Added a Medium Ring at Station [1,0]
+Move 37 :
+8:25:19 AM
+ace39: Added a Small Ring at Station [-1,0]
+Move 38 :
+8:28:49 AM
+Irynaa: Added a Medium Ring at Station [1,1]
+Move 39 :
+8:28:55 AM
+ace39: Added a Medium Ring at Station [-1,-1]
+Move 40 :
+8:31:26 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 41 :
+8:31:51 AM
+ace39: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 42 :
+8:34:17 AM
+Irynaa: Added a Large Ring at Station [1,0]
+Move 43 :
+8:34:26 AM
+ace39: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 44 :
+8:35:07 AM
+Irynaa: Added a Small Ring at Station [0,1]
+Move 45 :
+8:37:59 AM
+ace39: Added a Small Ring at Station [-1,-1]
+Move 46 :
+8:39:22 AM
+Irynaa: Added a Medium Ring at Station [-1,0]
+Move 47 :
+8:39:29 AM
+ace39: Removed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Irynaa has to remove 6 orphaned rings
+Move 48 :
+8:42:27 AM
+Irynaa: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 49 :
+8:43:14 AM
+ace39: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 50 :
+8:49:13 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 51 :
+8:49:29 AM
+ace39: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 52 :
+8:50:28 AM
+Irynaa: Added a Large Ring at Station [-1,-1]
+Move 53 :
+8:50:34 AM
+ace39: Added a Medium Ring at Station [1,-1]
+Move 54 :
+8:51:20 AM
+Irynaa: Added a Medium Ring at Station [-1,0]
+Move 55 :
+8:51:25 AM
+ace39: Added a Medium Ring at Station [0,-1]
+The end of the game: ace39 wins!

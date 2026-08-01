@@ -1,0 +1,407 @@
+Move 3 :
+9/5/2020 6:00:58 AM
+magro_sanzui: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 4 :
+6:01:56 AM
+ssaw: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 5 :
+6:04:09 AM
+MorisP: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 6 :
+6:04:54 AM
+mamiotsu0203: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 7 :
+6:05:25 AM
+magro_sanzui: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 8 :
+6:06:27 AM
+ssaw: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 9 :
+6:08:13 AM
+MorisP: Added a White Bridge at Station [0,1] => [-1,2] Position:Left
+Move 10 :
+6:10:06 AM
+mamiotsu0203: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 11 :
+6:10:20 AM
+magro_sanzui: Added a Small Ring at Station [-1,1]
+Move 12 :
+6:11:10 AM
+ssaw: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 13 :
+6:11:40 AM
+MorisP: Added a Small Ring at Station [-1,2]
+Move 14 :
+6:12:46 AM
+mamiotsu0203: Added a Small Ring at Station [1,1]
+Move 15 :
+6:13:08 AM
+magro_sanzui: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 16 :
+6:14:29 AM
+ssaw: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 17 :
+6:15:54 AM
+MorisP: Added a Black Bridge at Station [-1,2] => [-1,1] Position:Right
+Move 18 :
+6:16:26 AM
+mamiotsu0203: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 19 :
+6:16:40 AM
+magro_sanzui: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 20 :
+6:16:47 AM
+ssaw: Added a Small Ring at Station [1,-2]
+Move 21 :
+6:16:56 AM
+MorisP: Added a Medium Ring at Station [-1,1]
+Move 22 :
+6:17:23 AM
+mamiotsu0203: Added a Small Ring at Station [0,1]
+Move 23 :
+6:17:38 AM
+magro_sanzui: Added a Medium Ring at Station [0,1]
+Move 24 :
+6:17:51 AM
+ssaw: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+ssaw has to remove 1 orphaned rings
+Move 25 :
+6:18:45 AM
+MorisP: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+mamiotsu0203 has to remove 2 orphaned rings
+Move 26 :
+6:20:53 AM
+mamiotsu0203: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 27 :
+6:21:15 AM
+magro_sanzui: Added a Large Ring at Station [-1,1]
+Move 28 :
+6:21:24 AM
+ssaw: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 29 :
+6:21:39 AM
+MorisP: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+magro_sanzui has to remove 3 orphaned rings
+Move 30 :
+6:21:55 AM
+mamiotsu0203: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 31 :
+6:22:27 AM
+magro_sanzui: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 32 :
+6:22:33 AM
+ssaw: Added a Small Ring at Station [-1,0]
+Move 33 :
+6:22:42 AM
+MorisP: Added a Black Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 34 :
+6:22:55 AM
+mamiotsu0203: Added a Small Ring at Station [1,1]
+Move 35 :
+6:23:20 AM
+magro_sanzui: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 36 :
+6:23:48 AM
+ssaw: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 37 :
+6:24:22 AM
+MorisP: Added a White Bridge at Station [-1,2] => [-1,1] Position:Middle
+Move 38 :
+6:27:28 AM
+mamiotsu0203: Added a Medium Ring at Station [0,1]
+Move 39 :
+6:28:06 AM
+magro_sanzui: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 40 :
+6:28:55 AM
+ssaw: Added a White Bridge at Station [-2,1] => [-1,1] Position:Right
+Move 41 :
+6:29:52 AM
+MorisP: Added a Large Ring at Station [-1,1]
+Move 42 :
+6:30:13 AM
+mamiotsu0203: Added a Medium Ring at Station [-1,2]
+Move 43 :
+6:31:59 AM
+magro_sanzui: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 44 :
+6:32:27 AM
+ssaw: Added a Small Ring at Station [-2,1]
+Move 45 :
+6:32:36 AM
+MorisP: Added a Small Ring at Station [-1,1]
+Move 46 :
+6:32:46 AM
+mamiotsu0203: Added a Large Ring at Station [-1,2]
+Move 47 :
+6:33:32 AM
+magro_sanzui: Added a Medium Ring at Station [-2,1]
+Move 48 :
+6:34:33 AM
+ssaw: Reversed a Black Bridge at Station [-1,2] => [-1,1] Position:Right
+MorisP has to remove 3 orphaned rings
+Move 49 :
+6:36:14 AM
+MorisP: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 50 :
+6:38:20 AM
+mamiotsu0203: Added a Large Ring at Station [0,1]
+Move 51 :
+6:38:40 AM
+magro_sanzui: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 52 :
+6:39:32 AM
+ssaw: Moved a Base Post at Station [-2,1]
+ssaw has to remove 1 orphaned rings
+Move 53 :
+6:41:31 AM
+MorisP: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+mamiotsu0203 has to remove 4 orphaned rings
+Move 54 :
+6:41:51 AM
+mamiotsu0203: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 55 :
+6:42:03 AM
+magro_sanzui: Added a Small Ring at Station [-1,1]
+Move 56 :
+6:43:44 AM
+ssaw: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 57 :
+6:44:51 AM
+MorisP: Added a Medium Ring at Station [1,0]
+Move 58 :
+6:46:48 AM
+mamiotsu0203: Added a Medium Ring at Station [1,1]
+Move 59 :
+6:47:31 AM
+magro_sanzui: Added a Large Ring at Station [-2,1]
+Move 60 :
+6:47:46 AM
+ssaw: Added a White Bridge at Station [-1,2] => [0,1] Position:Left
+Move 61 :
+6:48:27 AM
+MorisP: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 62 :
+6:48:57 AM
+mamiotsu0203: Added a Small Ring at Station [0,1]
+Move 63 :
+6:49:16 AM
+magro_sanzui: Added a Medium Ring at Station [-1,1]
+Move 64 :
+6:49:30 AM
+ssaw: Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 65 :
+6:50:27 AM
+MorisP: Reversed a Black Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 66 :
+6:50:59 AM
+mamiotsu0203: Added a Medium Ring at Station [0,1]
+Move 67 :
+6:51:14 AM
+magro_sanzui: Added a Large Ring at Station [0,1]
+Move 68 :
+6:51:25 AM
+ssaw: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 69 :
+6:52:00 AM
+MorisP: Moved a Base Post at Station [-1,2]
+MorisP has to remove 1 orphaned rings
+Move 70 :
+6:53:46 AM
+mamiotsu0203: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 71 :
+6:54:07 AM
+magro_sanzui: Added a Large Ring at Station [-1,1]
+Move 72 :
+6:56:10 AM
+ssaw: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 73 :
+6:56:18 AM
+MorisP: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+magro_sanzui has to remove 6 orphaned rings
+Move 74 :
+7:00:02 AM
+mamiotsu0203: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 75 :
+7:00:37 AM
+magro_sanzui: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 76 :
+7:01:02 AM
+ssaw: Added a Small Ring at Station [-1,0]
+Move 77 :
+7:01:21 AM
+MorisP: Added a Large Ring at Station [0,1]
+Move 78 :
+7:02:33 AM
+mamiotsu0203: Added a Large Ring at Station [1,1]
+Move 79 :
+7:02:53 AM
+magro_sanzui: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 80 :
+7:02:59 AM
+ssaw: Added a Small Ring at Station [-1,1]
+Move 81 :
+7:03:21 AM
+MorisP: Added a Medium Ring at Station [-1,1]
+Move 82 :
+7:06:09 AM
+mamiotsu0203: Moved a Base Post at Station [1,1]
+mamiotsu0203 has to remove 2 orphaned rings
+Move 83 :
+7:06:25 AM
+magro_sanzui: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 84 :
+7:06:43 AM
+ssaw: Added a Small Ring at Station [0,1]
+Move 85 :
+7:06:59 AM
+MorisP: Added a Large Ring at Station [-1,1]
+Move 86 :
+7:07:08 AM
+mamiotsu0203: Added a Medium Ring at Station [1,0]
+Move 87 :
+7:07:44 AM
+magro_sanzui: Added a Small Ring at Station [0,-1]
+Move 88 :
+7:07:50 AM
+ssaw: Added a Small Ring at Station [1,0]
+Move 89 :
+7:07:58 AM
+MorisP: Added a Large Ring at Station [1,0]
+Move 90 :
+7:11:36 AM
+mamiotsu0203: Moved a Base Post at Station [1,0]
+Move 91 :
+7:12:05 AM
+magro_sanzui: Added a Small Ring at Station [-1,-1]
+Move 92 :
+7:12:11 AM
+ssaw: Added a Medium Ring at Station [-1,2]
+Move 93 :
+7:12:42 AM
+MorisP: Added a Medium Ring at Station [-2,1]
+Move 94 :
+7:13:27 AM
+mamiotsu0203: Added a Medium Ring at Station [0,1]
+Move 95 :
+7:13:50 AM
+magro_sanzui: Added a Medium Ring at Station [0,-1]
+Move 96 :
+7:13:59 AM
+ssaw: Added a Small Ring at Station [1,-1]
+Move 97 :
+7:14:04 AM
+MorisP: Added a Large Ring at Station [-2,1]
+Move 98 :
+7:14:25 AM
+mamiotsu0203: Removed a White Bridge at Station [0,1] => [1,0] Position:Middle
+ssaw has to remove 2 orphaned rings
+MorisP has to remove 1 orphaned rings
+Move 99 :
+7:14:54 AM
+magro_sanzui: Added a Large Ring at Station [0,-1]
+Move 100 :
+7:15:06 AM
+ssaw: Removed a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 101 :
+7:16:19 AM
+MorisP: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 102 :
+7:16:53 AM
+mamiotsu0203: Moved a Base Post at Station [1,1]
+mamiotsu0203 has to remove 1 orphaned rings
+Move 103 :
+7:17:05 AM
+magro_sanzui: Moved a Base Post at Station [0,-1]
+magro_sanzui has to remove 1 orphaned rings
+Move 104 :
+7:17:13 AM
+ssaw: Added a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 105 :
+7:18:11 AM
+MorisP: Added a Small Ring at Station [1,0]
+Move 106 :
+7:18:24 AM
+mamiotsu0203: Added a Large Ring at Station [1,0]
+Move 107 :
+7:18:36 AM
+magro_sanzui: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 108 :
+7:19:05 AM
+ssaw: Moved a Base Post at Station [-1,0]
+ssaw has to remove 2 orphaned rings
+Move 109 :
+7:19:50 AM
+MorisP: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 110 :
+7:20:08 AM
+mamiotsu0203: Moved a Base Post at Station [1,0]
+Move 111 :
+7:20:16 AM
+magro_sanzui: Added a Medium Ring at Station [-1,0]
+Move 112 :
+7:20:40 AM
+ssaw: Moved a Blocker at Station [1,-2] => [1,-1] Position:Right
+Move 113 :
+7:20:47 AM
+MorisP: Added a Large Ring at Station [-1,0]
+Move 114 :
+7:20:56 AM
+mamiotsu0203: Added a Small Ring at Station [1,-1]
+Move 115 :
+7:21:31 AM
+magro_sanzui: Reversed a White Bridge at Station [-1,2] => [-1,1] Position:Middle
+MorisP has to remove 5 orphaned rings
+Move 116 :
+7:21:40 AM
+ssaw: Removed a Blocker at Station [1,0] => [0,0] Position:Left
+Move 117 :
+7:21:51 AM
+MorisP: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 118 :
+7:22:00 AM
+mamiotsu0203: Added a Medium Ring at Station [1,-1]
+Move 119 :
+7:22:10 AM
+magro_sanzui: Added a Large Ring at Station [-1,0]
+Move 120 :
+7:22:19 AM
+ssaw: Removed a Blocker at Station [-1,0] => [0,0] Position:Right
+Move 121 :
+7:22:26 AM
+MorisP: Added a Large Ring at Station [1,-1]
+Move 122 :
+7:23:03 AM
+mamiotsu0203: Added a Black Bridge at Station [1,-1] => [2,-1] Position:Left
+Move 123 :
+7:23:24 AM
+magro_sanzui: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 124 :
+7:23:46 AM
+ssaw: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 125 :
+7:24:18 AM
+MorisP: Added a Small Ring at Station [2,-1]
+Move 126 :
+7:24:30 AM
+mamiotsu0203: Added a Medium Ring at Station [2,-1]
+Move 127 :
+7:25:47 AM
+magro_sanzui: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 128 :
+7:26:01 AM
+ssaw: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 129 :
+7:27:49 AM
+MorisP: Added a Small Ring at Station [0,1]
+Move 130 :
+7:28:02 AM
+mamiotsu0203: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+MorisP has to remove 3 orphaned rings
+Move 131 :
+7:28:18 AM
+magro_sanzui: Added a Small Ring at Station [-1,-1]
+Move 132 :
+7:28:25 AM
+ssaw: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+The end of the game: mamiotsu0203 wins!

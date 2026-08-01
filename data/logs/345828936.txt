@@ -1,0 +1,61 @@
+Game log
+Move 2 :2/12/2023 1:58:48 AM
+Snowrider: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 3 :3:01:25 AM
+Cepreu82: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :3:02:46 AM
+Snowrider: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 5 :3:37:08 AM
+Cepreu82: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 6 :3:41:53 AM
+Snowrider: Added a Medium Ring at Station [-1,0]
+Move 7 :3:57:47 AM
+Cepreu82: Added a Small Ring at Station [1,0]
+Move 8 :3:59:20 AM
+Snowrider: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 9 :4:16:31 AM
+Cepreu82: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 10 :4:28:31 AM
+Snowrider: Added a Small Ring at Station [-1,0]
+Move 11 :5:29:18 AM
+Cepreu82: Added a Small Ring at Station [0,1]
+Move 12 :5:49:33 AM
+Snowrider: Added a Medium Ring at Station [0,-1]
+Move 13 :5:55:01 AM
+Cepreu82: Added a Medium Ring at Station [-1,1]
+Move 14 :7:01:53 AM
+Snowrider: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 15 :8:01:00 AM
+Cepreu82: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 16 :8:35:37 AM
+Snowrider: Added a Medium Ring at Station [1,-1]
+Move 17 :8:44:54 AM
+Cepreu82: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 18 :8:45:46 AM
+Snowrider: Added a Medium Ring at Station [1,0]
+Move 19 :8:46:04 AM
+Cepreu82: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :8:46:52 AM
+Snowrider: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 21 :8:53:48 AM
+Cepreu82: Moved a Base Post at Station [1,0]
+Cepreu82 has to remove 2 orphaned rings
+Move 22 :8:57:40 AM
+Snowrider: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 23 :9:00:20 AM
+Cepreu82: Added a Small Ring at Station [1,-1]
+Move 24 :9:03:58 AM
+Snowrider: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 25 :9:07:36 AM
+Cepreu82: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 26 :9:08:48 AM
+Snowrider: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 27 :9:18:16 AM
+Cepreu82: Added a Small Ring at Station [0,1]
+Move 28 :9:19:44 AM
+Snowrider: Added a Medium Ring at Station [0,1]
+Move 29 :9:20:11 AM
+Cepreu82: Added a Small Ring at Station [-1,1]
+Move 30 :9:22:09 AM
+Snowrider: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: Snowrider wins!

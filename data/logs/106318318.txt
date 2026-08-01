@@ -1,0 +1,228 @@
+Move 1 :
+8/11/2020 4:42:12 AM
+The colors of thepengineer, kristiah have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:44:48 AM
+thepengineer: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 3 :
+4:46:54 AM
+thomaspr: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 4 :
+4:47:35 AM
+alice2: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+4:48:13 AM
+kristiah: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+4:48:24 AM
+thepengineer: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 7 :
+4:50:39 AM
+thomaspr: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 8 :
+4:51:24 AM
+alice2: Added a Black Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 9 :
+4:51:42 AM
+kristiah: Added a White Bridge at Station [1,-1] => [2,-1] Position:Right
+Move 10 :
+4:51:54 AM
+thepengineer: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 11 :
+4:53:43 AM
+thomaspr: Added a White Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 12 :
+4:54:00 AM
+alice2: Added a White Bridge at Station [-1,2] => [-1,1] Position:Middle
+Move 13 :
+4:54:56 AM
+kristiah: Added a Medium Ring at Station [1,-1]
+Move 14 :
+4:55:53 AM
+thepengineer: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 15 :
+4:56:27 AM
+thomaspr: Added a Small Ring at Station [1,-2]
+Move 16 :
+4:56:54 AM
+alice2: Added a Small Ring at Station [-1,2]
+Move 17 :
+4:57:12 AM
+kristiah: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 18 :
+4:57:22 AM
+thepengineer: Added a Small Ring at Station [0,-1]
+Move 19 :
+4:57:49 AM
+thomaspr: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+thepengineer has to remove 1 orphaned rings
+Move 20 :
+4:58:03 AM
+alice2: Added a Small Ring at Station [-1,1]
+Move 21 :
+4:58:15 AM
+kristiah: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 22 :
+4:59:06 AM
+thepengineer: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 23 :
+4:59:27 AM
+thomaspr: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 24 :
+4:59:36 AM
+alice2: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 25 :
+4:59:49 AM
+kristiah: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 26 :
+4:59:58 AM
+thepengineer: Added a Small Ring at Station [-1,-1]
+Move 27 :
+5:00:44 AM
+thomaspr: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 28 :
+5:00:50 AM
+alice2: Added a Small Ring at Station [-2,1]
+Move 29 :
+5:01:09 AM
+kristiah: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 30 :
+5:01:18 AM
+thepengineer: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 31 :
+5:02:36 AM
+thomaspr: Added a Small Ring at Station [-1,0]
+Move 32 :
+5:02:46 AM
+alice2: Added a Black Bridge at Station [-1,2] => [0,1] Position:Left
+Move 33 :
+5:02:56 AM
+kristiah: Added a Large Ring at Station [2,-1]
+Move 34 :
+5:03:04 AM
+thepengineer: Added a Small Ring at Station [0,-1]
+Move 35 :
+5:03:55 AM
+thomaspr: Moved a Base Post at Station [1,-2]
+thomaspr has to remove 1 orphaned rings
+Move 36 :
+5:04:13 AM
+alice2: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Left
+Move 37 :
+5:04:56 AM
+kristiah: Added a Large Ring at Station [1,-1]
+Move 38 :
+5:05:14 AM
+thepengineer: Added a Medium Ring at Station [1,-2]
+Move 39 :
+5:05:54 AM
+thomaspr: Reversed a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+thepengineer has to remove 1 orphaned rings
+Move 40 :
+5:06:31 AM
+alice2: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 41 :
+5:07:28 AM
+kristiah: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 42 :
+5:07:41 AM
+thepengineer: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 43 :
+5:07:48 AM
+thomaspr: Added a Medium Ring at Station [0,-1]
+Move 44 :
+5:08:02 AM
+alice2: Added a Black Bridge at Station [-1,2] => [-1,1] Position:Left
+Move 45 :
+5:08:58 AM
+kristiah: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 46 :
+5:09:11 AM
+thepengineer: Added a Small Ring at Station [1,-1]
+Move 47 :
+5:09:24 AM
+thomaspr: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 48 :
+5:09:31 AM
+alice2: Added a Medium Ring at Station [-1,2]
+Move 49 :
+5:10:26 AM
+kristiah: Added a Large Ring at Station [0,-1]
+Move 50 :
+5:10:41 AM
+thepengineer: Added a Medium Ring at Station [1,0]
+Move 51 :
+5:11:17 AM
+thomaspr: Moved a Base Post at Station [0,-1]
+Move 52 :
+5:11:26 AM
+alice2: Added a Large Ring at Station [-1,2]
+Move 53 :
+5:12:00 AM
+kristiah: Moved a Base Post at Station [1,-1]
+kristiah has to remove 1 orphaned rings
+Move 54 :
+5:12:19 AM
+thepengineer: Added a Small Ring at Station [0,1]
+Move 55 :
+5:12:35 AM
+thomaspr: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+kristiah has to remove 1 orphaned rings
+Move 56 :
+5:12:52 AM
+alice2: Added a Medium Ring at Station [-1,1]
+Move 57 :
+5:13:14 AM
+kristiah: Added a Small Ring at Station [1,0]
+Move 58 :
+5:13:39 AM
+thepengineer: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 59 :
+5:14:22 AM
+thomaspr: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 60 :
+5:14:30 AM
+alice2: Added a Medium Ring at Station [-2,1]
+Move 61 :
+5:14:58 AM
+kristiah: Moved a Base Post at Station [1,0]
+Move 62 :
+5:15:06 AM
+thepengineer: Added a Large Ring at Station [1,0]
+Move 63 :
+5:15:36 AM
+thomaspr: Added a Small Ring at Station [-1,0]
+Move 64 :
+5:15:45 AM
+alice2: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 65 :
+5:15:53 AM
+kristiah: Added a Medium Ring at Station [2,-1]
+Move 66 :
+5:16:06 AM
+thepengineer: Added a Small Ring at Station [1,1]
+Move 67 :
+5:16:15 AM
+thomaspr: Added a Medium Ring at Station [-1,0]
+Move 68 :
+5:16:30 AM
+alice2: Added a Large Ring at Station [-1,0]
+Move 69 :
+5:17:00 AM
+kristiah: Added a Medium Ring at Station [0,1]
+Move 70 :
+5:17:07 AM
+thepengineer: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 71 :
+5:18:05 AM
+thomaspr: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 72 :
+5:18:29 AM
+alice2: Added a Large Ring at Station [0,-1]
+Move 73 :
+5:18:58 AM
+kristiah: Added a Medium Ring at Station [1,1]
+Move 74 :
+5:19:04 AM
+thepengineer: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+The end of the game: thepengineer wins!

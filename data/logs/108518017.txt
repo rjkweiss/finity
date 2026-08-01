@@ -1,0 +1,164 @@
+Move 2 :
+8/23/2020 7:11:30 PM
+Byerly: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 3 :
+7:13:01 PM
+Bearaena: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 4 :
+7:13:14 PM
+jakesamsonite: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+7:14:01 PM
+Byerly: Reversed a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 6 :
+7:14:25 PM
+Bearaena: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 7 :
+7:14:34 PM
+jakesamsonite: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 8 :
+7:14:49 PM
+Byerly: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 9 :
+7:15:02 PM
+Bearaena: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 10 :
+7:15:14 PM
+jakesamsonite: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 11 :
+7:16:43 PM
+Byerly: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 12 :
+7:16:52 PM
+Bearaena: Added a Large Ring at Station [-2,1]
+Move 13 :
+7:17:02 PM
+jakesamsonite: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 14 :
+7:17:10 PM
+Byerly: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 15 :
+7:18:12 PM
+Bearaena: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 16 :
+7:18:32 PM
+jakesamsonite: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :
+7:18:45 PM
+Byerly: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 18 :
+7:18:53 PM
+Bearaena: Added a Medium Ring at Station [-1,1]
+Move 19 :
+7:19:01 PM
+jakesamsonite: Added a Large Ring at Station [1,1]
+Move 20 :
+7:20:15 PM
+Byerly: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 21 :
+7:20:25 PM
+Bearaena: Added a Small Ring at Station [0,1]
+Move 22 :
+7:20:38 PM
+jakesamsonite: Added a Large Ring at Station [1,0]
+Move 23 :
+7:21:53 PM
+Byerly: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 24 :
+7:22:07 PM
+Bearaena: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 25 :
+7:22:15 PM
+jakesamsonite: Added a Medium Ring at Station [1,1]
+Move 26 :
+7:22:56 PM
+Byerly: Added a Large Ring at Station [1,-2]
+Move 27 :
+7:23:06 PM
+Bearaena: Added a Small Ring at Station [1,1]
+Move 28 :
+7:23:36 PM
+jakesamsonite: Added a Medium Ring at Station [1,0]
+Move 29 :
+7:23:56 PM
+Byerly: Added a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 30 :
+7:24:04 PM
+Bearaena: Added a Small Ring at Station [1,0]
+Move 31 :
+7:24:28 PM
+jakesamsonite: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 32 :
+7:26:29 PM
+Byerly: Added a White Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 33 :
+7:26:41 PM
+Bearaena: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 34 :
+7:27:08 PM
+jakesamsonite: Reversed a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Bearaena has to remove 4 orphaned rings
+Move 35 :
+7:27:23 PM
+Byerly: Added a Large Ring at Station [0,-1]
+Move 36 :
+7:28:24 PM
+Bearaena: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 37 :
+7:28:36 PM
+jakesamsonite: Added a Large Ring at Station [1,-1]
+Move 38 :
+7:28:52 PM
+Byerly: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 39 :
+7:28:58 PM
+Bearaena: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 40 :
+7:30:26 PM
+jakesamsonite: Added a Small Ring at Station [1,0]
+Move 41 :
+7:30:33 PM
+Byerly: Added a Large Ring at Station [-1,0]
+Move 42 :
+7:30:59 PM
+Bearaena: Added a Large Ring at Station [-1,1]
+Move 43 :
+7:31:07 PM
+jakesamsonite: Added a Medium Ring at Station [1,-1]
+Move 44 :
+7:31:44 PM
+Byerly: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 45 :
+7:32:00 PM
+Bearaena: Added a Large Ring at Station [0,1]
+Move 46 :
+7:32:07 PM
+jakesamsonite: Added a Medium Ring at Station [0,-1]
+Move 47 :
+7:32:29 PM
+Byerly: Added a Small Ring at Station [0,-1]
+Move 48 :
+7:32:35 PM
+Bearaena: Added a Small Ring at Station [1,1]
+Move 49 :
+7:32:48 PM
+jakesamsonite: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 50 :
+7:33:04 PM
+Byerly: Added a Medium Ring at Station [-1,0]
+Move 51 :
+7:33:12 PM
+Bearaena: Added a Medium Ring at Station [-1,1]
+Move 52 :
+7:33:38 PM
+jakesamsonite: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 53 :
+7:34:21 PM
+Byerly: Added a Small Ring at Station [-1,0]
+Move 54 :
+7:34:32 PM
+Bearaena: Added a Medium Ring at Station [-2,1]
+Move 55 :
+7:34:56 PM
+jakesamsonite: Added a Medium Ring at Station [1,-2]
+The end of the game: jakesamsonite wins!

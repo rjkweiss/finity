@@ -1,0 +1,111 @@
+Move 1 :
+8/23/2020 4:40:22 AM
+The colors of Ed R have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:41:37 AM
+Tomato93: Added a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 3 :
+4:42:07 AM
+Ed R: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+4:42:26 AM
+Tomato93: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+4:42:49 AM
+Ed R: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+4:43:14 AM
+Tomato93: Added a Small Ring at Station [0,1]
+Move 7 :
+4:43:25 AM
+Ed R: Added a Medium Ring at Station [1,0]
+Move 8 :
+4:43:45 AM
+Tomato93: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 9 :
+4:45:02 AM
+Ed R: Added a Small Ring at Station [1,0]
+Move 10 :
+4:45:51 AM
+Tomato93: Added a Medium Ring at Station [0,1]
+Move 11 :
+4:46:06 AM
+Ed R: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 12 :
+4:46:48 AM
+Tomato93: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 13 :
+4:46:57 AM
+Ed R: Added a Small Ring at Station [1,1]
+Move 14 :
+4:47:03 AM
+Tomato93: Added a Medium Ring at Station [1,1]
+Move 15 :
+4:47:46 AM
+Ed R: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 16 :
+4:48:45 AM
+Tomato93: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+4:49:29 AM
+Ed R: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :
+4:52:25 AM
+Tomato93: Moved a Base Post at Station [1,1]
+Tomato93 has to remove 2 orphaned rings
+Move 19 :
+4:52:47 AM
+Ed R: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 20 :
+4:54:03 AM
+Tomato93: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 21 :
+4:54:12 AM
+Ed R: Added a Small Ring at Station [0,-1]
+Move 22 :
+4:54:56 AM
+Tomato93: Moved a Blocker at Station [0,0] => [0,-1] Position:Right
+Move 23 :
+4:56:26 AM
+Ed R: Moved a Base Post at Station [1,0]
+Ed R has to remove 2 orphaned rings
+Move 24 :
+4:57:38 AM
+Tomato93: Added a Medium Ring at Station [0,1]
+Move 25 :
+4:58:47 AM
+Ed R: Added a Small Ring at Station [1,-1]
+Move 26 :
+4:59:06 AM
+Tomato93: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 27 :
+4:59:32 AM
+Ed R: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 28 :
+4:59:44 AM
+Tomato93: Added a Small Ring at Station [0,1]
+Move 29 :
+4:59:53 AM
+Ed R: Added a Medium Ring at Station [0,-1]
+Move 30 :
+5:00:11 AM
+Tomato93: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 31 :
+5:00:21 AM
+Ed R: Added a Medium Ring at Station [1,-1]
+Move 32 :
+5:01:24 AM
+Tomato93: Added a Small Ring at Station [-1,1]
+Move 33 :
+5:01:37 AM
+Ed R: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 34 :
+5:01:48 AM
+Tomato93: Added a Medium Ring at Station [-1,0]
+Move 35 :
+5:02:04 AM
+Ed R: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 36 :
+5:02:25 AM
+Tomato93: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: Tomato93 wins!

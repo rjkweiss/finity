@@ -1,0 +1,115 @@
+Move 3 :
+9/4/2020 1:53:14 PM
+AwkwardDryad: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 4 :
+1:53:52 PM
+AdventureMarie: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 5 :
+1:54:47 PM
+AwkwardDryad: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+1:55:02 PM
+AdventureMarie: Added a Small Ring at Station [0,-1]
+Move 7 :
+1:55:57 PM
+AwkwardDryad: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 8 :
+1:56:13 PM
+AdventureMarie: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 9 :
+1:56:49 PM
+AwkwardDryad: Added a Small Ring at Station [0,1]
+Move 10 :
+1:57:12 PM
+AdventureMarie: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 11 :
+1:57:46 PM
+AwkwardDryad: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 12 :
+1:58:14 PM
+AdventureMarie: Added a Medium Ring at Station [0,-1]
+Move 13 :
+1:59:02 PM
+AwkwardDryad: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+1:59:51 PM
+AdventureMarie: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 15 :
+2:01:06 PM
+AwkwardDryad: Added a Medium Ring at Station [0,1]
+Move 16 :
+2:01:12 PM
+AdventureMarie: Added a Small Ring at Station [-1,-1]
+Move 17 :
+2:01:31 PM
+AwkwardDryad: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 18 :
+2:01:47 PM
+AdventureMarie: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 19 :
+2:02:11 PM
+AwkwardDryad: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 20 :
+2:02:38 PM
+AdventureMarie: Added a Medium Ring at Station [-1,-1]
+Move 21 :
+2:03:41 PM
+AwkwardDryad: Moved a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 22 :
+2:04:01 PM
+AdventureMarie: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 23 :
+2:05:11 PM
+AwkwardDryad: Reversed a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 24 :
+2:05:25 PM
+AdventureMarie: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 25 :
+2:05:33 PM
+AwkwardDryad: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 26 :
+2:05:51 PM
+AdventureMarie: Added a Large Ring at Station [0,-1]
+Move 27 :
+2:06:08 PM
+AwkwardDryad: Added a Small Ring at Station [1,1]
+Move 28 :
+2:06:37 PM
+AdventureMarie: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 29 :
+2:07:30 PM
+AwkwardDryad: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 30 :
+2:07:39 PM
+AdventureMarie: Added a Small Ring at Station [-1,0]
+Move 31 :
+2:07:54 PM
+AwkwardDryad: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :
+2:08:03 PM
+AdventureMarie: Added a Small Ring at Station [-1,1]
+Move 33 :
+2:08:13 PM
+AwkwardDryad: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 34 :
+2:08:20 PM
+AdventureMarie: Added a Medium Ring at Station [-1,0]
+Move 35 :
+2:09:21 PM
+AwkwardDryad: Added a Large Ring at Station [-1,0]
+Move 36 :
+2:09:30 PM
+AdventureMarie: Added a Large Ring at Station [-1,-1]
+Move 37 :
+2:09:41 PM
+AwkwardDryad: Added a Medium Ring at Station [1,1]
+Move 38 :
+2:09:46 PM
+AdventureMarie: Added a Medium Ring at Station [-1,1]
+Move 39 :
+2:10:30 PM
+AwkwardDryad: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 40 :
+2:10:39 PM
+AdventureMarie: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+The end of the game: AdventureMarie wins!

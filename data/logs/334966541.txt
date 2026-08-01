@@ -1,0 +1,111 @@
+Game log
+Move 2 :1/10/2023 9:39:36 AM
+Snowrider: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 3 :9:39:58 AM
+Léopard: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :9:41:16 AM
+Snowrider: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 5 :9:41:34 AM
+Léopard: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 6 :9:42:13 AM
+Snowrider: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 7 :9:42:23 AM
+Léopard: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 8 :9:42:39 AM
+Snowrider: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 9 :9:42:49 AM
+Léopard: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :9:42:59 AM
+Snowrider: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 11 :9:43:39 AM
+Léopard: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 12 :9:43:50 AM
+Snowrider: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 13 :9:44:03 AM
+Léopard: Added a Small Ring at Station [1,0]
+Move 14 :9:44:12 AM
+Snowrider: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :9:45:31 AM
+Léopard: Moved a Base Post at Station [1,0]
+Move 16 :9:45:44 AM
+Snowrider: Added a Small Ring at Station [-1,0]
+Move 17 :9:46:03 AM
+Léopard: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :9:46:13 AM
+Snowrider: Moved a Base Post at Station [-1,0]
+Move 19 :9:46:24 AM
+Léopard: Added a Medium Ring at Station [1,1]
+Move 20 :9:46:41 AM
+Snowrider: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 21 :9:47:06 AM
+Léopard: Added a Large Ring at Station [1,1]
+Move 22 :9:49:02 AM
+Snowrider: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 23 :9:49:11 AM
+Léopard: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 24 :9:49:27 AM
+Snowrider: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 25 :9:49:37 AM
+Léopard: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 26 :9:50:22 AM
+Snowrider: Moved a Base Post at Station [-1,-1]
+Move 27 :9:50:32 AM
+Léopard: Added a Medium Ring at Station [0,1]
+Move 28 :9:50:40 AM
+Snowrider: Added a Small Ring at Station [-1,1]
+Move 29 :9:52:00 AM
+Léopard: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 30 :9:53:12 AM
+Snowrider: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 31 :9:53:26 AM
+Léopard: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 32 :9:53:34 AM
+Snowrider: Added a Large Ring at Station [0,1]
+Move 33 :9:53:49 AM
+Léopard: Added a Large Ring at Station [-1,1]
+Move 34 :9:54:41 AM
+Snowrider: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 35 :9:55:22 AM
+Léopard: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 36 :9:55:36 AM
+Snowrider: Added a Small Ring at Station [1,1]
+Move 37 :9:56:24 AM
+Léopard: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 38 :9:56:32 AM
+Snowrider: Reversed a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 39 :9:57:19 AM
+Léopard: Added a Medium Ring at Station [-1,0]
+Move 40 :9:57:31 AM
+Snowrider: Added a Medium Ring at Station [1,0]
+Move 41 :9:58:08 AM
+Léopard: Added a Medium Ring at Station [-1,1]
+Move 42 :10:00:53 AM
+Snowrider: Removed a Blocker at Station [1,-1] => [0,0] Position:Right
+Move 43 :10:01:23 AM
+Léopard: Added a Large Ring at Station [-1,0]
+Move 44 :10:01:45 AM
+Snowrider: Added a Small Ring at Station [0,1]
+Move 45 :10:02:26 AM
+Léopard: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 46 :10:02:37 AM
+Snowrider: Added a Large Ring at Station [1,0]
+Move 47 :10:03:21 AM
+Léopard: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Snowrider has to remove 7 orphaned rings
+Move 48 :10:04:17 AM
+Snowrider: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 49 :10:04:26 AM
+Léopard: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 50 :10:05:19 AM
+Snowrider: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 51 :10:06:16 AM
+Léopard: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 52 :10:06:25 AM
+Snowrider: Added a Medium Ring at Station [0,-1]
+Move 53 :10:06:34 AM
+Léopard: Added a Small Ring at Station [-1,-1]
+Move 54 :10:06:48 AM
+Snowrider: Added a Small Ring at Station [-1,0]
+Move 55 :10:07:39 AM
+Léopard: Added a Small Ring at Station [0,1]
+The end of the game: Léopard wins!

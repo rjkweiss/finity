@@ -1,0 +1,138 @@
+Game log
+Move 1 :1/12/2021 7:31:55 AM
+The colors of dandanjudoman, tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :4:27:41 PM
+dandanjudoman: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :1/13/2021 12:59:28 PM
+tony1021: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 4 :1/14/2021 9:27:55 AM
+dandanjudoman: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :10:36:46 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :3:13:01 PM
+dandanjudoman: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :3:21:06 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 8 :3:39:50 PM
+dandanjudoman: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 9 :4:08:20 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :1/15/2021 9:52:36 AM
+dandanjudoman: Added a Small Ring at Station [-1,0]
+Move 11 :9:52:12 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 12 :1/16/2021 5:12:27 AM
+dandanjudoman: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 13 :4:56:32 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 14 :1/17/2021 2:30:40 AM
+dandanjudoman: Added a Medium Ring at Station [0,-1]
+Move 15 :11:45:28 AM
+tony1021: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+dandanjudoman has to remove 1 orphaned rings
+Move 16 :1/19/2021 2:20:20 PM
+dandanjudoman: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 17 :1/20/2021 7:04:28 AM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 18 :2:25:33 PM
+dandanjudoman: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 19 :8:45:41 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+dandanjudoman has to remove 1 orphaned rings
+Move 20 :1/21/2021 10:34:39 AM
+dandanjudoman: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+tony1021 has to remove 1 orphaned rings
+Move 21 :11:00:45 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 22 :1/22/2021 10:27:37 AM
+dandanjudoman: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 23 :8:07:49 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 24 :1/24/2021 4:47:29 AM
+dandanjudoman: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 25 :3:49:09 PM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 26 :1/25/2021 1:29:55 AM
+dandanjudoman: Added a Small Ring at Station [-1,0]
+Move 27 :10:57:31 AM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+dandanjudoman has to remove 1 orphaned rings
+Move 28 :1/27/2021 3:39:33 PM
+dandanjudoman: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 29 :7:44:10 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 30 :1/29/2021 8:06:50 AM
+dandanjudoman: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 31 :9:41:19 AM
+tony1021: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 32 :12:03:20 PM
+dandanjudoman: Removed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 33 :4:01:34 PM
+tony1021: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 34 :7:09:10 PM
+dandanjudoman: Added a Small Ring at Station [0,1]
+Move 35 :1/30/2021 8:53:48 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 36 :10:37:47 AM
+dandanjudoman: Moved a Base Post at Station [0,1]
+Move 37 :2:54:48 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 38 :1/31/2021 5:13:34 AM
+dandanjudoman: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 39 :8:34:16 AM
+tony1021: Moved a Blocker at Station [1,1] => [0,1] Position:Right
+Move 40 :2/1/2021 11:37:16 AM
+dandanjudoman: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 41 :2/2/2021 10:40:53 AM
+tony1021: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 42 :2/4/2021 11:32:16 AM
+dandanjudoman: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 43 :11:34:29 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 44 :2/5/2021 12:26:02 AM
+dandanjudoman: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 45 :6:44:28 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 46 :12:12:50 PM
+dandanjudoman: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 47 :1:46:24 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 48 :1:50:25 PM
+dandanjudoman: Added a Small Ring at Station [1,0]
+Move 49 :2:24:51 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 50 :2/6/2021 5:05:27 PM
+dandanjudoman: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 51 :6:17:37 PM
+tony1021: Removed a Black Bridge at Station [0,1] => [1,0] Position:Right
+dandanjudoman has to remove 1 orphaned rings
+Move 52 :2/8/2021 11:39:04 AM
+dandanjudoman: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 53 :11:42:24 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 54 :2/9/2021 2:58:07 PM
+dandanjudoman: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 55 :8:08:54 PM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 56 :2/10/2021 8:55:16 AM
+dandanjudoman: Removed a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 57 :8:26:41 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 58 :2/13/2021 12:42:16 AM
+dandanjudoman: Removed a Blocker at Station [1,1] => [0,1] Position:Right
+Move 59 :10:23:16 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 60 :2:48:48 PM
+dandanjudoman: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 61 :7:34:43 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 62 :2/14/2021 3:49:18 AM
+dandanjudoman: Added a Small Ring at Station [1,1]
+Move 63 :4:42:33 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 64 :6:42:06 AM
+dandanjudoman: Added a Medium Ring at Station [1,0]
+Move 65 :8:45:27 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+The end of the game: tony1021 wins!

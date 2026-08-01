@@ -1,0 +1,49 @@
+Game log
+Move 1 :1/18/2023 2:23:51 AM
+The colors of Ashen Sugar have been chosen according to their preferences. Change my preferences.
+Move 2 :2:33:01 AM
+Ashen Sugar: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :4:34:15 PM
+flower0414: Added a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 4 :5:16:43 PM
+Ashen Sugar: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :1/21/2023 8:23:14 AM
+flower0414: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 6 :6:14:41 PM
+Ashen Sugar: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 7 :1/23/2023 5:06:15 AM
+flower0414: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 8 :11:51:00 AM
+Ashen Sugar: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 9 :1/24/2023 11:12:13 AM
+flower0414: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 10 :11:47:55 AM
+Ashen Sugar: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 11 :1/25/2023 11:31:22 AM
+flower0414: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 12 :12:13:03 PM
+Ashen Sugar: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 13 :1/27/2023 2:14:46 AM
+flower0414: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 14 :2:20:38 AM
+Ashen Sugar: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 15 :8:58:05 PM
+flower0414: Reversed a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 16 :9:59:02 PM
+Ashen Sugar: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 17 :1/28/2023 8:53:43 AM
+flower0414: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+No rings placed or orphaned. 4 moves until a forced draw
+Move 18 :1:29:51 PM
+Ashen Sugar: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+No rings placed or orphaned. 3 moves until a forced draw
+Move 19 :1/29/2023 10:07:37 PM
+flower0414: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+No rings placed or orphaned. 2 moves until a forced draw
+Move 20 :10:11:52 PM
+Ashen Sugar: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+No rings placed or orphaned. 1 moves until a forced draw
+Move 21 :10:45:20 PM
+flower0414: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+FORCED DRAW. No rings placed or orphaned for the last 10 rounds
+End of game (tie)

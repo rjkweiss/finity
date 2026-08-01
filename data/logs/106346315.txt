@@ -1,0 +1,376 @@
+Move 2 :
+8/11/2020 7:43:58 AM
+83025: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 3 :
+7:45:37 AM
+fumi14: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 4 :
+7:46:40 AM
+83025: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 5 :
+7:47:15 AM
+fumi14: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 6 :
+7:49:59 AM
+83025: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 7 :
+7:50:39 AM
+fumi14: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+7:51:17 AM
+83025: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+7:51:23 AM
+fumi14: Added a Small Ring at Station [1,0]
+Move 10 :
+7:52:05 AM
+83025: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+7:52:38 AM
+fumi14: Moved a Base Post at Station [1,0]
+Move 12 :
+7:52:51 AM
+83025: Added a Small Ring at Station [0,1]
+Move 13 :
+7:53:09 AM
+fumi14: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 14 :
+7:53:48 AM
+83025: Moved a Base Post at Station [0,1]
+Move 15 :
+7:53:57 AM
+fumi14: Added a Large Ring at Station [0,1]
+Move 16 :
+7:54:19 AM
+83025: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 17 :
+7:54:25 AM
+fumi14: Added a Medium Ring at Station [0,1]
+Move 18 :
+7:54:34 AM
+83025: Added a Large Ring at Station [1,1]
+Move 19 :
+7:54:51 AM
+fumi14: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+83025 has to remove 1 orphaned rings
+Move 20 :
+7:55:56 AM
+83025: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 21 :
+7:56:05 AM
+fumi14: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 22 :
+7:56:15 AM
+83025: Added a Large Ring at Station [-1,1]
+Move 23 :
+7:56:21 AM
+fumi14: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 24 :
+7:56:38 AM
+83025: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 25 :
+7:56:45 AM
+fumi14: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 26 :
+7:57:57 AM
+83025: Added a Medium Ring at Station [-1,1]
+Move 27 :
+7:58:02 AM
+fumi14: Added a Small Ring at Station [1,1]
+Move 28 :
+7:58:10 AM
+83025: Added a Small Ring at Station [-1,1]
+Move 29 :
+7:58:15 AM
+fumi14: Added a Medium Ring at Station [1,1]
+Move 30 :
+7:59:22 AM
+83025: Moved a Base Post at Station [-1,1]
+83025 has to remove 1 orphaned rings
+Move 31 :
+7:59:35 AM
+fumi14: Added a Small Ring at Station [0,1]
+Move 32 :
+8:00:25 AM
+83025: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 33 :
+8:00:40 AM
+fumi14: Added a Large Ring at Station [1,1]
+Move 34 :
+8:00:53 AM
+83025: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 35 :
+8:01:20 AM
+fumi14: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 36 :
+8:01:51 AM
+83025: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+fumi14 has to remove 3 orphaned rings
+Move 37 :
+8:02:23 AM
+fumi14: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 38 :
+8:04:10 AM
+83025: Added a Large Ring at Station [0,1]
+Move 39 :
+8:04:25 AM
+fumi14: Added a Medium Ring at Station [0,1]
+Move 40 :
+8:04:33 AM
+83025: Added a Small Ring at Station [0,1]
+Move 41 :
+8:04:46 AM
+fumi14: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+83025 has to remove 2 orphaned rings
+Move 42 :
+8:05:07 AM
+83025: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 43 :
+8:05:39 AM
+fumi14: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 44 :
+8:06:49 AM
+83025: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 45 :
+8:07:00 AM
+fumi14: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 46 :
+8:08:03 AM
+83025: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 47 :
+8:08:11 AM
+fumi14: Added a Small Ring at Station [0,1]
+Move 48 :
+8:08:22 AM
+83025: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 49 :
+8:08:27 AM
+fumi14: Added a Large Ring at Station [0,1]
+Move 50 :
+8:08:56 AM
+83025: Reversed a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 51 :
+8:09:22 AM
+fumi14: Added a Large Ring at Station [1,-1]
+Move 52 :
+8:10:05 AM
+83025: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 53 :
+8:10:30 AM
+fumi14: Added a Medium Ring at Station [1,-1]
+Move 54 :
+8:10:46 AM
+83025: Added a Large Ring at Station [-1,0]
+Move 55 :
+8:10:54 AM
+fumi14: Added a Small Ring at Station [1,-1]
+Move 56 :
+8:11:09 AM
+83025: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 57 :
+8:11:23 AM
+fumi14: Moved a Base Post at Station [1,-1]
+fumi14 has to remove 6 orphaned rings
+Move 58 :
+8:11:50 AM
+83025: Added a Medium Ring at Station [-1,0]
+Move 59 :
+8:11:59 AM
+fumi14: Added a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 60 :
+8:12:18 AM
+83025: Added a Small Ring at Station [-1,0]
+Move 61 :
+8:12:26 AM
+fumi14: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 62 :
+8:13:09 AM
+83025: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 63 :
+8:13:33 AM
+fumi14: Added a Large Ring at Station [1,0]
+Move 64 :
+8:13:52 AM
+83025: Added a Large Ring at Station [0,-1]
+Move 65 :
+8:14:19 AM
+fumi14: Added a Medium Ring at Station [1,0]
+Move 66 :
+8:14:42 AM
+83025: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 67 :
+8:15:00 AM
+fumi14: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 68 :
+8:15:28 AM
+83025: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 69 :
+8:15:34 AM
+fumi14: Added a Large Ring at Station [1,1]
+Move 70 :
+8:16:10 AM
+83025: Added a Large Ring at Station [-1,-1]
+Move 71 :
+8:16:16 AM
+fumi14: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 72 :
+8:17:00 AM
+83025: Added a Medium Ring at Station [0,-1]
+Move 73 :
+8:17:08 AM
+fumi14: Added a Large Ring at Station [0,1]
+Move 74 :
+8:17:29 AM
+83025: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 75 :
+8:17:36 AM
+fumi14: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+83025 has to remove 3 orphaned rings
+Move 76 :
+8:23:38 AM
+83025: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 77 :
+8:23:48 AM
+fumi14: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 78 :
+8:23:53 AM
+83025: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 79 :
+8:24:08 AM
+fumi14: Added a Large Ring at Station [0,-1]
+Move 80 :
+8:25:17 AM
+83025: Added a Medium Ring at Station [0,1]
+Move 81 :
+8:25:26 AM
+fumi14: Added a Large Ring at Station [-1,-1]
+Move 82 :
+8:25:36 AM
+83025: Added a Small Ring at Station [0,1]
+Move 83 :
+8:25:42 AM
+fumi14: Added a Medium Ring at Station [-1,-1]
+Move 84 :
+8:25:49 AM
+83025: Added a Small Ring at Station [-1,-1]
+Move 85 :
+8:26:03 AM
+fumi14: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+83025 has to remove 4 orphaned rings
+Move 86 :
+8:26:28 AM
+83025: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+fumi14 has to remove 2 orphaned rings
+Move 87 :
+8:26:36 AM
+fumi14: Added a Large Ring at Station [-1,0]
+Move 88 :
+8:26:53 AM
+83025: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 89 :
+8:27:00 AM
+fumi14: Added a Medium Ring at Station [-1,0]
+Move 90 :
+8:27:05 AM
+83025: Added a Small Ring at Station [-1,0]
+Move 91 :
+8:27:12 AM
+fumi14: Added a Large Ring at Station [-1,-1]
+Move 92 :
+8:27:27 AM
+83025: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+fumi14 has to remove 3 orphaned rings
+Move 93 :
+8:28:17 AM
+fumi14: Removed a Blocker at Station [-1,1] => [0,0] Position:Right
+Move 94 :
+8:28:28 AM
+83025: Added a Medium Ring at Station [-1,0]
+Move 95 :
+8:28:32 AM
+fumi14: Removed a Blocker at Station [-1,1] => [0,0] Position:Left
+Move 96 :
+8:28:55 AM
+83025: Removed a Blocker at Station [1,-1] => [0,0] Position:Right
+Move 97 :
+8:29:01 AM
+fumi14: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+83025 has to remove 2 orphaned rings
+Move 98 :
+8:30:03 AM
+83025: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 99 :
+8:30:12 AM
+fumi14: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 100 :
+8:30:22 AM
+83025: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 101 :
+8:31:01 AM
+fumi14: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 102 :
+8:31:16 AM
+83025: Added a Large Ring at Station [-1,-1]
+Move 103 :
+8:31:23 AM
+fumi14: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 104 :
+8:31:29 AM
+83025: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 105 :
+8:32:19 AM
+fumi14: Added a Medium Ring at Station [0,-1]
+Move 106 :
+8:32:30 AM
+83025: Added a Medium Ring at Station [0,1]
+Move 107 :
+8:32:35 AM
+fumi14: Added a Small Ring at Station [0,1]
+Move 108 :
+8:32:50 AM
+83025: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 109 :
+8:32:59 AM
+fumi14: Added a Small Ring at Station [0,-1]
+Move 110 :
+8:33:34 AM
+83025: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 111 :
+8:33:47 AM
+fumi14: Added a Medium Ring at Station [1,1]
+Move 112 :
+8:33:53 AM
+83025: Added a Small Ring at Station [1,1]
+Move 113 :
+8:34:05 AM
+fumi14: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+83025 has to remove 2 orphaned rings
+Move 114 :
+8:34:19 AM
+83025: Added a Large Ring at Station [-1,0]
+Move 115 :
+8:34:25 AM
+fumi14: Added a Small Ring at Station [1,1]
+Move 116 :
+8:34:30 AM
+83025: Added a Medium Ring at Station [-1,-1]
+Move 117 :
+8:34:35 AM
+fumi14: Added a Medium Ring at Station [0,1]
+Move 118 :
+8:34:41 AM
+83025: Added a Small Ring at Station [-1,-1]
+Move 119 :
+8:35:15 AM
+fumi14: Moved a Base Post at Station [0,1]
+fumi14 has to remove 3 orphaned rings
+Move 120 :
+8:35:36 AM
+83025: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 121 :
+8:35:50 AM
+fumi14: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 122 :
+8:36:05 AM
+83025 concedes the game.
+The end of the game: fumi14 wins!

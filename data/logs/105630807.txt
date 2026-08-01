@@ -1,0 +1,145 @@
+Move 1 :
+8/7/2020 9:15:06 AM
+The colors of Jest Phulin have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:55:56 AM
+Jest Phulin: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 3 :
+5:43:37 PM
+icyisida: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :
+8/8/2020 8:29:41 AM
+Tiffyfaery: Moved a Blocker at Station [0,1] => [1,0] Position:Left
+Move 5 :
+12:47:22 PM
+Jest Phulin: Added a Small Ring at Station [0,-1]
+Move 6 :
+6:29:28 PM
+icyisida: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 7 :
+8/10/2020 6:09:24 AM
+Tiffyfaery: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 8 :
+10:16:47 AM
+Jest Phulin: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 9 :
+7:08:14 PM
+icyisida: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 10 :
+7:28:00 PM
+Tiffyfaery: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 11 :
+7:40:50 PM
+Jest Phulin: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 12 :
+7:46:04 PM
+icyisida: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 13 :
+8:46:57 PM
+Tiffyfaery: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 14 :
+9:30:19 PM
+Jest Phulin: Added a Small Ring at Station [-1,0]
+Move 15 :
+8/11/2020 12:38:51 AM
+icyisida: Added a Small Ring at Station [-1,1]
+Move 16 :
+7:24:42 AM
+Tiffyfaery: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 17 :
+12:27:32 PM
+Jest Phulin: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 18 :
+7:06:04 PM
+icyisida: Added a Small Ring at Station [-2,1]
+Move 19 :
+8/12/2020 9:09:44 PM
+Tiffyfaery: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 20 :
+8/13/2020 9:10:15 AM
+Jest Phulin: Added a Medium Ring at Station [-1,1]
+Move 21 :
+9:11:54 AM
+icyisida: Added a Large Ring at Station [-1,1]
+Move 22 :
+12:32:19 PM
+Tiffyfaery: Added a Large Ring at Station [1,1]
+Move 23 :
+1:30:19 PM
+Jest Phulin: Added a White Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 24 :
+6:32:31 PM
+icyisida: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 25 :
+8/14/2020 9:53:44 AM
+Tiffyfaery: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :
+9:59:14 AM
+Jest Phulin: Added a Medium Ring at Station [-2,1]
+Move 27 :
+6:40:09 PM
+icyisida: Added a Small Ring at Station [0,1]
+Move 28 :
+6:57:11 PM
+Tiffyfaery: Added a Medium Ring at Station [1,1]
+Move 29 :
+8:24:27 PM
+Jest Phulin: Added a Large Ring at Station [-2,1]
+Move 30 :
+8:28:58 PM
+icyisida: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 31 :
+8:54:03 PM
+Tiffyfaery: Added a Small Ring at Station [1,0]
+Move 32 :
+8/15/2020 12:44:23 AM
+Jest Phulin: Added a Medium Ring at Station [-1,0]
+Move 33 :
+1:15:03 AM
+icyisida: Added a Medium Ring at Station [1,0]
+Move 34 :
+2:50:37 PM
+Tiffyfaery: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 35 :
+3:54:45 PM
+Jest Phulin: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 36 :
+6:03:59 PM
+icyisida: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 37 :
+7:24:40 PM
+Tiffyfaery: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 38 :
+8:51:54 PM
+Jest Phulin: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 39 :
+9:08:37 PM
+icyisida: Added a Small Ring at Station [1,-1]
+Move 40 :
+8/16/2020 10:49:45 AM
+Tiffyfaery: Added a Large Ring at Station [1,-1]
+Move 41 :
+11:14:51 AM
+Jest Phulin: Added a Medium Ring at Station [0,1]
+Move 42 :
+11:44:11 AM
+icyisida: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 43 :
+8/17/2020 3:41:45 PM
+Tiffyfaery: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 44 :
+4:26:08 PM
+Jest Phulin: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 45 :
+4:50:41 PM
+icyisida: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 46 :
+8/18/2020 8:54:03 AM
+Tiffyfaery: Added a Large Ring at Station [1,0]
+Move 47 :
+10:56:17 AM
+Jest Phulin: Added a Large Ring at Station [-1,0]
+Move 48 :
+11:11:31 AM
+icyisida: Added a Large Ring at Station [0,-1]
+The end of the game: icyisida wins!

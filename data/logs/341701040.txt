@@ -1,0 +1,159 @@
+Game log
+Move 1 :1/31/2023 12:33:02 PM
+The colors of tony1021, mikkashar have been chosen according to their preferences. Change my preferences.
+Move 2 :12:33:42 PM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :12:34:26 PM
+mikkashar: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :12:35:58 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :12:38:06 PM
+mikkashar: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 6 :12:44:47 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 7 :12:50:26 PM
+mikkashar: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 8 :2:00:22 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 9 :2:42:13 PM
+mikkashar: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 10 :2/1/2023 7:57:28 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 11 :7:58:47 AM
+mikkashar: Added a Small Ring at Station [0,-1]
+Move 12 :7:59:34 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 13 :7:59:51 AM
+mikkashar: Moved a Base Post at Station [0,-1]
+Move 14 :8:00:00 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 15 :8:00:08 AM
+mikkashar: Added a Small Ring at Station [1,-1]
+Move 16 :8:00:13 AM
+tony1021: Moved a Base Post at Station [-1,1]
+Move 17 :8:00:28 AM
+mikkashar: Added a Small Ring at Station [-1,0]
+Move 18 :8:00:54 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 19 :8:01:54 AM
+mikkashar: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 20 :8:02:22 AM
+tony1021: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 21 :8:04:53 AM
+mikkashar: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 22 :2/3/2023 12:17:26 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 23 :1:17:19 PM
+mikkashar: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 24 :1:33:51 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 25 :2:06:23 PM
+mikkashar: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 26 :6:45:40 PM
+tony1021: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Left
+Move 27 :7:44:58 PM
+mikkashar: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 28 :7:46:10 PM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 29 :7:47:36 PM
+mikkashar: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+tony1021 has to remove 2 orphaned rings
+Move 30 :8:56:23 PM
+tony1021: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+mikkashar has to remove 1 orphaned rings
+Move 31 :8:57:36 PM
+mikkashar: Added a Small Ring at Station [-1,-1]
+Move 32 :9:47:54 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 33 :11:39:48 PM
+mikkashar: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 34 :2/4/2023 9:09:50 AM
+tony1021: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 35 :10:54:06 AM
+mikkashar: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 36 :11:20:46 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 37 :11:22:31 AM
+mikkashar: Added a Small Ring at Station [-1,0]
+Move 38 :11:33:14 AM
+tony1021: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 39 :12:34:38 PM
+mikkashar: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 40 :12:43:17 PM
+tony1021: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+mikkashar has to remove 1 orphaned rings
+Move 41 :2:37:24 PM
+mikkashar: Moved a Base Post at Station [1,-1]
+Move 42 :2:45:17 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 43 :4:53:17 PM
+mikkashar: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 44 :5:12:38 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 45 :5:24:50 PM
+mikkashar: Added a Small Ring at Station [1,0]
+Move 46 :5:30:41 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 47 :6:23:26 PM
+mikkashar: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 48 :6:50:05 PM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 49 :7:55:56 PM
+mikkashar: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 50 :2/6/2023 9:50:54 PM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+mikkashar has to remove 1 orphaned rings
+Move 51 :2/7/2023 9:33:11 AM
+mikkashar: Added a Medium Ring at Station [-1,-1]
+Move 52 :12:23:20 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 53 :12:35:29 PM
+mikkashar: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 54 :12:48:12 PM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 55 :1:24:55 PM
+mikkashar: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 56 :2:05:11 PM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 57 :2:46:09 PM
+mikkashar: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 58 :3:20:01 PM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 59 :3:21:36 PM
+mikkashar: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 60 :5:35:30 PM
+tony1021: Added a Small Ring at Station [1,1]
+Move 61 :8:28:33 PM
+mikkashar: Added a Medium Ring at Station [0,-1]
+Move 62 :9:25:23 PM
+tony1021: Added a Large Ring at Station [0,1]
+Move 63 :9:27:14 PM
+mikkashar: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 64 :10:23:56 PM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 65 :2/8/2023 6:28:40 AM
+mikkashar: Added a Small Ring at Station [1,0]
+Move 66 :11:08:15 AM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+mikkashar has to remove 1 orphaned rings
+Move 67 :11:43:24 AM
+mikkashar: Removed a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 68 :11:49:14 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 69 :11:50:32 AM
+mikkashar: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 70 :12:43:31 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 71 :1:48:51 PM
+mikkashar: Added a Large Ring at Station [0,-1]
+Move 72 :2/10/2023 12:53:25 PM
+tony1021: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 73 :1:22:29 PM
+mikkashar: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 74 :2:45:38 PM
+tony1021: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 75 :3:40:53 PM
+mikkashar: Added a Small Ring at Station [-1,0]
+Move 76 :2/11/2023 11:05:34 PM
+tony1021: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+The end of the game: tony1021 wins!

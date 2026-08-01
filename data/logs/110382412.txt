@@ -1,0 +1,157 @@
+Move 3 :
+9/3/2020 4:45:11 PM
+Montzahyon: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 4 :
+4:46:10 PM
+moyenman: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 5 :
+4:46:18 PM
+Montzahyon: Added a Large Ring at Station [0,1]
+Move 6 :
+4:46:44 PM
+moyenman: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 7 :
+4:47:47 PM
+Montzahyon: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 8 :
+4:47:59 PM
+moyenman: Added a Large Ring at Station [0,-1]
+Move 9 :
+4:48:28 PM
+Montzahyon: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 10 :
+4:48:41 PM
+moyenman: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 11 :
+4:49:48 PM
+Montzahyon: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 12 :
+4:50:30 PM
+moyenman: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 13 :
+4:51:35 PM
+Montzahyon: Removed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 14 :
+4:51:45 PM
+moyenman: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 15 :
+4:52:01 PM
+Montzahyon: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 16 :
+4:53:34 PM
+moyenman: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 17 :
+4:54:05 PM
+Montzahyon: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 18 :
+4:54:13 PM
+moyenman: Added a Large Ring at Station [-1,0]
+Move 19 :
+4:54:25 PM
+Montzahyon: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 20 :
+4:54:39 PM
+moyenman: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 21 :
+4:55:11 PM
+Montzahyon: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 22 :
+4:55:35 PM
+moyenman: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 23 :
+4:57:11 PM
+Montzahyon: Moved a Base Post at Station [0,1]
+Move 24 :
+4:57:22 PM
+moyenman: Added a Large Ring at Station [-1,-1]
+Move 25 :
+4:57:36 PM
+Montzahyon: Moved a Base Post at Station [-1,1]
+Move 26 :
+4:57:49 PM
+moyenman: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 27 :
+4:58:39 PM
+Montzahyon: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 28 :
+4:58:58 PM
+moyenman: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 29 :
+4:59:23 PM
+Montzahyon: Removed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 30 :
+4:59:32 PM
+moyenman: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 31 :
+4:59:56 PM
+Montzahyon: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 32 :
+5:00:05 PM
+moyenman: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 33 :
+5:00:34 PM
+Montzahyon: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 34 :
+5:00:40 PM
+moyenman: Added a Medium Ring at Station [0,-1]
+Move 35 :
+5:01:53 PM
+Montzahyon: Moved a Base Post at Station [0,1]
+Move 36 :
+5:02:04 PM
+moyenman: Added a Medium Ring at Station [-1,-1]
+Move 37 :
+5:02:34 PM
+Montzahyon: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 38 :
+5:02:42 PM
+moyenman: Added a Small Ring at Station [0,-1]
+Move 39 :
+5:03:24 PM
+Montzahyon: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 40 :
+5:03:30 PM
+moyenman: Added a Small Ring at Station [-1,-1]
+Move 41 :
+5:04:11 PM
+Montzahyon: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 42 :
+5:04:18 PM
+moyenman: Added a Medium Ring at Station [-1,0]
+Move 43 :
+5:04:33 PM
+Montzahyon: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 44 :
+5:04:43 PM
+moyenman: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 45 :
+5:04:51 PM
+Montzahyon: Moved a Base Post at Station [-1,1]
+Move 46 :
+5:04:59 PM
+moyenman: Added a Large Ring at Station [-1,1]
+Move 47 :
+5:05:06 PM
+Montzahyon: Added a Medium Ring at Station [0,1]
+Move 48 :
+5:05:13 PM
+moyenman: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 49 :
+5:05:28 PM
+Montzahyon: Added a Small Ring at Station [0,1]
+Move 50 :
+5:05:35 PM
+moyenman: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 51 :
+5:05:40 PM
+Montzahyon: Moved a Base Post at Station [0,1]
+Move 52 :
+5:06:12 PM
+moyenman: Added a White Bridge at Station [-1,1] => [0,0] Position:Right
+Move 53 :
+5:06:30 PM
+Montzahyon: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 54 :
+5:07:42 PM
+moyenman: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+The end of the game: moyenman wins!

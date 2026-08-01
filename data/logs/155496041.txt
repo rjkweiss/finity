@@ -1,0 +1,87 @@
+Game log
+Move 1 :3/14/2021 5:58:07 AM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :6:10:02 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :6:12:55 AM
+Justin Jake: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :6:14:05 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 5 :6:23:53 AM
+Justin Jake: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :6:24:49 AM
+SixPigeons: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :6:25:44 AM
+Justin Jake: Added a Small Ring at Station [0,-1]
+Move 8 :6:26:35 AM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 9 :6:27:59 AM
+Justin Jake: Added a Medium Ring at Station [0,-1]
+Move 10 :6:29:53 AM
+SixPigeons: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :6:36:03 AM
+Justin Jake: Added a Large Ring at Station [0,-1]
+Move 12 :6:36:37 AM
+SixPigeons: Added a Small Ring at Station [0,1]
+Move 13 :6:46:02 AM
+Justin Jake: Moved a Base Post at Station [0,-1]
+Move 14 :5:10:00 PM
+SixPigeons: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 15 :7:01:47 PM
+Justin Jake: Added a Small Ring at Station [1,-1]
+Move 16 :7:18:51 PM
+SixPigeons: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 17 :7:20:10 PM
+Justin Jake: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 18 :7:20:23 PM
+SixPigeons: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 19 :7:21:26 PM
+Justin Jake: Added a Medium Ring at Station [1,-1]
+Move 20 :7:21:34 PM
+SixPigeons: Added a Medium Ring at Station [0,1]
+Move 21 :8:13:32 PM
+Justin Jake: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 22 :8:39:10 PM
+SixPigeons: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Right
+Move 23 :8:55:09 PM
+Justin Jake: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 24 :9:19:25 PM
+SixPigeons: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 25 :9:40:21 PM
+Justin Jake: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 26 :9:47:07 PM
+SixPigeons: Moved a Base Post at Station [0,1]
+Move 27 :9:54:28 PM
+Justin Jake: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 28 :9:57:16 PM
+SixPigeons: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 29 :11:17:42 PM
+Justin Jake: Moved a Base Post at Station [1,-1]
+Move 30 :11:51:00 PM
+SixPigeons: Added a Small Ring at Station [-1,1]
+Move 31 :11:55:05 PM
+Justin Jake: Added a Small Ring at Station [-1,-1]
+Move 32 :11:58:51 PM
+SixPigeons: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Justin Jake has to remove 1 orphaned rings
+Move 33 :3/15/2021 12:15:09 AM
+Justin Jake: Added a Small Ring at Station [-1,0]
+Move 34 :12:32:52 AM
+SixPigeons: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Justin Jake has to remove 1 orphaned rings
+Move 35 :12:35:30 AM
+Justin Jake: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 36 :12:43:35 AM
+SixPigeons: Added a Medium Ring at Station [-1,1]
+Move 37 :1:09:22 AM
+Justin Jake: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 38 :1:09:58 AM
+SixPigeons: Added a Small Ring at Station [-1,0]
+Move 39 :1:10:47 AM
+Justin Jake: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 40 :1:11:05 AM
+SixPigeons: Added a Large Ring at Station [-1,1]
+Move 41 :1:16:38 AM
+Justin Jake concedes the game.
+The end of the game: SixPigeons wins!

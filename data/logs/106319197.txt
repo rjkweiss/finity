@@ -1,0 +1,137 @@
+Move 2 :
+8/11/2020 4:48:32 AM
+sin0cos0: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+4:49:35 AM
+unchi2001: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+4:50:07 AM
+sin0cos0: Added a Large Ring at Station [-1,0]
+Move 5 :
+4:50:19 AM
+unchi2001: Added a Small Ring at Station [1,0]
+Move 6 :
+4:50:41 AM
+sin0cos0: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+4:50:48 AM
+unchi2001: Moved a Base Post at Station [1,0]
+Move 8 :
+4:51:07 AM
+sin0cos0: Added a Small Ring at Station [0,1]
+Move 9 :
+4:51:27 AM
+unchi2001: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 10 :
+4:51:49 AM
+sin0cos0: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :
+4:52:04 AM
+unchi2001: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 12 :
+4:52:38 AM
+sin0cos0: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 13 :
+4:52:46 AM
+unchi2001: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 14 :
+4:54:18 AM
+sin0cos0: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 15 :
+4:54:28 AM
+unchi2001: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :
+4:54:44 AM
+sin0cos0: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 17 :
+4:54:54 AM
+unchi2001: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 18 :
+4:55:05 AM
+sin0cos0: Added a Medium Ring at Station [-1,-1]
+Move 19 :
+4:55:11 AM
+unchi2001: Moved a Base Post at Station [1,-1]
+Move 20 :
+4:56:13 AM
+sin0cos0: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 21 :
+4:56:30 AM
+unchi2001: Added a Medium Ring at Station [1,1]
+Move 22 :
+4:56:56 AM
+sin0cos0: Added a Medium Ring at Station [-1,0]
+Move 23 :
+4:57:05 AM
+unchi2001: Added a Large Ring at Station [0,1]
+Move 24 :
+4:57:25 AM
+sin0cos0: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 25 :
+4:57:33 AM
+unchi2001: Added a Medium Ring at Station [-1,1]
+Move 26 :
+4:57:55 AM
+sin0cos0: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+unchi2001 has to remove 2 orphaned rings
+Move 27 :
+4:58:35 AM
+unchi2001: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 28 :
+4:59:04 AM
+sin0cos0: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+unchi2001 has to remove 1 orphaned rings
+Move 29 :
+4:59:23 AM
+unchi2001: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 30 :
+4:59:39 AM
+sin0cos0: Added a Small Ring at Station [1,1]
+Move 31 :
+4:59:51 AM
+unchi2001: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+sin0cos0 has to remove 3 orphaned rings
+Move 32 :
+5:00:33 AM
+sin0cos0: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 33 :
+5:00:51 AM
+unchi2001: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+sin0cos0 has to remove 2 orphaned rings
+Move 34 :
+5:02:06 AM
+sin0cos0: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 35 :
+5:03:26 AM
+unchi2001: Added a Small Ring at Station [1,1]
+Move 36 :
+5:03:47 AM
+sin0cos0: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 37 :
+5:04:09 AM
+unchi2001: Added a Small Ring at Station [0,1]
+Move 38 :
+5:04:18 AM
+sin0cos0: Added a Medium Ring at Station [0,1]
+Move 39 :
+5:04:31 AM
+unchi2001: Added a Medium Ring at Station [-1,1]
+Move 40 :
+5:04:41 AM
+sin0cos0: Added a Large Ring at Station [1,1]
+Move 41 :
+5:04:51 AM
+unchi2001: Added a Small Ring at Station [-1,0]
+Move 42 :
+5:06:16 AM
+sin0cos0: Added a Medium Ring at Station [1,0]
+Move 43 :
+5:06:27 AM
+unchi2001: Added a Small Ring at Station [-1,-1]
+Move 44 :
+5:06:43 AM
+sin0cos0: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 45 :
+5:06:55 AM
+unchi2001: Added a Small Ring at Station [0,-1]
+The end of the game: unchi2001 wins!

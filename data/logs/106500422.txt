@@ -1,0 +1,127 @@
+Move 1 :
+8/12/2020 11:17:21 AM
+The colors of Neon have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:40:10 PM
+Neon: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+12:51:11 PM
+vvilhelm: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+3:07:07 PM
+Neon: Added a Medium Ring at Station [-1,0]
+Move 5 :
+8/13/2020 3:38:14 AM
+vvilhelm: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Neon has to remove 1 orphaned rings
+Move 6 :
+7:53:29 AM
+Neon: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 7 :
+6:34:59 PM
+vvilhelm: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :
+11:08:44 PM
+Neon: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :
+8/14/2020 3:33:15 AM
+vvilhelm: Added a Small Ring at Station [1,0]
+Move 10 :
+3:45:05 AM
+Neon: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :
+3:45:36 AM
+vvilhelm: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 12 :
+3:52:14 AM
+Neon: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 13 :
+3:53:15 AM
+vvilhelm: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 14 :
+4:39:03 AM
+Neon: Added a Medium Ring at Station [-1,0]
+Move 15 :
+6:27:27 AM
+vvilhelm: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 16 :
+11:41:13 AM
+Neon: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 17 :
+8:08:22 PM
+vvilhelm: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :
+8/15/2020 5:26:28 AM
+Neon: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 19 :
+5:27:56 AM
+vvilhelm: Added a Small Ring at Station [1,1]
+Move 20 :
+5:29:03 AM
+Neon: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 21 :
+5:50:46 AM
+vvilhelm: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+7:34:41 AM
+Neon: Added a Medium Ring at Station [-1,-1]
+Move 23 :
+5:20:45 PM
+vvilhelm: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 24 :
+8/16/2020 8:22:53 AM
+Neon: Added a Medium Ring at Station [0,-1]
+Move 25 :
+12:08:38 PM
+vvilhelm: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Neon has to remove 2 orphaned rings
+Move 26 :
+12:12:01 PM
+Neon: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 27 :
+8/18/2020 11:51:02 PM
+vvilhelm: Added a Small Ring at Station [0,1]
+Move 28 :
+8/19/2020 12:31:20 AM
+Neon: Added a Medium Ring at Station [-1,-1]
+Move 29 :
+8/20/2020 11:15:35 AM
+vvilhelm: Removed a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 30 :
+11:20:51 AM
+Neon: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 31 :
+2:29:57 PM
+vvilhelm: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 32 :
+2:49:22 PM
+Neon: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 33 :
+8/24/2020 1:55:22 AM
+vvilhelm: Reversed a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 34 :
+3:04:21 AM
+Neon: Added a Medium Ring at Station [0,-1]
+Move 35 :
+3:28:44 AM
+vvilhelm: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 36 :
+3:31:41 AM
+Neon: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 37 :
+5:13:11 AM
+vvilhelm: Added a Medium Ring at Station [1,1]
+Move 38 :
+5:15:14 AM
+Neon: Added a Medium Ring at Station [1,-1]
+Move 39 :
+5:15:51 AM
+vvilhelm: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Neon has to remove 1 orphaned rings
+Move 40 :
+5:19:52 AM
+Neon: Moved a Base Post at Station [-1,-1]
+Move 41 :
+8/26/2020 4:14:12 PM
+vvilhelm: Added a Medium Ring at Station [0,1]
+The end of the game: vvilhelm wins!

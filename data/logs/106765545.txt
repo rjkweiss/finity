@@ -1,0 +1,165 @@
+Move 1 :
+8/14/2020 9:25:08 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:32:30 AM
+Walfal: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 3 :
+10:45:12 AM
+tayutama777: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 4 :
+5:19:52 PM
+tony1021: Added a White Bridge at Station [-1,1] => [0,0] Position:Right
+Move 5 :
+11:08:06 PM
+Walfal: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :
+8/15/2020 12:54:28 AM
+tayutama777: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 7 :
+7:16:40 AM
+tony1021: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 8 :
+11:19:22 AM
+Walfal: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 9 :
+11:21:49 AM
+tayutama777: Added a Small Ring at Station [-1,1]
+Move 10 :
+3:50:16 PM
+tony1021: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 11 :
+8/16/2020 1:24:12 AM
+Walfal: Added a Small Ring at Station [0,-1]
+Move 12 :
+1:46:17 AM
+tayutama777: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 13 :
+9:19:49 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 14 :
+12:49:19 PM
+Walfal: Moved a Base Post at Station [0,-1]
+Move 15 :
+1:04:03 PM
+tayutama777: Added a Medium Ring at Station [-1,1]
+Move 16 :
+1:10:10 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 17 :
+10:51:25 PM
+Walfal: Added a Small Ring at Station [1,-1]
+Move 18 :
+8/17/2020 1:45:57 AM
+tayutama777: Added a Large Ring at Station [-1,1]
+Move 19 :
+6:51:14 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 20 :
+8:21:01 AM
+Walfal: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 21 :
+9:13:12 AM
+tayutama777: Moved a Base Post at Station [-1,1]
+Move 22 :
+10:04:33 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 23 :
+11:56:42 AM
+Walfal: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 24 :
+12:06:30 PM
+tayutama777: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 25 :
+3:32:47 PM
+tony1021: Moved a Blocker at Station [-2,1] => [-1,1] Position:Left
+Move 26 :
+10:55:55 PM
+Walfal: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 27 :
+8/18/2020 3:09:42 AM
+tayutama777: Added a Small Ring at Station [-1,0]
+Move 28 :
+6:53:48 AM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 29 :
+12:50:57 PM
+Walfal: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 30 :
+12:56:01 PM
+tayutama777: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 31 :
+1:27:50 PM
+tony1021: Moved a Blocker at Station [-2,1] => [-1,0] Position:Right
+Move 32 :
+1:48:24 PM
+Walfal: Removed a Black Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 33 :
+1:54:17 PM
+tayutama777: Added a Medium Ring at Station [-1,0]
+Move 34 :
+7:15:03 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 35 :
+8/19/2020 1:32:14 AM
+Walfal: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 36 :
+1:54:30 AM
+tayutama777: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 37 :
+6:33:06 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 38 :
+6:50:50 AM
+Walfal: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 39 :
+6:59:33 AM
+tayutama777: Removed a Blocker at Station [-2,1] => [-1,1] Position:Left
+Move 40 :
+8:33:43 AM
+tony1021: Moved a Base Post at Station [1,-1]
+Move 41 :
+8:59:42 AM
+Walfal: Added a Small Ring at Station [1,-2]
+Move 42 :
+9:10:17 AM
+tayutama777: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 43 :
+11:35:25 AM
+tony1021: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Walfal has to remove 2 orphaned rings
+Move 44 :
+12:22:07 PM
+Walfal: Added a Large Ring at Station [-1,0]
+Move 45 :
+12:29:40 PM
+tayutama777: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Walfal has to remove 1 orphaned rings
+Move 46 :
+12:36:45 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 47 :
+11:35:01 PM
+Walfal: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 48 :
+8/20/2020 2:28:49 AM
+tayutama777: Added a Small Ring at Station [-2,1]
+Move 49 :
+6:23:26 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 50 :
+6:53:22 AM
+Walfal: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 51 :
+8:22:33 AM
+tayutama777: Added a Medium Ring at Station [-2,1]
+Move 52 :
+8:53:39 AM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 53 :
+1:02:46 PM
+Walfal: Removed a Blocker at Station [-2,1] => [-1,0] Position:Right
+Move 54 :
+1:37:44 PM
+tayutama777: Added a Large Ring at Station [-2,1]
+The end of the game: tayutama777 wins!

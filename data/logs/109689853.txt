@@ -1,0 +1,151 @@
+Move 2 :
+8/30/2020 1:14:15 PM
+vorep: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+1:14:31 PM
+esimoneit: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+1:14:40 PM
+vorep: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+1:15:05 PM
+esimoneit: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+1:15:34 PM
+vorep: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :
+1:16:00 PM
+esimoneit: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 8 :
+1:16:07 PM
+vorep: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 9 :
+1:16:29 PM
+esimoneit: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 10 :
+1:16:39 PM
+vorep: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 11 :
+1:16:59 PM
+esimoneit: Added a Small Ring at Station [0,-1]
+Move 12 :
+1:17:06 PM
+vorep: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 13 :
+1:17:17 PM
+esimoneit: Added a Medium Ring at Station [0,-1]
+Move 14 :
+1:17:23 PM
+vorep: Added a Small Ring at Station [0,1]
+Move 15 :
+1:18:30 PM
+esimoneit: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 16 :
+1:18:35 PM
+vorep: Added a Medium Ring at Station [0,1]
+Move 17 :
+1:19:58 PM
+esimoneit: Moved a Base Post at Station [0,-1]
+Move 18 :
+1:20:26 PM
+vorep: Moved a Base Post at Station [0,1]
+Move 19 :
+1:22:02 PM
+esimoneit: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 20 :
+1:22:16 PM
+vorep: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 21 :
+1:22:25 PM
+esimoneit: Added a Small Ring at Station [1,-1]
+Move 22 :
+1:22:35 PM
+vorep: Added a Small Ring at Station [1,0]
+Move 23 :
+1:22:56 PM
+esimoneit: Moved a Base Post at Station [1,-1]
+Move 24 :
+1:23:15 PM
+vorep: Added a Medium Ring at Station [1,0]
+Move 25 :
+1:24:31 PM
+esimoneit: Moved a Base Post at Station [0,-1]
+Move 26 :
+1:24:40 PM
+vorep: Added a Medium Ring at Station [1,-1]
+Move 27 :
+1:24:50 PM
+esimoneit: Added a Large Ring at Station [1,-1]
+Move 28 :
+1:25:20 PM
+vorep: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 29 :
+1:25:32 PM
+esimoneit: Moved a Base Post at Station [1,-1]
+Move 30 :
+1:25:40 PM
+vorep: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 31 :
+1:26:02 PM
+esimoneit: Added a Large Ring at Station [1,0]
+Move 32 :
+1:26:45 PM
+vorep: Added a Small Ring at Station [-1,1]
+Move 33 :
+1:27:01 PM
+esimoneit: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+vorep has to remove 3 orphaned rings
+Move 34 :
+1:27:11 PM
+vorep: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 35 :
+1:27:21 PM
+esimoneit: Added a Large Ring at Station [0,1]
+Move 36 :
+1:27:30 PM
+vorep: Added a Small Ring at Station [1,0]
+Move 37 :
+1:28:26 PM
+esimoneit: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 38 :
+1:28:32 PM
+vorep: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+esimoneit has to remove 2 orphaned rings
+Move 39 :
+1:29:02 PM
+esimoneit: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 40 :
+1:29:06 PM
+vorep: Added a Medium Ring at Station [1,0]
+Move 41 :
+1:29:14 PM
+esimoneit: Added a Large Ring at Station [1,0]
+Move 42 :
+1:29:34 PM
+vorep: Added a Medium Ring at Station [-1,1]
+Move 43 :
+1:29:58 PM
+esimoneit: Added a Large Ring at Station [0,1]
+Move 44 :
+1:30:05 PM
+vorep: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+esimoneit has to remove 2 orphaned rings
+Move 45 :
+1:30:48 PM
+esimoneit: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 46 :
+1:31:34 PM
+vorep: Moved a Base Post at Station [-1,0]
+Move 47 :
+1:32:21 PM
+esimoneit: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 48 :
+1:33:06 PM
+vorep: Added a Large Ring at Station [0,1]
+Move 49 :
+1:34:38 PM
+esimoneit: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 50 :
+1:35:48 PM
+vorep: Moved a Base Post at Station [0,1]
+The end of the game: vorep wins!

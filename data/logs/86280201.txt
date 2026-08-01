@@ -1,0 +1,101 @@
+Move 1 :
+5/12/2020 2:29:19 AM
+The colors of wkflora have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:09:42 AM
+Carolus Rex: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+9:18:51 AM
+wkflora: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 4 :
+10:37:15 AM
+Carolus Rex: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 5 :
+10:50:49 AM
+wkflora: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+6:06:03 PM
+Carolus Rex: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 7 :
+5/13/2020 2:58:05 AM
+wkflora: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 8 :
+7:52:12 AM
+Carolus Rex: Added a Small Ring at Station [0,1]
+Move 9 :
+9:05:49 AM
+wkflora: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 10 :
+4:56:44 PM
+Carolus Rex: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 11 :
+11:54:14 PM
+wkflora: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 12 :
+5/14/2020 9:13:50 AM
+Carolus Rex: Added a Medium Ring at Station [0,1]
+Move 13 :
+9:14:58 AM
+wkflora: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 14 :
+9:16:26 AM
+Carolus Rex: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 15 :
+9:22:44 AM
+wkflora: Added a Medium Ring at Station [0,-1]
+Move 16 :
+3:07:19 PM
+Carolus Rex: Added a Small Ring at Station [1,1]
+Move 17 :
+3:45:40 PM
+wkflora: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 18 :
+3:52:24 PM
+Carolus Rex: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 19 :
+3:52:40 PM
+wkflora: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 20 :
+4:00:12 PM
+Carolus Rex: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 21 :
+4:01:47 PM
+wkflora: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 22 :
+4:02:01 PM
+Carolus Rex: Added a Small Ring at Station [1,0]
+Move 23 :
+4:03:31 PM
+wkflora: Added a Small Ring at Station [-1,-1]
+Move 24 :
+4:04:44 PM
+Carolus Rex: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+wkflora has to remove 2 orphaned rings
+Move 25 :
+4:06:10 PM
+wkflora: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 26 :
+4:06:37 PM
+Carolus Rex: Added a Medium Ring at Station [1,0]
+Move 27 :
+4:07:04 PM
+wkflora: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 28 :
+4:07:17 PM
+Carolus Rex: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 29 :
+4:07:46 PM
+wkflora: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 30 :
+4:08:10 PM
+Carolus Rex: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 31 :
+4:08:32 PM
+wkflora: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 32 :
+4:09:06 PM
+Carolus Rex: Added a Medium Ring at Station [1,1]
+Move 33 :
+4:09:34 PM
+wkflora: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+The end of the game: Carolus Rex wins!

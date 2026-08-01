@@ -1,0 +1,205 @@
+Move 1 :
+8/22/2020 11:10:53 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+11:11:40 AM
+PayDeTuna: Added a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 3 :
+11:11:58 AM
+jmtv97: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 4 :
+11:12:16 AM
+Daozhan: Added a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 5 :
+11:12:30 AM
+Victoria_Kyoo : Added a White Bridge at Station [1,0] => [2,-1] Position:Left
+Move 6 :
+11:12:45 AM
+PayDeTuna: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 7 :
+11:13:05 AM
+jmtv97: Added a Small Ring at Station [-1,-1]
+Move 8 :
+11:13:23 AM
+Daozhan: Added a White Bridge at Station [-1,2] => [0,1] Position:Middle
+Move 9 :
+11:13:38 AM
+Victoria_Kyoo : Added a White Bridge at Station [2,-1] => [1,0] Position:Middle
+Move 10 :
+11:13:48 AM
+PayDeTuna: Added a Large Ring at Station [-2,1]
+Move 11 :
+11:14:04 AM
+jmtv97: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 12 :
+11:14:11 AM
+Daozhan: Added a Large Ring at Station [-1,2]
+Move 13 :
+11:14:20 AM
+Victoria_Kyoo : Added a Large Ring at Station [2,-1]
+Move 14 :
+11:14:39 AM
+PayDeTuna: Added a Medium Ring at Station [-2,1]
+Move 15 :
+11:15:10 AM
+jmtv97: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :
+11:15:25 AM
+Daozhan: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Left
+Move 17 :
+11:15:59 AM
+Victoria_Kyoo : Added a Medium Ring at Station [2,-1]
+Move 18 :
+11:16:09 AM
+PayDeTuna: Added a Small Ring at Station [-2,1]
+Move 19 :
+11:16:36 AM
+jmtv97: Moved a Base Post at Station [-1,-1]
+Move 20 :
+11:17:04 AM
+Daozhan: Added a Black Bridge at Station [-1,2] => [-1,1] Position:Middle
+Move 21 :
+11:18:25 AM
+Victoria_Kyoo : Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 22 :
+11:18:31 AM
+PayDeTuna: Moved a Base Post at Station [-2,1]
+Move 23 :
+11:18:38 AM
+jmtv97: Added a Small Ring at Station [0,-1]
+Move 24 :
+11:18:57 AM
+Daozhan: Added a Medium Ring at Station [-1,2]
+Move 25 :
+11:19:15 AM
+Victoria_Kyoo : Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 26 :
+11:19:37 AM
+PayDeTuna: Added a Small Ring at Station [-1,0]
+Move 27 :
+11:19:50 AM
+jmtv97: Added a Large Ring at Station [0,-1]
+Move 28 :
+11:20:16 AM
+Daozhan: Added a Small Ring at Station [-1,2]
+Move 29 :
+11:20:53 AM
+Victoria_Kyoo : Moved a Base Post at Station [2,-1]
+Move 30 :
+11:21:03 AM
+PayDeTuna: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 31 :
+11:21:15 AM
+jmtv97: Moved a Base Post at Station [0,-1]
+Move 32 :
+11:21:21 AM
+Daozhan: Moved a Base Post at Station [-1,2]
+Move 33 :
+11:21:28 AM
+Victoria_Kyoo : Added a Large Ring at Station [1,0]
+Move 34 :
+11:21:52 AM
+PayDeTuna: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 35 :
+11:23:03 AM
+jmtv97: Added a Small Ring at Station [1,-2]
+Move 36 :
+11:23:12 AM
+Daozhan: Added a Small Ring at Station [0,1]
+Move 37 :
+11:23:23 AM
+Victoria_Kyoo : Added a Medium Ring at Station [1,0]
+Move 38 :
+11:23:39 AM
+PayDeTuna: Added a Large Ring at Station [-1,1]
+Move 39 :
+11:24:11 AM
+jmtv97: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 40 :
+11:24:47 AM
+Daozhan: Added a Medium Ring at Station [-1,1]
+Move 41 :
+11:25:22 AM
+Victoria_Kyoo : Added a Small Ring at Station [1,0]
+Move 42 :
+11:25:33 AM
+PayDeTuna: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 43 :
+11:26:12 AM
+jmtv97: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 44 :
+11:26:24 AM
+Daozhan: Added a Small Ring at Station [-1,1]
+Move 45 :
+11:26:48 AM
+Victoria_Kyoo : Moved a Base Post at Station [1,0]
+Move 46 :
+11:26:55 AM
+PayDeTuna: Added a Medium Ring at Station [-1,0]
+Move 47 :
+11:27:06 AM
+jmtv97: Added a Large Ring at Station [-1,0]
+Move 48 :
+11:27:35 AM
+Daozhan: Added a Large Ring at Station [0,1]
+Move 49 :
+11:27:49 AM
+Victoria_Kyoo : Added a Large Ring at Station [1,-1]
+Move 50 :
+11:27:57 AM
+PayDeTuna: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 51 :
+11:28:40 AM
+jmtv97: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 52 :
+11:28:52 AM
+Daozhan: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 53 :
+11:29:07 AM
+Victoria_Kyoo : Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 54 :
+11:30:28 AM
+PayDeTuna: Moved a Blocker at Station [0,0] => [1,-1] Position:Right
+Move 55 :
+11:30:43 AM
+jmtv97: Added a Large Ring at Station [-1,-1]
+Move 56 :
+11:30:56 AM
+Daozhan: Added a Small Ring at Station [1,1]
+Move 57 :
+11:31:10 AM
+Victoria_Kyoo : Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 58 :
+11:31:31 AM
+PayDeTuna: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 59 :
+11:32:15 AM
+jmtv97: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 60 :
+11:32:35 AM
+Daozhan: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 61 :
+11:32:46 AM
+Victoria_Kyoo : Added a Medium Ring at Station [0,1]
+Move 62 :
+11:33:01 AM
+PayDeTuna: Added a Medium Ring at Station [-1,-1]
+Move 63 :
+11:33:21 AM
+jmtv97: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 64 :
+11:33:51 AM
+Daozhan: Added a Large Ring at Station [1,1]
+Move 65 :
+11:34:03 AM
+Victoria_Kyoo : Added a Medium Ring at Station [1,1]
+Move 66 :
+11:34:23 AM
+PayDeTuna: Moved a Blocker at Station [1,-2] => [1,-1] Position:Middle
+Move 67 :
+11:34:31 AM
+jmtv97: Moved a Base Post at Station [-1,-1]
+Move 68 :
+11:34:51 AM
+Daozhan: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: Victoria_Kyoo wins!

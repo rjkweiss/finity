@@ -1,0 +1,123 @@
+Move 3 :
+6/2/2020 5:00:09 AM
+Kamosska: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 4 :
+5:02:34 AM
+deszczyk: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 5 :
+5:03:30 AM
+Kamosska: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 6 :
+5:03:53 AM
+deszczyk: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 7 :
+5:04:13 AM
+Kamosska: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 8 :
+5:04:28 AM
+deszczyk: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 9 :
+5:04:42 AM
+Kamosska: Added a Medium Ring at Station [0,1]
+Move 10 :
+5:05:01 AM
+deszczyk: Added a Large Ring at Station [1,0]
+Move 11 :
+5:05:35 AM
+Kamosska: Moved a Base Post at Station [0,1]
+Move 12 :
+5:05:51 AM
+deszczyk: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 13 :
+5:06:11 AM
+Kamosska: Moved a Base Post at Station [1,1]
+Move 14 :
+5:06:32 AM
+deszczyk: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 15 :
+5:06:48 AM
+Kamosska: Added a Large Ring at Station [-1,1]
+Move 16 :
+5:07:13 AM
+deszczyk: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 17 :
+5:08:03 AM
+Kamosska: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :
+5:08:33 AM
+deszczyk: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 19 :
+5:09:03 AM
+Kamosska: Added a Medium Ring at Station [-1,1]
+Move 20 :
+5:09:28 AM
+deszczyk: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 21 :
+5:09:34 AM
+Kamosska: Moved a Base Post at Station [0,1]
+Kamosska has to remove 2 orphaned rings
+Move 22 :
+5:09:46 AM
+deszczyk: Added a Small Ring at Station [1,0]
+Move 23 :
+5:10:47 AM
+Kamosska: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 24 :
+5:11:11 AM
+deszczyk: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 25 :
+5:11:24 AM
+Kamosska: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+5:11:32 AM
+deszczyk: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 27 :
+5:11:39 AM
+Kamosska: Moved a Base Post at Station [-1,1]
+Move 28 :
+5:11:52 AM
+deszczyk: Added a Large Ring at Station [1,1]
+Move 29 :
+5:11:59 AM
+Kamosska: Added a Small Ring at Station [0,1]
+Move 30 :
+5:12:08 AM
+deszczyk: Added a Large Ring at Station [0,1]
+Move 31 :
+5:12:44 AM
+Kamosska: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 32 :
+5:12:53 AM
+deszczyk: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 33 :
+5:13:32 AM
+Kamosska: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 34 :
+5:14:10 AM
+deszczyk: Added a Small Ring at Station [-1,1]
+Move 35 :
+5:15:09 AM
+Kamosska: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Kamosska has to remove 2 orphaned rings
+Move 36 :
+5:15:25 AM
+deszczyk: Added a Medium Ring at Station [-1,0]
+Move 37 :
+5:15:43 AM
+Kamosska: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 38 :
+5:15:53 AM
+deszczyk: Added a Medium Ring at Station [0,-1]
+Move 39 :
+5:16:53 AM
+Kamosska: Reversed a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 40 :
+5:17:08 AM
+deszczyk: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 41 :
+5:17:19 AM
+Kamosska: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 42 :
+5:17:36 AM
+deszczyk: Added a Medium Ring at Station [-1,-1]
+The end of the game: deszczyk wins!

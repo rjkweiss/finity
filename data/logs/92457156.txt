@@ -1,0 +1,46 @@
+Move 2 :
+6/2/2020 1:20:12 AM
+decafbethewinner: Added a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 3 :
+1:20:50 AM
+bellz9113 : Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+1:21:05 AM
+decafbethewinner: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 5 :
+1:22:49 AM
+bellz9113 : Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 6 :
+1:24:51 AM
+decafbethewinner: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+1:25:50 AM
+bellz9113 : Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 8 :
+1:26:06 AM
+decafbethewinner: Added a White Bridge at Station [0,0] => [-1,1] Position:Left
+Move 9 :
+1:26:51 AM
+bellz9113 : Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 10 :
+1:27:03 AM
+decafbethewinner: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Left
+Move 11 :
+1:28:13 AM
+bellz9113 : Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 12 :
+1:29:36 AM
+decafbethewinner: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 13 :
+1:30:04 AM
+bellz9113 : Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 14 :
+1:30:13 AM
+decafbethewinner: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Right
+Move 15 :
+1:30:38 AM
+bellz9113 : Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 17 :
+1:32:10 AM
+All players (with a positive clock) chose to abandon this game.
+The end of the game: decafbethewinner wins!

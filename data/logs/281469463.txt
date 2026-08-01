@@ -1,0 +1,75 @@
+Move 1 : 7/7/2022 8:15:53 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 : 9:19:12 AM
+fiscused: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 3 : 9:27:37 AM
+FriendlyReminder: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 4 : 10:05:18 AM
+fiscused: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 : 11:06:31 AM
+FriendlyReminder: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 6 : 11:32:56 AM
+fiscused: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 7 : 1:01:08 PM
+FriendlyReminder: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 8 : 1:39:35 PM
+fiscused: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 : 1:57:55 PM
+FriendlyReminder: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 10 : 2:33:02 PM
+fiscused: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 11 : 7/8/2022 2:37:25 AM
+FriendlyReminder: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 12 : 5:56:00 AM
+fiscused: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 13 : 10:15:02 AM
+FriendlyReminder: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 14 : 12:15:51 PM
+fiscused: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 15 : 12:37:14 PM
+FriendlyReminder: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 16 : 12:49:21 PM
+fiscused: Added a Small Ring at Station [-1,0]
+Move 17 : 1:58:57 PM
+FriendlyReminder: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 18 : 3:02:46 PM
+fiscused: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 19 : 7/9/2022 2:41:28 AM
+FriendlyReminder: Added a Medium Ring at Station [1,0]
+Move 20 : 5:12:56 AM
+fiscused: Added a Small Ring at Station [-1,-1]
+Move 21 : 7/10/2022 11:02:31 AM
+FriendlyReminder: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 22 : 11:09:07 AM
+fiscused: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 23 : 11:27:40 AM
+FriendlyReminder: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 24 : 12:12:13 PM
+fiscused: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 25 : 12:44:52 PM
+FriendlyReminder: Added a Large Ring at Station [1,1]
+Move 26 : 1:05:20 PM
+fiscused: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 27 : 5:18:22 PM
+FriendlyReminder: Added a Large Ring at Station [0,1]
+Move 28 : 5:34:05 PM
+fiscused: Added a Small Ring at Station [0,-1]
+Move 29 : 7/11/2022 2:34:33 AM
+FriendlyReminder: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 30 : 4:40:16 AM
+fiscused: Added a Medium Ring at Station [1,-1]
+Move 31 : 5:30:09 PM
+FriendlyReminder: Added a Large Ring at Station [-1,1]
+Move 32 : 6:44:45 PM
+fiscused: Added a Small Ring at Station [1,0]
+Move 33 : 7:52:20 PM
+FriendlyReminder: Added a Large Ring at Station [-1,0]
+Move 34 : 7/12/2022 4:11:35 AM
+fiscused: Added a Small Ring at Station [1,1]
+Move 35 : 7:12:20 AM
+FriendlyReminder: Added a Large Ring at Station [-1,-1]
+Move 36 : 11:12:54 AM
+fiscused: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 37 : 2:10:38 PM
+FriendlyReminder: Added a Large Ring at Station [0,-1]
+The end of the game: FriendlyReminder wins!

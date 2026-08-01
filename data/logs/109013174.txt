@@ -1,0 +1,111 @@
+Move 1 :
+8/26/2020 6:20:14 PM
+The colors of tmantones have been chosen according to their preferences. Change my preferences.
+Move 2 :
+6:22:50 PM
+tmantones: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 3 :
+6:23:30 PM
+Electric Skeleton: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+6:24:22 PM
+tmantones: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :
+6:24:32 PM
+Electric Skeleton: Added a Small Ring at Station [1,0]
+Move 6 :
+6:24:55 PM
+tmantones: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 7 :
+6:25:07 PM
+Electric Skeleton: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+6:25:27 PM
+tmantones: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 9 :
+6:26:03 PM
+Electric Skeleton: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :
+6:26:20 PM
+tmantones: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 11 :
+6:26:46 PM
+Electric Skeleton: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 12 :
+6:26:58 PM
+tmantones: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 13 :
+6:27:23 PM
+Electric Skeleton: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 14 :
+6:27:45 PM
+tmantones: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 15 :
+6:28:02 PM
+Electric Skeleton: Added a Small Ring at Station [1,1]
+Move 16 :
+6:28:27 PM
+tmantones: Added a Small Ring at Station [-1,0]
+Move 17 :
+6:28:36 PM
+Electric Skeleton: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+tmantones has to remove 1 orphaned rings
+Move 18 :
+6:28:57 PM
+tmantones: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 19 :
+6:29:49 PM
+Electric Skeleton: Added a Medium Ring at Station [1,0]
+Move 20 :
+6:29:57 PM
+tmantones: Added a Large Ring at Station [-1,0]
+Move 21 :
+6:30:06 PM
+Electric Skeleton: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 22 :
+6:30:59 PM
+tmantones: Added a Large Ring at Station [-1,-1]
+Move 23 :
+6:31:09 PM
+Electric Skeleton: Added a Large Ring at Station [0,1]
+Move 24 :
+6:31:14 PM
+tmantones: Added a Medium Ring at Station [0,-1]
+Move 25 :
+6:31:28 PM
+Electric Skeleton: Added a Medium Ring at Station [1,1]
+Move 26 :
+6:31:35 PM
+tmantones: Added a Large Ring at Station [1,-1]
+Move 27 :
+6:31:39 PM
+Electric Skeleton: Added a Large Ring at Station [1,0]
+Move 28 :
+6:31:52 PM
+tmantones: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Electric Skeleton has to remove 6 orphaned rings
+Move 29 :
+6:32:03 PM
+Electric Skeleton: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 30 :
+6:32:31 PM
+tmantones: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 31 :
+6:32:57 PM
+Electric Skeleton: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 32 :
+6:33:04 PM
+tmantones: Added a Medium Ring at Station [1,0]
+Move 33 :
+6:33:13 PM
+Electric Skeleton: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 34 :
+6:33:20 PM
+tmantones: Added a Small Ring at Station [1,1]
+Move 35 :
+6:33:29 PM
+Electric Skeleton: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 36 :
+6:33:35 PM
+tmantones: Added a Large Ring at Station [0,1]
+The end of the game: tmantones wins!

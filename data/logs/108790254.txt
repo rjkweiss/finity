@@ -1,0 +1,109 @@
+Move 2 :
+8/25/2020 11:52:03 AM
+elskugi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 3 :
+11:52:50 AM
+Schenni: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 4 :
+11:54:05 AM
+Istariel: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+11:54:14 AM
+elskugi: Added a Small Ring at Station [1,0]
+Move 6 :
+11:54:30 AM
+Schenni: Added a Small Ring at Station [-2,1]
+Move 7 :
+11:54:42 AM
+Istariel: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 8 :
+11:55:19 AM
+elskugi: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 9 :
+11:55:59 AM
+Schenni: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 10 :
+11:56:10 AM
+Istariel: Added a Small Ring at Station [-1,1]
+Move 11 :
+11:57:01 AM
+elskugi: Added a Medium Ring at Station [1,0]
+Move 12 :
+11:57:08 AM
+Schenni: Added a Large Ring at Station [-1,1]
+Move 13 :
+11:58:11 AM
+Istariel: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 14 :
+11:58:24 AM
+elskugi: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 15 :
+11:59:19 AM
+Schenni: Added a Black Bridge at Station [-1,1] => [0,0] Position:Right
+Move 16 :
+12:00:00 PM
+Istariel: Added a Small Ring at Station [-1,0]
+Move 17 :
+12:00:58 PM
+elskugi: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 18 :
+12:01:42 PM
+Schenni: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 19 :
+12:02:02 PM
+Istariel: Added a Medium Ring at Station [-2,1]
+Move 20 :
+12:04:26 PM
+elskugi: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 21 :
+12:04:37 PM
+Schenni: Added a Large Ring at Station [-2,1]
+Move 22 :
+12:05:41 PM
+Istariel: Added a Medium Ring at Station [-1,0]
+Move 23 :
+12:06:10 PM
+elskugi: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 24 :
+12:06:20 PM
+Schenni: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 25 :
+12:07:51 PM
+Istariel: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 26 :
+12:08:43 PM
+elskugi: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 27 :
+12:10:00 PM
+Schenni: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 28 :
+12:10:27 PM
+Istariel: Added a Small Ring at Station [0,-1]
+Move 29 :
+12:11:32 PM
+elskugi: Added a Small Ring at Station [1,-2]
+Move 30 :
+12:12:07 PM
+Schenni: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 31 :
+12:12:29 PM
+Istariel: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 32 :
+12:12:39 PM
+elskugi: Added a Medium Ring at Station [1,-2]
+Move 33 :
+12:12:56 PM
+Schenni: Added a White Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 34 :
+12:13:12 PM
+Istariel: Added a Large Ring at Station [1,-2]
+Move 35 :
+12:14:00 PM
+elskugi: Added a Medium Ring at Station [0,-1]
+Move 36 :
+12:14:07 PM
+Schenni: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 37 :
+12:14:15 PM
+Istariel: Added a Large Ring at Station [0,-1]
+The end of the game: Istariel wins!

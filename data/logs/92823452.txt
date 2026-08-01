@@ -1,0 +1,95 @@
+Move 1 :
+6/3/2020 12:42:16 PM
+The colors of Vikingattien have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:42:47 PM
+hervé22440: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+12:43:18 PM
+Vikingattien: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+12:44:18 PM
+hervé22440: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+12:44:28 PM
+Vikingattien: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 6 :
+12:44:37 PM
+hervé22440: Added a Small Ring at Station [0,1]
+Move 7 :
+12:44:47 PM
+Vikingattien: Added a Small Ring at Station [1,0]
+Move 8 :
+12:44:54 PM
+hervé22440: Added a Medium Ring at Station [0,1]
+Move 9 :
+12:45:11 PM
+Vikingattien: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 10 :
+12:45:18 PM
+hervé22440: Added a Large Ring at Station [0,1]
+Move 11 :
+12:45:27 PM
+Vikingattien: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+hervé22440 has to remove 3 orphaned rings
+Move 12 :
+12:46:01 PM
+hervé22440: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 13 :
+12:46:14 PM
+Vikingattien: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 14 :
+12:46:37 PM
+hervé22440: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 15 :
+12:46:44 PM
+Vikingattien: Added a Medium Ring at Station [1,0]
+Move 16 :
+12:47:39 PM
+hervé22440: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 17 :
+12:47:53 PM
+Vikingattien: Moved a Base Post at Station [1,0]
+Move 18 :
+12:48:53 PM
+hervé22440: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 19 :
+12:49:02 PM
+Vikingattien: Added a Small Ring at Station [1,-1]
+Move 20 :
+12:49:14 PM
+hervé22440: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 21 :
+12:49:21 PM
+Vikingattien: Added a Medium Ring at Station [1,-1]
+Move 22 :
+12:49:28 PM
+hervé22440: Added a Small Ring at Station [-1,0]
+Move 23 :
+12:49:36 PM
+Vikingattien: Added a Small Ring at Station [0,-1]
+Move 24 :
+12:49:44 PM
+hervé22440: Added a Large Ring at Station [-1,0]
+Move 25 :
+12:50:03 PM
+Vikingattien: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 26 :
+12:50:13 PM
+hervé22440: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 27 :
+12:50:23 PM
+Vikingattien: Added a Small Ring at Station [1,1]
+Move 28 :
+12:50:29 PM
+hervé22440: Added a Medium Ring at Station [-1,0]
+Move 29 :
+12:50:42 PM
+Vikingattien: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 30 :
+12:50:55 PM
+hervé22440: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 31 :
+12:51:02 PM
+Vikingattien: Added a Small Ring at Station [0,1]
+The end of the game: Vikingattien wins!

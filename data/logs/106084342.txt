@@ -1,0 +1,77 @@
+Move 1 :
+8/9/2020 5:11:56 PM
+The colors of Magicalyn, emylee63 have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+6:09:18 PM
+Magicalyn: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+7:11:18 PM
+emylee63: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+7:20:06 PM
+Magicalyn: Added a Large Ring at Station [0,1]
+Move 5 :
+7:47:14 PM
+emylee63: Added a Small Ring at Station [0,-1]
+Move 6 :
+7:52:05 PM
+Magicalyn: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 7 :
+7:52:49 PM
+emylee63: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 8 :
+7:54:29 PM
+Magicalyn: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 9 :
+7:56:23 PM
+emylee63: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 10 :
+7:57:00 PM
+Magicalyn: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 11 :
+8:00:23 PM
+emylee63: Added a Medium Ring at Station [0,-1]
+Move 12 :
+8:05:22 PM
+Magicalyn: Added a Large Ring at Station [1,1]
+Move 13 :
+8:10:23 PM
+emylee63: Added a Small Ring at Station [-1,-1]
+Move 14 :
+8:14:46 PM
+Magicalyn: Added a Medium Ring at Station [1,1]
+Move 15 :
+8:15:42 PM
+emylee63: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 16 :
+8:18:52 PM
+Magicalyn: Added a Medium Ring at Station [0,1]
+Move 17 :
+8:19:16 PM
+emylee63: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 18 :
+8:22:55 PM
+Magicalyn: Added a Large Ring at Station [1,0]
+Move 19 :
+8/10/2020 7:31:22 PM
+emylee63: Added a Medium Ring at Station [-1,-1]
+Move 20 :
+8:16:18 PM
+Magicalyn: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :
+8/11/2020 4:20:59 PM
+emylee63: Added a Large Ring at Station [0,-1]
+Move 22 :
+5:05:27 PM
+Magicalyn: Added a Large Ring at Station [1,-1]
+Move 23 :
+5:10:28 PM
+emylee63: Added a Large Ring at Station [-1,-1]
+Move 24 :
+6:12:05 PM
+Magicalyn: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 25 :
+7:05:53 PM
+emylee63: Added a Small Ring at Station [-1,0]
+The end of the game: emylee63 wins!

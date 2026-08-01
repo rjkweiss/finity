@@ -1,0 +1,105 @@
+Move 1 :
+8/25/2020 2:16:30 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+2:17:51 AM
+HeaHeaLeo: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 3 :
+2:18:22 AM
+hiihiii: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+2:18:34 AM
+HeaHeaLeo: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+2:18:49 AM
+hiihiii: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+2:19:03 AM
+HeaHeaLeo: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+2:19:17 AM
+hiihiii: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 8 :
+2:19:52 AM
+HeaHeaLeo: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 9 :
+2:20:02 AM
+hiihiii: Added a Medium Ring at Station [1,0]
+Move 10 :
+2:20:08 AM
+HeaHeaLeo: Added a Medium Ring at Station [0,1]
+Move 11 :
+2:20:15 AM
+hiihiii: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 12 :
+2:20:20 AM
+HeaHeaLeo: Added a Small Ring at Station [0,1]
+Move 13 :
+2:20:45 AM
+hiihiii: Added a Small Ring at Station [1,0]
+Move 14 :
+2:20:52 AM
+HeaHeaLeo: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 15 :
+2:21:14 AM
+hiihiii: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+2:22:08 AM
+HeaHeaLeo: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :
+2:22:54 AM
+hiihiii: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 18 :
+2:22:59 AM
+HeaHeaLeo: Added a Medium Ring at Station [1,1]
+Move 19 :
+2:23:11 AM
+hiihiii: Added a Medium Ring at Station [0,-1]
+Move 20 :
+2:23:17 AM
+HeaHeaLeo: Added a Small Ring at Station [1,1]
+Move 21 :
+2:23:32 AM
+hiihiii: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 22 :
+2:23:39 AM
+HeaHeaLeo: Moved a Base Post at Station [1,1]
+HeaHeaLeo has to remove 2 orphaned rings
+Move 23 :
+2:24:00 AM
+hiihiii: Added a Small Ring at Station [0,-1]
+Move 24 :
+2:24:07 AM
+HeaHeaLeo: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 25 :
+2:24:15 AM
+hiihiii: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 26 :
+2:24:22 AM
+HeaHeaLeo: Added a Medium Ring at Station [0,1]
+Move 27 :
+2:24:28 AM
+hiihiii: Moved a Base Post at Station [0,-1]
+hiihiii has to remove 2 orphaned rings
+Move 28 :
+2:24:50 AM
+HeaHeaLeo: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 29 :
+2:24:58 AM
+hiihiii: Moved a Base Post at Station [1,-1]
+Move 30 :
+2:25:04 AM
+HeaHeaLeo: Added a Medium Ring at Station [1,0]
+Move 31 :
+2:25:12 AM
+hiihiii: Added a Small Ring at Station [1,0]
+Move 32 :
+2:25:20 AM
+HeaHeaLeo: Added a Small Ring at Station [0,1]
+Move 33 :
+2:27:12 AM
+hiihiii: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 34 :
+2:27:18 AM
+HeaHeaLeo: Added a Medium Ring at Station [-1,1]
+The end of the game: HeaHeaLeo wins!

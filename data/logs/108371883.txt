@@ -1,0 +1,277 @@
+Move 2 :
+8/23/2020 1:13:09 AM
+Ikaria58: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 3 :
+1:13:50 AM
+Cakesand: Reversed a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 4 :
+1:14:23 AM
+kitto25: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+1:15:11 AM
+TrueOne: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 6 :
+1:15:40 AM
+Ikaria58: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 7 :
+1:16:31 AM
+Cakesand: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 8 :
+1:17:44 AM
+kitto25: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 9 :
+1:18:05 AM
+TrueOne: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 10 :
+1:18:26 AM
+Ikaria58: Added a Small Ring at Station [-2,1]
+Move 11 :
+1:18:46 AM
+Cakesand: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+1:20:19 AM
+kitto25: Moved a Blocker at Station [-2,1] => [-1,1] Position:Right
+Move 13 :
+1:21:07 AM
+TrueOne: Added a White Bridge at Station [0,0] => [-1,1] Position:Right
+Move 14 :
+1:22:08 AM
+Ikaria58: Added a Medium Ring at Station [-2,1]
+Move 15 :
+1:22:22 AM
+Cakesand: Added a Small Ring at Station [-1,-1]
+Move 16 :
+1:22:38 AM
+kitto25: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 17 :
+1:23:24 AM
+TrueOne: Added a Black Bridge at Station [-1,2] => [0,1] Position:Left
+Move 18 :
+1:23:48 AM
+Ikaria58: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 19 :
+1:23:58 AM
+Cakesand: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 20 :
+1:24:44 AM
+kitto25: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 21 :
+1:25:12 AM
+TrueOne: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 22 :
+1:25:33 AM
+Ikaria58: Added a Large Ring at Station [-1,1]
+Move 23 :
+1:26:54 AM
+Cakesand: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :
+1:27:40 AM
+kitto25: Added a Black Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 25 :
+1:29:27 AM
+TrueOne: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 26 :
+1:29:37 AM
+Ikaria58: Added a Large Ring at Station [-2,1]
+Move 27 :
+1:29:49 AM
+Cakesand: Added a Small Ring at Station [1,-1]
+Move 28 :
+1:30:08 AM
+kitto25: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 29 :
+1:30:15 AM
+TrueOne: Added a Small Ring at Station [0,1]
+Move 30 :
+1:30:52 AM
+Ikaria58: Moved a Base Post at Station [-2,1]
+Ikaria58 has to remove 1 orphaned rings
+Move 31 :
+1:31:18 AM
+Cakesand: Added a Large Ring at Station [1,-1]
+Move 32 :
+1:31:33 AM
+kitto25: Added a Small Ring at Station [1,1]
+Move 33 :
+1:31:47 AM
+TrueOne: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 34 :
+1:32:04 AM
+Ikaria58: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 35 :
+1:32:18 AM
+Cakesand: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 36 :
+1:32:52 AM
+kitto25: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 37 :
+1:32:59 AM
+TrueOne: Added a Large Ring at Station [-1,1]
+Move 38 :
+1:33:07 AM
+Ikaria58: Added a Small Ring at Station [-1,0]
+Move 39 :
+1:33:23 AM
+Cakesand: Added a Medium Ring at Station [-1,0]
+Move 40 :
+1:35:09 AM
+kitto25: Added a Medium Ring at Station [1,1]
+Move 41 :
+1:35:19 AM
+TrueOne: Added a Small Ring at Station [-1,2]
+Move 42 :
+1:35:33 AM
+Ikaria58: Added a Large Ring at Station [-1,0]
+Move 43 :
+1:36:13 AM
+Cakesand: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 44 :
+1:37:21 AM
+kitto25: Removed a Blocker at Station [-1,0] => [0,0] Position:Left
+Move 45 :
+1:37:47 AM
+TrueOne: Added a Medium Ring at Station [-1,2]
+Move 46 :
+1:38:14 AM
+Ikaria58: Reversed a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 47 :
+1:38:25 AM
+Cakesand: Added a Small Ring at Station [1,0]
+Move 48 :
+1:38:38 AM
+kitto25: Added a White Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 49 :
+1:38:52 AM
+TrueOne: Added a Large Ring at Station [-1,2]
+Move 50 :
+1:39:51 AM
+Ikaria58: Reversed a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 51 :
+1:40:37 AM
+Cakesand: Added a Medium Ring at Station [0,1]
+Move 52 :
+1:41:20 AM
+kitto25: Added a Large Ring at Station [1,1]
+Move 53 :
+1:41:40 AM
+TrueOne: Added a Large Ring at Station [0,1]
+Move 54 :
+1:42:01 AM
+Ikaria58: Added a Small Ring at Station [-1,1]
+Move 55 :
+1:42:08 AM
+Cakesand: Added a Medium Ring at Station [-1,1]
+Move 56 :
+1:42:28 AM
+kitto25: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 57 :
+1:42:56 AM
+TrueOne: Added a Black Bridge at Station [1,0] => [2,-1] Position:Right
+Move 58 :
+1:43:50 AM
+Ikaria58: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Cakesand has to remove 1 orphaned rings
+Move 59 :
+1:45:04 AM
+Cakesand: Reversed a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Ikaria58 has to remove 1 orphaned rings
+Move 60 :
+1:45:14 AM
+kitto25: Added a Medium Ring at Station [1,0]
+Move 61 :
+1:45:27 AM
+TrueOne: Added a Small Ring at Station [2,-1]
+Move 62 :
+1:48:49 AM
+Ikaria58: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 63 :
+1:49:09 AM
+Cakesand: Added a Medium Ring at Station [2,-1]
+Move 64 :
+1:49:28 AM
+kitto25: Added a Large Ring at Station [2,-1]
+Move 65 :
+1:49:51 AM
+TrueOne: Reversed a Black Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 66 :
+1:49:58 AM
+Ikaria58: Added a Medium Ring at Station [-1,1]
+Move 67 :
+1:53:58 AM
+Cakesand: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 68 :
+1:54:10 AM
+kitto25: Added a Medium Ring at Station [1,-1]
+Move 69 :
+1:54:31 AM
+TrueOne: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 70 :
+1:56:05 AM
+Ikaria58: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Cakesand has to remove 1 orphaned rings
+TrueOne has to remove 6 orphaned rings
+Move 71 :
+1:57:13 AM
+Cakesand: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 72 :
+1:57:31 AM
+kitto25: Added a Large Ring at Station [1,0]
+Move 73 :
+1:58:19 AM
+TrueOne: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 74 :
+1:58:36 AM
+Ikaria58: Added a Large Ring at Station [-1,1]
+Move 75 :
+1:58:43 AM
+Cakesand: Added a Small Ring at Station [-1,1]
+Move 76 :
+1:58:59 AM
+kitto25: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 77 :
+1:59:11 AM
+TrueOne: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 78 :
+2:00:36 AM
+Ikaria58: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 79 :
+2:03:47 AM
+Cakesand: Added a Small Ring at Station [-1,2]
+Move 80 :
+2:04:09 AM
+kitto25: Reversed a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 81 :
+2:04:52 AM
+TrueOne: Added a Small Ring at Station [0,1]
+Move 82 :
+2:07:28 AM
+Ikaria58: Added a White Bridge at Station [-1,2] => [0,1] Position:Middle
+Move 83 :
+2:07:37 AM
+Cakesand: Added a Medium Ring at Station [0,1]
+Move 84 :
+2:08:20 AM
+kitto25: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 85 :
+2:08:55 AM
+TrueOne: Reversed a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 86 :
+2:09:28 AM
+Ikaria58: Added a Medium Ring at Station [-1,2]
+Move 87 :
+2:09:38 AM
+Cakesand: Added a White Bridge at Station [2,-1] => [1,-1] Position:Left
+Move 88 :
+2:10:07 AM
+kitto25: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 89 :
+2:10:58 AM
+TrueOne: Moved a Base Post at Station [-1,2]
+TrueOne has to remove 1 orphaned rings
+Move 90 :
+2:11:28 AM
+Ikaria58: Added a Large Ring at Station [0,1]
+Move 91 :
+2:11:55 AM
+Cakesand: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: Cakesand wins!

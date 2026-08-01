@@ -1,0 +1,185 @@
+Move 2 :
+8/12/2020 1:37:12 AM
+shunpowpow: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 3 :
+1:37:27 AM
+neverlosemanP: Added a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 4 :
+1:37:49 AM
+like a coffee beans: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+1:37:55 AM
+shunpowpow: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 6 :
+1:38:02 AM
+neverlosemanP: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 7 :
+1:38:21 AM
+like a coffee beans: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 8 :
+1:38:30 AM
+shunpowpow: Added a Small Ring at Station [1,-2]
+Move 9 :
+1:38:37 AM
+neverlosemanP: Added a Small Ring at Station [-2,1]
+Move 10 :
+1:38:45 AM
+like a coffee beans: Added a Small Ring at Station [1,1]
+Move 11 :
+1:38:57 AM
+shunpowpow: Added a Medium Ring at Station [1,-2]
+Move 12 :
+1:39:03 AM
+neverlosemanP: Added a Medium Ring at Station [-2,1]
+Move 13 :
+1:39:10 AM
+like a coffee beans: Added a Medium Ring at Station [1,1]
+Move 14 :
+1:39:28 AM
+shunpowpow: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 15 :
+1:39:49 AM
+neverlosemanP: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 16 :
+1:39:59 AM
+like a coffee beans: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 17 :
+1:40:08 AM
+shunpowpow: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 18 :
+1:40:16 AM
+neverlosemanP: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 19 :
+1:40:24 AM
+like a coffee beans: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 20 :
+1:40:52 AM
+shunpowpow: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 21 :
+1:41:21 AM
+neverlosemanP: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 22 :
+1:41:59 AM
+like a coffee beans: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 23 :
+1:42:04 AM
+shunpowpow: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 24 :
+1:42:14 AM
+neverlosemanP: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 25 :
+1:42:33 AM
+like a coffee beans: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+1:42:39 AM
+shunpowpow: Added a Small Ring at Station [0,-1]
+Move 27 :
+1:43:11 AM
+neverlosemanP: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 28 :
+1:43:18 AM
+like a coffee beans: Added a Small Ring at Station [1,0]
+Move 29 :
+1:43:23 AM
+shunpowpow: Added a Medium Ring at Station [0,-1]
+Move 30 :
+1:43:34 AM
+neverlosemanP: Added a Large Ring at Station [0,-1]
+Move 31 :
+1:43:46 AM
+like a coffee beans: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 32 :
+1:43:58 AM
+shunpowpow: Added a Large Ring at Station [1,-2]
+Move 33 :
+1:44:04 AM
+neverlosemanP: Added a Small Ring at Station [1,-1]
+Move 34 :
+1:44:16 AM
+like a coffee beans: Added a Medium Ring at Station [1,-1]
+Move 35 :
+1:44:24 AM
+shunpowpow: Added a Small Ring at Station [-1,0]
+Move 36 :
+1:44:39 AM
+neverlosemanP: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+like a coffee beans has to remove 1 orphaned rings
+Move 37 :
+1:44:53 AM
+like a coffee beans: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 38 :
+1:45:05 AM
+shunpowpow: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+neverlosemanP has to remove 2 orphaned rings
+Move 39 :
+1:45:35 AM
+neverlosemanP: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 40 :
+1:45:46 AM
+like a coffee beans: Added a Medium Ring at Station [1,0]
+Move 41 :
+1:46:04 AM
+shunpowpow: Added a Large Ring at Station [0,-1]
+Move 42 :
+1:46:27 AM
+neverlosemanP: Added a Small Ring at Station [-1,1]
+Move 43 :
+1:46:34 AM
+like a coffee beans: Added a Large Ring at Station [1,0]
+Move 44 :
+1:46:40 AM
+shunpowpow: Added a Medium Ring at Station [-1,0]
+Move 45 :
+1:46:52 AM
+neverlosemanP: Added a Medium Ring at Station [-1,1]
+Move 46 :
+1:47:03 AM
+like a coffee beans: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 47 :
+1:47:10 AM
+shunpowpow: Added a Large Ring at Station [-2,1]
+Move 48 :
+1:47:15 AM
+neverlosemanP: Added a Large Ring at Station [-1,1]
+Move 49 :
+1:47:23 AM
+like a coffee beans: Added a Small Ring at Station [1,-1]
+Move 50 :
+1:48:46 AM
+shunpowpow: Moved a Base Post at Station [-2,1]
+Move 51 :
+1:49:18 AM
+neverlosemanP: Removed a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+shunpowpow has to remove 8 orphaned rings
+Move 52 :
+1:49:48 AM
+like a coffee beans: Added a Small Ring at Station [1,-2]
+Move 53 :
+1:50:14 AM
+shunpowpow: Removed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+neverlosemanP has to remove 5 orphaned rings
+Move 54 :
+1:50:46 AM
+neverlosemanP: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 55 :
+1:50:55 AM
+like a coffee beans: Added a Small Ring at Station [0,-1]
+Move 56 :
+1:53:09 AM
+shunpowpow: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 57 :
+1:53:43 AM
+neverlosemanP: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 58 :
+1:53:52 AM
+like a coffee beans: Added a Medium Ring at Station [1,-1]
+Move 59 :
+1:55:48 AM
+shunpowpow: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 60 :
+1:56:00 AM
+neverlosemanP: Added a Medium Ring at Station [0,-1]
+Move 61 :
+1:56:07 AM
+like a coffee beans: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: like a coffee beans wins!

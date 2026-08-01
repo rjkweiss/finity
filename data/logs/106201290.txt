@@ -1,0 +1,82 @@
+Move 1 :
+8/10/2020 10:37:30 AM
+The colors of Safrad have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:38:03 AM
+Safrad: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 3 :
+10:39:38 AM
+Irynaa: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 4 :
+10:40:18 AM
+Safrad: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 5 :
+10:40:38 AM
+Irynaa: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 6 :
+10:40:50 AM
+Safrad: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 7 :
+10:42:38 AM
+Irynaa: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 8 :
+10:43:16 AM
+Safrad: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :
+10:43:25 AM
+Irynaa: Added a Small Ring at Station [0,-1]
+Move 10 :
+10:43:34 AM
+Safrad: Added a Small Ring at Station [-1,0]
+Move 11 :
+10:47:05 AM
+Irynaa: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+10:47:46 AM
+Safrad: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 13 :
+10:48:02 AM
+Irynaa: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 14 :
+10:48:48 AM
+Safrad: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 15 :
+10:49:00 AM
+Irynaa: Added a Small Ring at Station [-1,-1]
+Move 16 :
+10:49:10 AM
+Safrad: Added a Small Ring at Station [0,1]
+Move 17 :
+10:49:27 AM
+Irynaa: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 18 :
+10:49:37 AM
+Safrad: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 19 :
+10:49:53 AM
+Irynaa: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 20 :
+10:50:07 AM
+Safrad: Added a Medium Ring at Station [0,1]
+Move 21 :
+10:50:16 AM
+Irynaa: Added a Medium Ring at Station [-1,0]
+Move 22 :
+10:51:52 AM
+Safrad: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 23 :
+10:52:33 AM
+Irynaa: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 24 :
+10:52:57 AM
+Safrad: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 25 :
+10:53:26 AM
+Irynaa: Added a Medium Ring at Station [-1,-1]
+Move 26 :
+10:53:57 AM
+Safrad: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 27 :
+10:54:04 AM
+Irynaa: Added a Medium Ring at Station [0,-1]
+The end of the game: Irynaa wins!

@@ -1,0 +1,117 @@
+Game log
+Move 1 :10/23/2022 1:16:39 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :1:18:09 AM
+kumaji: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 3 :1:18:32 AM
+akihim: Added a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 4 :1:18:39 AM
+kurotani5050: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :1:18:46 AM
+kumaji: Added a Large Ring at Station [1,-2]
+Move 6 :1:18:52 AM
+akihim: Added a Large Ring at Station [-2,1]
+Move 7 :1:18:58 AM
+kurotani5050: Added a Large Ring at Station [1,1]
+Move 8 :1:19:03 AM
+kumaji: Moved a Base Post at Station [1,-2]
+Move 9 :1:19:09 AM
+akihim: Moved a Base Post at Station [-2,1]
+Move 10 :1:19:17 AM
+kurotani5050: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 11 :1:19:27 AM
+kumaji: Added a White Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 12 :1:19:46 AM
+akihim: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 13 :1:20:08 AM
+kurotani5050: Moved a Base Post at Station [1,1]
+Move 14 :1:20:16 AM
+kumaji: Added a Medium Ring at Station [1,-1]
+Move 15 :1:20:21 AM
+akihim: Added a Large Ring at Station [-1,0]
+Move 16 :1:20:47 AM
+kurotani5050: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :1:21:05 AM
+kumaji: Moved a Base Post at Station [1,-1]
+Move 18 :1:21:14 AM
+akihim: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 19 :1:21:19 AM
+kurotani5050: Added a Large Ring at Station [0,1]
+Move 20 :1:21:27 AM
+kumaji: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 21 :1:21:46 AM
+akihim: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 22 :1:21:53 AM
+kurotani5050: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 23 :1:22:00 AM
+kumaji: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 24 :1:22:22 AM
+akihim: Added a Medium Ring at Station [0,-1]
+Move 25 :1:22:31 AM
+kurotani5050: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 26 :1:22:42 AM
+kumaji: Added a Small Ring at Station [0,-1]
+Move 27 :1:22:48 AM
+akihim: Added a Large Ring at Station [0,-1]
+Move 28 :1:22:53 AM
+kurotani5050: Added a Medium Ring at Station [0,1]
+Move 29 :1:23:13 AM
+kumaji: Reversed a White Bridge at Station [-2,1] => [-1,0] Position:Right
+akihim has to remove 3 orphaned rings
+Move 30 :1:23:48 AM
+akihim: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 31 :1:24:24 AM
+kurotani5050: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 32 :1:24:51 AM
+kumaji: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 33 :1:25:00 AM
+akihim: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 34 :1:25:06 AM
+kurotani5050: Added a Large Ring at Station [1,0]
+Move 35 :1:25:14 AM
+kumaji: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 36 :1:25:21 AM
+akihim: Added a White Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 37 :1:25:27 AM
+kurotani5050: Removed a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 38 :1:25:35 AM
+kumaji: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 39 :1:25:43 AM
+akihim: Added a Large Ring at Station [-1,0]
+Move 40 :1:25:55 AM
+kurotani5050: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 41 :1:26:03 AM
+kumaji: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 42 :1:26:09 AM
+akihim: Added a Large Ring at Station [0,-1]
+Move 43 :1:26:14 AM
+kurotani5050: Added a Medium Ring at Station [1,0]
+Move 44 :1:26:19 AM
+kumaji: Added a Small Ring at Station [1,0]
+Move 45 :1:26:49 AM
+akihim: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 46 :1:27:15 AM
+kurotani5050: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 47 :1:28:47 AM
+kumaji: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 48 :1:28:54 AM
+akihim: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 49 :1:29:00 AM
+kurotani5050: Added a Small Ring at Station [0,1]
+Move 50 :1:29:09 AM
+kumaji: Added a Medium Ring at Station [1,1]
+Move 51 :1:29:32 AM
+akihim: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 52 :1:29:36 AM
+kurotani5050: Added a Large Ring at Station [-1,1]
+Move 53 :1:30:09 AM
+kumaji: Added a Medium Ring at Station [-1,0]
+Move 54 :1:30:17 AM
+akihim: Added a Small Ring at Station [-1,0]
+Move 55 :1:30:24 AM
+kurotani5050: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 56 :1:30:45 AM
+kumaji: Moved a Blocker at Station [1,1] => [0,1] Position:Left
+Move 57 :1:30:52 AM
+akihim: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+The end of the game: kurotani5050 wins!

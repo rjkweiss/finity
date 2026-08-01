@@ -1,0 +1,86 @@
+Move 1 :
+8/14/2020 9:01:02 AM
+The colors of DomiNT, Tjaball have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:39:01 PM
+DomiNT: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 3 :
+11:38:53 PM
+Tjaball: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+8/15/2020 2:09:57 AM
+DomiNT: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :
+4:00:34 AM
+Tjaball: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 6 :
+6:21:14 AM
+DomiNT: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 7 :
+7:50:13 AM
+Tjaball: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 8 :
+8:58:16 AM
+DomiNT: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 9 :
+10:39:27 AM
+Tjaball: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 10 :
+12:51:02 PM
+DomiNT: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 11 :
+2:20:57 PM
+Tjaball: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 12 :
+2:42:36 PM
+DomiNT: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 13 :
+9:46:45 PM
+Tjaball: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 14 :
+8/16/2020 12:17:57 AM
+DomiNT: Added a Small Ring at Station [0,1]
+Move 15 :
+1:29:33 AM
+Tjaball: Added a Small Ring at Station [0,-1]
+Move 16 :
+1:31:12 AM
+DomiNT: Added a Small Ring at Station [1,1]
+Move 17 :
+4:09:08 AM
+Tjaball: Added a Small Ring at Station [-1,-1]
+Move 18 :
+5:36:16 AM
+DomiNT: Added a Medium Ring at Station [1,0]
+Move 19 :
+9:27:00 AM
+Tjaball: Added a Small Ring at Station [-1,0]
+Move 20 :
+10:23:18 AM
+DomiNT: Added a Medium Ring at Station [1,-1]
+Move 21 :
+10:24:26 AM
+Tjaball: Added a Small Ring at Station [-1,1]
+Move 22 :
+10:25:59 AM
+DomiNT: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Tjaball has to remove 4 orphaned rings
+Move 23 :
+1:18:33 PM
+Tjaball: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 24 :
+2:21:14 PM
+DomiNT: Added a Small Ring at Station [0,-1]
+Move 25 :
+8/17/2020 12:15:58 AM
+Tjaball: Added a Medium Ring at Station [0,-1]
+Move 26 :
+1:21:37 AM
+DomiNT: Added a Medium Ring at Station [-1,-1]
+Move 27 :
+1:38:19 AM
+Tjaball: Moved a Blocker at Station [1,0] => [1,-1] Position:Right
+Move 28 :
+1:49:08 AM
+DomiNT: Added a Small Ring at Station [-1,0]
+The end of the game: DomiNT wins!

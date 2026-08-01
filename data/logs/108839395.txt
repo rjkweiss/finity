@@ -1,0 +1,208 @@
+Move 2 :
+8/25/2020 4:43:35 PM
+SirTocaPelotas: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+4:45:49 PM
+VIPDerekDavis: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+4:45:58 PM
+SirTocaPelotas: Added a Small Ring at Station [0,1]
+Move 5 :
+4:46:18 PM
+VIPDerekDavis: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 6 :
+4:46:34 PM
+SirTocaPelotas: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :
+4:47:03 PM
+VIPDerekDavis: Added a Large Ring at Station [1,0]
+Move 8 :
+4:47:22 PM
+SirTocaPelotas: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 9 :
+4:47:29 PM
+VIPDerekDavis: Added a Large Ring at Station [1,1]
+Move 10 :
+4:48:13 PM
+SirTocaPelotas: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 11 :
+4:48:29 PM
+VIPDerekDavis: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 12 :
+4:48:53 PM
+SirTocaPelotas: Added a Large Ring at Station [0,1]
+Move 13 :
+4:48:58 PM
+VIPDerekDavis: Added a Medium Ring at Station [0,1]
+Move 14 :
+4:49:10 PM
+SirTocaPelotas: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 15 :
+4:49:37 PM
+VIPDerekDavis: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 16 :
+4:50:06 PM
+SirTocaPelotas: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 17 :
+4:50:15 PM
+VIPDerekDavis: Added a Medium Ring at Station [-1,1]
+Move 18 :
+4:50:26 PM
+SirTocaPelotas: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 19 :
+4:50:43 PM
+VIPDerekDavis: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 20 :
+4:52:43 PM
+SirTocaPelotas: Added a Small Ring at Station [1,0]
+Move 21 :
+4:52:51 PM
+VIPDerekDavis: Added a Large Ring at Station [-1,0]
+Move 22 :
+4:53:13 PM
+SirTocaPelotas: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+VIPDerekDavis has to remove 5 orphaned rings
+Move 23 :
+4:53:42 PM
+VIPDerekDavis: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 24 :
+4:54:21 PM
+SirTocaPelotas: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 25 :
+4:54:40 PM
+VIPDerekDavis: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 26 :
+4:54:47 PM
+SirTocaPelotas: Added a Medium Ring at Station [1,-1]
+Move 27 :
+4:55:10 PM
+VIPDerekDavis: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 28 :
+4:55:30 PM
+SirTocaPelotas: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 29 :
+4:55:36 PM
+VIPDerekDavis: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+SirTocaPelotas has to remove 2 orphaned rings
+Move 30 :
+4:55:49 PM
+SirTocaPelotas: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 31 :
+4:55:57 PM
+VIPDerekDavis: Added a Large Ring at Station [1,0]
+Move 32 :
+4:56:03 PM
+SirTocaPelotas: Added a Small Ring at Station [1,0]
+Move 33 :
+4:56:08 PM
+VIPDerekDavis: Added a Medium Ring at Station [1,0]
+Move 34 :
+4:56:16 PM
+SirTocaPelotas: Added a Medium Ring at Station [1,-1]
+Move 35 :
+4:56:48 PM
+VIPDerekDavis: Added a Large Ring at Station [1,1]
+Move 36 :
+4:56:54 PM
+SirTocaPelotas: Added a Medium Ring at Station [0,-1]
+Move 37 :
+4:57:42 PM
+VIPDerekDavis: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 38 :
+4:57:46 PM
+SirTocaPelotas: Added a Medium Ring at Station [0,1]
+Move 39 :
+4:59:31 PM
+VIPDerekDavis: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 40 :
+4:59:57 PM
+SirTocaPelotas: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 41 :
+5:00:23 PM
+VIPDerekDavis: Added a Small Ring at Station [0,-1]
+Move 42 :
+5:00:32 PM
+SirTocaPelotas: Added a Medium Ring at Station [-1,0]
+Move 43 :
+5:00:37 PM
+VIPDerekDavis: Added a Small Ring at Station [-1,0]
+Move 44 :
+5:00:42 PM
+SirTocaPelotas: Added a Medium Ring at Station [-1,-1]
+Move 45 :
+5:00:47 PM
+VIPDerekDavis: Added a Small Ring at Station [-1,1]
+Move 46 :
+5:01:46 PM
+SirTocaPelotas: Added a Small Ring at Station [-1,-1]
+Move 47 :
+5:03:28 PM
+VIPDerekDavis: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+SirTocaPelotas has to remove 4 orphaned rings
+VIPDerekDavis has to remove 3 orphaned rings
+Move 48 :
+5:03:42 PM
+SirTocaPelotas: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 49 :
+5:04:01 PM
+VIPDerekDavis: Added a Small Ring at Station [0,-1]
+Move 50 :
+5:04:07 PM
+SirTocaPelotas: Added a Medium Ring at Station [0,-1]
+Move 51 :
+5:04:11 PM
+VIPDerekDavis: Added a Small Ring at Station [-1,0]
+Move 52 :
+5:04:17 PM
+SirTocaPelotas: Added a Large Ring at Station [-1,0]
+Move 53 :
+5:04:22 PM
+VIPDerekDavis: Added a Small Ring at Station [-1,1]
+Move 54 :
+5:04:31 PM
+SirTocaPelotas: Added a Small Ring at Station [-1,-1]
+Move 55 :
+5:04:45 PM
+VIPDerekDavis: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 56 :
+5:05:09 PM
+SirTocaPelotas: Added a Medium Ring at Station [-1,-1]
+Move 57 :
+5:05:32 PM
+VIPDerekDavis: Added a Large Ring at Station [0,-1]
+Move 58 :
+5:05:57 PM
+SirTocaPelotas: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 59 :
+5:06:08 PM
+VIPDerekDavis: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 60 :
+5:06:15 PM
+SirTocaPelotas: Added a Large Ring at Station [-1,-1]
+Move 61 :
+5:06:32 PM
+VIPDerekDavis: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 62 :
+5:07:21 PM
+SirTocaPelotas: Added a Medium Ring at Station [-1,0]
+Move 63 :
+5:07:26 PM
+VIPDerekDavis: Moved a Base Post at Station [0,-1]
+VIPDerekDavis has to remove 4 orphaned rings
+Move 64 :
+5:08:15 PM
+SirTocaPelotas: Added a Medium Ring at Station [1,0]
+Move 65 :
+5:10:16 PM
+VIPDerekDavis: Moved a Base Post at Station [-1,0]
+VIPDerekDavis has to remove 2 orphaned rings
+Move 66 :
+5:10:24 PM
+SirTocaPelotas: Added a Small Ring at Station [1,-1]
+Move 67 :
+5:11:11 PM
+VIPDerekDavis: Moved a Base Post at Station [0,-1]
+Move 68 :
+5:11:17 PM
+SirTocaPelotas: Added a Small Ring at Station [0,-1]
+The end of the game: SirTocaPelotas wins!

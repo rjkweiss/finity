@@ -1,0 +1,69 @@
+Move 1 : 7/14/2022 4:22:40 AM
+The colors of zargonddg have been chosen according to their preferences. Change my preferences.
+Move 2 : 9:20:51 AM
+Lucidorchid: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 : 10:28:44 AM
+zargonddg: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 : 10:45:42 PM
+Lucidorchid: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 : 7/15/2022 2:36:04 AM
+zargonddg: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 6 : 4:16:10 AM
+Lucidorchid: Added a Small Ring at Station [-1,0]
+Move 7 : 4:50:17 AM
+zargonddg: Added a Small Ring at Station [1,0]
+Move 8 : 7:42:10 AM
+Lucidorchid: Added a Medium Ring at Station [-1,0]
+Move 9 : 7:50:19 AM
+zargonddg: Added a Medium Ring at Station [1,0]
+Move 10 : 7:54:29 AM
+Lucidorchid: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 11 : 7:55:39 AM
+zargonddg: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 12 : 8:08:51 AM
+Lucidorchid: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 13 : 8:09:11 AM
+zargonddg: Added a Small Ring at Station [1,1]
+Move 14 : 8:14:58 AM
+Lucidorchid: Added a Small Ring at Station [-1,-1]
+Move 15 : 8:15:27 AM
+zargonddg: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 16 : 8:18:08 AM
+Lucidorchid: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+zargonddg has to remove 3 orphaned rings
+Move 17 : 8:19:33 AM
+zargonddg: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 18 : 8:22:59 AM
+Lucidorchid: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 19 : 8:23:25 AM
+zargonddg: Added a Small Ring at Station [1,0]
+Move 20 : 8:26:12 AM
+Lucidorchid: Added a Medium Ring at Station [-1,-1]
+Move 21 : 8:26:32 AM
+zargonddg: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 22 : 8:26:44 AM
+Lucidorchid: Moved a Base Post at Station [-1,-1]
+Lucidorchid has to remove 2 orphaned rings
+Move 23 : 8:26:56 AM
+zargonddg: Added a Small Ring at Station [1,1]
+Move 24 : 8:27:29 AM
+Lucidorchid: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 25 : 8:27:37 AM
+zargonddg: Added a Medium Ring at Station [1,0]
+Move 26 : 8:27:51 AM
+Lucidorchid: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 27 : 8:28:02 AM
+zargonddg: Added a Medium Ring at Station [1,1]
+Move 28 : 8:28:53 AM
+Lucidorchid: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 29 : 8:29:07 AM
+zargonddg: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 30 : 7/16/2022 2:23:22 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 31 : 3:32:12 AM
+zargonddg: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 32 : 10:53:13 AM
+Lucidorchid: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 33 : 11:01:44 AM
+zargonddg: Added a Small Ring at Station [0,1]
+The end of the game: zargonddg wins!

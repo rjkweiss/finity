@@ -1,0 +1,94 @@
+Move 2 :
+6/2/2020 6:59:40 PM
+Nicolettes: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+7:00:04 PM
+poserLX: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+7:00:14 PM
+Nicolettes: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+7:00:31 PM
+poserLX: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+7:00:40 PM
+Nicolettes: Added a Small Ring at Station [0,1]
+Move 7 :
+7:01:06 PM
+poserLX: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 8 :
+7:01:36 PM
+Nicolettes: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 9 :
+7:01:53 PM
+poserLX: Added a Large Ring at Station [0,-1]
+Move 10 :
+7:02:37 PM
+Nicolettes: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 11 :
+7:03:33 PM
+poserLX: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 12 :
+7:03:56 PM
+Nicolettes: Added a Medium Ring at Station [1,1]
+Move 13 :
+7:04:11 PM
+poserLX: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 14 :
+7:04:24 PM
+Nicolettes: Added a Medium Ring at Station [0,1]
+Move 15 :
+7:04:58 PM
+poserLX: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 16 :
+7:05:57 PM
+Nicolettes: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 17 :
+7:06:13 PM
+poserLX: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 18 :
+7:06:26 PM
+Nicolettes: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 19 :
+7:07:15 PM
+poserLX: Moved a Base Post at Station [0,-1]
+Move 20 :
+7:07:49 PM
+Nicolettes: Added a Medium Ring at Station [1,0]
+Move 21 :
+7:10:13 PM
+poserLX: Moved a Base Post at Station [1,-1]
+Move 22 :
+7:10:35 PM
+Nicolettes: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 23 :
+7:11:27 PM
+poserLX: Moved a Base Post at Station [0,-1]
+Move 24 :
+7:12:04 PM
+Nicolettes: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 25 :
+7:12:27 PM
+poserLX: Moved a Base Post at Station [1,-1]
+Move 26 :
+7:12:54 PM
+Nicolettes: Added a Large Ring at Station [1,-1]
+Move 27 :
+7:14:19 PM
+poserLX: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 28 :
+7:16:11 PM
+Nicolettes: Added a Medium Ring at Station [0,-1]
+Move 29 :
+7:16:21 PM
+poserLX: Added a Small Ring at Station [0,-1]
+Move 30 :
+7:17:40 PM
+Nicolettes: Added a Small Ring at Station [1,-1]
+Move 31 :
+7:18:09 PM
+poserLX: Moved a Base Post at Station [0,-1]
+Move 32 :
+7:18:17 PM
+Nicolettes: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: Nicolettes wins!

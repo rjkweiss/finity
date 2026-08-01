@@ -1,0 +1,74 @@
+Move 1 :
+4/27/2020 1:47:39 AM
+The colors of ollyfish2002 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:47:55 AM
+ollyfish2002: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+1:48:23 AM
+moi: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+1:48:31 AM
+ollyfish2002: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :
+1:48:41 AM
+moi: Added a Small Ring at Station [0,-1]
+Move 6 :
+1:48:54 AM
+ollyfish2002: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 7 :
+1:49:07 AM
+moi: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+1:49:22 AM
+ollyfish2002: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 9 :
+1:49:45 AM
+moi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :
+1:50:27 AM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 11 :
+1:51:15 AM
+moi: Added a Medium Ring at Station [0,-1]
+Move 12 :
+1:51:52 AM
+ollyfish2002: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 13 :
+1:52:06 AM
+moi: Added a Small Ring at Station [-1,-1]
+Move 14 :
+1:52:21 AM
+ollyfish2002: Added a Small Ring at Station [-1,0]
+Move 15 :
+1:52:34 AM
+moi: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 16 :
+1:52:42 AM
+ollyfish2002: Added a Medium Ring at Station [-1,-1]
+Move 17 :
+1:52:50 AM
+moi: Added a Small Ring at Station [1,0]
+Move 18 :
+1:54:27 AM
+ollyfish2002: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 19 :
+1:55:03 AM
+moi: Moved a Base Post at Station [-1,0]
+moi has to remove 3 orphaned rings
+Move 20 :
+1:55:24 AM
+ollyfish2002: Added a Small Ring at Station [0,-1]
+Move 21 :
+1:55:39 AM
+moi: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 22 :
+1:55:49 AM
+ollyfish2002: Added a Small Ring at Station [1,-1]
+Move 23 :
+1:56:01 AM
+moi: Added a Medium Ring at Station [0,-1]
+Move 24 :
+1:56:07 AM
+ollyfish2002: Added a Small Ring at Station [1,0]
+The end of the game: ollyfish2002 wins!

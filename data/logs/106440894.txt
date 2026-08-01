@@ -1,0 +1,94 @@
+Move 1 :
+8/11/2020 8:35:16 PM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :
+8:37:05 PM
+wiiri: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+8:37:25 PM
+iamnachaa: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+8:37:36 PM
+wiiri: Added a Large Ring at Station [-1,0]
+Move 6 :
+8:37:47 PM
+iamnachaa: Added a Medium Ring at Station [1,0]
+Move 7 :
+8:38:31 PM
+wiiri: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 8 :
+8:39:06 PM
+iamnachaa: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 9 :
+8:39:14 PM
+wiiri: Added a Small Ring at Station [-1,-1]
+Move 10 :
+8:39:26 PM
+iamnachaa: Added a Large Ring at Station [0,1]
+Move 11 :
+8:40:21 PM
+wiiri: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 12 :
+8:40:52 PM
+iamnachaa: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 13 :
+8:41:06 PM
+wiiri: Added a Medium Ring at Station [-1,0]
+Move 14 :
+8:41:15 PM
+iamnachaa: Added a Medium Ring at Station [-1,1]
+Move 15 :
+8:41:38 PM
+wiiri: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 16 :
+8:41:56 PM
+iamnachaa: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 17 :
+8:42:17 PM
+wiiri: Added a Small Ring at Station [-1,0]
+Move 18 :
+8:42:27 PM
+iamnachaa: Added a Medium Ring at Station [0,1]
+Move 19 :
+8:42:48 PM
+wiiri: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 20 :
+8:43:04 PM
+iamnachaa: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 21 :
+8:43:14 PM
+wiiri: Added a Large Ring at Station [0,-1]
+Move 22 :
+8:43:29 PM
+iamnachaa: Added a Small Ring at Station [1,0]
+Move 23 :
+8:43:46 PM
+wiiri: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 24 :
+8:44:12 PM
+iamnachaa: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 25 :
+8:44:45 PM
+wiiri: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 26 :
+8:44:52 PM
+iamnachaa: Added a Medium Ring at Station [1,1]
+Move 27 :
+8:45:00 PM
+wiiri: Added a Medium Ring at Station [-1,-1]
+Move 28 :
+8:45:11 PM
+iamnachaa: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 29 :
+8:46:14 PM
+wiiri: Added a Small Ring at Station [0,-1]
+Move 30 :
+8:46:31 PM
+iamnachaa: Added a Large Ring at Station [1,0]
+Move 31 :
+8:48:32 PM
+wiiri: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 32 :
+8:48:43 PM
+iamnachaa: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: iamnachaa wins!

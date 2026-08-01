@@ -1,0 +1,88 @@
+Move 3 :
+8/11/2020 6:15:19 AM
+Rincew1nd: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+6:15:51 AM
+loudlikelove: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+6:16:03 AM
+Rincew1nd: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 6 :
+6:16:34 AM
+loudlikelove: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 7 :
+6:16:44 AM
+Rincew1nd: Added a Large Ring at Station [0,1]
+Move 8 :
+6:17:13 AM
+loudlikelove: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 9 :
+6:17:26 AM
+Rincew1nd: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 10 :
+6:18:02 AM
+loudlikelove: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 11 :
+6:18:22 AM
+Rincew1nd: Added a Medium Ring at Station [1,1]
+Move 12 :
+6:18:53 AM
+loudlikelove: Reversed a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 13 :
+6:19:08 AM
+Rincew1nd: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+6:19:27 AM
+loudlikelove: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 15 :
+6:19:38 AM
+Rincew1nd: Added a Small Ring at Station [0,1]
+Move 16 :
+6:19:47 AM
+loudlikelove: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 17 :
+6:20:10 AM
+Rincew1nd: Added a Large Ring at Station [1,0]
+Move 18 :
+6:20:17 AM
+loudlikelove: Added a Medium Ring at Station [0,-1]
+Move 19 :
+6:20:31 AM
+Rincew1nd: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 20 :
+6:20:59 AM
+loudlikelove: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 21 :
+6:21:12 AM
+Rincew1nd: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 22 :
+6:21:26 AM
+loudlikelove: Added a Large Ring at Station [0,-1]
+Move 23 :
+6:21:43 AM
+Rincew1nd: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 24 :
+6:22:29 AM
+loudlikelove: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 25 :
+6:22:59 AM
+Rincew1nd: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 26 :
+6:23:35 AM
+loudlikelove: Added a Small Ring at Station [0,-1]
+Move 27 :
+6:23:47 AM
+Rincew1nd: Added a Small Ring at Station [1,-1]
+Move 28 :
+6:24:09 AM
+loudlikelove: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 29 :
+6:24:28 AM
+Rincew1nd: Added a Medium Ring at Station [0,1]
+Move 30 :
+6:25:13 AM
+loudlikelove: Moved a Base Post at Station [0,-1]
+Move 31 :
+6:25:26 AM
+Rincew1nd: Added a Medium Ring at Station [1,0]
+The end of the game: Rincew1nd wins!

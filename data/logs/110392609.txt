@@ -1,0 +1,116 @@
+Move 1 :
+9/3/2020 7:44:09 PM
+The colors of Jest Phulin have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+7:45:06 PM
+sabrinanator: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 3 :
+7:45:38 PM
+Jest Phulin: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 4 :
+7:45:50 PM
+meisme17: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+7:46:28 PM
+sabrinanator: Added a Small Ring at Station [1,0]
+Move 6 :
+7:46:53 PM
+Jest Phulin: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 7 :
+7:47:04 PM
+meisme17: Added a Large Ring at Station [1,1]
+Move 8 :
+7:47:18 PM
+sabrinanator: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 9 :
+7:48:45 PM
+Jest Phulin: Added a Small Ring at Station [0,-1]
+Move 10 :
+7:48:53 PM
+meisme17: Added a Medium Ring at Station [1,1]
+Move 11 :
+7:49:27 PM
+sabrinanator: Added a Small Ring at Station [0,1]
+Move 12 :
+7:50:01 PM
+Jest Phulin: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 13 :
+7:50:09 PM
+meisme17: Added a Small Ring at Station [1,1]
+Move 14 :
+7:50:49 PM
+sabrinanator: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :
+7:51:12 PM
+Jest Phulin: Added a Medium Ring at Station [0,-1]
+Move 16 :
+7:51:18 PM
+meisme17: Moved a Base Post at Station [1,1]
+Move 17 :
+7:52:14 PM
+sabrinanator: Added a Small Ring at Station [-1,1]
+Move 18 :
+7:52:46 PM
+Jest Phulin: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 19 :
+7:52:54 PM
+meisme17: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 20 :
+7:53:44 PM
+sabrinanator: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 21 :
+7:53:53 PM
+Jest Phulin: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 22 :
+7:54:02 PM
+meisme17: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 23 :
+7:54:08 PM
+sabrinanator: Added a Small Ring at Station [-2,1]
+Move 24 :
+7:54:36 PM
+Jest Phulin: Moved a Blocker at Station [1,1] => [0,1] Position:Left
+Move 25 :
+7:54:51 PM
+meisme17: Added a Medium Ring at Station [1,0]
+Move 26 :
+7:55:05 PM
+sabrinanator: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 27 :
+7:55:34 PM
+Jest Phulin: Added a Medium Ring at Station [-2,1]
+Move 28 :
+7:55:42 PM
+meisme17: Added a Large Ring at Station [1,0]
+Move 29 :
+7:55:56 PM
+sabrinanator: Added a Small Ring at Station [-1,0]
+Move 30 :
+7:57:19 PM
+Jest Phulin: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 31 :
+7:57:29 PM
+meisme17: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 32 :
+7:57:35 PM
+sabrinanator: Added a Large Ring at Station [0,-1]
+Move 33 :
+7:58:03 PM
+Jest Phulin: Added a Large Ring at Station [-2,1]
+Move 34 :
+7:58:10 PM
+meisme17: Added a Medium Ring at Station [0,1]
+Move 35 :
+7:58:49 PM
+sabrinanator: Added a Medium Ring at Station [-1,0]
+Move 36 :
+7:59:05 PM
+Jest Phulin: Added a Small Ring at Station [1,-1]
+Move 37 :
+7:59:13 PM
+meisme17: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 38 :
+7:59:20 PM
+sabrinanator: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: sabrinanator wins!

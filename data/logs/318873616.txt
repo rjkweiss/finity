@@ -1,0 +1,54 @@
+Game log
+Move 1 :11/18/2022 11:34:52 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :11:35:36 AM
+4273ttt: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 4 :11:35:58 AM
+galadriellamirifique: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :11:36:16 AM
+4273ttt: Added a Large Ring at Station [-1,0]
+Move 6 :11:36:25 AM
+galadriellamirifique: Added a Small Ring at Station [1,0]
+Move 7 :11:37:21 AM
+4273ttt: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 8 :11:37:31 AM
+galadriellamirifique: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 9 :11:37:38 AM
+4273ttt: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 10 :11:37:49 AM
+galadriellamirifique: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 11 :11:38:00 AM
+4273ttt: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 12 :11:38:15 AM
+galadriellamirifique: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 13 :11:38:23 AM
+4273ttt: Added a Small Ring at Station [-1,-1]
+Move 14 :11:39:17 AM
+galadriellamirifique: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 15 :11:39:52 AM
+4273ttt: Added a Medium Ring at Station [0,-1]
+Move 16 :11:40:09 AM
+galadriellamirifique: Added a Medium Ring at Station [1,0]
+Move 17 :11:41:13 AM
+4273ttt: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 18 :11:41:30 AM
+galadriellamirifique: Added a Small Ring at Station [1,1]
+Move 19 :11:41:59 AM
+4273ttt: Added a Medium Ring at Station [-1,-1]
+Move 20 :11:42:07 AM
+galadriellamirifique: Added a Small Ring at Station [0,1]
+Move 21 :11:42:12 AM
+4273ttt: Added a Small Ring at Station [0,-1]
+Move 22 :11:42:40 AM
+galadriellamirifique: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 23 :11:42:48 AM
+4273ttt: Added a Large Ring at Station [-1,-1]
+Move 24 :11:42:54 AM
+galadriellamirifique: Added a Medium Ring at Station [1,1]
+Move 25 :11:43:01 AM
+4273ttt: Added a Large Ring at Station [0,-1]
+Move 26 :11:43:08 AM
+galadriellamirifique: Added a Medium Ring at Station [0,1]
+Move 27 :11:43:19 AM
+4273ttt: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: 4273ttt wins!

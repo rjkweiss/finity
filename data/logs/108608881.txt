@@ -1,0 +1,180 @@
+Move 1 :
+8/24/2020 9:02:15 AM
+The colors of DomiNT, zsvarga have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:44:50 PM
+DomiNT: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+2:09:22 PM
+zsvarga: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+2:39:08 PM
+DomiNT: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+8/25/2020 12:43:56 AM
+zsvarga: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+1:21:36 AM
+DomiNT: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 7 :
+1:25:48 AM
+zsvarga: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+1:28:39 AM
+DomiNT: Added a Small Ring at Station [0,1]
+Move 9 :
+1:31:46 AM
+zsvarga: Added a Large Ring at Station [1,0]
+Move 10 :
+1:51:48 AM
+DomiNT: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 11 :
+2:01:14 AM
+zsvarga: Added a Large Ring at Station [1,1]
+Move 12 :
+2:01:49 AM
+DomiNT: Added a Medium Ring at Station [1,1]
+Move 13 :
+2:02:09 AM
+zsvarga: Added a Small Ring at Station [1,1]
+Move 14 :
+2:02:26 AM
+DomiNT: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :
+2:02:57 AM
+zsvarga: Added a Medium Ring at Station [0,1]
+Move 16 :
+2:03:29 AM
+DomiNT: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+zsvarga has to remove 4 orphaned rings
+Move 17 :
+2:06:43 AM
+zsvarga: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+DomiNT has to remove 2 orphaned rings
+Move 18 :
+2:07:49 AM
+DomiNT: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 19 :
+2:08:21 AM
+zsvarga: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 20 :
+2:11:32 AM
+DomiNT: Added a Small Ring at Station [0,1]
+Move 21 :
+2:14:33 AM
+zsvarga: Added a Large Ring at Station [1,0]
+Move 22 :
+2:52:13 AM
+DomiNT: Added a Medium Ring at Station [0,1]
+Move 23 :
+2:53:43 AM
+zsvarga: Added a Large Ring at Station [1,1]
+Move 24 :
+3:02:30 AM
+DomiNT: Added a Small Ring at Station [1,1]
+Move 25 :
+3:03:00 AM
+zsvarga: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+3:04:26 AM
+DomiNT: Added a White Bridge at Station [0,0] => [-1,0] Position:Right
+Move 27 :
+3:04:43 AM
+zsvarga: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 28 :
+3:06:08 AM
+DomiNT: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 29 :
+3:06:22 AM
+zsvarga: Added a Medium Ring at Station [1,0]
+Move 30 :
+3:07:47 AM
+DomiNT: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 31 :
+3:08:08 AM
+zsvarga: Added a Small Ring at Station [1,0]
+Move 32 :
+3:08:57 AM
+DomiNT: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 33 :
+3:10:14 AM
+zsvarga: Added a Large Ring at Station [0,1]
+Move 34 :
+3:12:46 AM
+DomiNT: Added a Large Ring at Station [-1,0]
+Move 35 :
+3:14:33 AM
+zsvarga: Moved a Base Post at Station [1,0]
+zsvarga has to remove 1 orphaned rings
+Move 36 :
+3:19:48 AM
+DomiNT: Added a Small Ring at Station [0,-1]
+Move 37 :
+4:27:19 AM
+zsvarga: Moved a Base Post at Station [1,-1]
+Move 38 :
+4:44:17 AM
+DomiNT: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 39 :
+5:46:14 AM
+zsvarga: Added a Large Ring at Station [0,1]
+Move 40 :
+6:17:20 AM
+DomiNT: Added a Small Ring at Station [-1,0]
+Move 41 :
+6:29:48 AM
+zsvarga: Added a Large Ring at Station [-1,1]
+Move 42 :
+6:44:49 AM
+DomiNT: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+zsvarga has to remove 6 orphaned rings
+Move 43 :
+7:20:27 AM
+zsvarga: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 44 :
+7:23:40 AM
+DomiNT: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 45 :
+7:28:54 AM
+zsvarga: Added a Large Ring at Station [1,0]
+Move 46 :
+7:40:05 AM
+DomiNT: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 47 :
+7:40:30 AM
+zsvarga: Added a Large Ring at Station [1,1]
+Move 48 :
+7:45:27 AM
+DomiNT: Added a Small Ring at Station [-1,-1]
+Move 49 :
+7:45:38 AM
+zsvarga: Added a Medium Ring at Station [1,1]
+Move 50 :
+7:45:49 AM
+DomiNT: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 51 :
+7:46:04 AM
+zsvarga: Moved a Base Post at Station [1,0]
+Move 52 :
+7:46:49 AM
+DomiNT: Added a Large Ring at Station [0,-1]
+Move 53 :
+7:46:59 AM
+zsvarga: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 54 :
+7:47:06 AM
+DomiNT: Added a Large Ring at Station [1,-1]
+Move 55 :
+7:47:12 AM
+zsvarga: Moved a Base Post at Station [1,1]
+zsvarga has to remove 1 orphaned rings
+Move 56 :
+7:47:28 AM
+DomiNT: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 57 :
+7:47:35 AM
+zsvarga: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 58 :
+7:47:59 AM
+DomiNT: Added a Medium Ring at Station [1,0]
+The end of the game: DomiNT wins!

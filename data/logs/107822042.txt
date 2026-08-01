@@ -1,0 +1,114 @@
+Move 1 :
+8/21/2020 9:02:56 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+3:30:17 PM
+Echoriath: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+3:42:39 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+3:46:59 PM
+Echoriath: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+4:46:08 PM
+tony1021: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 6 :
+8/22/2020 2:12:25 AM
+Echoriath: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 7 :
+7:34:50 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+8:14:45 AM
+Echoriath: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 9 :
+4:49:39 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 10 :
+11:59:56 PM
+Echoriath: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 11 :
+8/23/2020 7:18:49 AM
+tony1021: Moved a Base Post at Station [-1,0]
+Move 12 :
+8:57:51 AM
+Echoriath: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 13 :
+12:45:01 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 14 :
+2:02:49 PM
+Echoriath: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 15 :
+3:56:35 PM
+tony1021: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 16 :
+8/24/2020 12:18:20 AM
+Echoriath: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 17 :
+9:20:19 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 18 :
+9:55:25 AM
+Echoriath: Added a Small Ring at Station [-1,0]
+Move 19 :
+4:34:20 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Echoriath has to remove 1 orphaned rings
+Move 20 :
+8/25/2020 3:15:54 AM
+Echoriath: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 21 :
+12:17:58 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 22 :
+1:48:50 PM
+Echoriath: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 23 :
+2:28:25 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 24 :
+8/26/2020 12:27:22 AM
+Echoriath: Added a Small Ring at Station [0,1]
+Move 25 :
+10:10:00 AM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 26 :
+2:06:15 PM
+Echoriath: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 27 :
+4:21:05 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 28 :
+8/27/2020 2:09:11 AM
+Echoriath: Moved a Base Post at Station [1,1]
+Move 29 :
+8/28/2020 10:36:07 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 30 :
+10:48:07 AM
+Echoriath: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 31 :
+8/29/2020 6:01:55 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 32 :
+9:55:10 AM
+Echoriath: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 33 :
+1:24:16 PM
+tony1021: Added a Large Ring at Station [0,-1]
+Move 34 :
+2:37:56 PM
+Echoriath: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 35 :
+6:09:48 PM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 36 :
+8/30/2020 6:21:56 AM
+Echoriath: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 37 :
+9:23:43 AM
+tony1021: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+The end of the game: tony1021 wins!

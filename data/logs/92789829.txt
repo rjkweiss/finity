@@ -1,0 +1,192 @@
+Move 2 :
+6/3/2020 10:33:45 AM
+YorickT: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 3 :
+10:36:44 AM
+Guillaume29: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 4 :
+10:38:19 AM
+jona_gold: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+10:38:39 AM
+YorickT: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+10:38:53 AM
+Guillaume29: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 7 :
+10:39:57 AM
+jona_gold: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 8 :
+10:40:04 AM
+YorickT: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 9 :
+10:41:41 AM
+Guillaume29: Added a Small Ring at Station [0,-1]
+Move 10 :
+10:41:56 AM
+jona_gold: Added a Large Ring at Station [-1,1]
+Move 11 :
+10:42:52 AM
+YorickT: Added a Medium Ring at Station [1,0]
+Move 12 :
+10:43:21 AM
+Guillaume29: Added a Medium Ring at Station [1,-1]
+Move 13 :
+10:43:45 AM
+jona_gold: Added a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 14 :
+10:43:55 AM
+YorickT: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Guillaume29 has to remove 1 orphaned rings
+Move 15 :
+10:44:11 AM
+Guillaume29: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 16 :
+10:44:29 AM
+jona_gold: Added a Medium Ring at Station [-2,1]
+Move 17 :
+10:44:41 AM
+YorickT: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 18 :
+10:44:49 AM
+Guillaume29: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+jona_gold has to remove 2 orphaned rings
+Move 19 :
+10:45:38 AM
+jona_gold: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 20 :
+10:45:44 AM
+YorickT: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 21 :
+10:46:07 AM
+Guillaume29: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 22 :
+10:46:54 AM
+jona_gold: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 23 :
+10:47:05 AM
+YorickT: Added a Medium Ring at Station [0,-1]
+Move 24 :
+10:47:19 AM
+Guillaume29: Added a Large Ring at Station [1,-1]
+Move 25 :
+10:47:41 AM
+jona_gold: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 26 :
+10:47:47 AM
+YorickT: Added a Large Ring at Station [0,-1]
+Move 27 :
+10:48:36 AM
+Guillaume29: Added a Small Ring at Station [1,0]
+Move 28 :
+10:49:10 AM
+jona_gold: Added a Medium Ring at Station [1,1]
+Move 29 :
+10:49:22 AM
+YorickT: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 30 :
+10:49:46 AM
+Guillaume29: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 31 :
+10:50:12 AM
+jona_gold: Added a Large Ring at Station [1,0]
+Move 32 :
+10:51:24 AM
+YorickT: Added a White Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 33 :
+10:52:28 AM
+Guillaume29: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 34 :
+10:52:57 AM
+jona_gold: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 35 :
+10:53:53 AM
+YorickT: Added a Large Ring at Station [1,-2]
+Move 36 :
+10:54:19 AM
+Guillaume29: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 37 :
+10:54:56 AM
+jona_gold: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 38 :
+10:55:08 AM
+YorickT: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 39 :
+10:57:23 AM
+Guillaume29: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 40 :
+10:58:14 AM
+jona_gold: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 41 :
+10:58:33 AM
+YorickT: Added a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 42 :
+10:59:08 AM
+Guillaume29: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 43 :
+10:59:18 AM
+jona_gold: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 44 :
+10:59:24 AM
+YorickT: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 45 :
+10:59:40 AM
+Guillaume29: Added a Small Ring at Station [1,1]
+Move 46 :
+11:00:44 AM
+jona_gold: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Right
+Guillaume29 has to remove 1 orphaned rings
+Move 47 :
+11:01:22 AM
+YorickT: Added a Large Ring at Station [-1,0]
+Move 48 :
+11:03:10 AM
+Guillaume29: Removed a White Bridge at Station [1,1] => [1,0] Position:Middle
+jona_gold has to remove 1 orphaned rings
+Move 49 :
+11:03:43 AM
+jona_gold: Added a Medium Ring at Station [-1,1]
+Move 50 :
+11:05:44 AM
+YorickT: Removed a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 51 :
+11:06:10 AM
+Guillaume29: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 52 :
+11:06:26 AM
+jona_gold: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 53 :
+11:07:02 AM
+YorickT: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 54 :
+11:07:23 AM
+Guillaume29: Added a Small Ring at Station [1,1]
+Move 55 :
+11:07:47 AM
+jona_gold: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 56 :
+11:07:53 AM
+YorickT: Reversed a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 57 :
+11:08:03 AM
+Guillaume29: Added a Medium Ring at Station [0,1]
+Move 58 :
+11:09:32 AM
+jona_gold: Added a Small Ring at Station [-2,1]
+Move 59 :
+11:09:37 AM
+YorickT: Moved a Base Post at Station [-2,1]
+YorickT has to remove 1 orphaned rings
+Move 60 :
+11:10:30 AM
+Guillaume29: Added a Medium Ring at Station [1,0]
+Move 61 :
+11:11:58 AM
+jona_gold: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 62 :
+11:12:04 AM
+YorickT: Added a Medium Ring at Station [1,-1]
+Move 63 :
+11:12:10 AM
+Guillaume29: Added a Large Ring at Station [1,1]
+The end of the game: Guillaume29 wins!

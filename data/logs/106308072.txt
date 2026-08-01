@@ -1,0 +1,159 @@
+Move 2 :
+8/11/2020 2:19:54 AM
+shunpowpow: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 3 :
+2:20:22 AM
+like a coffee beans: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 4 :
+2:20:37 AM
+katai1179: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+2:20:59 AM
+shunpowpow: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 6 :
+2:21:15 AM
+like a coffee beans: Added a Small Ring at Station [-1,1]
+Move 7 :
+2:21:34 AM
+katai1179: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Right
+like a coffee beans has to remove 1 orphaned rings
+Move 8 :
+2:21:47 AM
+shunpowpow: Added a Small Ring at Station [1,-2]
+Move 9 :
+2:22:00 AM
+like a coffee beans: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 10 :
+2:22:44 AM
+katai1179: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 11 :
+2:23:03 AM
+shunpowpow: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 12 :
+2:23:13 AM
+like a coffee beans: Added a Small Ring at Station [-1,1]
+Move 13 :
+2:23:31 AM
+katai1179: Added a Medium Ring at Station [-1,1]
+Move 14 :
+2:23:47 AM
+shunpowpow: Added a White Bridge at Station [0,-1] => [1,-2] Position:Left
+Move 15 :
+2:23:56 AM
+like a coffee beans: Added a Large Ring at Station [-1,1]
+Move 16 :
+2:24:09 AM
+katai1179: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 17 :
+2:25:20 AM
+shunpowpow: Added a Small Ring at Station [0,-1]
+Move 18 :
+2:25:44 AM
+like a coffee beans: Moved a Base Post at Station [-1,1]
+Move 19 :
+2:26:04 AM
+katai1179: Added a Small Ring at Station [-1,0]
+Move 20 :
+2:26:14 AM
+shunpowpow: Added a Medium Ring at Station [0,-1]
+Move 21 :
+2:26:49 AM
+like a coffee beans: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 22 :
+2:26:58 AM
+katai1179: Added a Large Ring at Station [0,-1]
+Move 23 :
+2:27:06 AM
+shunpowpow: Added a Medium Ring at Station [1,-2]
+Move 24 :
+2:27:32 AM
+like a coffee beans: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 25 :
+2:27:54 AM
+katai1179: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 26 :
+2:28:25 AM
+shunpowpow: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 27 :
+2:28:58 AM
+like a coffee beans: Added a Medium Ring at Station [-1,0]
+Move 28 :
+2:29:22 AM
+katai1179: Added a Small Ring at Station [1,-1]
+Move 29 :
+2:29:51 AM
+shunpowpow: Moved a Base Post at Station [1,-2]
+Move 30 :
+2:30:02 AM
+like a coffee beans: Added a Large Ring at Station [-1,0]
+Move 31 :
+2:30:38 AM
+katai1179: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 32 :
+2:30:44 AM
+shunpowpow: Added a Medium Ring at Station [1,-1]
+Move 33 :
+2:30:54 AM
+like a coffee beans: Added a Small Ring at Station [-2,1]
+Move 34 :
+2:31:03 AM
+katai1179: Added a Large Ring at Station [1,-1]
+Move 35 :
+2:31:28 AM
+shunpowpow: Added a Small Ring at Station [1,0]
+Move 36 :
+2:31:42 AM
+like a coffee beans: Added a Medium Ring at Station [-2,1]
+Move 37 :
+2:32:25 AM
+katai1179: Added a Medium Ring at Station [1,0]
+Move 38 :
+2:32:34 AM
+shunpowpow: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+katai1179 has to remove 4 orphaned rings
+Move 39 :
+2:35:22 AM
+like a coffee beans: Added a White Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 40 :
+2:36:58 AM
+katai1179: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 41 :
+2:37:20 AM
+shunpowpow: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 42 :
+2:37:51 AM
+like a coffee beans: Added a Small Ring at Station [0,1]
+Move 43 :
+2:38:20 AM
+katai1179: Added a Large Ring at Station [-2,1]
+Move 44 :
+2:38:58 AM
+shunpowpow: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 45 :
+2:41:07 AM
+like a coffee beans: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 46 :
+2:42:22 AM
+katai1179: Moved a Base Post at Station [-2,1]
+Move 47 :
+2:43:11 AM
+shunpowpow: Added a Small Ring at Station [1,-1]
+Move 48 :
+2:43:25 AM
+like a coffee beans: Added a Medium Ring at Station [0,1]
+Move 49 :
+2:44:33 AM
+katai1179: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 50 :
+2:44:55 AM
+shunpowpow: Added a Medium Ring at Station [1,0]
+Move 51 :
+2:48:39 AM
+like a coffee beans: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 52 :
+2:48:47 AM
+katai1179: Added a Large Ring at Station [0,-1]
+Move 53 :
+2:48:58 AM
+shunpowpow: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: shunpowpow wins!

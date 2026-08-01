@@ -1,0 +1,293 @@
+Move 1 :
+9/2/2020 2:29:45 PM
+The colors of murphyzmike have been chosen according to their preferences. Change my preferences.
+Move 2 :
+2:37:14 PM
+Shonie: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 3 :
+2:38:18 PM
+londonarab: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 4 :
+2:38:45 PM
+murphyzmike: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+2:39:23 PM
+Shonie: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 6 :
+2:40:05 PM
+londonarab: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 7 :
+2:40:37 PM
+murphyzmike: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 8 :
+2:42:03 PM
+Shonie: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 9 :
+2:43:38 PM
+londonarab: Reversed a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 10 :
+2:44:16 PM
+murphyzmike: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 11 :
+2:44:34 PM
+Shonie: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 12 :
+2:45:20 PM
+londonarab: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 13 :
+2:45:26 PM
+murphyzmike: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 14 :
+2:46:11 PM
+Shonie: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 15 :
+2:46:27 PM
+londonarab: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 16 :
+2:47:22 PM
+murphyzmike: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 17 :
+2:47:47 PM
+Shonie: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 18 :
+2:48:04 PM
+londonarab: Added a White Bridge at Station [0,-1] => [1,-2] Position:Left
+Move 19 :
+2:48:13 PM
+murphyzmike: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 20 :
+2:48:51 PM
+Shonie: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 21 :
+2:49:03 PM
+londonarab: Added a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 22 :
+2:49:11 PM
+murphyzmike: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 23 :
+2:49:40 PM
+Shonie: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 24 :
+2:49:51 PM
+londonarab: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 25 :
+2:50:09 PM
+murphyzmike: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+No rings placed or orphaned. 6 moves until a forced draw
+Move 26 :
+2:50:26 PM
+Shonie: Reversed a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+No rings placed or orphaned. 5 moves until a forced draw
+Move 27 :
+2:50:36 PM
+londonarab: Reversed a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+No rings placed or orphaned. 4 moves until a forced draw
+Move 28 :
+2:51:23 PM
+murphyzmike: Added a Small Ring at Station [1,1]
+Move 29 :
+2:53:52 PM
+Shonie: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 30 :
+2:54:47 PM
+londonarab: Added a Medium Ring at Station [0,-1]
+Move 31 :
+2:55:08 PM
+murphyzmike: Added a Medium Ring at Station [1,0]
+Move 32 :
+2:55:30 PM
+Shonie: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 33 :
+2:55:41 PM
+londonarab: Added a Large Ring at Station [1,-2]
+Move 34 :
+2:56:09 PM
+murphyzmike: Added a Large Ring at Station [1,-1]
+Move 35 :
+2:56:39 PM
+Shonie: Added a Large Ring at Station [0,-1]
+Move 36 :
+2:57:11 PM
+londonarab: Added a Medium Ring at Station [1,-1]
+Move 37 :
+2:58:03 PM
+murphyzmike: Added a Small Ring at Station [0,-1]
+Move 38 :
+2:58:12 PM
+Shonie: Added a Small Ring at Station [1,-2]
+Move 39 :
+2:59:50 PM
+londonarab: Added a Medium Ring at Station [-2,1]
+Move 40 :
+3:00:05 PM
+murphyzmike: Added a Medium Ring at Station [1,-2]
+Move 41 :
+3:00:18 PM
+Shonie: Added a Large Ring at Station [-1,0]
+Move 42 :
+3:00:25 PM
+londonarab: Added a Small Ring at Station [-2,1]
+Move 43 :
+3:00:35 PM
+murphyzmike: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 44 :
+3:00:47 PM
+Shonie: Added a Small Ring at Station [-1,0]
+Move 45 :
+3:00:59 PM
+londonarab: Added a Large Ring at Station [-2,1]
+Move 46 :
+3:01:10 PM
+murphyzmike: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 47 :
+3:01:22 PM
+Shonie: Added a Medium Ring at Station [-1,1]
+Move 48 :
+3:01:30 PM
+londonarab: Added a Small Ring at Station [-1,1]
+Move 49 :
+3:01:52 PM
+murphyzmike: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 50 :
+3:02:04 PM
+Shonie: Added a Medium Ring at Station [0,1]
+Move 51 :
+3:02:24 PM
+londonarab: Added a Large Ring at Station [-1,1]
+Move 52 :
+3:02:34 PM
+murphyzmike: Added a Large Ring at Station [1,0]
+Move 53 :
+3:02:47 PM
+Shonie: Added a Medium Ring at Station [-1,0]
+Move 54 :
+3:03:22 PM
+londonarab: Added a Small Ring at Station [1,-1]
+Move 55 :
+3:03:32 PM
+murphyzmike: Added a Medium Ring at Station [1,1]
+Move 56 :
+3:03:41 PM
+Shonie: Added a Large Ring at Station [0,1]
+Move 57 :
+3:06:26 PM
+londonarab: Removed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 58 :
+3:07:11 PM
+murphyzmike: Added a Large Ring at Station [1,1]
+Move 59 :
+3:07:28 PM
+Shonie: Added a Small Ring at Station [0,1]
+Move 60 :
+3:07:58 PM
+londonarab: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Shonie has to remove 3 orphaned rings
+Move 61 :
+3:08:21 PM
+murphyzmike: Added a Small Ring at Station [1,0]
+Move 62 :
+3:08:44 PM
+Shonie: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 63 :
+3:14:56 PM
+londonarab: Reversed a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Shonie has to remove 1 orphaned rings
+murphyzmike has to remove 1 orphaned rings
+Move 64 :
+3:17:34 PM
+murphyzmike: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Shonie has to remove 3 orphaned rings
+Move 65 :
+3:21:28 PM
+Shonie: Removed a White Bridge at Station [0,-1] => [1,-2] Position:Left
+Shonie has to remove 1 orphaned rings
+londonarab has to remove 3 orphaned rings
+Move 66 :
+3:21:48 PM
+londonarab: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 67 :
+3:22:30 PM
+murphyzmike: Reversed a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 68 :
+3:23:14 PM
+Shonie: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 69 :
+3:23:29 PM
+londonarab: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Shonie has to remove 1 orphaned rings
+murphyzmike has to remove 1 orphaned rings
+Move 70 :
+3:23:41 PM
+murphyzmike: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 71 :
+3:24:22 PM
+Shonie: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 72 :
+3:24:33 PM
+londonarab: Added a Large Ring at Station [0,-1]
+Move 73 :
+3:24:55 PM
+murphyzmike: Moved a Blocker at Station [1,1] => [0,1] Position:Left
+Move 74 :
+3:26:06 PM
+Shonie: Moved a Blocker at Station [0,0] => [1,0] Position:Left
+Move 75 :
+3:26:14 PM
+londonarab: Added a Small Ring at Station [1,-2]
+Move 76 :
+3:26:23 PM
+murphyzmike: Removed a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 77 :
+3:26:57 PM
+Shonie: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 78 :
+3:27:08 PM
+londonarab: Added a Medium Ring at Station [1,-1]
+Move 79 :
+3:28:14 PM
+murphyzmike: Removed a Blocker at Station [0,0] => [1,0] Position:Left
+Move 80 :
+3:28:23 PM
+Shonie: Removed a Blocker at Station [0,1] => [0,0] Position:Right
+Move 81 :
+3:28:44 PM
+londonarab: Added a Medium Ring at Station [1,-2]
+Move 82 :
+3:29:09 PM
+murphyzmike: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 83 :
+3:29:19 PM
+Shonie: Removed a Blocker at Station [1,1] => [0,1] Position:Left
+Move 84 :
+3:30:37 PM
+londonarab: Added a Small Ring at Station [1,-1]
+Move 85 :
+3:30:42 PM
+murphyzmike: Removed a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 86 :
+3:30:58 PM
+Shonie: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 87 :
+3:31:31 PM
+londonarab: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+murphyzmike has to remove 1 orphaned rings
+Move 88 :
+3:31:41 PM
+murphyzmike: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 89 :
+3:32:12 PM
+Shonie: Removed a Blocker at Station [-1,0] => [0,0] Position:Right
+Move 90 :
+3:33:05 PM
+londonarab: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 91 :
+3:33:11 PM
+murphyzmike: Removed a Black Bridge at Station [0,1] => [1,0] Position:Right
+murphyzmike has to remove 3 orphaned rings
+Move 92 :
+3:33:29 PM
+Shonie: Added a Medium Ring at Station [1,0]
+Move 93 :
+3:33:36 PM
+londonarab: Added a Small Ring at Station [1,0]
+The end of the game: londonarab wins!

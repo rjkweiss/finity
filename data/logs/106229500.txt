@@ -1,0 +1,119 @@
+Move 1 :
+8/10/2020 12:40:32 PM
+The colors of Another Dead Hero have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:42:26 PM
+Lissamae: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+12:42:42 PM
+Another Dead Hero: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+12:42:58 PM
+Lissamae: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+12:43:12 PM
+Another Dead Hero: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+12:43:28 PM
+Lissamae: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 7 :
+12:43:49 PM
+Another Dead Hero: Added a Large Ring at Station [0,-1]
+Move 8 :
+12:44:15 PM
+Lissamae: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 9 :
+12:44:31 PM
+Another Dead Hero: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+12:44:50 PM
+Lissamae: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 11 :
+12:45:13 PM
+Another Dead Hero: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 12 :
+12:45:29 PM
+Lissamae: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 13 :
+12:45:47 PM
+Another Dead Hero: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+12:46:09 PM
+Lissamae: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 15 :
+12:47:29 PM
+Another Dead Hero: Moved a Base Post at Station [0,-1]
+Move 16 :
+12:47:52 PM
+Lissamae: Added a Small Ring at Station [0,1]
+Move 17 :
+12:48:03 PM
+Another Dead Hero: Added a Small Ring at Station [1,-1]
+Move 18 :
+12:48:25 PM
+Lissamae: Added a Medium Ring at Station [1,1]
+Move 19 :
+12:49:01 PM
+Another Dead Hero: Moved a Base Post at Station [1,-1]
+Move 20 :
+12:49:14 PM
+Lissamae: Added a Small Ring at Station [1,0]
+Move 21 :
+12:49:30 PM
+Another Dead Hero: Added a Small Ring at Station [0,-1]
+Move 22 :
+12:49:50 PM
+Lissamae: Added a Medium Ring at Station [1,-1]
+Move 23 :
+12:50:05 PM
+Another Dead Hero: Added a Medium Ring at Station [1,0]
+Move 24 :
+12:50:17 PM
+Lissamae: Added a Medium Ring at Station [0,-1]
+Move 25 :
+12:51:42 PM
+Another Dead Hero: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Lissamae has to remove 5 orphaned rings
+Move 26 :
+12:52:03 PM
+Lissamae: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 27 :
+12:52:32 PM
+Another Dead Hero: Added a Medium Ring at Station [1,1]
+Move 28 :
+12:52:42 PM
+Lissamae: Added a Small Ring at Station [0,1]
+Move 29 :
+12:52:51 PM
+Another Dead Hero: Added a Medium Ring at Station [0,1]
+Move 30 :
+12:52:59 PM
+Lissamae: Added a Small Ring at Station [1,1]
+Move 31 :
+12:53:09 PM
+Another Dead Hero: Added a Small Ring at Station [1,0]
+Move 32 :
+12:53:23 PM
+Lissamae: Added a Large Ring at Station [1,0]
+Move 33 :
+12:53:49 PM
+Another Dead Hero: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 34 :
+12:54:02 PM
+Lissamae: Added a Medium Ring at Station [1,-1]
+Move 35 :
+12:54:12 PM
+Another Dead Hero: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 36 :
+12:54:25 PM
+Lissamae: Added a Medium Ring at Station [0,-1]
+Move 37 :
+12:54:44 PM
+Another Dead Hero: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 38 :
+12:54:57 PM
+Lissamae: Added a Small Ring at Station [-1,-1]
+Move 39 :
+12:55:19 PM
+Another Dead Hero: Added a Large Ring at Station [0,1]
+The end of the game: Another Dead Hero wins!

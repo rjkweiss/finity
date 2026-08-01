@@ -1,0 +1,199 @@
+Move 1 :
+9/3/2020 4:19:03 AM
+The colors of zsvarga have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:32:09 AM
+zsvarga: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+4:59:21 AM
+Bandus: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+5:01:21 AM
+zsvarga: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :
+5:02:31 AM
+Bandus: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :
+5:14:36 AM
+zsvarga: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 7 :
+5:25:58 AM
+Bandus: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 8 :
+5:28:58 AM
+zsvarga: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 9 :
+5:43:18 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 10 :
+5:49:52 AM
+zsvarga: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 11 :
+5:52:32 AM
+Bandus: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 :
+5:59:31 AM
+zsvarga: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 13 :
+6:29:56 AM
+Bandus: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 14 :
+6:37:19 AM
+zsvarga: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 15 :
+8:26:20 AM
+Bandus: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 16 :
+9:05:00 AM
+zsvarga: Added a Large Ring at Station [0,1]
+Move 17 :
+8:10:04 PM
+Bandus: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+zsvarga has to remove 1 orphaned rings
+Move 18 :
+11:02:22 PM
+zsvarga: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 19 :
+11:53:21 PM
+Bandus: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 20 :
+9/4/2020 12:31:16 AM
+zsvarga: Added a Large Ring at Station [0,1]
+Move 21 :
+7:08:28 AM
+Bandus: Added a Small Ring at Station [0,-1]
+Move 22 :
+7:22:38 AM
+zsvarga: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 23 :
+1:24:05 PM
+Bandus: Added a Large Ring at Station [-1,-1]
+Move 24 :
+1:57:08 PM
+zsvarga: Added a Large Ring at Station [1,0]
+Move 25 :
+9/5/2020 1:34:30 AM
+Bandus: Added a Medium Ring at Station [0,-1]
+Move 26 :
+2:46:10 AM
+zsvarga: Added a Medium Ring at Station [0,1]
+Move 27 :
+2:46:29 AM
+Bandus: Added a Small Ring at Station [-1,0]
+Move 28 :
+2:47:55 AM
+zsvarga: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 29 :
+2:48:17 AM
+Bandus: Added a Medium Ring at Station [-1,0]
+Move 30 :
+2:49:52 AM
+zsvarga: Added a Large Ring at Station [1,-1]
+Move 31 :
+2:50:13 AM
+Bandus: Added a Large Ring at Station [0,-1]
+Move 32 :
+2:50:49 AM
+zsvarga: Added a Medium Ring at Station [1,0]
+Move 33 :
+2:51:05 AM
+Bandus: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 34 :
+2:51:27 AM
+zsvarga: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 35 :
+2:51:39 AM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 36 :
+2:51:50 AM
+zsvarga: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Bandus has to remove 7 orphaned rings
+Move 37 :
+2:52:42 AM
+Bandus: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 38 :
+2:52:49 AM
+zsvarga: Added a Large Ring at Station [0,-1]
+Move 39 :
+2:52:56 AM
+Bandus: Added a Medium Ring at Station [0,-1]
+Move 40 :
+2:53:10 AM
+zsvarga: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 41 :
+2:53:28 AM
+Bandus: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 42 :
+2:53:46 AM
+zsvarga: Added a Medium Ring at Station [1,-1]
+Move 43 :
+2:54:02 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 44 :
+2:54:09 AM
+zsvarga: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+zsvarga has to remove 3 orphaned rings
+Move 45 :
+2:54:21 AM
+Bandus: Added a Medium Ring at Station [-1,-1]
+Move 46 :
+2:55:40 AM
+zsvarga: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 47 :
+2:55:47 AM
+Bandus: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 48 :
+2:56:05 AM
+zsvarga: Removed a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 49 :
+2:56:12 AM
+Bandus: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 50 :
+2:56:21 AM
+zsvarga: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 51 :
+2:56:29 AM
+Bandus: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 52 :
+2:56:36 AM
+zsvarga: Added a Large Ring at Station [1,-1]
+Move 53 :
+2:56:50 AM
+Bandus: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 54 :
+2:56:55 AM
+zsvarga: Added a Large Ring at Station [0,-1]
+Move 55 :
+2:57:09 AM
+Bandus: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 56 :
+2:57:15 AM
+zsvarga: Added a Medium Ring at Station [1,-1]
+Move 57 :
+2:57:22 AM
+Bandus: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 58 :
+2:57:35 AM
+zsvarga: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 59 :
+2:57:43 AM
+Bandus: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 60 :
+2:57:49 AM
+zsvarga: Removed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 61 :
+2:57:59 AM
+Bandus: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 62 :
+2:59:26 AM
+zsvarga: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 63 :
+2:59:52 AM
+Bandus: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Right
+Move 64 :
+3:00:10 AM
+zsvarga: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 65 :
+3:00:46 AM
+Bandus: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: zsvarga wins!

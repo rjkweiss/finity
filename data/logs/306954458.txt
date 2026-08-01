@@ -1,0 +1,94 @@
+Game log
+Move 3 :10/9/2022 10:42:50 AM
+Léopard: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :10:43:15 AM
+Eternal Library: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 5 :10:44:02 AM
+Léopard: Added a Small Ring at Station [-1,0]
+Move 6 :10:44:40 AM
+Eternal Library: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 7 :10:44:58 AM
+Léopard: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 8 :10:45:07 AM
+Eternal Library: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Léopard has to remove 1 orphaned rings
+Move 9 :10:45:25 AM
+Léopard: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 10 :10:46:13 AM
+Eternal Library: Reversed a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 11 :10:47:11 AM
+Léopard: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 12 :10:47:20 AM
+Eternal Library: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 13 :10:47:47 AM
+Léopard: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 14 :10:48:08 AM
+Eternal Library: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 15 :10:48:29 AM
+Léopard: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 16 :10:50:17 AM
+Eternal Library: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 17 :10:50:42 AM
+Léopard: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 18 :10:52:11 AM
+Eternal Library: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 19 :10:52:27 AM
+Léopard: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :10:53:05 AM
+Eternal Library: Added a Black Bridge at Station [0,0] => [1,0] Position:Right
+Move 21 :10:53:12 AM
+Léopard: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 22 :10:55:25 AM
+Eternal Library: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 23 :10:56:44 AM
+Léopard: Moved a Blocker at Station [0,0] => [1,0] Position:Left
+Move 24 :10:57:15 AM
+Eternal Library: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+No rings placed or orphaned. 4 moves until a forced draw
+Move 25 :10:57:30 AM
+Léopard: Added a Small Ring at Station [0,1]
+Move 26 :10:57:51 AM
+Eternal Library: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Léopard has to remove 1 orphaned rings
+Move 27 :10:58:06 AM
+Léopard: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 28 :10:58:53 AM
+Eternal Library: Added a Large Ring at Station [0,-1]
+Move 29 :10:59:00 AM
+Léopard: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Eternal Library has to remove 1 orphaned rings
+Move 30 :10:59:08 AM
+Eternal Library: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 31 :10:59:54 AM
+Léopard: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :11:00:08 AM
+Eternal Library: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 33 :11:00:24 AM
+Léopard: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 34 :11:00:31 AM
+Eternal Library: Added a Large Ring at Station [0,-1]
+Move 35 :11:00:43 AM
+Léopard: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 36 :11:00:49 AM
+Eternal Library: Added a Large Ring at Station [-1,0]
+Move 37 :11:00:57 AM
+Léopard: Added a Small Ring at Station [-1,0]
+Move 38 :11:01:11 AM
+Eternal Library: Added a Large Ring at Station [-1,1]
+Move 39 :11:01:49 AM
+Léopard: Added a Small Ring at Station [0,-1]
+Move 40 :11:02:01 AM
+Eternal Library: Added a Large Ring at Station [0,1]
+Move 41 :11:02:28 AM
+Léopard: Added a Medium Ring at Station [1,-1]
+Move 42 :11:02:34 AM
+Eternal Library: Added a Medium Ring at Station [-1,1]
+Move 43 :11:02:58 AM
+Léopard: Added a Medium Ring at Station [1,0]
+Move 44 :11:03:12 AM
+Eternal Library: Added a Small Ring at Station [-1,1]
+Move 45 :11:03:23 AM
+Léopard: Added a Large Ring at Station [1,-1]
+Move 46 :11:03:30 AM
+Eternal Library: Added a Medium Ring at Station [0,1]
+The end of the game: Eternal Library wins!

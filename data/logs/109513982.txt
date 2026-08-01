@@ -1,0 +1,79 @@
+Move 2 :
+8/30/2020 7:30:28 AM
+ltlsky489: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+7:31:05 AM
+bibi6: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+8:52:02 AM
+ltlsky489: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+10:17:26 AM
+bibi6: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 6 :
+3:43:41 PM
+ltlsky489: Added a Small Ring at Station [0,1]
+Move 7 :
+11:35:30 PM
+bibi6: Added a Small Ring at Station [1,0]
+Move 8 :
+9/1/2020 3:56:10 PM
+ltlsky489: Added a White Bridge at Station [1,1] => [1,0] Position:Right
+Move 9 :
+11:04:21 PM
+bibi6: Added a Medium Ring at Station [0,1]
+Move 10 :
+9/2/2020 5:26:08 PM
+ltlsky489: Added a Small Ring at Station [1,1]
+Move 11 :
+9/3/2020 8:32:17 AM
+bibi6: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 12 :
+3:35:22 PM
+ltlsky489: Added a Large Ring at Station [0,1]
+Move 13 :
+9/4/2020 10:13:05 AM
+bibi6: Added a Small Ring at Station [-1,1]
+Move 14 :
+10:53:09 AM
+ltlsky489: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 15 :
+11:12:19 AM
+bibi6: Added a Medium Ring at Station [-1,1]
+Move 16 :
+11:13:11 AM
+ltlsky489: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 17 :
+11:17:04 AM
+bibi6: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 18 :
+11:39:56 AM
+ltlsky489: Added a Medium Ring at Station [1,0]
+Move 19 :
+11:53:08 AM
+bibi6: Added a Small Ring at Station [-1,0]
+Move 20 :
+11:54:15 AM
+ltlsky489: Added a Small Ring at Station [1,-1]
+Move 21 :
+12:00:48 PM
+bibi6: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 22 :
+12:01:42 PM
+ltlsky489: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 23 :
+12:15:58 PM
+bibi6: Added a Medium Ring at Station [-1,0]
+Move 24 :
+12:19:54 PM
+ltlsky489: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 25 :
+11:33:30 PM
+bibi6: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 26 :
+9/5/2020 5:18:56 AM
+ltlsky489: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 27 :
+10:26:37 AM
+bibi6: Added a Large Ring at Station [-1,1]
+The end of the game: bibi6 wins!

@@ -1,0 +1,161 @@
+Move 2 :
+6/2/2020 3:33:49 PM
+Tyler 72: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 3 :
+3:35:43 PM
+Natasha H: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 4 :
+3:35:54 PM
+Tyler 72: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 :
+3:36:59 PM
+Natasha H: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :
+3:37:50 PM
+Tyler 72: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :
+3:38:16 PM
+Natasha H: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 8 :
+3:39:29 PM
+Tyler 72: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 9 :
+3:39:42 PM
+Natasha H: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 10 :
+3:40:46 PM
+Tyler 72: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 11 :
+3:41:52 PM
+Natasha H: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 12 :
+3:42:09 PM
+Tyler 72: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 13 :
+3:42:17 PM
+Natasha H: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 14 :
+3:42:28 PM
+Tyler 72: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 15 :
+3:42:38 PM
+Natasha H: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 16 :
+3:42:49 PM
+Tyler 72: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :
+3:43:18 PM
+Natasha H: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+No rings placed or orphaned. 4 moves until a forced draw
+Move 18 :
+3:44:36 PM
+Tyler 72: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+No rings placed or orphaned. 3 moves until a forced draw
+Move 19 :
+3:44:58 PM
+Natasha H: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+No rings placed or orphaned. 2 moves until a forced draw
+Move 20 :
+3:45:07 PM
+Tyler 72: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+No rings placed or orphaned. 1 moves until a forced draw
+Move 21 :
+3:46:11 PM
+Natasha H: Added a Large Ring at Station [1,0]
+Move 22 :
+3:47:31 PM
+Tyler 72: Moved a Blocker at Station [0,0] => [0,1] Position:Right
+Move 23 :
+3:49:03 PM
+Natasha H: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 24 :
+3:49:13 PM
+Tyler 72: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 25 :
+3:49:35 PM
+Natasha H: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :
+3:50:35 PM
+Tyler 72: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 27 :
+3:51:02 PM
+Natasha H: Added a Medium Ring at Station [1,0]
+Move 28 :
+3:51:26 PM
+Tyler 72: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 29 :
+3:51:52 PM
+Natasha H: Moved a Blocker at Station [0,0] => [-1,1] Position:Left
+Move 30 :
+3:52:08 PM
+Tyler 72: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 31 :
+3:52:54 PM
+Natasha H: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 32 :
+3:54:44 PM
+Tyler 72: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 33 :
+3:54:52 PM
+Natasha H: Added a Black Bridge at Station [-1,1] => [0,0] Position:Right
+Move 34 :
+3:55:20 PM
+Tyler 72: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 35 :
+3:56:30 PM
+Natasha H: Added a Large Ring at Station [0,1]
+Move 36 :
+4:01:15 PM
+Tyler 72: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 37 :
+4:02:24 PM
+Natasha H: Added a Medium Ring at Station [0,1]
+Move 38 :
+4:03:10 PM
+Tyler 72: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 39 :
+4:04:33 PM
+Natasha H: Added a Small Ring at Station [0,1]
+Move 40 :
+4:06:05 PM
+Tyler 72: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 41 :
+4:07:09 PM
+Natasha H: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 42 :
+4:07:28 PM
+Tyler 72: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 43 :
+4:07:51 PM
+Natasha H: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 44 :
+4:08:10 PM
+Tyler 72: Added a Large Ring at Station [-1,0]
+Move 45 :
+4:09:19 PM
+Natasha H: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 46 :
+4:09:30 PM
+Tyler 72: Added a Medium Ring at Station [-1,0]
+Move 47 :
+4:09:59 PM
+Natasha H: Added a Large Ring at Station [-1,1]
+Move 48 :
+4:10:13 PM
+Tyler 72: Added a Small Ring at Station [-1,0]
+Move 49 :
+4:10:46 PM
+Natasha H: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 50 :
+4:11:59 PM
+Tyler 72: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 51 :
+4:12:04 PM
+Natasha H: Added a Large Ring at Station [1,1]
+Move 52 :
+4:12:34 PM
+Tyler 72: Moved a Blocker at Station [0,0] => [0,-1] Position:Left
+Move 53 :
+4:12:51 PM
+Natasha H: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+The end of the game: Natasha H wins!

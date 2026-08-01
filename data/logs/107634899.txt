@@ -1,0 +1,218 @@
+Move 1 :
+8/18/2020 5:37:32 PM
+The colors of Pumpkeenhead have been chosen according to their preferences. Change my preferences.
+Move 2 :
+5:47:41 PM
+fustyWumpus: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+5:48:28 PM
+Pumpkeenhead: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+5:49:48 PM
+fustyWumpus: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+5:50:00 PM
+Pumpkeenhead: Added a Large Ring at Station [0,-1]
+Move 6 :
+5:50:15 PM
+fustyWumpus: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 7 :
+5:50:55 PM
+Pumpkeenhead: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 8 :
+5:51:13 PM
+fustyWumpus: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 9 :
+5:51:56 PM
+Pumpkeenhead: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 10 :
+5:53:19 PM
+fustyWumpus: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 11 :
+5:53:30 PM
+Pumpkeenhead: Added a Large Ring at Station [-1,-1]
+Move 12 :
+5:54:14 PM
+fustyWumpus: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 13 :
+5:54:41 PM
+Pumpkeenhead: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 14 :
+5:55:12 PM
+fustyWumpus: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 15 :
+5:55:35 PM
+Pumpkeenhead: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 16 :
+5:55:58 PM
+fustyWumpus: Added a Small Ring at Station [0,1]
+Move 17 :
+5:56:48 PM
+Pumpkeenhead: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 18 :
+5:57:27 PM
+fustyWumpus: Added a Small Ring at Station [1,0]
+Move 19 :
+5:58:20 PM
+Pumpkeenhead: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 20 :
+5:58:30 PM
+fustyWumpus: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Pumpkeenhead has to remove 2 orphaned rings
+Move 21 :
+5:58:42 PM
+Pumpkeenhead: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 22 :
+5:59:14 PM
+fustyWumpus: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 23 :
+5:59:22 PM
+Pumpkeenhead: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 24 :
+5:59:28 PM
+fustyWumpus: Added a Small Ring at Station [1,1]
+Move 25 :
+5:59:49 PM
+Pumpkeenhead: Added a Large Ring at Station [0,-1]
+Move 26 :
+5:59:56 PM
+fustyWumpus: Added a Medium Ring at Station [0,1]
+Move 27 :
+6:00:12 PM
+Pumpkeenhead: Reversed a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 28 :
+6:00:33 PM
+fustyWumpus: Added a Medium Ring at Station [1,0]
+Move 29 :
+6:00:41 PM
+Pumpkeenhead: Added a Large Ring at Station [-1,-1]
+Move 30 :
+6:01:07 PM
+fustyWumpus: Added a Large Ring at Station [0,1]
+Move 31 :
+6:01:29 PM
+Pumpkeenhead: Added a Medium Ring at Station [0,-1]
+Move 32 :
+6:01:35 PM
+fustyWumpus: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 33 :
+6:01:49 PM
+Pumpkeenhead: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+fustyWumpus has to remove 6 orphaned rings
+Move 34 :
+6:03:21 PM
+fustyWumpus: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 35 :
+6:03:44 PM
+Pumpkeenhead: Added a Medium Ring at Station [-1,0]
+Move 36 :
+6:04:26 PM
+fustyWumpus: Added a Small Ring at Station [0,1]
+Move 37 :
+6:04:34 PM
+Pumpkeenhead: Added a Medium Ring at Station [-1,-1]
+Move 38 :
+6:04:51 PM
+fustyWumpus: Added a Small Ring at Station [1,1]
+Move 39 :
+6:04:57 PM
+Pumpkeenhead: Added a Small Ring at Station [-1,0]
+Move 40 :
+6:05:13 PM
+fustyWumpus: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Pumpkeenhead has to remove 4 orphaned rings
+Move 41 :
+6:05:32 PM
+Pumpkeenhead: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 42 :
+6:05:54 PM
+fustyWumpus: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 43 :
+6:06:33 PM
+Pumpkeenhead: Added a Large Ring at Station [-1,-1]
+Move 44 :
+6:06:44 PM
+fustyWumpus: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 45 :
+6:06:51 PM
+Pumpkeenhead: Added a Small Ring at Station [1,0]
+Move 46 :
+6:07:01 PM
+fustyWumpus: Added a Small Ring at Station [-1,0]
+Move 47 :
+6:07:08 PM
+Pumpkeenhead: Added a Medium Ring at Station [-1,0]
+Move 48 :
+6:07:19 PM
+fustyWumpus: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Pumpkeenhead has to remove 1 orphaned rings
+Move 49 :
+6:07:33 PM
+Pumpkeenhead: Added a Large Ring at Station [-1,0]
+Move 50 :
+6:08:03 PM
+fustyWumpus: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Pumpkeenhead has to remove 2 orphaned rings
+Move 51 :
+6:09:00 PM
+Pumpkeenhead: Added a Small Ring at Station [0,-1]
+Move 52 :
+6:09:29 PM
+fustyWumpus: Added a Small Ring at Station [1,0]
+Move 53 :
+6:11:42 PM
+Pumpkeenhead: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 54 :
+6:13:39 PM
+fustyWumpus: Added a Small Ring at Station [1,-1]
+Move 55 :
+6:13:58 PM
+Pumpkeenhead: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 56 :
+6:14:09 PM
+fustyWumpus: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 57 :
+6:14:22 PM
+Pumpkeenhead: Added a Small Ring at Station [-1,-1]
+Move 58 :
+6:15:10 PM
+fustyWumpus: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 59 :
+6:16:26 PM
+Pumpkeenhead: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 60 :
+6:16:39 PM
+fustyWumpus: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 61 :
+6:17:08 PM
+Pumpkeenhead: Added a Medium Ring at Station [1,0]
+Move 62 :
+6:17:31 PM
+fustyWumpus: Added a Large Ring at Station [1,0]
+Move 63 :
+6:17:59 PM
+Pumpkeenhead: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 64 :
+6:18:05 PM
+fustyWumpus: Removed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Pumpkeenhead has to remove 1 orphaned rings
+Move 65 :
+6:18:17 PM
+Pumpkeenhead: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+fustyWumpus has to remove 1 orphaned rings
+Move 66 :
+6:18:23 PM
+fustyWumpus: Added a Medium Ring at Station [1,0]
+Move 67 :
+6:21:15 PM
+Pumpkeenhead: Added a Medium Ring at Station [-1,0]
+Move 68 :
+6:21:31 PM
+fustyWumpus: Added a Medium Ring at Station [0,1]
+Move 69 :
+6:21:40 PM
+Pumpkeenhead: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 70 :
+6:21:46 PM
+fustyWumpus: Added a Large Ring at Station [0,1]
+The end of the game: fustyWumpus wins!

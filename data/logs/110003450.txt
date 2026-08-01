@@ -1,0 +1,158 @@
+Move 2 :
+9/1/2020 11:44:56 AM
+JLLJ: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 3 :
+11:45:39 AM
+windxd: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+11:46:36 AM
+JLLJ: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 5 :
+11:47:06 AM
+windxd: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :
+11:47:35 AM
+JLLJ: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 7 :
+11:47:54 AM
+windxd: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 8 :
+11:48:56 AM
+JLLJ: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 9 :
+11:49:14 AM
+windxd: Added a Large Ring at Station [0,-1]
+Move 10 :
+11:49:56 AM
+JLLJ: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 11 :
+11:50:01 AM
+windxd: Added a Medium Ring at Station [0,-1]
+Move 12 :
+11:51:39 AM
+JLLJ: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+11:51:44 AM
+windxd: Added a Small Ring at Station [0,-1]
+Move 14 :
+11:51:57 AM
+JLLJ: Added a Large Ring at Station [0,1]
+Move 15 :
+11:52:17 AM
+windxd: Added a Large Ring at Station [-1,0]
+Move 16 :
+11:52:28 AM
+JLLJ: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+windxd has to remove 1 orphaned rings
+Move 17 :
+11:52:39 AM
+windxd: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 18 :
+11:53:16 AM
+JLLJ: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 19 :
+11:53:32 AM
+windxd: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+JLLJ has to remove 1 orphaned rings
+Move 20 :
+11:55:12 AM
+JLLJ: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 21 :
+11:55:24 AM
+windxd: Added a Large Ring at Station [-1,0]
+Move 22 :
+11:55:39 AM
+JLLJ: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 23 :
+11:55:54 AM
+windxd: Added a Medium Ring at Station [-1,0]
+Move 24 :
+11:56:03 AM
+JLLJ: Added a Small Ring at Station [-1,0]
+Move 25 :
+11:56:47 AM
+windxd: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 26 :
+11:57:34 AM
+JLLJ: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 27 :
+11:57:46 AM
+windxd: Moved a Base Post at Station [-1,-1]
+Move 28 :
+11:58:05 AM
+JLLJ: Added a Large Ring at Station [-1,-1]
+Move 29 :
+11:58:42 AM
+windxd: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 30 :
+11:59:14 AM
+JLLJ: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 31 :
+12:00:09 PM
+windxd: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 32 :
+12:00:18 PM
+JLLJ: Added a Medium Ring at Station [-1,-1]
+Move 33 :
+12:00:25 PM
+windxd: Added a Small Ring at Station [1,-1]
+Move 34 :
+12:01:06 PM
+JLLJ: Added a Small Ring at Station [-1,-1]
+Move 35 :
+12:01:23 PM
+windxd: Removed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+JLLJ has to remove 3 orphaned rings
+Move 36 :
+12:01:48 PM
+JLLJ: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 37 :
+12:01:55 PM
+windxd: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 38 :
+12:02:27 PM
+JLLJ: Moved a Base Post at Station [-1,0]
+Move 39 :
+12:02:51 PM
+windxd: Added a Medium Ring at Station [1,-1]
+Move 40 :
+12:04:42 PM
+JLLJ: Added a Large Ring at Station [-1,1]
+Move 41 :
+12:04:49 PM
+windxd: Added a Large Ring at Station [1,-1]
+Move 42 :
+12:05:09 PM
+JLLJ: Added a Large Ring at Station [0,1]
+Move 43 :
+12:05:30 PM
+windxd: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 44 :
+12:06:05 PM
+JLLJ: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 45 :
+12:07:09 PM
+windxd: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 46 :
+12:09:03 PM
+JLLJ: Removed a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 47 :
+12:10:19 PM
+windxd: Added a Small Ring at Station [1,0]
+Move 48 :
+12:10:53 PM
+JLLJ: Added a Small Ring at Station [1,1]
+Move 49 :
+12:10:59 PM
+windxd: Added a Medium Ring at Station [1,0]
+Move 50 :
+12:11:35 PM
+JLLJ: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+JLLJ has to remove 3 orphaned rings
+Move 51 :
+12:13:06 PM
+windxd: Added a Large Ring at Station [1,0]
+Move 52 :
+12:13:44 PM
+JLLJ: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+The end of the game: windxd wins!

@@ -1,0 +1,172 @@
+Move 1 :
+9/3/2020 7:14:35 PM
+The colors of Jest Phulin have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:16:26 PM
+Jest Phulin: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 3 :
+7:16:40 PM
+meisme17: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 4 :
+7:17:04 PM
+sabrinanator: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+7:17:43 PM
+Jest Phulin: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 6 :
+7:17:55 PM
+meisme17: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :
+7:18:15 PM
+sabrinanator: Added a Large Ring at Station [1,1]
+Move 8 :
+7:18:26 PM
+Jest Phulin: Added a Small Ring at Station [0,-1]
+Move 9 :
+7:19:09 PM
+meisme17: Added a Large Ring at Station [-2,1]
+Move 10 :
+7:19:19 PM
+sabrinanator: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 11 :
+7:19:32 PM
+Jest Phulin: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 12 :
+7:19:38 PM
+meisme17: Moved a Base Post at Station [-2,1]
+Move 13 :
+7:19:52 PM
+sabrinanator: Added a Large Ring at Station [1,0]
+Move 14 :
+7:20:07 PM
+Jest Phulin: Moved a Base Post at Station [-1,0]
+Move 15 :
+7:20:26 PM
+meisme17: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 16 :
+7:20:43 PM
+sabrinanator: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 17 :
+7:21:10 PM
+Jest Phulin: Added a Small Ring at Station [-2,1]
+Move 18 :
+7:21:17 PM
+meisme17: Added a Medium Ring at Station [-1,0]
+Move 19 :
+7:21:27 PM
+sabrinanator: Added a Large Ring at Station [1,-1]
+Move 20 :
+7:22:21 PM
+Jest Phulin: Moved a Base Post at Station [0,-1]
+Jest Phulin has to remove 1 orphaned rings
+Move 21 :
+7:22:32 PM
+meisme17: Added a White Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 22 :
+7:22:41 PM
+sabrinanator: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 23 :
+7:23:58 PM
+Jest Phulin: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :
+7:24:08 PM
+meisme17: Added a Small Ring at Station [-1,1]
+Move 25 :
+7:24:15 PM
+sabrinanator: Added a Medium Ring at Station [0,-1]
+Move 26 :
+7:24:27 PM
+Jest Phulin: Added a Small Ring at Station [1,-1]
+Move 27 :
+7:24:43 PM
+meisme17: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 28 :
+7:25:05 PM
+sabrinanator: Added a Large Ring at Station [-1,0]
+Move 29 :
+7:25:18 PM
+Jest Phulin: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+sabrinanator has to remove 2 orphaned rings
+Move 30 :
+7:25:42 PM
+meisme17: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 31 :
+7:26:30 PM
+sabrinanator: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 32 :
+7:26:56 PM
+Jest Phulin: Added a Medium Ring at Station [1,-1]
+Move 33 :
+7:27:04 PM
+meisme17: Added a Small Ring at Station [0,1]
+Move 34 :
+7:27:10 PM
+sabrinanator: Added a Medium Ring at Station [1,0]
+Move 35 :
+7:27:20 PM
+Jest Phulin: Added a Small Ring at Station [1,0]
+Move 36 :
+7:27:33 PM
+meisme17: Added a Small Ring at Station [1,1]
+Move 37 :
+7:33:48 PM
+sabrinanator: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 38 :
+7:34:04 PM
+Jest Phulin: Moved a Base Post at Station [1,-1]
+Move 39 :
+7:34:18 PM
+meisme17: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 40 :
+7:34:25 PM
+sabrinanator: Moved a Base Post at Station [1,1]
+Move 41 :
+7:34:40 PM
+Jest Phulin: Added a Medium Ring at Station [0,-1]
+Move 42 :
+7:34:53 PM
+meisme17: Added a Medium Ring at Station [0,1]
+Move 43 :
+7:35:07 PM
+sabrinanator: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 44 :
+7:35:47 PM
+Jest Phulin: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 45 :
+7:36:36 PM
+meisme17: Added a Large Ring at Station [-1,0]
+Move 46 :
+7:36:55 PM
+sabrinanator: Added a Large Ring at Station [0,1]
+Move 47 :
+7:37:26 PM
+Jest Phulin: Added a Small Ring at Station [-1,0]
+Move 48 :
+7:37:31 PM
+meisme17: Moved a Base Post at Station [-1,0]
+meisme17 has to remove 4 orphaned rings
+Move 49 :
+7:38:01 PM
+sabrinanator: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 50 :
+7:38:23 PM
+Jest Phulin: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 51 :
+7:38:41 PM
+meisme17: Added a Small Ring at Station [-1,1]
+Move 52 :
+7:39:05 PM
+sabrinanator: Added a Medium Ring at Station [-1,1]
+Move 53 :
+7:39:19 PM
+Jest Phulin: Added a Large Ring at Station [-1,1]
+Move 54 :
+7:39:26 PM
+meisme17: Added a Small Ring at Station [0,1]
+Move 55 :
+7:42:14 PM
+sabrinanator: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 56 :
+7:42:27 PM
+Jest Phulin: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+The end of the game: Jest Phulin wins!

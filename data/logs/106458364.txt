@@ -1,0 +1,147 @@
+Move 2 :
+8/11/2020 10:49:50 PM
+Toringoria: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 3 :
+10:53:29 PM
+OkumHart: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 4 :
+10:56:13 PM
+Sanharasan: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 5 :
+10:57:10 PM
+Toringoria: Added a Small Ring at Station [1,0]
+Move 6 :
+10:57:25 PM
+OkumHart: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 7 :
+10:58:36 PM
+Sanharasan: Added a Medium Ring at Station [1,0]
+Move 8 :
+10:59:12 PM
+Toringoria: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 9 :
+10:59:26 PM
+OkumHart: Added a Medium Ring at Station [-2,1]
+Move 10 :
+10:59:54 PM
+Sanharasan: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 11 :
+11:00:26 PM
+Toringoria: Added a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 12 :
+11:00:43 PM
+OkumHart: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 13 :
+11:03:41 PM
+Sanharasan: Added a Large Ring at Station [1,0]
+Move 14 :
+11:06:41 PM
+Toringoria: Added a Large Ring at Station [1,1]
+Move 15 :
+11:07:00 PM
+OkumHart: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 16 :
+11:07:26 PM
+Sanharasan: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 17 :
+11:08:30 PM
+Toringoria: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 18 :
+11:08:38 PM
+OkumHart: Added a Small Ring at Station [-1,1]
+Move 19 :
+11:08:48 PM
+Sanharasan: Added a Small Ring at Station [1,1]
+Move 20 :
+11:09:01 PM
+Toringoria: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 21 :
+11:09:24 PM
+OkumHart: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 22 :
+11:12:04 PM
+Sanharasan: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 23 :
+11:13:07 PM
+Toringoria: Added a Small Ring at Station [0,1]
+Move 24 :
+11:14:08 PM
+OkumHart: Added a Large Ring at Station [0,-1]
+Move 25 :
+11:15:56 PM
+Sanharasan: Added a Medium Ring at Station [1,-1]
+Move 26 :
+11:16:32 PM
+Toringoria: Added a Medium Ring at Station [1,1]
+Move 27 :
+11:16:54 PM
+OkumHart: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 28 :
+11:17:24 PM
+Sanharasan: Added a Small Ring at Station [1,-2]
+Move 29 :
+11:19:23 PM
+Toringoria: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 30 :
+11:19:57 PM
+OkumHart: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 31 :
+11:21:02 PM
+Sanharasan: Added a White Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 32 :
+11:22:20 PM
+Toringoria: Added a Medium Ring at Station [0,1]
+Move 33 :
+11:22:42 PM
+OkumHart: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 34 :
+11:23:01 PM
+Sanharasan: Added a Medium Ring at Station [0,-1]
+Move 35 :
+11:23:43 PM
+Toringoria: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 36 :
+11:27:37 PM
+OkumHart: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 37 :
+11:27:55 PM
+Sanharasan: Added a Small Ring at Station [-1,0]
+Move 38 :
+11:29:08 PM
+Toringoria: Added a Medium Ring at Station [-1,1]
+Move 39 :
+11:29:32 PM
+OkumHart: Reversed a White Bridge at Station [1,-1] => [1,-2] Position:Left
+Sanharasan has to remove 3 orphaned rings
+Move 40 :
+11:30:21 PM
+Sanharasan: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 41 :
+11:31:31 PM
+Toringoria: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 42 :
+11:33:02 PM
+OkumHart: Moved a Base Post at Station [0,-1]
+OkumHart has to remove 2 orphaned rings
+Move 43 :
+11:33:27 PM
+Sanharasan: Added a Medium Ring at Station [1,-2]
+Move 44 :
+11:33:38 PM
+Toringoria: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 45 :
+11:33:51 PM
+OkumHart: Added a Small Ring at Station [-1,0]
+Move 46 :
+11:34:04 PM
+Sanharasan: Added a Small Ring at Station [0,-1]
+Move 47 :
+11:34:12 PM
+Toringoria: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 48 :
+11:35:21 PM
+OkumHart: Added a Small Ring at Station [1,-1]
+Move 49 :
+11:35:55 PM
+Sanharasan: Added a Large Ring at Station [1,-1]
+The end of the game: Sanharasan wins!

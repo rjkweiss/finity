@@ -1,0 +1,100 @@
+Game log
+Move 1 :1/11/2023 2:23:18 PM
+The colors of t-rev have been chosen according to their preferences. Change my preferences.
+Move 2 :2:27:17 PM
+t-rev: Added a White Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 3 :6:55:32 PM
+cue_b: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 4 :1/13/2023 7:55:29 AM
+Turth: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 5 :8:00:49 AM
+t-rev: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :8:17:39 AM
+cue_b: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 7 :8:19:31 AM
+Turth: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 8 :8:30:58 AM
+t-rev: Added a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 9 :8:58:41 AM
+cue_b: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 10 :12:01:11 PM
+Turth: Added a Large Ring at Station [1,1]
+Move 11 :1/16/2023 4:28:17 AM
+t-rev: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 12 :7:32:49 AM
+cue_b: Added a Small Ring at Station [0,-1]
+Move 13 :7:59:12 AM
+Turth: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 14 :2:45:16 PM
+t-rev: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 15 :1/19/2023 6:46:09 AM
+cue_b: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 16 :1:55:40 PM
+Turth: Added a Large Ring at Station [-1,1]
+Move 17 :1/20/2023 5:31:20 AM
+t-rev: Added a Small Ring at Station [1,-2]
+Move 18 :7:59:47 AM
+cue_b: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 19 :1/23/2023 7:56:31 AM
+Turth: Added a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 20 :9:30:09 AM
+t-rev: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 21 :1:07:07 PM
+cue_b: Added a Small Ring at Station [1,-1]
+Move 22 :1:07:32 PM
+Turth: Added a Large Ring at Station [-2,1]
+Move 23 :1/24/2023 5:18:17 AM
+t-rev: Moved a Base Post at Station [1,-2]
+Move 24 :7:07:25 AM
+cue_b: Moved a Base Post at Station [1,-1]
+Move 25 :10:17:22 AM
+Turth: Added a Large Ring at Station [-1,0]
+Move 26 :11:01:06 AM
+t-rev: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 27 :3:34:14 PM
+cue_b: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 28 :1/25/2023 9:01:31 AM
+Turth: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 29 :9:11:16 AM
+t-rev: Added a Large Ring at Station [1,-1]
+Move 30 :9:24:42 AM
+cue_b: Added a Small Ring at Station [1,0]
+Move 31 :1:55:10 PM
+Turth: Moved a Base Post at Station [-1,1]
+Turth has to remove 1 orphaned rings
+Move 32 :1/26/2023 5:36:00 AM
+t-rev: Added a Large Ring at Station [1,0]
+Move 33 :7:00:01 AM
+cue_b: Added a Small Ring at Station [-1,0]
+Move 34 :1/27/2023 10:51:43 AM
+Turth: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 35 :10:54:34 AM
+t-rev: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 36 :1:13:26 PM
+cue_b: Added a Small Ring at Station [1,1]
+Move 37 :1/30/2023 2:05:11 PM
+Turth: Added a Medium Ring at Station [0,1]
+Move 38 :1/31/2023 4:44:24 AM
+t-rev: Added a Large Ring at Station [1,1]
+Move 39 :2:26:10 PM
+cue_b: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 40 :2/1/2023 8:18:34 AM
+Turth: Added a Small Ring at Station [0,1]
+Move 41 :3:23:48 PM
+t-rev: Added a Large Ring at Station [0,1]
+Move 42 :3:28:17 PM
+cue_b: Removed a White Bridge at Station [1,-2] => [1,-1] Position:Left
+t-rev has to remove 4 orphaned rings
+Move 43 :3:46:06 PM
+Turth: Added a Medium Ring at Station [-2,1]
+Move 44 :9:37:53 PM
+t-rev: Added a White Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 45 :2/2/2023 7:00:08 AM
+cue_b: Added a Large Ring at Station [0,1]
+Move 46 :7:57:20 AM
+Turth: Added a Medium Ring at Station [-1,0]
+Move 47 :8:02:57 AM
+t-rev: Added a Large Ring at Station [1,-1]
+Move 48 :9:22:34 AM
+cue_b: Added a Small Ring at Station [-1,1]
+The end of the game: cue_b wins!

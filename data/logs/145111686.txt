@@ -1,0 +1,120 @@
+Game log
+Move 1 :2/5/2021 10:11:12 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :10:55:19 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :11:48:11 AM
+Smeg_Maspew: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :1:45:54 PM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :3:16:05 PM
+Smeg_Maspew: Added a Small Ring at Station [1,0]
+Move 6 :4:05:45 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 7 :2/6/2021 6:44:12 AM
+Smeg_Maspew: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :7:57:04 AM
+tony1021: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 9 :10:30:22 AM
+Smeg_Maspew: Added a Small Ring at Station [1,1]
+Move 10 :11:49:36 AM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Smeg_Maspew has to remove 2 orphaned rings
+Move 11 :12:03:01 PM
+Smeg_Maspew: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 12 :4:28:33 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 13 :4:45:09 PM
+Smeg_Maspew: Added a Small Ring at Station [1,0]
+Move 14 :6:16:58 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 15 :8:13:40 PM
+Smeg_Maspew: Added a Small Ring at Station [1,1]
+Move 16 :8:23:59 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 17 :9:00:21 PM
+Smeg_Maspew: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 18 :10:18:33 PM
+tony1021: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 19 :2/7/2021 10:04:20 AM
+Smeg_Maspew: Added a Medium Ring at Station [0,1]
+Move 20 :8:10:12 PM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Smeg_Maspew has to remove 2 orphaned rings
+Move 21 :8:24:55 PM
+Smeg_Maspew: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 22 :2/8/2021 7:27:32 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 23 :8:28:16 AM
+Smeg_Maspew: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 24 :10:19:14 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 25 :1:06:30 PM
+Smeg_Maspew: Added a Large Ring at Station [0,1]
+Move 26 :3:29:33 PM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Left
+Smeg_Maspew has to remove 1 orphaned rings
+Move 27 :3:33:07 PM
+Smeg_Maspew: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 28 :11:21:21 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 29 :2/9/2021 5:42:02 AM
+Smeg_Maspew: Added a Small Ring at Station [1,1]
+Move 30 :7:26:25 AM
+tony1021: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 31 :8:03:16 AM
+Smeg_Maspew: Added a Large Ring at Station [0,1]
+Move 32 :8:07:16 PM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Smeg_Maspew has to remove 2 orphaned rings
+Move 33 :2/10/2021 6:37:48 AM
+Smeg_Maspew: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 34 :8:45:06 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 35 :9:07:19 AM
+Smeg_Maspew: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 36 :8:28:08 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 37 :2/11/2021 4:17:15 AM
+Smeg_Maspew: Added a Small Ring at Station [0,-1]
+Move 38 :2:23:40 PM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 39 :3:38:08 PM
+Smeg_Maspew: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 40 :3:44:40 PM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 41 :4:07:29 PM
+Smeg_Maspew: Added a Small Ring at Station [-1,0]
+Move 42 :11:47:18 PM
+tony1021: Moved a Base Post at Station [-1,1]
+Move 43 :2/12/2021 5:28:43 AM
+Smeg_Maspew: Added a Large Ring at Station [-1,1]
+Move 44 :9:28:40 AM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Smeg_Maspew has to remove 3 orphaned rings
+Move 45 :9:36:59 AM
+Smeg_Maspew: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 46 :10:48:34 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 47 :10:49:34 AM
+Smeg_Maspew: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 48 :10:54:14 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 49 :11:04:55 AM
+Smeg_Maspew: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 50 :2:04:45 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 51 :3:50:05 PM
+Smeg_Maspew: Added a Small Ring at Station [0,-1]
+Move 52 :2/13/2021 8:28:13 AM
+tony1021: Added a Large Ring at Station [0,1]
+Move 53 :12:09:44 PM
+Smeg_Maspew: Added a Medium Ring at Station [-1,0]
+Move 54 :1:17:36 PM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Smeg_Maspew has to remove 2 orphaned rings
+Move 55 :1:27:15 PM
+Smeg_Maspew: Removed a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 56 :1:31:27 PM
+tony1021: Added a Medium Ring at Station [1,1]
+The end of the game: tony1021 wins!

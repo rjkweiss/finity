@@ -1,0 +1,110 @@
+Move 2 :
+8/22/2020 4:35:39 PM
+galispiar: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 3 :
+4:36:05 PM
+Victoria_Kyoo : Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+4:37:24 PM
+galispiar: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 5 :
+4:37:52 PM
+Victoria_Kyoo : Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 6 :
+4:39:11 PM
+galispiar: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 7 :
+4:39:26 PM
+Victoria_Kyoo : Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 8 :
+4:40:42 PM
+galispiar: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 9 :
+4:41:06 PM
+Victoria_Kyoo : Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 10 :
+4:41:53 PM
+galispiar: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 11 :
+4:42:01 PM
+Victoria_Kyoo : Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 12 :
+4:42:23 PM
+galispiar: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+4:42:31 PM
+Victoria_Kyoo : Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 14 :
+4:42:44 PM
+galispiar: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 15 :
+4:42:55 PM
+Victoria_Kyoo : Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 16 :
+4:43:20 PM
+galispiar: Added a Medium Ring at Station [0,1]
+Move 17 :
+4:43:34 PM
+Victoria_Kyoo : Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 18 :
+4:44:07 PM
+galispiar: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 19 :
+4:44:14 PM
+Victoria_Kyoo : Added a Medium Ring at Station [0,-1]
+Move 20 :
+4:44:31 PM
+galispiar: Added a Small Ring at Station [0,1]
+Move 21 :
+4:44:39 PM
+Victoria_Kyoo : Added a Small Ring at Station [0,-1]
+Move 22 :
+4:44:47 PM
+galispiar: Added a Large Ring at Station [0,1]
+Move 23 :
+4:44:53 PM
+Victoria_Kyoo : Added a Large Ring at Station [0,-1]
+Move 24 :
+4:45:04 PM
+galispiar: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 25 :
+4:45:10 PM
+Victoria_Kyoo : Added a Large Ring at Station [-1,-1]
+Move 26 :
+4:45:51 PM
+galispiar: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 27 :
+4:45:59 PM
+Victoria_Kyoo : Moved a Base Post at Station [0,-1]
+Victoria_Kyoo has to remove 1 orphaned rings
+Move 28 :
+4:46:10 PM
+galispiar: Moved a Base Post at Station [0,1]
+Move 29 :
+4:46:27 PM
+Victoria_Kyoo : Added a Large Ring at Station [1,-1]
+Move 30 :
+4:46:34 PM
+galispiar: Added a Large Ring at Station [-1,1]
+Move 31 :
+4:46:45 PM
+Victoria_Kyoo : Added a Medium Ring at Station [1,-1]
+Move 32 :
+4:46:50 PM
+galispiar: Added a Medium Ring at Station [-1,0]
+Move 33 :
+4:47:07 PM
+Victoria_Kyoo : Moved a Base Post at Station [1,-1]
+Move 34 :
+4:47:23 PM
+galispiar: Added a Medium Ring at Station [-1,1]
+Move 35 :
+4:47:30 PM
+Victoria_Kyoo : Added a Large Ring at Station [-1,-1]
+Move 36 :
+4:47:40 PM
+galispiar: Added a Large Ring at Station [-1,0]
+Move 37 :
+4:47:47 PM
+Victoria_Kyoo : Added a Large Ring at Station [1,0]
+The end of the game: Victoria_Kyoo wins!

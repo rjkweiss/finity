@@ -1,0 +1,99 @@
+Game log
+Move 1 :4/13/2022 5:54:22 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :4/14/2022 8:20:23 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :4/15/2022 2:50:53 AM
+nmego: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :4:00:02 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :4:02:01 AM
+nmego: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :5:45:16 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 7 :11:23:11 AM
+nmego: Added a Small Ring at Station [1,0]
+Move 8 :4/18/2022 5:41:44 AM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+nmego has to remove 1 orphaned rings
+Move 9 :8:28:17 AM
+nmego: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+tony1021 has to remove 1 orphaned rings
+Move 10 :4/19/2022 2:21:46 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 11 :4/20/2022 4:07:33 AM
+nmego: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 12 :4/21/2022 6:04:47 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 13 :6:07:55 AM
+nmego: Added a Small Ring at Station [1,0]
+Move 14 :6:32:40 AM
+tony1021: Moved a Blocker at Station [1,1] => [1,0] Position:Left
+Move 15 :4/22/2022 1:22:59 PM
+nmego: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 16 :3:40:06 PM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 17 :4/23/2022 3:38:47 AM
+nmego: Added a Small Ring at Station [1,1]
+Move 18 :4:17:59 AM
+tony1021: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+nmego has to remove 1 orphaned rings
+Move 19 :4:30:13 AM
+nmego: Moved a Base Post at Station [1,1]
+Move 20 :7:44:13 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 21 :4/24/2022 5:32:56 AM
+nmego: Added a Medium Ring at Station [0,1]
+Move 22 :7:31:06 AM
+tony1021: Removed a Black Bridge at Station [1,1] => [0,1] Position:Right
+nmego has to remove 1 orphaned rings
+Move 23 :10:17:35 AM
+nmego: Added a Small Ring at Station [1,-1]
+Move 24 :10:18:15 AM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 25 :10:45:59 AM
+nmego: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 26 :11:34:57 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 27 :4/25/2022 7:49:46 AM
+nmego: Added a Medium Ring at Station [1,0]
+Move 28 :8:16:37 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 29 :8:33:21 AM
+nmego: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 30 :8:43:17 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 31 :8:47:18 AM
+nmego: Added a Small Ring at Station [0,-1]
+Move 32 :10:10:15 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 33 :11:14:11 PM
+nmego: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 34 :4/26/2022 8:19:01 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 35 :2:14:41 PM
+nmego: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 36 :8:15:11 PM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+nmego has to remove 1 orphaned rings
+Move 37 :4/28/2022 12:09:42 AM
+nmego: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 38 :6:28:47 AM
+tony1021: Added a Large Ring at Station [-1,1]
+Move 39 :4/29/2022 2:59:28 AM
+nmego: Added a Small Ring at Station [0,-1]
+Move 40 :6:13:49 AM
+tony1021: Moved a Base Post at Station [-1,1]
+Move 41 :11:20:18 PM
+nmego: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 42 :4/30/2022 8:14:49 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 43 :11:37:35 PM
+nmego: Added a Medium Ring at Station [1,-1]
+Move 44 :5/1/2022 6:23:17 AM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 45 :10:32:09 PM
+nmego: Added a Medium Ring at Station [0,-1]
+Move 46 :10:32:30 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+The end of the game: tony1021 wins!

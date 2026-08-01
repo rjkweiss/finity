@@ -1,0 +1,122 @@
+Move 2 :
+9/3/2020 4:43:13 AM
+CseloCsaba85: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+5:11:29 AM
+szunyi: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+5:25:02 AM
+CseloCsaba85: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :
+5:30:43 AM
+szunyi: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+5:44:43 AM
+CseloCsaba85: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 7 :
+6:22:19 AM
+szunyi: Added a Small Ring at Station [0,-1]
+Move 8 :
+6:33:29 AM
+CseloCsaba85: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 9 :
+9:13:30 AM
+szunyi: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 10 :
+9:16:20 AM
+CseloCsaba85: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 11 :
+9:19:54 AM
+szunyi: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 12 :
+9:41:16 AM
+CseloCsaba85: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 13 :
+1:19:50 PM
+szunyi: Added a Small Ring at Station [-1,0]
+Move 14 :
+1:41:49 PM
+CseloCsaba85: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 15 :
+2:13:21 PM
+szunyi: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 16 :
+11:42:26 PM
+CseloCsaba85: Added a Large Ring at Station [-1,0]
+Move 17 :
+9/4/2020 12:07:50 AM
+szunyi: Added a Small Ring at Station [-1,1]
+Move 18 :
+12:10:09 AM
+CseloCsaba85: Added a Large Ring at Station [-1,-1]
+Move 19 :
+12:13:15 AM
+szunyi: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+CseloCsaba85 has to remove 2 orphaned rings
+Move 20 :
+12:16:30 AM
+CseloCsaba85: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 21 :
+12:18:26 AM
+szunyi: Added a Medium Ring at Station [-1,0]
+Move 22 :
+12:21:01 AM
+CseloCsaba85: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 23 :
+12:21:57 AM
+szunyi: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 24 :
+12:22:11 AM
+CseloCsaba85: Added a Small Ring at Station [0,1]
+Move 25 :
+12:22:18 AM
+szunyi: Added a Small Ring at Station [-1,-1]
+Move 26 :
+12:22:37 AM
+CseloCsaba85: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 27 :
+12:22:55 AM
+szunyi: Added a Medium Ring at Station [0,-1]
+Move 28 :
+12:23:05 AM
+CseloCsaba85: Added a Small Ring at Station [1,1]
+Move 29 :
+12:23:14 AM
+szunyi: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 30 :
+12:24:38 AM
+CseloCsaba85: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 31 :
+12:24:45 AM
+szunyi: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 32 :
+12:24:57 AM
+CseloCsaba85: Added a Small Ring at Station [1,0]
+Move 33 :
+12:25:04 AM
+szunyi: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 34 :
+12:26:30 AM
+CseloCsaba85: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 35 :
+12:28:35 AM
+szunyi: Removed a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 36 :
+12:28:43 AM
+CseloCsaba85: Added a Small Ring at Station [1,-1]
+Move 37 :
+12:29:03 AM
+szunyi: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 38 :
+12:31:12 AM
+CseloCsaba85: Added a Medium Ring at Station [1,1]
+Move 39 :
+12:31:43 AM
+szunyi: Added a Large Ring at Station [-1,0]
+Move 40 :
+12:32:00 AM
+CseloCsaba85: Added a Medium Ring at Station [1,0]
+Move 41 :
+12:32:53 AM
+szunyi: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: szunyi wins!

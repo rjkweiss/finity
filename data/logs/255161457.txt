@@ -1,0 +1,68 @@
+Game log
+Move 1 :4/3/2022 6:40:30 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :6:43:08 AM
+PEldritch: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 3 :4/4/2022 6:06:18 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :6:28:06 AM
+PEldritch: Added a White Bridge at Station [0,0] => [0,-1] Position:Left
+Move 5 :6:46:47 AM
+tony1021: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :7:55:08 AM
+PEldritch: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 7 :8:10:19 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :9:29:50 AM
+PEldritch: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Left
+Move 9 :4/6/2022 4:49:15 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 10 :10:50:06 PM
+PEldritch: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 11 :10:59:47 PM
+tony1021: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 :11:31:44 PM
+PEldritch: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 13 :4/7/2022 6:11:17 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 14 :9:52:46 AM
+PEldritch: Added a White Bridge at Station [0,0] => [-1,0] Position:Right
+Move 15 :4/9/2022 6:32:23 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 16 :4/10/2022 1:01:53 AM
+PEldritch: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 17 :4/11/2022 8:12:25 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 18 :10:25:55 AM
+PEldritch: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 19 :11:17:03 AM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 20 :12:19:41 PM
+PEldritch: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 21 :2:16:25 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 22 :2:18:49 PM
+PEldritch: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 23 :2:42:03 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 24 :2:45:18 PM
+PEldritch: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 25 :7:45:21 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 26 :7:50:37 PM
+PEldritch: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 27 :8:30:28 PM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 28 :4/12/2022 3:44:14 AM
+PEldritch: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 29 :7:36:00 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 30 :7:38:40 AM
+PEldritch: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 31 :7:44:38 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 32 :7:45:24 AM
+PEldritch: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 33 :8:04:21 AM
+tony1021: Added a Large Ring at Station [1,-1]
+The end of the game: tony1021 wins!

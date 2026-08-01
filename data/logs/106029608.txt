@@ -1,0 +1,237 @@
+Move 1 :
+8/9/2020 9:41:20 PM
+The colors of emylee63, Thierry du01 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+9:58:26 PM
+Tashina: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 3 :
+8/10/2020 7:23:23 PM
+emylee63: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 4 :
+10:02:11 PM
+Thierry du01: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :
+10:05:10 PM
+nisfornormal: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 6 :
+10:19:22 PM
+Tashina: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+8/11/2020 4:18:09 PM
+emylee63: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 8 :
+10:23:25 PM
+Thierry du01: Moved a Blocker at Station [-1,2] => [0,1] Position:Right
+Move 9 :
+10:34:01 PM
+nisfornormal: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 10 :
+10:36:11 PM
+Tashina: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 11 :
+8/12/2020 7:32:49 AM
+emylee63: Added a Small Ring at Station [-1,-1]
+Move 12 :
+7:39:51 AM
+Thierry du01: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 13 :
+5:38:13 PM
+nisfornormal: Added a Small Ring at Station [1,1]
+Move 14 :
+9:02:57 PM
+Tashina: Added a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 15 :
+9:19:59 PM
+emylee63: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 16 :
+10:13:05 PM
+Thierry du01: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 17 :
+11:13:24 PM
+nisfornormal: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 18 :
+11:23:36 PM
+Tashina: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 19 :
+8/13/2020 7:41:42 AM
+emylee63: Added a Small Ring at Station [-1,0]
+Move 20 :
+7:45:16 AM
+Thierry du01: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+emylee63 has to remove 1 orphaned rings
+Move 21 :
+8:04:39 AM
+nisfornormal: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 22 :
+8:24:02 AM
+Tashina: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 23 :
+8:25:31 AM
+emylee63: Moved a Base Post at Station [-1,-1]
+Move 24 :
+9:24:48 AM
+Thierry du01: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+emylee63 has to remove 1 orphaned rings
+Move 25 :
+6:50:30 PM
+nisfornormal: Added a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 26 :
+9:05:13 PM
+Tashina: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 27 :
+9:14:25 PM
+emylee63: Added a Small Ring at Station [0,-1]
+Move 28 :
+9:35:05 PM
+Thierry du01: Reversed a Black Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 29 :
+10:05:06 PM
+nisfornormal: Added a Black Bridge at Station [1,0] => [2,-1] Position:Right
+Move 30 :
+10:11:28 PM
+Tashina: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 31 :
+8/14/2020 5:57:39 AM
+emylee63: Added a Small Ring at Station [-1,0]
+Move 32 :
+6:00:09 AM
+Thierry du01: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 33 :
+6:02:22 AM
+nisfornormal: Added a Small Ring at Station [2,-1]
+Move 34 :
+7:57:14 AM
+Tashina: Added a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 35 :
+7:57:25 PM
+emylee63: Added a Medium Ring at Station [0,-1]
+Move 36 :
+8/15/2020 12:50:53 AM
+Thierry du01: Reversed a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+emylee63 has to remove 3 orphaned rings
+Move 37 :
+1:06:54 AM
+nisfornormal: Moved a Base Post at Station [2,-1]
+nisfornormal has to remove 1 orphaned rings
+Move 38 :
+2:23:06 AM
+Tashina: Added a Black Bridge at Station [1,-1] => [0,0] Position:Right
+Move 39 :
+4:11:38 AM
+emylee63: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 40 :
+4:56:42 AM
+Thierry du01: Reversed a Black Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 41 :
+6:35:46 AM
+nisfornormal: Added a Small Ring at Station [1,0]
+Move 42 :
+7:41:46 AM
+Tashina: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 43 :
+5:08:31 PM
+emylee63: Added a Small Ring at Station [0,-1]
+Move 44 :
+9:54:42 PM
+Thierry du01: Reversed a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+emylee63 has to remove 1 orphaned rings
+Move 45 :
+9:56:26 PM
+nisfornormal: Added a Medium Ring at Station [1,0]
+Move 46 :
+10:21:04 PM
+Tashina: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 47 :
+8/16/2020 5:32:22 AM
+emylee63: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 48 :
+7:54:50 AM
+Thierry du01: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 49 :
+7:02:22 PM
+nisfornormal: Added a Small Ring at Station [1,1]
+Move 50 :
+8:53:39 PM
+Tashina: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 51 :
+8/17/2020 12:06:20 AM
+emylee63: Added a Small Ring at Station [0,-1]
+Move 52 :
+1:25:28 AM
+Thierry du01: Reversed a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 53 :
+1:25:57 AM
+nisfornormal: Moved a Base Post at Station [1,0]
+Move 54 :
+1:51:45 AM
+Tashina: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 55 :
+11:36:04 AM
+emylee63: Added a Medium Ring at Station [0,-1]
+Move 56 :
+11:52:37 AM
+Thierry du01: Reversed a White Bridge at Station [0,0] => [0,1] Position:Left
+Move 57 :
+6:38:36 PM
+nisfornormal: Added a Small Ring at Station [0,1]
+Move 58 :
+9:09:33 PM
+Tashina: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 59 :
+8/18/2020 12:31:38 AM
+emylee63: Added a Small Ring at Station [-1,0]
+Move 60 :
+1:12:29 AM
+Thierry du01: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 61 :
+3:30:20 AM
+nisfornormal: Added a Medium Ring at Station [1,1]
+Move 62 :
+4:01:13 AM
+Tashina: Added a White Bridge at Station [1,-1] => [0,0] Position:Left
+Move 63 :
+1:55:46 PM
+emylee63: Added a Medium Ring at Station [-1,0]
+Move 64 :
+9:13:15 PM
+Thierry du01: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 65 :
+9:14:46 PM
+nisfornormal: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 66 :
+9:45:29 PM
+Tashina: Removed a Blocker at Station [0,1] => [0,0] Position:Left
+Move 67 :
+8/19/2020 5:39:39 AM
+emylee63: Added a Large Ring at Station [0,-1]
+Move 68 :
+6:35:43 AM
+Thierry du01: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 69 :
+6:44:11 AM
+nisfornormal: Added a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 70 :
+6:55:36 AM
+Tashina: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 71 :
+8:48:29 AM
+emylee63: Added a Small Ring at Station [-1,1]
+Move 72 :
+9:11:05 AM
+Thierry du01: Reversed a Black Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 73 :
+5:12:39 PM
+nisfornormal: Added a Medium Ring at Station [0,1]
+Move 74 :
+10:09:59 PM
+Tashina: Reversed a Black Bridge at Station [1,-1] => [0,0] Position:Right
+Move 75 :
+8/20/2020 4:16:54 AM
+emylee63: Added a Large Ring at Station [-1,0]
+Move 76 :
+7:40:14 AM
+Thierry du01: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 77 :
+5:57:21 PM
+nisfornormal: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Middle
+The end of the game: nisfornormal wins!

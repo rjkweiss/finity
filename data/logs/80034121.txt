@@ -1,0 +1,85 @@
+Move 1 :
+4/26/2020 11:54:59 PM
+The colors of ollyfish2002 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:56:01 PM
+ollyfish2002: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+4/27/2020 12:15:22 AM
+moi: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+12:16:02 AM
+ollyfish2002: Added a Small Ring at Station [-1,0]
+Move 5 :
+12:16:18 AM
+moi: Added a Small Ring at Station [1,0]
+Move 6 :
+12:16:54 AM
+ollyfish2002: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 7 :
+12:17:07 AM
+moi: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+12:17:15 AM
+ollyfish2002: Added a Large Ring at Station [-1,-1]
+Move 9 :
+12:17:24 AM
+moi: Added a Large Ring at Station [1,1]
+Move 10 :
+12:17:39 AM
+ollyfish2002: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 11 :
+12:18:01 AM
+moi: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 12 :
+12:18:20 AM
+ollyfish2002: Added a Medium Ring at Station [0,-1]
+Move 13 :
+12:18:40 AM
+moi: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 14 :
+12:19:07 AM
+ollyfish2002: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 15 :
+12:19:26 AM
+moi: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+12:19:40 AM
+ollyfish2002: Added a Medium Ring at Station [1,-1]
+Move 17 :
+12:19:50 AM
+moi: Added a Small Ring at Station [0,-1]
+Move 18 :
+12:20:01 AM
+ollyfish2002: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 19 :
+12:20:10 AM
+moi: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 20 :
+12:21:53 AM
+ollyfish2002: Added a Medium Ring at Station [1,0]
+Move 21 :
+12:24:53 AM
+moi: Added a Large Ring at Station [1,0]
+Move 22 :
+12:25:12 AM
+ollyfish2002: Added a Small Ring at Station [1,1]
+Move 23 :
+12:25:37 AM
+moi: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 24 :
+12:25:55 AM
+ollyfish2002: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 25 :
+12:26:08 AM
+moi: Added a Small Ring at Station [0,1]
+Move 26 :
+12:26:15 AM
+ollyfish2002: Added a Medium Ring at Station [0,1]
+Move 27 :
+12:26:23 AM
+moi: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 28 :
+12:26:30 AM
+ollyfish2002: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: ollyfish2002 wins!

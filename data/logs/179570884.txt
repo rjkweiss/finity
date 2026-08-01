@@ -1,0 +1,146 @@
+Game log
+Move 1 :6/11/2021 2:09:14 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :2:10:31 PM
+GameEnthus: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :2:10:39 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :2:11:00 PM
+GameEnthus: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :2:11:12 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 6 :2:11:18 PM
+GameEnthus: Added a Small Ring at Station [-1,0]
+Move 7 :2:11:26 PM
+tony1021: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 8 :2:12:14 PM
+GameEnthus: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 9 :2:12:37 PM
+tony1021: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 10 :2:12:56 PM
+GameEnthus: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 11 :2:13:10 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 :2:13:38 PM
+GameEnthus: Added a Small Ring at Station [-1,-1]
+Move 13 :2:14:00 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 14 :2:14:13 PM
+GameEnthus: Moved a Base Post at Station [-1,0]
+Move 15 :2:14:46 PM
+tony1021: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :2:15:14 PM
+GameEnthus: Moved a Base Post at Station [0,-1]
+GameEnthus has to remove 1 orphaned rings
+Move 17 :2:16:28 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 18 :2:17:42 PM
+GameEnthus: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 19 :2:18:30 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 20 :2:18:46 PM
+GameEnthus: Added a Small Ring at Station [1,-1]
+Move 21 :2:19:23 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 22 :2:20:09 PM
+GameEnthus: Added a Medium Ring at Station [-1,-1]
+Move 23 :2:21:12 PM
+tony1021: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 24 :2:21:28 PM
+GameEnthus: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 25 :2:21:36 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :2:21:44 PM
+GameEnthus: Added a Small Ring at Station [-1,0]
+Move 27 :2:21:53 PM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 28 :2:22:04 PM
+GameEnthus: Added a Small Ring at Station [-1,1]
+Move 29 :2:22:12 PM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 30 :2:22:23 PM
+GameEnthus: Added a Medium Ring at Station [-1,0]
+Move 31 :2:22:33 PM
+tony1021: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 32 :2:22:41 PM
+GameEnthus: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 33 :2:22:47 PM
+tony1021: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+GameEnthus has to remove 3 orphaned rings
+Move 34 :2:23:25 PM
+GameEnthus: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 35 :2:23:42 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 36 :2:23:51 PM
+GameEnthus: Removed a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 37 :2:23:59 PM
+tony1021: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+GameEnthus has to remove 1 orphaned rings
+Move 38 :2:24:14 PM
+GameEnthus: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 39 :2:24:21 PM
+tony1021: Removed a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 40 :2:24:29 PM
+GameEnthus: Added a Small Ring at Station [-1,0]
+Move 41 :2:24:39 PM
+tony1021: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 42 :2:24:48 PM
+GameEnthus: Added a Medium Ring at Station [-1,0]
+Move 43 :2:24:54 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 44 :2:25:00 PM
+GameEnthus: Added a Small Ring at Station [-1,1]
+Move 45 :2:25:11 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 46 :2:25:22 PM
+GameEnthus: Added a Large Ring at Station [-1,0]
+Move 47 :2:26:01 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 48 :2:26:33 PM
+GameEnthus: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 49 :2:26:53 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 50 :2:27:02 PM
+GameEnthus: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 51 :2:27:48 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 52 :2:27:54 PM
+GameEnthus: Added a Large Ring at Station [0,1]
+Move 53 :2:28:17 PM
+tony1021: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+GameEnthus has to remove 1 orphaned rings
+Move 54 :2:28:28 PM
+GameEnthus: Added a Medium Ring at Station [-1,1]
+Move 55 :2:28:48 PM
+tony1021: Added a Medium Ring at Station [1,1]
+Move 56 :2:29:04 PM
+GameEnthus: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 57 :2:29:15 PM
+tony1021: Added a Large Ring at Station [0,1]
+Move 58 :2:29:54 PM
+GameEnthus: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 59 :2:30:04 PM
+tony1021: Moved a Base Post at Station [-1,1]
+Move 60 :2:30:25 PM
+GameEnthus: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 61 :2:32:08 PM
+tony1021: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 62 :2:33:10 PM
+GameEnthus: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 63 :2:33:17 PM
+tony1021: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+GameEnthus has to remove 2 orphaned rings
+Move 64 :2:33:36 PM
+GameEnthus: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 65 :2:34:04 PM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 66 :2:34:48 PM
+GameEnthus: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 67 :2:34:54 PM
+tony1021: Added a Large Ring at Station [1,0]
+Move 68 :2:35:18 PM
+GameEnthus: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 69 :2:35:23 PM
+tony1021: Moved a Base Post at Station [0,1]
+The end of the game: tony1021 wins!

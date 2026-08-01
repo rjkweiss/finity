@@ -1,0 +1,97 @@
+Move 1 :
+6/2/2020 7:56:47 PM
+The colors of yaolu have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:57:32 PM
+yaolu: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+7:58:29 PM
+Jon Gunther: Added a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 4 :
+7:59:28 PM
+yaolu: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+8:00:14 PM
+Jon Gunther: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :
+8:00:44 PM
+yaolu: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 7 :
+8:02:16 PM
+Jon Gunther: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+8:04:58 PM
+yaolu: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :
+8:06:06 PM
+Jon Gunther: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 10 :
+8:06:18 PM
+yaolu: Added a Small Ring at Station [0,1]
+Move 11 :
+8:07:01 PM
+Jon Gunther: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 12 :
+8:07:19 PM
+yaolu: Added a Small Ring at Station [1,1]
+Move 13 :
+8:07:43 PM
+Jon Gunther: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 14 :
+8:08:58 PM
+yaolu: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 15 :
+8:09:35 PM
+Jon Gunther: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 16 :
+8:09:53 PM
+yaolu: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 17 :
+8:10:36 PM
+Jon Gunther: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 18 :
+8:10:45 PM
+yaolu: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 19 :
+8:11:20 PM
+Jon Gunther: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 20 :
+8:11:30 PM
+yaolu: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 21 :
+8:12:11 PM
+Jon Gunther: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 22 :
+8:12:51 PM
+yaolu: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 23 :
+8:13:05 PM
+Jon Gunther: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 24 :
+8:13:11 PM
+yaolu: Added a Small Ring at Station [1,0]
+Move 25 :
+8:13:27 PM
+Jon Gunther: Added a Small Ring at Station [0,-1]
+Move 26 :
+8:13:34 PM
+yaolu: Added a Medium Ring at Station [1,1]
+Move 27 :
+8:13:41 PM
+Jon Gunther: Added a Small Ring at Station [-1,0]
+Move 28 :
+8:13:50 PM
+yaolu: Added a Large Ring at Station [1,1]
+Move 29 :
+8:14:39 PM
+Jon Gunther: Removed a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 30 :
+8:14:47 PM
+yaolu: Added a Medium Ring at Station [1,0]
+Move 31 :
+8:15:03 PM
+Jon Gunther: Added a Medium Ring at Station [0,-1]
+Move 32 :
+8:15:08 PM
+yaolu: Added a Large Ring at Station [1,0]
+The end of the game: yaolu wins!

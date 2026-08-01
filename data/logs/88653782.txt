@@ -1,0 +1,122 @@
+Move 1 :
+5/19/2020 10:21:46 AM
+The colors of tony1021, Doooot have been chosen according to their preferences. Change my preferences.
+Move 2 :
+12:08:26 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+1:33:34 PM
+Doooot: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+2:24:23 PM
+tony1021: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 5 :
+10:02:42 PM
+Doooot: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+10:08:34 PM
+tony1021: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 7 :
+10:14:12 PM
+Doooot: Added a Small Ring at Station [1,0]
+Move 8 :
+5/20/2020 3:45:25 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :
+3:51:08 AM
+Doooot: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 10 :
+4:15:27 AM
+tony1021: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 11 :
+5:28:19 AM
+Doooot: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 12 :
+7:51:30 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 13 :
+7:53:09 AM
+Doooot: Removed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 14 :
+7:57:11 AM
+tony1021: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 15 :
+8:10:13 AM
+Doooot: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 16 :
+8:10:45 AM
+tony1021: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 17 :
+9:44:17 AM
+Doooot: Added a Small Ring at Station [0,1]
+Move 18 :
+12:27:00 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 19 :
+5/21/2020 8:04:22 AM
+Doooot: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 20 :
+9:03:59 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 21 :
+9:22:44 AM
+Doooot: Added a Small Ring at Station [1,1]
+Move 22 :
+10:00:24 AM
+tony1021: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 23 :
+12:01:58 PM
+Doooot: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 24 :
+2:01:19 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 25 :
+2:39:29 PM
+Doooot: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 26 :
+3:02:21 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 27 :
+10:57:38 PM
+Doooot: Added a Medium Ring at Station [1,0]
+Move 28 :
+5/22/2020 12:28:43 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 29 :
+12:43:54 AM
+Doooot: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 30 :
+5:21:52 AM
+tony1021: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 31 :
+7:04:47 AM
+Doooot: Added a Medium Ring at Station [0,1]
+Move 32 :
+7:17:07 AM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 33 :
+1:41:58 PM
+Doooot: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 34 :
+3:01:02 PM
+tony1021: Added a Small Ring at Station [-1,-1]
+Move 35 :
+3:06:16 PM
+Doooot: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 36 :
+3:09:26 PM
+tony1021: Added a Large Ring at Station [-1,0]
+Move 37 :
+10:34:35 PM
+Doooot: Added a Small Ring at Station [-1,1]
+Move 38 :
+5/23/2020 5:53:09 AM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Doooot has to remove 4 orphaned rings
+Move 39 :
+6:09:49 AM
+Doooot: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 40 :
+6:31:15 AM
+tony1021: Added a Large Ring at Station [0,-1]
+The end of the game: tony1021 wins!

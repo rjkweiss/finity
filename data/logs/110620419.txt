@@ -1,0 +1,103 @@
+Move 2 :
+9/5/2020 4:58:44 AM
+stuts: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+4:58:52 AM
+SherryYuki: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+4:59:01 AM
+stuts: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 5 :
+4:59:09 AM
+SherryYuki: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 6 :
+4:59:18 AM
+stuts: Added a Small Ring at Station [-1,0]
+Move 7 :
+4:59:37 AM
+SherryYuki: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 8 :
+4:59:45 AM
+stuts: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 9 :
+4:59:53 AM
+SherryYuki: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 10 :
+5:00:00 AM
+stuts: Added a Small Ring at Station [0,-1]
+Move 11 :
+5:00:16 AM
+SherryYuki: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 12 :
+5:00:23 AM
+stuts: Added a Medium Ring at Station [-1,0]
+Move 13 :
+5:00:39 AM
+SherryYuki: Added a Medium Ring at Station [0,-1]
+Move 14 :
+5:00:50 AM
+stuts: Added a Large Ring at Station [0,-1]
+Move 15 :
+5:01:14 AM
+SherryYuki: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 16 :
+5:01:41 AM
+stuts: Added a Large Ring at Station [-1,-1]
+Move 17 :
+5:01:49 AM
+SherryYuki: Added a Large Ring at Station [-1,0]
+Move 18 :
+5:03:36 AM
+stuts: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 19 :
+5:04:26 AM
+SherryYuki: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 20 :
+5:04:49 AM
+stuts: Added a Large Ring at Station [1,-1]
+Move 21 :
+5:04:58 AM
+SherryYuki: Added a Medium Ring at Station [-1,-1]
+Move 22 :
+5:05:53 AM
+stuts: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 23 :
+5:06:00 AM
+SherryYuki: Added a Small Ring at Station [-1,1]
+Move 24 :
+5:06:06 AM
+stuts: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 25 :
+5:06:26 AM
+SherryYuki: Added a Small Ring at Station [0,1]
+Move 26 :
+5:06:43 AM
+stuts: Added a White Bridge at Station [0,1] => [0,0] Position:Left
+Move 27 :
+5:06:56 AM
+SherryYuki: Added a Medium Ring at Station [-1,1]
+Move 28 :
+5:07:04 AM
+stuts: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 29 :
+5:07:12 AM
+SherryYuki: Added a Medium Ring at Station [0,1]
+Move 30 :
+5:07:32 AM
+stuts: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 31 :
+5:07:44 AM
+SherryYuki: Added a Large Ring at Station [0,1]
+Move 32 :
+5:09:12 AM
+stuts: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 33 :
+5:10:36 AM
+SherryYuki: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 34 :
+5:11:52 AM
+stuts: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 35 :
+5:12:00 AM
+SherryYuki: Added a Large Ring at Station [-1,1]
+The end of the game: SherryYuki wins!

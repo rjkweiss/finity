@@ -1,0 +1,140 @@
+Game log
+Move 2 :10/18/2022 5:48:06 PM
+Ruined Druid: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 3 :7:58:11 PM
+sd77: Moved a Blocker at Station [0,0] => [0,-1] Position:Right
+Move 4 :8:11:03 PM
+Ruined Druid: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 :8:16:48 PM
+sd77: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 6 :8:18:04 PM
+Ruined Druid: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 7 :8:20:36 PM
+sd77: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 8 :8:22:42 PM
+Ruined Druid: Added a Small Ring at Station [0,1]
+Move 9 :8:23:42 PM
+sd77: Moved a Blocker at Station [0,1] => [1,0] Position:Left
+Move 10 :8:23:54 PM
+Ruined Druid: Added a Medium Ring at Station [1,1]
+Move 11 :8:24:12 PM
+sd77: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 12 :8:24:41 PM
+Ruined Druid: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 13 :8:27:20 PM
+sd77: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 14 :8:33:44 PM
+Ruined Druid: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :8:52:07 PM
+sd77: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 16 :9:00:02 PM
+Ruined Druid: Added a Small Ring at Station [1,1]
+Move 17 :9:01:42 PM
+sd77: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 18 :9:13:01 PM
+Ruined Druid: Added a Large Ring at Station [0,1]
+Move 19 :10/19/2022 5:09:46 AM
+sd77: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 20 :5:52:53 AM
+Ruined Druid: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :6:20:59 AM
+sd77: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 22 :6:34:00 AM
+Ruined Druid: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 23 :8:24:13 AM
+sd77: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 24 :8:42:55 AM
+Ruined Druid: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 25 :8:43:43 AM
+sd77: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 26 :8:43:56 AM
+Ruined Druid: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 27 :8:46:42 AM
+sd77: Removed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 28 :8:46:59 AM
+Ruined Druid: Added a Medium Ring at Station [-1,0]
+Move 29 :8:49:05 AM
+sd77: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 30 :8:54:20 AM
+Ruined Druid: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 31 :8:56:10 AM
+sd77: Moved a Blocker at Station [1,0] => [1,-1] Position:Left
+Move 32 :8:59:39 AM
+Ruined Druid: Added a Small Ring at Station [-1,-1]
+Move 33 :9:00:17 AM
+sd77: Removed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 34 :9:00:52 AM
+Ruined Druid: Added a Medium Ring at Station [0,-1]
+Move 35 :9:03:43 AM
+sd77: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 36 :9:04:45 AM
+Ruined Druid: Moved a Base Post at Station [-1,0]
+Ruined Druid has to remove 4 orphaned rings
+Move 37 :9:06:36 AM
+sd77: Moved a Blocker at Station [0,0] => [1,-1] Position:Left
+Move 38 :9:08:36 AM
+Ruined Druid: Reversed a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 39 :9:10:29 AM
+sd77: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 40 :9:11:31 AM
+Ruined Druid: Added a Large Ring at Station [0,-1]
+Move 41 :9:11:45 AM
+sd77: Added a Medium Ring at Station [1,0]
+Move 42 :9:12:01 AM
+Ruined Druid: Added a Medium Ring at Station [-1,-1]
+Move 43 :9:12:13 AM
+sd77: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 44 :9:12:21 AM
+Ruined Druid: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 45 :9:12:31 AM
+sd77: Added a Large Ring at Station [1,1]
+Move 46 :9:13:20 AM
+Ruined Druid: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 47 :9:13:40 AM
+sd77: Added a Medium Ring at Station [0,1]
+Move 48 :9:13:49 AM
+Ruined Druid: Added a Small Ring at Station [-1,1]
+Move 49 :9:14:30 AM
+sd77: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Ruined Druid has to remove 1 orphaned rings
+Move 50 :9:14:43 AM
+Ruined Druid: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 51 :9:15:09 AM
+sd77: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 52 :9:15:26 AM
+Ruined Druid: Added a Small Ring at Station [-1,1]
+Move 53 :9:16:12 AM
+sd77: Added a Medium Ring at Station [-1,1]
+Move 54 :9:17:34 AM
+Ruined Druid: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 55 :9:17:54 AM
+sd77: Added a Large Ring at Station [-1,0]
+Move 56 :9:18:08 AM
+Ruined Druid: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 57 :9:18:44 AM
+sd77: Removed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 58 :9:18:54 AM
+Ruined Druid: Added a Large Ring at Station [0,1]
+Move 59 :9:19:26 AM
+sd77: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 60 :9:20:20 AM
+Ruined Druid: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 61 :9:20:42 AM
+sd77: Added a Large Ring at Station [-1,-1]
+Move 62 :9:21:03 AM
+Ruined Druid: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+sd77 has to remove 3 orphaned rings
+Move 63 :9:21:22 AM
+sd77: Moved a Base Post at Station [1,0]
+sd77 has to remove 1 orphaned rings
+Move 64 :9:22:13 AM
+Ruined Druid: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 65 :9:24:51 AM
+sd77: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 66 :9:25:23 AM
+Ruined Druid: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 67 :9:25:45 AM
+sd77: Removed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 68 :9:26:05 AM
+Ruined Druid: Added a Large Ring at Station [1,0]
+The end of the game: Ruined Druid wins!

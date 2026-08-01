@@ -1,0 +1,58 @@
+Game log
+Move 1 :4/25/2022 11:53:25 AM
+The colors of tony1021, AwesomePants have been chosen according to their preferences. Change my preferences.
+Move 2 :12:00:47 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :12:59:12 PM
+AwesomePants: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 4 :1:56:19 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 5 :1:58:46 PM
+AwesomePants: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 6 :2:23:42 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :3:55:14 PM
+AwesomePants: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 8 :3:59:34 PM
+tony1021: Added a Small Ring at Station [1,1]
+Move 9 :4:11:13 PM
+AwesomePants: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 10 :4:16:19 PM
+tony1021: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 11 :4:50:38 PM
+AwesomePants: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 12 :5:32:45 PM
+tony1021: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :9:18:29 PM
+AwesomePants: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 14 :4/26/2022 8:18:22 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 15 :8:19:36 AM
+AwesomePants: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 16 :8:39:41 AM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 17 :5:43:01 PM
+AwesomePants: Added a Black Bridge at Station [0,0] => [0,1] Position:Right
+Move 18 :8:15:37 PM
+tony1021: Added a Large Ring at Station [0,1]
+Move 19 :4/27/2022 12:06:31 AM
+AwesomePants: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 20 :6:05:59 AM
+tony1021: Added a Medium Ring at Station [1,1]
+Move 21 :6:11:04 AM
+AwesomePants: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 22 :6:15:52 AM
+tony1021: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 23 :6:16:40 AM
+AwesomePants: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 24 :6:44:50 AM
+tony1021: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 25 :9:25:16 AM
+AwesomePants: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 26 :9:28:55 AM
+tony1021: Added a Medium Ring at Station [1,0]
+Move 27 :9:32:55 AM
+AwesomePants: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 28 :9:39:18 AM
+tony1021: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+The end of the game: tony1021 wins!

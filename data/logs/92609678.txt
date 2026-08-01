@@ -1,0 +1,159 @@
+Move 1 :
+6/2/2020 2:10:01 PM
+The colors of ElerCant have been chosen according to their preferences. Change my preferences.
+Move 2 :
+2:11:34 PM
+ElerCant: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+2:12:53 PM
+Miope: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+2:16:02 PM
+ElerCant: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :
+2:16:22 PM
+Miope: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :
+2:17:37 PM
+ElerCant: Added a Large Ring at Station [-1,0]
+Move 7 :
+2:18:06 PM
+Miope: Added a Large Ring at Station [0,-1]
+Move 8 :
+2:18:26 PM
+ElerCant: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 9 :
+2:18:47 PM
+Miope: Added a Medium Ring at Station [0,-1]
+Move 10 :
+2:19:05 PM
+ElerCant: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 11 :
+2:19:16 PM
+Miope: Added a Small Ring at Station [0,-1]
+Move 12 :
+2:20:06 PM
+ElerCant: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Miope has to remove 3 orphaned rings
+Move 13 :
+2:20:53 PM
+Miope: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 14 :
+2:21:21 PM
+ElerCant: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 15 :
+2:21:44 PM
+Miope: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 16 :
+2:22:01 PM
+ElerCant: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 17 :
+2:22:58 PM
+Miope: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 18 :
+2:24:34 PM
+ElerCant: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 19 :
+2:25:26 PM
+Miope: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 20 :
+2:26:25 PM
+ElerCant: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 21 :
+2:26:34 PM
+Miope: Added a Small Ring at Station [0,-1]
+Move 22 :
+2:27:10 PM
+ElerCant: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 23 :
+2:27:28 PM
+Miope: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 24 :
+2:30:23 PM
+ElerCant: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 25 :
+2:30:35 PM
+Miope: Added a Medium Ring at Station [-1,0]
+Move 26 :
+2:30:52 PM
+ElerCant: Added a Small Ring at Station [-1,0]
+Move 27 :
+2:31:12 PM
+Miope: Added a Large Ring at Station [-1,1]
+Move 28 :
+2:31:44 PM
+ElerCant: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 29 :
+2:31:58 PM
+Miope: Added a Medium Ring at Station [-1,1]
+Move 30 :
+2:32:11 PM
+ElerCant: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 31 :
+2:32:45 PM
+Miope: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 32 :
+2:33:16 PM
+ElerCant: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 33 :
+2:33:51 PM
+Miope: Added a Medium Ring at Station [-1,-1]
+Move 34 :
+2:34:06 PM
+ElerCant: Reversed a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Miope has to remove 4 orphaned rings
+Move 35 :
+2:35:07 PM
+Miope: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 36 :
+2:35:19 PM
+ElerCant: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 37 :
+2:35:34 PM
+Miope: Added a Medium Ring at Station [-1,0]
+Move 38 :
+2:36:21 PM
+ElerCant: Added a Large Ring at Station [0,-1]
+Move 39 :
+2:37:17 PM
+Miope: Added a Large Ring at Station [1,0]
+Move 40 :
+2:37:28 PM
+ElerCant: Added a Medium Ring at Station [0,-1]
+Move 41 :
+2:38:19 PM
+Miope: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 42 :
+2:38:39 PM
+ElerCant: Added a Large Ring at Station [-1,-1]
+Move 43 :
+2:38:57 PM
+Miope: Added a Medium Ring at Station [-1,-1]
+Move 44 :
+2:39:05 PM
+ElerCant: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 45 :
+2:39:31 PM
+Miope: Added a Small Ring at Station [-1,-1]
+Move 46 :
+2:39:46 PM
+ElerCant: Added a Medium Ring at Station [1,-1]
+Move 47 :
+2:40:13 PM
+Miope: Added a Small Ring at Station [-1,1]
+Move 48 :
+2:44:18 PM
+ElerCant: Moved a Base Post at Station [-1,0]
+Move 49 :
+2:44:46 PM
+Miope: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 50 :
+2:44:55 PM
+ElerCant: Added a Medium Ring at Station [-1,1]
+Move 51 :
+2:45:15 PM
+Miope: Added a Large Ring at Station [-1,1]
+Move 52 :
+2:45:22 PM
+ElerCant: Moved a Base Post at Station [-1,1]
+The end of the game: ElerCant wins!

@@ -1,0 +1,191 @@
+Move 2 :
+8/10/2020 11:16:38 PM
+hukuoukinn: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 3 :
+11:18:52 PM
+ryu1031: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 4 :
+11:19:03 PM
+hukuoukinn: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 5 :
+11:19:35 PM
+ryu1031: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 6 :
+11:19:45 PM
+hukuoukinn: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 7 :
+11:21:25 PM
+ryu1031: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 8 :
+11:21:41 PM
+hukuoukinn: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 9 :
+11:22:52 PM
+ryu1031: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+11:22:59 PM
+hukuoukinn: Added a Small Ring at Station [-1,0]
+Move 11 :
+11:23:10 PM
+ryu1031: Added a Large Ring at Station [1,0]
+Move 12 :
+11:23:17 PM
+hukuoukinn: Added a Medium Ring at Station [-1,0]
+Move 13 :
+11:23:40 PM
+ryu1031: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 14 :
+11:23:49 PM
+hukuoukinn: Added a Large Ring at Station [-1,0]
+Move 15 :
+11:24:15 PM
+ryu1031: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 16 :
+11:24:54 PM
+hukuoukinn: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :
+11:25:39 PM
+ryu1031: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 18 :
+11:26:15 PM
+hukuoukinn: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 19 :
+11:26:29 PM
+ryu1031: Added a Medium Ring at Station [0,-1]
+Move 20 :
+11:26:45 PM
+hukuoukinn: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 21 :
+11:27:40 PM
+ryu1031: Moved a Base Post at Station [1,0]
+ryu1031 has to remove 1 orphaned rings
+Move 22 :
+11:28:42 PM
+hukuoukinn: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 23 :
+11:29:55 PM
+ryu1031: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 24 :
+11:30:22 PM
+hukuoukinn: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 25 :
+11:31:54 PM
+ryu1031: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+11:32:01 PM
+hukuoukinn: Added a Small Ring at Station [0,1]
+Move 27 :
+11:37:58 PM
+ryu1031: Added a Large Ring at Station [1,1]
+Move 28 :
+11:38:13 PM
+hukuoukinn: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 29 :
+11:38:44 PM
+ryu1031: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 30 :
+11:40:58 PM
+hukuoukinn: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 31 :
+11:41:58 PM
+ryu1031: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 32 :
+11:42:15 PM
+hukuoukinn: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 33 :
+11:42:22 PM
+ryu1031: Added a Large Ring at Station [0,1]
+Move 34 :
+11:42:43 PM
+hukuoukinn: Added a Small Ring at Station [1,1]
+Move 35 :
+11:43:46 PM
+ryu1031: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 36 :
+11:44:09 PM
+hukuoukinn: Added a Medium Ring at Station [0,1]
+Move 37 :
+11:44:36 PM
+ryu1031: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 38 :
+11:44:53 PM
+hukuoukinn: Added a Medium Ring at Station [1,1]
+Move 39 :
+11:45:01 PM
+ryu1031: Added a Large Ring at Station [1,-1]
+Move 40 :
+11:45:07 PM
+hukuoukinn: Added a Small Ring at Station [-1,-1]
+Move 41 :
+11:45:18 PM
+ryu1031: Added a Medium Ring at Station [1,-1]
+Move 42 :
+11:45:27 PM
+hukuoukinn: Added a Medium Ring at Station [-1,-1]
+Move 43 :
+11:45:36 PM
+ryu1031: Added a Small Ring at Station [1,-1]
+Move 44 :
+11:45:44 PM
+hukuoukinn: Added a Large Ring at Station [-1,-1]
+Move 45 :
+11:46:06 PM
+ryu1031: Added a Large Ring at Station [0,-1]
+Move 46 :
+11:46:45 PM
+hukuoukinn: Removed a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 47 :
+11:48:27 PM
+ryu1031: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+hukuoukinn has to remove 4 orphaned rings
+Move 48 :
+11:48:51 PM
+hukuoukinn: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 49 :
+11:49:19 PM
+ryu1031: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+hukuoukinn has to remove 6 orphaned rings
+Move 50 :
+11:51:09 PM
+hukuoukinn: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+ryu1031 has to remove 1 orphaned rings
+Move 51 :
+11:51:39 PM
+ryu1031: Moved a Base Post at Station [1,-1]
+Move 52 :
+11:52:19 PM
+hukuoukinn: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 53 :
+11:53:00 PM
+ryu1031: Added a Small Ring at Station [0,1]
+Move 54 :
+11:54:06 PM
+hukuoukinn: Added a Small Ring at Station [-1,0]
+Move 55 :
+11:54:20 PM
+ryu1031: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 56 :
+11:54:39 PM
+hukuoukinn: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 57 :
+11:55:24 PM
+ryu1031: Added a Medium Ring at Station [0,1]
+Move 58 :
+11:56:32 PM
+hukuoukinn: Moved a Base Post at Station [-1,0]
+Move 59 :
+11:58:38 PM
+ryu1031: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 60 :
+11:58:55 PM
+hukuoukinn: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 61 :
+11:59:16 PM
+ryu1031: Added a Medium Ring at Station [1,1]
+Move 62 :
+11:59:25 PM
+hukuoukinn: Added a Small Ring at Station [-1,1]
+Move 63 :
+8/11/2020 12:01:36 AM
+ryu1031: Added a Medium Ring at Station [1,0]
+The end of the game: ryu1031 wins!

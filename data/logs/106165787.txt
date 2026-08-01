@@ -1,0 +1,79 @@
+Move 3 :
+8/10/2020 7:01:17 AM
+Kelly2004: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 4 :
+7:01:43 AM
+hadrianswall: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 5 :
+7:02:02 AM
+Kelly2004: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 6 :
+7:02:19 AM
+hadrianswall: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 7 :
+7:02:26 AM
+Kelly2004: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 8 :
+7:02:39 AM
+hadrianswall: Added a Small Ring at Station [0,-1]
+Move 9 :
+7:02:51 AM
+Kelly2004: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 10 :
+7:02:56 AM
+hadrianswall: Added a Small Ring at Station [-1,-1]
+Move 11 :
+7:03:05 AM
+Kelly2004: Added a Small Ring at Station [0,1]
+Move 12 :
+7:03:14 AM
+hadrianswall: Added a Medium Ring at Station [-1,0]
+Move 13 :
+7:03:20 AM
+Kelly2004: Added a Small Ring at Station [1,1]
+Move 14 :
+7:03:36 AM
+hadrianswall: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 15 :
+7:03:45 AM
+Kelly2004: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 16 :
+7:03:51 AM
+hadrianswall: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 17 :
+7:04:18 AM
+Kelly2004: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+7:04:36 AM
+hadrianswall: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 19 :
+7:04:45 AM
+Kelly2004: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 20 :
+7:05:31 AM
+hadrianswall: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 21 :
+7:05:40 AM
+Kelly2004: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 22 :
+7:05:46 AM
+hadrianswall: Added a Small Ring at Station [-1,1]
+Move 23 :
+7:05:53 AM
+Kelly2004: Added a Small Ring at Station [1,0]
+Move 24 :
+7:05:59 AM
+hadrianswall: Added a Large Ring at Station [0,1]
+Move 25 :
+7:06:04 AM
+Kelly2004: Added a Medium Ring at Station [1,-1]
+Move 26 :
+7:06:17 AM
+hadrianswall: Added a Medium Ring at Station [1,1]
+Move 27 :
+7:06:27 AM
+Kelly2004: Added a Medium Ring at Station [0,-1]
+Move 28 :
+7:06:33 AM
+hadrianswall: Added a Medium Ring at Station [1,0]
+The end of the game: hadrianswall wins!

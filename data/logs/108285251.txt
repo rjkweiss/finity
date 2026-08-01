@@ -1,0 +1,194 @@
+Move 2 :
+8/22/2020 11:38:49 AM
+mgoetzke: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 3 :
+11:38:59 AM
+AgentGoldfish: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 4 :
+11:39:12 AM
+TaxableGold: Added a Black Bridge at Station [0,1] => [-1,2] Position:Left
+Move 5 :
+11:39:33 AM
+porkyoopine: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 6 :
+11:39:51 AM
+mgoetzke: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 7 :
+11:39:57 AM
+AgentGoldfish: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 8 :
+11:40:05 AM
+TaxableGold: Added a Black Bridge at Station [-1,2] => [0,1] Position:Middle
+Move 9 :
+11:40:44 AM
+porkyoopine: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+11:41:07 AM
+mgoetzke: Added a Large Ring at Station [-2,1]
+Move 11 :
+11:41:20 AM
+AgentGoldfish: Added a Small Ring at Station [1,-2]
+Move 12 :
+11:41:26 AM
+TaxableGold: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 13 :
+11:41:50 AM
+porkyoopine: Added a White Bridge at Station [1,-1] => [2,-1] Position:Left
+Move 14 :
+11:41:58 AM
+mgoetzke: Added a White Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 15 :
+11:42:02 AM
+AgentGoldfish: Moved a Base Post at Station [1,-2]
+Move 16 :
+11:42:12 AM
+TaxableGold: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 17 :
+11:42:25 AM
+porkyoopine: Added a White Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 18 :
+11:42:55 AM
+mgoetzke: Moved a Base Post at Station [-2,1]
+Move 19 :
+11:43:03 AM
+AgentGoldfish: Added a Small Ring at Station [0,-1]
+Move 20 :
+11:43:24 AM
+TaxableGold: Added a Small Ring at Station [-1,1]
+Move 21 :
+11:43:31 AM
+porkyoopine: Added a Small Ring at Station [1,-1]
+Move 22 :
+11:43:45 AM
+mgoetzke: Added a Large Ring at Station [-1,0]
+Move 23 :
+11:44:10 AM
+AgentGoldfish: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 24 :
+11:44:37 AM
+TaxableGold: Added a Medium Ring at Station [-1,1]
+Move 25 :
+11:45:03 AM
+porkyoopine: Added a Medium Ring at Station [1,-1]
+Move 26 :
+11:45:14 AM
+mgoetzke: Moved a Base Post at Station [-1,0]
+Move 27 :
+11:45:21 AM
+AgentGoldfish: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 28 :
+11:45:29 AM
+TaxableGold: Added a Large Ring at Station [-1,1]
+Move 29 :
+11:45:41 AM
+porkyoopine: Moved a Base Post at Station [1,-1]
+Move 30 :
+11:45:51 AM
+mgoetzke: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 31 :
+11:46:24 AM
+AgentGoldfish: Added a Large Ring at Station [1,-1]
+Move 32 :
+11:46:45 AM
+TaxableGold: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 33 :
+11:47:04 AM
+porkyoopine: Added a Small Ring at Station [1,0]
+Move 34 :
+11:47:47 AM
+mgoetzke: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 35 :
+11:48:09 AM
+AgentGoldfish: Added a Medium Ring at Station [0,-1]
+Move 36 :
+11:48:15 AM
+TaxableGold: Added a Large Ring at Station [-1,2]
+Move 37 :
+11:48:23 AM
+porkyoopine: Removed a Black Bridge at Station [1,-2] => [1,-1] Position:Left
+AgentGoldfish has to remove 1 orphaned rings
+Move 38 :
+11:48:34 AM
+mgoetzke: Added a Small Ring at Station [-1,-1]
+Move 39 :
+11:48:45 AM
+AgentGoldfish: Added a Large Ring at Station [0,-1]
+Move 40 :
+11:49:01 AM
+TaxableGold: Added a Medium Ring at Station [-1,2]
+Move 41 :
+11:49:46 AM
+porkyoopine: Added a Medium Ring at Station [1,0]
+Move 42 :
+11:50:02 AM
+mgoetzke: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 43 :
+11:50:25 AM
+AgentGoldfish: Moved a Base Post at Station [0,-1]
+Move 44 :
+11:50:33 AM
+TaxableGold: Added a White Bridge at Station [-1,1] => [-1,2] Position:Left
+Move 45 :
+11:50:40 AM
+porkyoopine: Moved a Base Post at Station [1,0]
+Move 46 :
+11:50:48 AM
+mgoetzke: Added a White Bridge at Station [-1,0] => [-2,1] Position:Right
+Move 47 :
+11:51:05 AM
+AgentGoldfish: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 48 :
+11:51:14 AM
+TaxableGold: Added a Small Ring at Station [-1,2]
+Move 49 :
+11:51:22 AM
+porkyoopine: Added a Large Ring at Station [1,-1]
+Move 50 :
+11:51:37 AM
+mgoetzke: Added a Medium Ring at Station [-2,1]
+Move 51 :
+11:51:48 AM
+AgentGoldfish: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 52 :
+11:52:10 AM
+TaxableGold: Added a White Bridge at Station [-1,2] => [-1,1] Position:Middle
+Move 53 :
+11:52:18 AM
+porkyoopine: Added a Small Ring at Station [2,-1]
+Move 54 :
+11:52:49 AM
+mgoetzke: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 55 :
+11:52:57 AM
+AgentGoldfish: Added a Small Ring at Station [-1,0]
+Move 56 :
+11:54:04 AM
+TaxableGold: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 57 :
+11:54:12 AM
+porkyoopine: Added a Black Bridge at Station [1,0] => [0,1] Position:Left
+Move 58 :
+11:54:18 AM
+mgoetzke: Added a Small Ring at Station [-2,1]
+Move 59 :
+11:54:35 AM
+AgentGoldfish: Added a Medium Ring at Station [-1,0]
+Move 60 :
+11:55:38 AM
+TaxableGold: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 61 :
+11:55:49 AM
+porkyoopine: Added a Medium Ring at Station [0,1]
+Move 62 :
+11:56:45 AM
+mgoetzke: Added a Medium Ring at Station [-1,-1]
+Move 63 :
+11:56:54 AM
+AgentGoldfish: Added a Large Ring at Station [-1,-1]
+Move 64 :
+11:58:34 AM
+TaxableGold: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 65 :
+11:58:42 AM
+porkyoopine: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: porkyoopine wins!

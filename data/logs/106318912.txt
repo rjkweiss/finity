@@ -1,0 +1,182 @@
+Move 2 :
+8/11/2020 3:56:02 AM
+MadProgrammer: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 3 :
+3:58:51 AM
+0_Elya_0: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 4 :
+4:00:32 AM
+Pelmener: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+4:00:56 AM
+MadProgrammer: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 6 :
+4:03:20 AM
+0_Elya_0: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 7 :
+4:05:04 AM
+Pelmener: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 8 :
+4:05:20 AM
+MadProgrammer: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 9 :
+4:05:41 AM
+0_Elya_0: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :
+4:05:51 AM
+Pelmener: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 11 :
+4:06:30 AM
+MadProgrammer: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 12 :
+4:07:29 AM
+0_Elya_0: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+4:07:43 AM
+Pelmener: Added a Small Ring at Station [1,1]
+Move 14 :
+4:08:06 AM
+MadProgrammer: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 15 :
+4:08:40 AM
+0_Elya_0: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 16 :
+4:12:11 AM
+Pelmener: Moved a Base Post at Station [1,1]
+Move 17 :
+4:13:08 AM
+MadProgrammer: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 18 :
+4:15:00 AM
+0_Elya_0: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 19 :
+4:15:10 AM
+Pelmener: Added a Medium Ring at Station [0,1]
+Move 20 :
+4:15:26 AM
+MadProgrammer: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :
+4:15:43 AM
+0_Elya_0: Added a White Bridge at Station [-2,1] => [-1,1] Position:Right
+Move 22 :
+4:15:51 AM
+Pelmener: Added a Small Ring at Station [0,1]
+Move 23 :
+4:16:39 AM
+MadProgrammer: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 24 :
+4:16:48 AM
+0_Elya_0: Added a Small Ring at Station [-2,1]
+Move 25 :
+4:16:54 AM
+Pelmener: Added a Large Ring at Station [0,1]
+Move 26 :
+4:17:18 AM
+MadProgrammer: Added a Small Ring at Station [1,0]
+Move 27 :
+4:17:57 AM
+0_Elya_0: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 28 :
+4:18:02 AM
+Pelmener: Moved a Base Post at Station [0,1]
+Move 29 :
+4:18:15 AM
+MadProgrammer: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 30 :
+4:18:26 AM
+0_Elya_0: Added a Medium Ring at Station [-2,1]
+Move 31 :
+4:18:37 AM
+Pelmener: Added a Small Ring at Station [-1,1]
+Move 32 :
+4:19:33 AM
+MadProgrammer: Moved a Base Post at Station [1,0]
+Move 33 :
+4:20:16 AM
+0_Elya_0: Added a Medium Ring at Station [-1,1]
+Move 34 :
+4:20:26 AM
+Pelmener: Added a Large Ring at Station [-1,1]
+Move 35 :
+4:20:53 AM
+MadProgrammer: Added a Small Ring at Station [1,-1]
+Move 36 :
+4:21:49 AM
+0_Elya_0: Moved a Base Post at Station [-2,1]
+Move 37 :
+4:22:19 AM
+Pelmener: Added a Medium Ring at Station [1,0]
+Move 38 :
+4:22:28 AM
+MadProgrammer: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Pelmener has to remove 1 orphaned rings
+Move 39 :
+4:24:03 AM
+0_Elya_0: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 40 :
+4:24:34 AM
+Pelmener: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 41 :
+4:24:44 AM
+MadProgrammer: Added a Medium Ring at Station [1,1]
+Move 42 :
+4:26:39 AM
+0_Elya_0: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 43 :
+4:31:38 AM
+Pelmener: Moved a Blocker at Station [1,-1] => [0,-1] Position:Right
+Move 44 :
+4:33:00 AM
+MadProgrammer: Added a Medium Ring at Station [1,-1]
+Move 45 :
+4:34:49 AM
+0_Elya_0: Added a Small Ring at Station [-1,0]
+Move 46 :
+4:35:59 AM
+Pelmener: Added a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 47 :
+4:36:41 AM
+MadProgrammer: Added a Large Ring at Station [1,-1]
+Move 48 :
+4:36:49 AM
+0_Elya_0: Added a Medium Ring at Station [-1,0]
+Move 49 :
+4:37:05 AM
+Pelmener: Added a Medium Ring at Station [1,0]
+Move 50 :
+4:37:12 AM
+MadProgrammer: Moved a Base Post at Station [1,-1]
+Move 51 :
+4:37:37 AM
+0_Elya_0: Added a Large Ring at Station [-1,0]
+Move 52 :
+4:40:55 AM
+Pelmener: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 53 :
+4:41:15 AM
+MadProgrammer: Added a Large Ring at Station [1,0]
+Move 54 :
+4:45:00 AM
+0_Elya_0: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 55 :
+4:45:19 AM
+Pelmener: Moved a Base Post at Station [1,0]
+Move 56 :
+4:45:46 AM
+MadProgrammer: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 57 :
+4:45:59 AM
+0_Elya_0: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 58 :
+4:46:42 AM
+Pelmener: Removed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 59 :
+4:47:02 AM
+MadProgrammer: Added a Small Ring at Station [0,-1]
+Move 60 :
+4:47:30 AM
+0_Elya_0: Added a Medium Ring at Station [0,-1]
+Move 61 :
+4:47:38 AM
+Pelmener: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+The end of the game: Pelmener wins!

@@ -1,0 +1,84 @@
+Game log
+Move 1 :8/31/2022 12:30:28 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :6:28:00 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :8:50:57 AM
+LaBere: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :7:18:31 PM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :9/1/2022 1:50:36 AM
+LaBere: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :3:22:09 AM
+tony1021: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :3:33:16 AM
+LaBere: Added a Small Ring at Station [1,0]
+Move 8 :5:55:42 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :9/2/2022 1:09:22 AM
+LaBere: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 10 :6:24:35 AM
+tony1021: Moved a Blocker at Station [1,1] => [1,0] Position:Left
+Move 11 :6:28:04 AM
+LaBere: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 12 :6:29:37 AM
+tony1021: Added a Black Bridge at Station [0,1] => [0,0] Position:Left
+Move 13 :6:38:11 AM
+LaBere: Added a Small Ring at Station [0,1]
+Move 14 :8:35:22 AM
+tony1021: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+LaBere has to remove 1 orphaned rings
+Move 15 :8:40:09 AM
+LaBere: Added a Small Ring at Station [1,1]
+Move 16 :8:40:50 AM
+tony1021: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+LaBere has to remove 1 orphaned rings
+Move 17 :8:42:30 AM
+LaBere: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 18 :9:00:15 AM
+tony1021: Added a Small Ring at Station [0,1]
+Move 19 :9:01:24 AM
+LaBere: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 20 :5:11:44 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 21 :9/3/2022 12:38:24 AM
+LaBere: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 22 :7:02:08 AM
+tony1021: Added a Large Ring at Station [0,1]
+Move 23 :2:18:52 PM
+LaBere: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 24 :9/4/2022 7:25:31 AM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 25 :7:26:07 AM
+LaBere: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 26 :7:54:47 AM
+tony1021: Moved a Base Post at Station [0,1]
+Move 27 :7:55:50 AM
+LaBere: Added a Small Ring at Station [0,-1]
+Move 28 :8:25:37 AM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 29 :8:26:04 AM
+LaBere: Added a Small Ring at Station [-1,-1]
+Move 30 :11:27:41 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 31 :12:26:46 PM
+LaBere: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 32 :12:50:54 PM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 33 :1:26:09 PM
+LaBere: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 34 :3:35:59 PM
+tony1021: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 35 :9/5/2022 12:12:06 AM
+LaBere: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 36 :7:45:01 AM
+tony1021: Moved a Base Post at Station [-1,1]
+Move 37 :8:02:39 AM
+LaBere: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 38 :12:06:46 PM
+tony1021: Added a Small Ring at Station [1,1]
+Move 39 :1:39:55 PM
+LaBere: Added a Small Ring at Station [-1,0]
+Move 40 :10:34:22 PM
+tony1021: Added a Medium Ring at Station [-1,0]
+The end of the game: tony1021 wins!

@@ -1,0 +1,60 @@
+Game log
+Move 1 :5/11/2021 8:44:11 AM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :8:45:16 AM
+KAZZ-I: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 3 :6:13:26 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :6:33:33 PM
+KAZZ-I: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 5 :10:26:31 PM
+SixPigeons: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :10:46:09 PM
+KAZZ-I: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 7 :5/12/2021 2:08:40 AM
+SixPigeons: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 8 :4:02:11 AM
+KAZZ-I: Added a Small Ring at Station [0,1]
+Move 9 :4:08:03 AM
+SixPigeons: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 10 :5:07:44 AM
+KAZZ-I: Moved a Base Post at Station [0,1]
+Move 11 :5:08:49 AM
+SixPigeons: Added a Small Ring at Station [1,0]
+Move 12 :9:49:55 AM
+KAZZ-I: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 13 :2:15:24 PM
+SixPigeons: Added a Medium Ring at Station [1,0]
+Move 14 :2:34:28 PM
+KAZZ-I: Added a Small Ring at Station [-1,1]
+Move 15 :2:38:07 PM
+SixPigeons: Added a Large Ring at Station [1,0]
+Move 16 :5/13/2021 1:24:47 AM
+KAZZ-I: Added a Medium Ring at Station [-1,1]
+Move 17 :2:41:31 AM
+SixPigeons: Moved a Base Post at Station [1,0]
+Move 18 :6:36:20 AM
+KAZZ-I: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 19 :4:39:09 PM
+SixPigeons: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 20 :9:11:49 PM
+KAZZ-I: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :9:18:34 PM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 22 :5/14/2021 12:28:26 AM
+KAZZ-I: Added a Large Ring at Station [-1,1]
+Move 23 :5:54:46 AM
+SixPigeons: Added a Medium Ring at Station [1,-1]
+Move 24 :9:38:57 AM
+KAZZ-I: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 25 :3:27:53 PM
+SixPigeons: Added a Large Ring at Station [1,-1]
+Move 26 :10:08:43 PM
+KAZZ-I: Added a Small Ring at Station [-1,0]
+Move 27 :11:52:02 PM
+SixPigeons: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 28 :5/15/2021 4:38:25 AM
+KAZZ-I: Added a Medium Ring at Station [-1,0]
+Move 29 :6:16:26 AM
+SixPigeons: Added a Small Ring at Station [1,1]
+The end of the game: SixPigeons wins!

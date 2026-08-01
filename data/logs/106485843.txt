@@ -1,0 +1,122 @@
+Move 1 :
+8/12/2020 6:33:21 AM
+The colors of DKTheMonkeyMan have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:31:53 AM
+DKTheMonkeyMan: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 3 :
+10:16:36 AM
+MissAliivs: Added a White Bridge at Station [0,-1] => [0,0] Position:Left
+Move 4 :
+11:10:37 AM
+DKTheMonkeyMan: Added a Small Ring at Station [-1,0]
+Move 5 :
+7:30:34 PM
+MissAliivs: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 6 :
+8/13/2020 12:29:03 AM
+DKTheMonkeyMan: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 7 :
+8:49:46 AM
+MissAliivs: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 8 :
+12:41:31 PM
+DKTheMonkeyMan: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 9 :
+12:49:26 PM
+MissAliivs: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 10 :
+7:26:56 PM
+DKTheMonkeyMan: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 11 :
+8/14/2020 6:48:46 AM
+MissAliivs: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 12 :
+7:59:26 PM
+DKTheMonkeyMan: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 13 :
+8/16/2020 6:06:09 PM
+MissAliivs: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 14 :
+8/17/2020 12:10:29 AM
+DKTheMonkeyMan: Added a Small Ring at Station [0,1]
+Move 15 :
+7:38:09 AM
+MissAliivs: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 16 :
+10:06:53 AM
+DKTheMonkeyMan: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 17 :
+11:40:40 AM
+MissAliivs: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 18 :
+3:39:57 PM
+DKTheMonkeyMan: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 19 :
+6:16:32 PM
+MissAliivs: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 20 :
+8/18/2020 12:18:34 AM
+DKTheMonkeyMan: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 21 :
+6:51:28 AM
+MissAliivs: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 22 :
+8:50:04 AM
+DKTheMonkeyMan: Added a Small Ring at Station [1,1]
+Move 23 :
+12:53:15 PM
+MissAliivs: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 24 :
+2:03:19 PM
+DKTheMonkeyMan: Added a Small Ring at Station [1,0]
+Move 25 :
+6:50:52 PM
+MissAliivs: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 26 :
+8/19/2020 12:19:08 AM
+DKTheMonkeyMan: Added a Medium Ring at Station [1,1]
+Move 27 :
+7:02:22 AM
+MissAliivs: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 28 :
+7:29:44 AM
+DKTheMonkeyMan: Added a Medium Ring at Station [0,1]
+Move 29 :
+11:19:09 AM
+MissAliivs: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 30 :
+12:18:37 PM
+DKTheMonkeyMan: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 31 :
+2:06:11 PM
+MissAliivs: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 32 :
+3:21:39 PM
+DKTheMonkeyMan: Moved a Base Post at Station [0,1]
+DKTheMonkeyMan has to remove 1 orphaned rings
+Move 33 :
+4:46:44 PM
+MissAliivs: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 34 :
+8/20/2020 12:35:08 AM
+DKTheMonkeyMan: Added a Small Ring at Station [-1,1]
+Move 35 :
+7:36:08 AM
+MissAliivs: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 36 :
+11:00:49 AM
+DKTheMonkeyMan: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 37 :
+11:36:02 AM
+MissAliivs: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 38 :
+12:15:35 PM
+DKTheMonkeyMan: Moved a Base Post at Station [-1,1]
+Move 39 :
+12:45:47 PM
+MissAliivs: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 40 :
+1:17:00 PM
+DKTheMonkeyMan: Added a Small Ring at Station [-1,0]
+The end of the game: DKTheMonkeyMan wins!

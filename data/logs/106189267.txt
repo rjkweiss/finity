@@ -1,0 +1,82 @@
+Move 2 :
+8/10/2020 9:11:29 AM
+gogo1302: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+9:12:11 AM
+Atchico: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 4 :
+9:12:27 AM
+gogo1302: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 5 :
+9:12:44 AM
+Atchico: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 6 :
+9:13:00 AM
+gogo1302: Added a Large Ring at Station [0,1]
+Move 7 :
+9:14:18 AM
+Atchico: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+9:14:39 AM
+gogo1302: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 9 :
+9:14:54 AM
+Atchico: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 10 :
+9:15:05 AM
+gogo1302: Added a Large Ring at Station [1,1]
+Move 11 :
+9:15:14 AM
+Atchico: Added a Large Ring at Station [1,0]
+Move 12 :
+9:15:29 AM
+gogo1302: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 13 :
+9:15:54 AM
+Atchico: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 14 :
+9:16:04 AM
+gogo1302: Added a Medium Ring at Station [0,1]
+Move 15 :
+9:16:14 AM
+Atchico: Added a Large Ring at Station [0,-1]
+Move 16 :
+9:16:33 AM
+gogo1302: Added a Medium Ring at Station [1,1]
+Move 17 :
+9:16:48 AM
+Atchico: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 18 :
+9:17:31 AM
+gogo1302: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 19 :
+9:17:44 AM
+Atchico: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 20 :
+9:17:59 AM
+gogo1302: Added a Medium Ring at Station [1,0]
+Move 21 :
+9:18:33 AM
+Atchico: Added a Medium Ring at Station [0,-1]
+Move 22 :
+9:19:13 AM
+gogo1302: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 23 :
+9:19:23 AM
+Atchico: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 24 :
+9:19:34 AM
+gogo1302: Added a Small Ring at Station [1,1]
+Move 25 :
+9:20:03 AM
+Atchico: Added a White Bridge at Station [0,0] => [-1,0] Position:Left
+Move 26 :
+9:20:14 AM
+gogo1302: Added a Small Ring at Station [0,1]
+Move 27 :
+9:20:32 AM
+Atchico: Added a Small Ring at Station [0,-1]
+Move 28 :
+9:20:50 AM
+gogo1302: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: gogo1302 wins!

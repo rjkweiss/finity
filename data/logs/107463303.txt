@@ -1,0 +1,110 @@
+Move 1 :
+8/17/2020 4:00:10 PM
+The colors of ethorad have been chosen according to their preferences. Change my preferences.
+Move 2 :
+5:15:35 PM
+Ghost256: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+8/18/2020 12:11:58 AM
+ethorad: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+2:16:11 PM
+Ghost256: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 5 :
+2:56:40 PM
+ethorad: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+5:01:08 PM
+Ghost256: Added a Small Ring at Station [-1,0]
+Move 7 :
+8/19/2020 12:27:18 AM
+ethorad: Added a Small Ring at Station [1,0]
+Move 8 :
+8/20/2020 12:45:16 PM
+Ghost256: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 9 :
+12:51:05 PM
+ethorad: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 10 :
+2:21:15 PM
+Ghost256: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 11 :
+4:52:36 PM
+ethorad: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 12 :
+5:18:55 PM
+Ghost256: Added a Medium Ring at Station [-1,0]
+Move 13 :
+8/21/2020 12:30:39 AM
+ethorad: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 14 :
+4:30:38 PM
+Ghost256: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 15 :
+4:48:34 PM
+ethorad: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+5:48:53 PM
+Ghost256: Added a Large Ring at Station [-1,0]
+Move 17 :
+11:57:42 PM
+ethorad: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 18 :
+8/22/2020 5:56:35 PM
+Ghost256: Moved a Base Post at Station [-1,0]
+Move 19 :
+11:52:39 PM
+ethorad: Added a Small Ring at Station [0,-1]
+Move 20 :
+8/23/2020 2:50:14 AM
+Ghost256: Added a Small Ring at Station [-1,1]
+Move 21 :
+5:24:29 AM
+ethorad: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 22 :
+3:34:05 PM
+Ghost256: Added a Medium Ring at Station [-1,1]
+Move 23 :
+4:20:47 PM
+ethorad: Moved a Base Post at Station [0,-1]
+ethorad has to remove 1 orphaned rings
+Move 24 :
+6:23:16 PM
+Ghost256: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 25 :
+11:52:10 PM
+ethorad: Removed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 26 :
+8/24/2020 12:04:46 PM
+Ghost256: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 27 :
+12:53:52 PM
+ethorad: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 28 :
+8:43:04 PM
+Ghost256: Added a Small Ring at Station [-1,-1]
+Move 29 :
+11:32:54 PM
+ethorad: Reversed a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 30 :
+8/25/2020 12:56:24 AM
+Ghost256: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 31 :
+12:58:06 AM
+ethorad: Removed a Black Bridge at Station [0,0] => [0,-1] Position:Left
+Move 32 :
+12:58:32 AM
+Ghost256: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 33 :
+1:27:30 AM
+ethorad: Added a Small Ring at Station [1,-1]
+Move 34 :
+3:46:42 AM
+Ghost256: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 35 :
+3:53:48 AM
+ethorad: Added a Small Ring at Station [1,0]
+Move 36 :
+11:21:54 AM
+Ghost256: Added a Medium Ring at Station [0,-1]
+The end of the game: Ghost256 wins!

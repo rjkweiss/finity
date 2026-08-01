@@ -1,0 +1,120 @@
+Move 1 :
+8/11/2020 12:04:09 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+12:06:37 AM
+ryu1031: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 3 :
+12:06:50 AM
+hukuoukinn: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+12:07:07 AM
+ryu1031: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 5 :
+12:07:18 AM
+hukuoukinn: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 6 :
+12:07:29 AM
+ryu1031: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 7 :
+12:07:48 AM
+hukuoukinn: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+12:08:23 AM
+ryu1031: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 9 :
+12:08:44 AM
+hukuoukinn: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 10 :
+12:11:26 AM
+ryu1031: Added a Black Bridge at Station [0,0] => [0,-1] Position:Right
+Move 11 :
+12:11:37 AM
+hukuoukinn: Added a Small Ring at Station [1,0]
+Move 12 :
+12:11:50 AM
+ryu1031: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 13 :
+12:12:01 AM
+hukuoukinn: Added a Small Ring at Station [0,-1]
+Move 14 :
+12:12:49 AM
+ryu1031: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 15 :
+12:12:55 AM
+hukuoukinn: Added a Medium Ring at Station [1,0]
+Move 16 :
+12:13:45 AM
+ryu1031: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 17 :
+12:14:32 AM
+hukuoukinn: Added a Large Ring at Station [1,0]
+Move 18 :
+12:14:52 AM
+ryu1031: Added a Large Ring at Station [-1,0]
+Move 19 :
+12:16:09 AM
+hukuoukinn: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 20 :
+12:17:04 AM
+ryu1031: Moved a Base Post at Station [-1,0]
+Move 21 :
+12:17:13 AM
+hukuoukinn: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 22 :
+12:18:31 AM
+ryu1031: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 23 :
+12:18:39 AM
+hukuoukinn: Moved a Base Post at Station [1,0]
+hukuoukinn has to remove 1 orphaned rings
+Move 24 :
+12:21:44 AM
+ryu1031: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 25 :
+12:21:51 AM
+hukuoukinn: Added a Small Ring at Station [1,1]
+Move 26 :
+12:21:59 AM
+ryu1031: Added a Large Ring at Station [0,-1]
+Move 27 :
+12:22:06 AM
+hukuoukinn: Added a Medium Ring at Station [1,1]
+Move 28 :
+12:22:27 AM
+ryu1031: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 29 :
+12:22:42 AM
+hukuoukinn: Added a Small Ring at Station [1,-1]
+Move 30 :
+12:22:52 AM
+ryu1031: Moved a Base Post at Station [0,-1]
+ryu1031 has to remove 1 orphaned rings
+Move 31 :
+12:23:36 AM
+hukuoukinn: Added a Medium Ring at Station [1,-1]
+Move 32 :
+12:24:00 AM
+ryu1031: Added a Large Ring at Station [1,-1]
+Move 33 :
+12:24:39 AM
+hukuoukinn: Moved a Base Post at Station [1,-1]
+Move 34 :
+12:27:29 AM
+ryu1031: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 35 :
+12:27:37 AM
+hukuoukinn: Added a Medium Ring at Station [0,-1]
+Move 36 :
+12:28:21 AM
+ryu1031: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 37 :
+12:28:38 AM
+hukuoukinn: Added a Small Ring at Station [0,-1]
+Move 38 :
+12:29:07 AM
+ryu1031: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 39 :
+12:30:08 AM
+hukuoukinn: Reversed a Black Bridge at Station [0,0] => [0,-1] Position:Right
+The end of the game: hukuoukinn wins!

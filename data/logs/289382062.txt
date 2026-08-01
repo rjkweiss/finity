@@ -1,0 +1,93 @@
+Game log
+Move 2 :8/6/2022 4:49:04 AM
+Fuji-Q: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :4:50:14 AM
+S Sato: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :4:55:29 AM
+Fuji-Q: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 5 :4:56:02 AM
+S Sato: Added a Medium Ring at Station [0,-1]
+Move 6 :4:56:58 AM
+Fuji-Q: Added a Small Ring at Station [-1,0]
+Move 7 :4:57:11 AM
+S Sato: Added a Small Ring at Station [0,-1]
+Move 8 :4:58:00 AM
+Fuji-Q: Added a Medium Ring at Station [-1,0]
+Move 9 :4:58:35 AM
+S Sato: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 10 :4:58:43 AM
+Fuji-Q: Added a Large Ring at Station [-1,0]
+Move 11 :4:59:29 AM
+S Sato: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :4:59:43 AM
+Fuji-Q: Added a Small Ring at Station [-1,-1]
+Move 13 :4:59:49 AM
+S Sato: Added a Medium Ring at Station [-1,-1]
+Move 14 :5:00:14 AM
+Fuji-Q: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 15 :5:00:53 AM
+S Sato: Added a Large Ring at Station [-1,-1]
+Move 16 :5:01:07 AM
+Fuji-Q: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 17 :5:02:36 AM
+S Sato: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 18 :5:04:15 AM
+Fuji-Q: Added a Medium Ring at Station [0,1]
+Move 19 :5:04:43 AM
+S Sato: Added a Large Ring at Station [0,-1]
+Move 20 :5:04:50 AM
+Fuji-Q: Added a Large Ring at Station [1,1]
+Move 21 :5:05:06 AM
+S Sato: Moved a Blocker at Station [-1,1] => [0,1] Position:Left
+Move 22 :5:06:04 AM
+Fuji-Q: Added a Small Ring at Station [0,1]
+Move 23 :5:06:13 AM
+S Sato: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 24 :5:06:33 AM
+Fuji-Q: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 25 :5:06:54 AM
+S Sato: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 26 :5:07:04 AM
+Fuji-Q: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 27 :5:07:29 AM
+S Sato: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 28 :5:07:39 AM
+Fuji-Q: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 29 :5:07:55 AM
+S Sato: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 30 :5:08:19 AM
+Fuji-Q: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 31 :5:12:01 AM
+S Sato: Moved a Base Post at Station [-1,-1]
+S Sato has to remove 3 orphaned rings
+Move 32 :5:13:34 AM
+Fuji-Q: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 33 :5:13:43 AM
+S Sato: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 34 :5:13:53 AM
+Fuji-Q: Added a Medium Ring at Station [1,0]
+Move 35 :5:14:01 AM
+S Sato: Added a Small Ring at Station [0,-1]
+Move 36 :5:14:14 AM
+Fuji-Q: Added a Large Ring at Station [1,0]
+Move 37 :5:14:21 AM
+S Sato: Added a Medium Ring at Station [1,-1]
+Move 38 :5:14:27 AM
+Fuji-Q: Added a Small Ring at Station [1,1]
+Move 39 :5:14:35 AM
+S Sato: Added a Small Ring at Station [1,0]
+Move 40 :5:14:41 AM
+Fuji-Q: Added a Medium Ring at Station [1,1]
+Move 41 :5:15:16 AM
+S Sato: Added a Medium Ring at Station [0,-1]
+Move 42 :5:15:36 AM
+Fuji-Q: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 43 :5:15:43 AM
+S Sato: Added a Large Ring at Station [0,-1]
+Move 44 :5:15:52 AM
+Fuji-Q: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 45 :5:16:02 AM
+S Sato: Added a Small Ring at Station [1,-1]
+Move 46 :5:16:10 AM
+Fuji-Q: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: S Sato wins!

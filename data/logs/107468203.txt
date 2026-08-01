@@ -1,0 +1,242 @@
+Move 2 :
+8/17/2020 5:15:46 PM
+Ghost256: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+5:18:55 PM
+tayutama777: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+6:33:18 PM
+Ghost256: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 5 :
+6:34:01 PM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 6 :
+6:34:17 PM
+Ghost256: Added a Small Ring at Station [-1,0]
+Move 7 :
+6:36:54 PM
+tayutama777: Moved a Base Post at Station [0,-1]
+Move 8 :
+6:37:24 PM
+Ghost256: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 9 :
+6:57:29 PM
+tayutama777: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 10 :
+7:00:52 PM
+Ghost256: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 11 :
+8/18/2020 3:10:54 AM
+tayutama777: Added a Small Ring at Station [-1,-1]
+Move 12 :
+2:16:56 PM
+Ghost256: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 13 :
+2:19:00 PM
+tayutama777: Moved a Base Post at Station [-1,-1]
+Move 14 :
+5:01:37 PM
+Ghost256: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 15 :
+8/19/2020 1:55:54 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 16 :
+8/20/2020 12:46:06 PM
+Ghost256: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 17 :
+12:59:44 PM
+tayutama777: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 18 :
+2:22:04 PM
+Ghost256: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 19 :
+2:24:35 PM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 20 :
+5:20:08 PM
+Ghost256: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 21 :
+5:22:32 PM
+tayutama777: Moved a Base Post at Station [0,-1]
+Move 22 :
+6:05:47 PM
+Ghost256: Added a Small Ring at Station [-1,-1]
+Move 23 :
+8/21/2020 2:32:34 AM
+tayutama777: Moved a Base Post at Station [-1,0]
+Move 24 :
+4:32:54 PM
+Ghost256: Moved a Base Post at Station [0,-1]
+Move 25 :
+4:47:41 PM
+tayutama777: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 26 :
+5:51:04 PM
+Ghost256: Added a Medium Ring at Station [-1,-1]
+Move 27 :
+8/22/2020 2:08:46 AM
+tayutama777: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 28 :
+5:58:20 PM
+Ghost256: Added a Large Ring at Station [-1,-1]
+Move 29 :
+6:07:21 PM
+tayutama777: Moved a Base Post at Station [-1,-1]
+Move 30 :
+6:56:37 PM
+Ghost256: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 31 :
+8/23/2020 3:26:41 AM
+tayutama777: Removed a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 32 :
+4:29:46 AM
+Ghost256: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+tayutama777 has to remove 1 orphaned rings
+Move 33 :
+5:08:49 AM
+tayutama777: Removed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 34 :
+3:35:42 PM
+Ghost256: Added a Medium Ring at Station [-1,0]
+Move 35 :
+4:22:10 PM
+tayutama777: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Ghost256 has to remove 3 orphaned rings
+Move 36 :
+6:23:41 PM
+Ghost256: Added a Large Ring at Station [-1,0]
+Move 37 :
+6:25:24 PM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 38 :
+6:25:57 PM
+Ghost256: Moved a Base Post at Station [-1,0]
+Move 39 :
+6:26:38 PM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 40 :
+6:26:48 PM
+Ghost256: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+tayutama777 has to remove 1 orphaned rings
+Move 41 :
+6:42:04 PM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 42 :
+7:52:01 PM
+Ghost256: Added a Small Ring at Station [0,-1]
+Move 43 :
+7:54:11 PM
+tayutama777: Added a White Bridge at Station [0,1] => [0,0] Position:Right
+Move 44 :
+8/24/2020 12:03:50 PM
+Ghost256: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 45 :
+12:14:46 PM
+tayutama777: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 46 :
+8:42:48 PM
+Ghost256: Added a Small Ring at Station [-1,1]
+Move 47 :
+8/25/2020 3:10:19 AM
+tayutama777: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 48 :
+3:47:45 AM
+Ghost256: Added a Small Ring at Station [0,1]
+Move 49 :
+3:51:36 AM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 50 :
+11:23:15 AM
+Ghost256: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 51 :
+2:47:05 PM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 52 :
+6:25:26 PM
+Ghost256: Added a Medium Ring at Station [-1,1]
+Move 53 :
+7:36:15 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 54 :
+7:47:20 PM
+Ghost256: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 55 :
+8/26/2020 3:07:05 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 56 :
+3:03:49 PM
+Ghost256: Added a Medium Ring at Station [0,1]
+Move 57 :
+3:24:36 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 58 :
+3:29:55 PM
+Ghost256: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 59 :
+8/27/2020 3:53:57 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 60 :
+6:32:39 PM
+Ghost256: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 61 :
+8:47:25 PM
+tayutama777: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 62 :
+9:06:09 PM
+Ghost256: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 63 :
+10:41:43 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 64 :
+10:50:28 PM
+Ghost256: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 65 :
+8/28/2020 4:34:59 AM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 66 :
+1:04:45 PM
+Ghost256: Added a Small Ring at Station [1,0]
+Move 67 :
+1:32:11 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 68 :
+1:32:26 PM
+Ghost256: Removed a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+tayutama777 has to remove 1 orphaned rings
+Move 69 :
+8/29/2020 1:10:42 AM
+tayutama777: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 70 :
+11:21:02 AM
+Ghost256: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 71 :
+12:02:59 PM
+tayutama777: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 72 :
+12:03:15 PM
+Ghost256: Added a Medium Ring at Station [1,0]
+Move 73 :
+12:32:14 PM
+tayutama777: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 74 :
+12:32:23 PM
+Ghost256: Added a Large Ring at Station [0,1]
+Move 75 :
+12:32:47 PM
+tayutama777: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 76 :
+12:32:52 PM
+Ghost256: Removed a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 77 :
+12:33:02 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 78 :
+12:33:08 PM
+Ghost256: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+The end of the game: Ghost256 wins!

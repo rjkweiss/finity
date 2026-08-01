@@ -1,0 +1,67 @@
+Move 1 :
+5/27/2020 11:05:20 AM
+The colors of eSedano01, whotimwait have been chosen according to their preferences. Change my preferences.
+Move 2 :
+11:06:37 AM
+eSedano01: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+11:22:14 AM
+whotimwait: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+11:27:50 AM
+eSedano01: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 5 :
+11:37:25 AM
+whotimwait: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 6 :
+12:15:07 PM
+eSedano01: Added a Medium Ring at Station [0,1]
+Move 7 :
+5/28/2020 2:55:48 AM
+whotimwait: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 8 :
+2:57:21 AM
+eSedano01: Added a Small Ring at Station [1,0]
+Move 9 :
+3:49:43 AM
+whotimwait: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 10 :
+3:52:29 AM
+eSedano01: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 11 :
+4:18:06 AM
+whotimwait: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 12 :
+4:33:39 AM
+eSedano01: Added a Small Ring at Station [1,-1]
+Move 13 :
+4:54:38 AM
+whotimwait: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 14 :
+6:06:17 AM
+eSedano01: Added a Medium Ring at Station [1,0]
+Move 15 :
+8:40:22 AM
+whotimwait: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 16 :
+9:07:59 AM
+eSedano01: Added a Medium Ring at Station [1,-1]
+Move 17 :
+11:57:04 AM
+whotimwait: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+1:16:23 PM
+eSedano01: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 19 :
+1:55:37 PM
+whotimwait: Added a Small Ring at Station [0,-1]
+Move 20 :
+2:30:40 PM
+eSedano01: Added a Medium Ring at Station [0,-1]
+Move 21 :
+2:50:20 PM
+whotimwait: Added a Medium Ring at Station [-1,0]
+Move 22 :
+3:29:22 PM
+eSedano01: Added a Small Ring at Station [-1,0]
+The end of the game: eSedano01 wins!

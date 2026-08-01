@@ -1,0 +1,67 @@
+Game log
+Move 1 :1/13/2021 6:48:20 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :7:07:04 PM
+Justin Jake: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :1/14/2021 7:42:53 AM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :8:15:20 AM
+Justin Jake: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 5 :10:35:07 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 6 :5:17:53 PM
+Justin Jake: Added a Small Ring at Station [0,1]
+Move 7 :6:51:40 PM
+tony1021: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 8 :6:52:22 PM
+Justin Jake: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 9 :6:53:51 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 10 :6:57:24 PM
+Justin Jake: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 11 :1/15/2021 7:37:23 AM
+tony1021: Moved a Base Post at Station [1,0]
+Move 12 :7:43:12 AM
+Justin Jake: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 13 :9:49:35 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 14 :9:51:34 PM
+Justin Jake: Added a Large Ring at Station [-1,0]
+Move 15 :9:54:41 PM
+tony1021: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Justin Jake has to remove 1 orphaned rings
+Move 16 :10:13:29 PM
+Justin Jake: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 17 :1/16/2021 4:51:22 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 18 :7:49:18 PM
+Justin Jake: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 19 :1/17/2021 11:44:34 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 20 :6:13:25 PM
+Justin Jake: Added a Small Ring at Station [-1,0]
+Move 21 :9:23:39 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 22 :9:36:37 PM
+Justin Jake: Added a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 23 :9:49:51 PM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 24 :10:07:33 PM
+Justin Jake: Added a Large Ring at Station [0,-1]
+Move 25 :1/18/2021 7:06:47 AM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 26 :7:09:52 AM
+Justin Jake: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 27 :7:16:44 AM
+tony1021: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Right
+Justin Jake has to remove 1 orphaned rings
+Move 28 :7:29:31 AM
+Justin Jake: Added a Medium Ring at Station [0,1]
+Move 29 :9:47:38 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 30 :5:55:44 PM
+Justin Jake: Moved a Base Post at Station [0,1]
+Justin Jake has to remove 1 orphaned rings
+Move 31 :7:18:36 PM
+tony1021: Added a Small Ring at Station [-1,0]
+The end of the game: tony1021 wins!

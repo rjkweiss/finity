@@ -1,0 +1,146 @@
+Game log
+Move 1 :5/20/2021 3:59:38 AM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :7:24:13 PM
+tony1021: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :9:10:33 PM
+ko60: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :10:07:22 PM
+tony1021: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :5/21/2021 3:14:24 AM
+ko60: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :7:18:54 AM
+tony1021: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 7 :7:24:47 AM
+ko60: Added a Small Ring at Station [1,0]
+Move 8 :10:54:06 AM
+tony1021: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+ko60 has to remove 1 orphaned rings
+Move 9 :5:50:23 PM
+ko60: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 10 :7:21:07 PM
+tony1021: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 11 :7:24:10 PM
+ko60: Added a Small Ring at Station [1,0]
+Move 12 :7:37:13 PM
+tony1021: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 13 :7:42:34 PM
+ko60: Added a Medium Ring at Station [1,0]
+Move 14 :7:46:13 PM
+tony1021: Added a Small Ring at Station [0,1]
+Move 15 :7:52:52 PM
+ko60: Added a Large Ring at Station [1,0]
+Move 16 :5/22/2021 7:43:18 AM
+tony1021: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 17 :2:45:25 PM
+ko60: Moved a Base Post at Station [1,0]
+Move 18 :7:06:23 PM
+tony1021: Added a Medium Ring at Station [0,1]
+Move 19 :8:08:03 PM
+ko60: Added a Large Ring at Station [1,-1]
+Move 20 :10:00:31 PM
+tony1021: Moved a Base Post at Station [0,1]
+Move 21 :10:14:15 PM
+ko60: Added a Medium Ring at Station [1,-1]
+Move 22 :5/23/2021 5:54:07 AM
+tony1021: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 23 :6:12:32 AM
+ko60: Added a Small Ring at Station [1,-1]
+Move 24 :7:39:17 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 25 :4:00:32 PM
+ko60: Moved a Base Post at Station [1,-1]
+Move 26 :5:13:48 PM
+tony1021: Added a Small Ring at Station [-1,1]
+Move 27 :8:16:43 PM
+ko60: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 28 :9:45:36 PM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 29 :5/24/2021 1:05:24 AM
+ko60: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 30 :4:11:14 AM
+tony1021: Moved a Blocker at Station [1,-1] => [0,-1] Position:Middle
+Move 31 :4:16:43 AM
+ko60: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 32 :6:41:14 AM
+tony1021: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 33 :7:16:05 AM
+ko60: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 34 :7:55:19 AM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 35 :5:42:56 PM
+ko60: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 36 :6:36:54 PM
+tony1021: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Right
+Move 37 :9:10:54 PM
+ko60: Added a Large Ring at Station [0,-1]
+Move 38 :10:23:04 PM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+ko60 has to remove 1 orphaned rings
+Move 39 :5/25/2021 3:15:48 AM
+ko60: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 40 :7:20:22 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 41 :8:02:15 AM
+ko60: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 42 :8:05:40 AM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 43 :8:36:55 AM
+ko60: Moved a Blocker at Station [0,0] => [-1,0] Position:Middle
+Move 44 :9:09:46 AM
+tony1021: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 45 :9:12:35 AM
+ko60: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 46 :9:12:44 AM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 47 :9:13:48 AM
+ko60: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 48 :9:13:55 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 49 :9:14:04 AM
+ko60: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 50 :9:14:12 AM
+tony1021: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 51 :9:16:19 AM
+ko60: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 52 :9:16:52 AM
+tony1021: Added a Medium Ring at Station [-1,0]
+Move 53 :9:17:02 AM
+ko60: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 54 :9:17:12 AM
+tony1021: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 55 :9:17:29 AM
+ko60: Added a Large Ring at Station [0,1]
+Move 56 :9:17:39 AM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+ko60 has to remove 1 orphaned rings
+Move 57 :9:17:50 AM
+ko60: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 58 :9:18:12 AM
+tony1021: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 59 :9:18:20 AM
+ko60: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 60 :9:18:27 AM
+tony1021: Added a Medium Ring at Station [-1,1]
+Move 61 :9:18:35 AM
+ko60: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 62 :9:18:59 AM
+tony1021: Added a Small Ring at Station [1,1]
+Move 63 :9:19:39 AM
+ko60: Added a Large Ring at Station [0,1]
+Move 64 :9:19:59 AM
+tony1021: Removed a White Bridge at Station [1,0] => [0,1] Position:Middle
+ko60 has to remove 1 orphaned rings
+Move 65 :9:20:47 AM
+ko60: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 66 :9:20:55 AM
+tony1021: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 67 :9:21:00 AM
+ko60: Moved a Base Post at Station [1,0]
+Move 68 :9:21:26 AM
+tony1021: Reversed a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 69 :9:21:45 AM
+ko60: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 70 :9:21:54 AM
+tony1021: Reversed a White Bridge at Station [0,1] => [1,1] Position:Right
+The end of the game: tony1021 wins!

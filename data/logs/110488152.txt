@@ -1,0 +1,644 @@
+Move 2 :
+9/4/2020 8:28:58 AM
+hyararu: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 3 :
+8:30:32 AM
+Onigo: Reversed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 4 :
+8:31:01 AM
+washi0106: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 5 :
+8:31:45 AM
+hyararu: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 6 :
+8:32:19 AM
+Onigo: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 7 :
+8:32:49 AM
+washi0106: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 8 :
+8:33:07 AM
+hyararu: Moved a Blocker at Station [0,0] => [0,-1] Position:Right
+Move 9 :
+8:34:36 AM
+Onigo: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 10 :
+8:35:02 AM
+washi0106: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 11 :
+8:35:26 AM
+hyararu: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 12 :
+8:35:35 AM
+Onigo: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 13 :
+8:35:52 AM
+washi0106: Added a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 14 :
+8:36:08 AM
+hyararu: Moved a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 15 :
+8:36:17 AM
+Onigo: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 16 :
+8:37:16 AM
+washi0106: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 17 :
+8:38:38 AM
+hyararu: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 18 :
+8:38:44 AM
+Onigo: Added a Small Ring at Station [-1,1]
+Move 19 :
+8:39:26 AM
+washi0106: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 20 :
+8:39:47 AM
+hyararu: Added a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 21 :
+8:39:55 AM
+Onigo: Added a Medium Ring at Station [-1,1]
+Move 22 :
+8:40:35 AM
+washi0106: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 23 :
+8:40:54 AM
+hyararu: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 24 :
+8:40:59 AM
+Onigo: Added a Large Ring at Station [-1,1]
+Move 25 :
+8:41:39 AM
+washi0106: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 26 :
+8:42:16 AM
+hyararu: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 27 :
+8:43:06 AM
+Onigo: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 28 :
+8:43:26 AM
+washi0106: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 29 :
+8:44:02 AM
+hyararu: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 30 :
+8:45:03 AM
+Onigo: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 31 :
+8:46:47 AM
+washi0106: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 32 :
+8:47:31 AM
+hyararu: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 33 :
+8:47:37 AM
+Onigo: Added a Small Ring at Station [0,-1]
+Move 34 :
+8:48:01 AM
+washi0106: Added a Small Ring at Station [1,1]
+Move 35 :
+8:48:20 AM
+hyararu: Added a White Bridge at Station [0,0] => [1,-1] Position:Left
+Move 36 :
+8:48:53 AM
+Onigo: Added a Large Ring at Station [0,-1]
+Move 37 :
+8:49:25 AM
+washi0106: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 38 :
+8:50:33 AM
+hyararu: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 39 :
+8:51:37 AM
+Onigo: Moved a Base Post at Station [0,-1]
+Onigo has to remove 3 orphaned rings
+Move 40 :
+8:51:49 AM
+washi0106: Added a Small Ring at Station [1,0]
+Move 41 :
+8:52:53 AM
+hyararu: Added a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 42 :
+8:53:02 AM
+Onigo: Moved a Base Post at Station [-1,0]
+Move 43 :
+8:53:27 AM
+washi0106: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Left
+Move 44 :
+8:53:52 AM
+hyararu: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 45 :
+8:54:00 AM
+Onigo: Added a Small Ring at Station [-1,1]
+Move 46 :
+8:54:55 AM
+washi0106: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 47 :
+8:55:26 AM
+hyararu: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 48 :
+8:55:31 AM
+Onigo: Added a Small Ring at Station [-2,1]
+Move 49 :
+8:55:39 AM
+washi0106: Added a Small Ring at Station [1,-1]
+Move 50 :
+8:57:35 AM
+hyararu: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+washi0106 has to remove 1 orphaned rings
+Move 51 :
+8:58:49 AM
+Onigo: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+washi0106 has to remove 1 orphaned rings
+Move 52 :
+9:00:05 AM
+washi0106: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Right
+Move 53 :
+9:00:42 AM
+hyararu: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 54 :
+9:01:16 AM
+Onigo: Reversed a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+Move 55 :
+9:02:26 AM
+washi0106: Reversed a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 56 :
+9:02:33 AM
+hyararu: Added a Small Ring at Station [1,-2]
+Move 57 :
+9:03:34 AM
+Onigo: Added a Medium Ring at Station [0,-1]
+Move 58 :
+9:03:44 AM
+washi0106: Added a Small Ring at Station [1,1]
+Move 59 :
+9:03:59 AM
+hyararu: Added a Medium Ring at Station [1,-2]
+Move 60 :
+9:04:06 AM
+Onigo: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 61 :
+9:04:47 AM
+washi0106: Moved a Blocker at Station [0,0] => [-1,0] Position:Right
+Move 62 :
+9:04:53 AM
+hyararu: Moved a Base Post at Station [1,-2]
+Move 63 :
+9:05:07 AM
+Onigo: Added a Small Ring at Station [0,1]
+Move 64 :
+9:06:37 AM
+washi0106: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 65 :
+9:06:58 AM
+hyararu: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Onigo has to remove 3 orphaned rings
+Move 66 :
+9:07:28 AM
+Onigo: Moved a Base Post at Station [-1,1]
+Onigo has to remove 1 orphaned rings
+Move 67 :
+9:07:41 AM
+washi0106: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 68 :
+9:07:48 AM
+hyararu: Added a Small Ring at Station [0,-1]
+Move 69 :
+9:08:01 AM
+Onigo: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 70 :
+9:08:14 AM
+washi0106: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 71 :
+9:08:20 AM
+hyararu: Added a Small Ring at Station [-1,0]
+Move 72 :
+9:08:27 AM
+Onigo: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+hyararu has to remove 2 orphaned rings
+Move 73 :
+9:09:04 AM
+washi0106: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 74 :
+9:09:22 AM
+hyararu: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 75 :
+9:10:09 AM
+Onigo: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 76 :
+9:10:27 AM
+washi0106: Added a Medium Ring at Station [1,-1]
+Move 77 :
+9:11:13 AM
+hyararu: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 78 :
+9:11:18 AM
+Onigo: Added a Medium Ring at Station [-1,0]
+Move 79 :
+9:11:26 AM
+washi0106: Added a Large Ring at Station [1,-2]
+Move 80 :
+9:11:46 AM
+hyararu: Added a Small Ring at Station [0,-1]
+Move 81 :
+9:11:50 AM
+Onigo: Added a Medium Ring at Station [1,1]
+Move 82 :
+9:11:58 AM
+washi0106: Added a Medium Ring at Station [0,-1]
+Move 83 :
+9:13:01 AM
+hyararu: Reversed a White Bridge at Station [0,1] => [1,1] Position:Left
+Onigo has to remove 1 orphaned rings
+washi0106 has to remove 4 orphaned rings
+Move 84 :
+9:14:18 AM
+Onigo: Added a Medium Ring at Station [1,0]
+Move 85 :
+9:14:40 AM
+washi0106: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 86 :
+9:14:51 AM
+hyararu: Added a Small Ring at Station [-1,0]
+Move 87 :
+9:15:06 AM
+Onigo: Added a Small Ring at Station [-2,1]
+Move 88 :
+9:15:23 AM
+washi0106: Moved a Base Post at Station [1,-1]
+Move 89 :
+9:15:56 AM
+hyararu: Reversed a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 90 :
+9:16:05 AM
+Onigo: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+hyararu has to remove 2 orphaned rings
+Move 91 :
+9:16:20 AM
+washi0106: Added a Large Ring at Station [1,-2]
+Move 92 :
+9:16:37 AM
+hyararu: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Onigo has to remove 2 orphaned rings
+Move 93 :
+9:16:56 AM
+Onigo: Moved a Blocker at Station [1,-2] => [0,-1] Position:Right
+Move 94 :
+9:18:31 AM
+washi0106: Added a Small Ring at Station [0,-1]
+Move 95 :
+9:18:47 AM
+hyararu: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 96 :
+9:19:41 AM
+Onigo: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 97 :
+9:19:50 AM
+washi0106: Added a Large Ring at Station [-1,0]
+Move 98 :
+9:20:04 AM
+hyararu: Added a Large Ring at Station [0,-1]
+Move 99 :
+9:20:24 AM
+Onigo: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 100 :
+9:20:30 AM
+washi0106: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 101 :
+9:20:40 AM
+hyararu: Added a Small Ring at Station [-1,0]
+Move 102 :
+9:20:55 AM
+Onigo: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+hyararu has to remove 1 orphaned rings
+Move 103 :
+9:21:14 AM
+washi0106: Added a Medium Ring at Station [-2,1]
+Move 104 :
+9:21:51 AM
+hyararu: Reversed a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+washi0106 has to remove 3 orphaned rings
+Move 105 :
+9:21:56 AM
+Onigo: Added a Medium Ring at Station [0,-1]
+Move 106 :
+9:23:08 AM
+washi0106: Reversed a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 107 :
+9:23:20 AM
+hyararu: Added a Large Ring at Station [1,-1]
+Move 108 :
+9:23:56 AM
+Onigo: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 109 :
+9:24:24 AM
+washi0106: Added a Medium Ring at Station [1,1]
+Move 110 :
+9:24:30 AM
+hyararu: Added a Medium Ring at Station [1,0]
+Move 111 :
+9:24:35 AM
+Onigo: Added a Small Ring at Station [0,1]
+Move 112 :
+9:25:01 AM
+washi0106: Added a Medium Ring at Station [0,1]
+Move 113 :
+9:25:11 AM
+hyararu: Added a Small Ring at Station [1,1]
+Move 114 :
+9:25:53 AM
+Onigo: Added a Large Ring at Station [1,0]
+Move 115 :
+9:26:04 AM
+washi0106: Added a Large Ring at Station [-1,1]
+Move 116 :
+9:26:10 AM
+hyararu: Added a Large Ring at Station [1,1]
+Move 117 :
+9:26:17 AM
+Onigo: Added a Large Ring at Station [0,1]
+Move 118 :
+9:26:25 AM
+washi0106: Added a Medium Ring at Station [-1,1]
+Move 119 :
+9:26:55 AM
+hyararu: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Onigo has to remove 1 orphaned rings
+Move 120 :
+9:27:05 AM
+Onigo: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 121 :
+9:27:21 AM
+washi0106: Added a Large Ring at Station [-1,0]
+Move 122 :
+9:27:32 AM
+hyararu: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Onigo has to remove 3 orphaned rings
+Move 123 :
+9:27:38 AM
+Onigo: Reversed a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+hyararu has to remove 4 orphaned rings
+Move 124 :
+9:28:45 AM
+washi0106: Reversed a Black Bridge at Station [1,-2] => [0,-1] Position:Left
+Move 125 :
+9:29:07 AM
+hyararu: Reversed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 126 :
+9:29:12 AM
+Onigo: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+washi0106 has to remove 5 orphaned rings
+Move 127 :
+9:29:29 AM
+washi0106: Added a Large Ring at Station [1,-2]
+Move 128 :
+9:29:45 AM
+hyararu: Reversed a White Bridge at Station [1,-1] => [1,-2] Position:Middle
+washi0106 has to remove 1 orphaned rings
+Move 129 :
+9:29:51 AM
+Onigo: Added a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 130 :
+9:30:05 AM
+washi0106: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 131 :
+9:30:14 AM
+hyararu: Added a Small Ring at Station [-1,0]
+Move 132 :
+9:30:31 AM
+Onigo: Reversed a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+hyararu has to remove 2 orphaned rings
+Move 133 :
+9:30:43 AM
+washi0106: Added a Medium Ring at Station [-2,1]
+Move 134 :
+9:31:09 AM
+hyararu: Added a Small Ring at Station [1,-1]
+Move 135 :
+9:31:22 AM
+Onigo: Added a Small Ring at Station [-1,0]
+Move 136 :
+9:31:28 AM
+washi0106: Added a Medium Ring at Station [-1,1]
+Move 137 :
+9:31:45 AM
+hyararu: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 138 :
+9:31:50 AM
+Onigo: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 139 :
+9:32:07 AM
+washi0106: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 140 :
+9:32:15 AM
+hyararu: Added a Large Ring at Station [1,0]
+Move 141 :
+9:33:03 AM
+Onigo: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Left
+washi0106 has to remove 4 orphaned rings
+Move 142 :
+9:33:18 AM
+washi0106: Added a Medium Ring at Station [1,0]
+Move 143 :
+9:33:29 AM
+hyararu: Added a Large Ring at Station [1,1]
+Move 144 :
+9:33:38 AM
+Onigo: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 145 :
+9:33:46 AM
+washi0106: Added a Medium Ring at Station [1,1]
+Move 146 :
+9:33:58 AM
+hyararu: Added a Large Ring at Station [0,1]
+Move 147 :
+9:34:17 AM
+Onigo: Added a Small Ring at Station [0,1]
+Move 148 :
+9:34:23 AM
+washi0106: Reversed a White Bridge at Station [1,-2] => [1,-1] Position:Middle
+hyararu has to remove 4 orphaned rings
+Move 149 :
+9:35:03 AM
+hyararu: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+washi0106 has to remove 2 orphaned rings
+Move 150 :
+9:35:10 AM
+Onigo: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 151 :
+9:35:42 AM
+washi0106: Reversed a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 152 :
+9:35:51 AM
+hyararu: Reversed a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 153 :
+9:36:16 AM
+Onigo: Added a Medium Ring at Station [-2,1]
+Move 154 :
+9:36:22 AM
+washi0106: Added a Large Ring at Station [1,-2]
+Move 155 :
+9:36:30 AM
+hyararu: Added a Large Ring at Station [0,-1]
+Move 156 :
+9:37:07 AM
+Onigo: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+Move 157 :
+9:37:18 AM
+washi0106: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 158 :
+9:37:43 AM
+hyararu: Moved a Base Post at Station [0,-1]
+hyararu has to remove 2 orphaned rings
+Move 159 :
+9:37:54 AM
+Onigo: Added a Large Ring at Station [-1,0]
+Move 160 :
+9:38:04 AM
+washi0106: Added a Large Ring at Station [1,0]
+Move 161 :
+9:38:46 AM
+hyararu: Added a Small Ring at Station [1,-1]
+Move 162 :
+9:39:07 AM
+Onigo: Added a Small Ring at Station [1,0]
+Move 163 :
+9:39:17 AM
+washi0106: Added a Medium Ring at Station [0,-1]
+Move 164 :
+9:39:27 AM
+hyararu: Added a Medium Ring at Station [1,-2]
+Move 165 :
+9:39:31 AM
+Onigo: Added a Medium Ring at Station [1,0]
+Move 166 :
+9:39:48 AM
+washi0106: Added a Small Ring at Station [1,1]
+Move 167 :
+9:40:19 AM
+hyararu: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 168 :
+9:41:37 AM
+Onigo: Removed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Onigo has to remove 2 orphaned rings
+Move 169 :
+9:42:01 AM
+washi0106: Added a Medium Ring at Station [0,1]
+Move 170 :
+9:42:44 AM
+hyararu: Added a Medium Ring at Station [1,0]
+Move 171 :
+9:42:54 AM
+Onigo: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 172 :
+9:43:00 AM
+washi0106: Added a Small Ring at Station [1,-2]
+Move 173 :
+9:43:08 AM
+hyararu: Added a Medium Ring at Station [1,1]
+Move 174 :
+9:43:20 AM
+Onigo: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 175 :
+9:43:35 AM
+washi0106: Added a Medium Ring at Station [-1,1]
+Move 176 :
+9:43:41 AM
+hyararu: Added a Large Ring at Station [0,1]
+Move 177 :
+9:43:49 AM
+Onigo: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 178 :
+9:43:57 AM
+washi0106: Reversed a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 179 :
+9:44:09 AM
+hyararu: Added a Large Ring at Station [-1,1]
+Move 180 :
+9:44:20 AM
+Onigo: Reversed a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 181 :
+9:44:31 AM
+washi0106: Added a Large Ring at Station [-2,1]
+Move 182 :
+9:44:39 AM
+hyararu: Added a Medium Ring at Station [1,-1]
+Move 183 :
+9:44:59 AM
+Onigo: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+hyararu has to remove 1 orphaned rings
+washi0106 has to remove 2 orphaned rings
+Move 184 :
+9:45:47 AM
+washi0106: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 185 :
+9:46:06 AM
+hyararu: Removed a Blocker at Station [1,-2] => [0,-1] Position:Right
+Move 186 :
+9:46:31 AM
+Onigo: Added a Small Ring at Station [1,0]
+Move 187 :
+9:46:46 AM
+washi0106: Added a Large Ring at Station [1,1]
+Move 188 :
+9:46:51 AM
+hyararu: Added a Large Ring at Station [1,-1]
+Move 189 :
+9:46:59 AM
+Onigo: Added a Large Ring at Station [-2,1]
+Move 190 :
+9:47:16 AM
+washi0106: Moved a Base Post at Station [0,1]
+washi0106 has to remove 3 orphaned rings
+Move 191 :
+9:47:44 AM
+hyararu: Added a Large Ring at Station [1,-2]
+Move 192 :
+9:48:18 AM
+Onigo: Removed a Blocker at Station [0,-1] => [-1,0] Position:Left
+Move 193 :
+9:48:53 AM
+washi0106: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Onigo has to remove 1 orphaned rings
+Move 194 :
+9:49:36 AM
+hyararu: Added a Small Ring at Station [1,0]
+Move 195 :
+9:49:53 AM
+Onigo: Removed a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 196 :
+9:50:02 AM
+washi0106: Removed a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 197 :
+9:51:19 AM
+hyararu: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Onigo has to remove 1 orphaned rings
+Move 198 :
+9:51:38 AM
+Onigo: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 199 :
+9:52:15 AM
+washi0106: Moved a Base Post at Station [1,-1]
+Move 200 :
+9:52:32 AM
+hyararu: Added a Medium Ring at Station [-1,1]
+Move 201 :
+9:52:55 AM
+Onigo: Moved a Base Post at Station [0,1]
+Move 202 :
+9:53:48 AM
+washi0106: Added a Large Ring at Station [-1,1]
+Move 203 :
+9:55:29 AM
+hyararu: Reversed a Black Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 204 :
+9:55:35 AM
+Onigo: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 205 :
+9:55:43 AM
+washi0106: Removed a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 206 :
+9:56:07 AM
+hyararu: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+The end of the game: hyararu wins!

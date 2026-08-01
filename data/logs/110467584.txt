@@ -1,0 +1,437 @@
+Move 2 :
+9/4/2020 6:39:59 AM
+Vasopressingo: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 3 :
+6:40:39 AM
+harry_fo3of_: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 4 :
+6:41:19 AM
+Delta X-ray: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 5 :
+6:42:03 AM
+Vasopressingo: Moved a Blocker at Station [0,0] => [1,0] Position:Left
+Move 6 :
+6:44:00 AM
+harry_fo3of_: Added a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 7 :
+6:44:35 AM
+Delta X-ray: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 8 :
+6:44:56 AM
+Vasopressingo: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 9 :
+6:46:07 AM
+harry_fo3of_: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+Move 10 :
+6:46:27 AM
+Delta X-ray: Added a Black Bridge at Station [1,-1] => [0,0] Position:Right
+Move 11 :
+6:47:55 AM
+Vasopressingo: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 12 :
+6:48:08 AM
+harry_fo3of_: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 13 :
+6:49:39 AM
+Delta X-ray: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 14 :
+6:49:55 AM
+Vasopressingo: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 15 :
+6:50:37 AM
+harry_fo3of_: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 16 :
+6:51:20 AM
+Delta X-ray: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 17 :
+6:53:45 AM
+Vasopressingo: Added a White Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 18 :
+6:53:55 AM
+harry_fo3of_: Added a Small Ring at Station [0,-1]
+Move 19 :
+6:55:50 AM
+Delta X-ray: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 20 :
+6:58:32 AM
+Vasopressingo: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 21 :
+6:59:06 AM
+harry_fo3of_: Added a Large Ring at Station [0,-1]
+Move 22 :
+7:03:51 AM
+Delta X-ray: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 23 :
+7:04:56 AM
+Vasopressingo: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 24 :
+7:05:35 AM
+harry_fo3of_: Added a Medium Ring at Station [0,-1]
+Move 25 :
+7:06:56 AM
+Delta X-ray: Moved a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 26 :
+7:09:43 AM
+Vasopressingo: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 27 :
+7:10:32 AM
+harry_fo3of_: Added a Medium Ring at Station [1,-1]
+Move 28 :
+7:11:59 AM
+Delta X-ray: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 29 :
+7:13:55 AM
+Vasopressingo: Moved a Blocker at Station [-1,0] => [-1,1] Position:Right
+Move 30 :
+7:14:05 AM
+harry_fo3of_: Added a Large Ring at Station [1,-1]
+Move 31 :
+7:15:35 AM
+Delta X-ray: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 32 :
+7:15:51 AM
+Vasopressingo: Added a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 33 :
+7:16:00 AM
+harry_fo3of_: Added a Small Ring at Station [1,-1]
+Move 34 :
+7:16:41 AM
+Delta X-ray: Added a White Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 35 :
+7:16:49 AM
+Vasopressingo: Added a Small Ring at Station [1,-2]
+Move 36 :
+7:18:03 AM
+harry_fo3of_: Added a Medium Ring at Station [1,-2]
+Move 37 :
+7:19:13 AM
+Delta X-ray: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 38 :
+7:20:12 AM
+Vasopressingo: Added a Large Ring at Station [1,-2]
+Move 39 :
+7:22:06 AM
+harry_fo3of_: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 40 :
+7:22:14 AM
+Delta X-ray: Added a Large Ring at Station [1,1]
+Move 41 :
+7:22:26 AM
+Vasopressingo: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 42 :
+7:22:36 AM
+harry_fo3of_: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Left
+Move 43 :
+7:22:44 AM
+Delta X-ray: Added a Medium Ring at Station [1,1]
+Move 44 :
+7:24:30 AM
+Vasopressingo: Reversed a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 45 :
+7:25:30 AM
+harry_fo3of_: Reversed a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 46 :
+7:25:48 AM
+Delta X-ray: Added a Large Ring at Station [1,0]
+Move 47 :
+7:25:56 AM
+Vasopressingo: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 48 :
+7:26:13 AM
+harry_fo3of_: Added a Medium Ring at Station [-2,1]
+Move 49 :
+7:26:34 AM
+Delta X-ray: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 50 :
+7:26:41 AM
+Vasopressingo: Added a Medium Ring at Station [1,0]
+Move 51 :
+7:26:47 AM
+harry_fo3of_: Added a Large Ring at Station [-2,1]
+Move 52 :
+7:26:59 AM
+Delta X-ray: Added a Small Ring at Station [1,0]
+Move 53 :
+7:27:10 AM
+Vasopressingo: Added a Medium Ring at Station [0,1]
+Move 54 :
+7:27:18 AM
+harry_fo3of_: Added a Large Ring at Station [-1,1]
+Move 55 :
+7:27:26 AM
+Delta X-ray: Added a Small Ring at Station [1,1]
+Move 56 :
+7:27:42 AM
+Vasopressingo: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 57 :
+7:27:50 AM
+harry_fo3of_: Added a Medium Ring at Station [-1,1]
+Move 58 :
+7:28:03 AM
+Delta X-ray: Added a Small Ring at Station [-1,1]
+Move 59 :
+7:28:52 AM
+Vasopressingo: Added a Small Ring at Station [0,1]
+Move 60 :
+7:29:14 AM
+harry_fo3of_: Added a Small Ring at Station [-2,1]
+Move 61 :
+7:29:22 AM
+Delta X-ray: Moved a Base Post at Station [1,1]
+Delta X-ray has to remove 1 orphaned rings
+Move 62 :
+7:29:38 AM
+Vasopressingo: Added a Small Ring at Station [-1,1]
+Move 63 :
+7:30:37 AM
+harry_fo3of_: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Vasopressingo has to remove 1 orphaned rings
+Move 64 :
+7:30:53 AM
+Delta X-ray: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 65 :
+7:31:12 AM
+Vasopressingo: Reversed a Black Bridge at Station [-1,0] => [-2,1] Position:Right
+harry_fo3of_ has to remove 5 orphaned rings
+Move 66 :
+7:32:27 AM
+harry_fo3of_: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 67 :
+7:32:41 AM
+Delta X-ray: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Right
+harry_fo3of_ has to remove 7 orphaned rings
+Move 68 :
+7:33:10 AM
+Vasopressingo: Added a Large Ring at Station [0,-1]
+Move 69 :
+7:33:33 AM
+harry_fo3of_: Reversed a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Delta X-ray has to remove 2 orphaned rings
+Move 70 :
+7:34:05 AM
+Delta X-ray: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 71 :
+7:34:32 AM
+Vasopressingo: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 72 :
+7:34:39 AM
+harry_fo3of_: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Vasopressingo has to remove 2 orphaned rings
+Move 73 :
+7:34:52 AM
+Delta X-ray: Reversed a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 74 :
+7:35:19 AM
+Vasopressingo: Reversed a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 75 :
+7:35:26 AM
+harry_fo3of_: Reversed a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Vasopressingo has to remove 3 orphaned rings
+Move 76 :
+7:35:42 AM
+Delta X-ray: Added a Small Ring at Station [0,1]
+Move 77 :
+7:35:55 AM
+Vasopressingo: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Right
+Delta X-ray has to remove 1 orphaned rings
+Move 78 :
+7:37:05 AM
+harry_fo3of_: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 79 :
+7:37:28 AM
+Delta X-ray: Added a Small Ring at Station [1,0]
+Move 80 :
+7:37:36 AM
+Vasopressingo: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 81 :
+7:37:43 AM
+harry_fo3of_: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 82 :
+7:37:50 AM
+Delta X-ray: Added a Large Ring at Station [1,0]
+Move 83 :
+7:38:01 AM
+Vasopressingo: Added a Large Ring at Station [0,1]
+Move 84 :
+7:38:11 AM
+harry_fo3of_: Added a Large Ring at Station [-2,1]
+Move 85 :
+7:38:27 AM
+Delta X-ray: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Vasopressingo has to remove 2 orphaned rings
+Move 86 :
+7:38:45 AM
+Vasopressingo: Removed a White Bridge at Station [1,-2] => [1,-1] Position:Left
+Move 87 :
+7:39:04 AM
+harry_fo3of_: Added a Large Ring at Station [-1,1]
+Move 88 :
+7:39:14 AM
+Delta X-ray: Added a Medium Ring at Station [1,-1]
+Move 89 :
+7:39:27 AM
+Vasopressingo: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Left
+Move 90 :
+7:39:39 AM
+harry_fo3of_: Added a Large Ring at Station [0,1]
+Move 91 :
+7:40:55 AM
+Delta X-ray: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 92 :
+7:41:35 AM
+Vasopressingo: Added a Large Ring at Station [1,-2]
+Move 93 :
+7:41:53 AM
+harry_fo3of_: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 94 :
+7:42:46 AM
+Delta X-ray: Added a Medium Ring at Station [1,-2]
+Move 95 :
+7:42:52 AM
+Vasopressingo: Added a Large Ring at Station [0,-1]
+Move 96 :
+7:43:03 AM
+harry_fo3of_: Added a Medium Ring at Station [0,-1]
+Move 97 :
+7:43:21 AM
+Delta X-ray: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 98 :
+7:43:28 AM
+Vasopressingo: Added a Large Ring at Station [-1,0]
+Move 99 :
+7:43:41 AM
+harry_fo3of_: Added a Small Ring at Station [1,-2]
+Move 100 :
+7:43:52 AM
+Delta X-ray: Added a Large Ring at Station [1,-1]
+Move 101 :
+7:44:21 AM
+Vasopressingo: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 102 :
+7:44:30 AM
+harry_fo3of_: Added a Small Ring at Station [1,-1]
+Move 103 :
+7:44:40 AM
+Delta X-ray: Moved a Base Post at Station [1,-2]
+Move 104 :
+7:44:55 AM
+Vasopressingo: Added a Medium Ring at Station [-2,1]
+Move 105 :
+7:45:01 AM
+harry_fo3of_: Added a Small Ring at Station [0,-1]
+Move 106 :
+7:45:41 AM
+Delta X-ray: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 107 :
+7:45:52 AM
+Vasopressingo: Added a Small Ring at Station [-2,1]
+Move 108 :
+7:46:09 AM
+harry_fo3of_: Added a Medium Ring at Station [1,0]
+Move 109 :
+7:46:16 AM
+Delta X-ray: Added a Medium Ring at Station [0,1]
+Move 110 :
+7:46:24 AM
+Vasopressingo: Added a Medium Ring at Station [-1,0]
+Move 111 :
+7:46:32 AM
+harry_fo3of_: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Delta X-ray has to remove 1 orphaned rings
+Move 112 :
+7:46:51 AM
+Delta X-ray: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 113 :
+7:47:00 AM
+Vasopressingo: Added a Small Ring at Station [-1,0]
+Move 114 :
+7:47:13 AM
+harry_fo3of_: Added a Medium Ring at Station [-1,1]
+Move 115 :
+7:47:30 AM
+Delta X-ray: Reversed a White Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 116 :
+7:48:01 AM
+Vasopressingo: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 117 :
+7:48:14 AM
+harry_fo3of_: Added a Small Ring at Station [-1,1]
+Move 118 :
+7:49:39 AM
+Delta X-ray: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 119 :
+7:50:58 AM
+Vasopressingo: Removed a Blocker at Station [-1,0] => [0,0] Position:Left
+Move 120 :
+7:51:16 AM
+harry_fo3of_: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 121 :
+7:52:37 AM
+Delta X-ray: Reversed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 122 :
+7:52:49 AM
+Vasopressingo: Moved a Base Post at Station [-2,1]
+Move 123 :
+7:53:01 AM
+harry_fo3of_: Added a Medium Ring at Station [0,1]
+Move 124 :
+7:53:08 AM
+Delta X-ray: Added a Small Ring at Station [0,1]
+Move 125 :
+7:54:02 AM
+Vasopressingo: Added a White Bridge at Station [0,0] => [-1,0] Position:Right
+Move 126 :
+7:54:51 AM
+harry_fo3of_: Added a White Bridge at Station [-1,1] => [0,0] Position:Left
+Move 127 :
+7:55:07 AM
+Delta X-ray: Moved a Base Post at Station [-1,1]
+Move 128 :
+7:55:20 AM
+Vasopressingo: Added a White Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 129 :
+7:56:28 AM
+harry_fo3of_: Removed a Black Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 130 :
+7:57:38 AM
+Delta X-ray: Reversed a White Bridge at Station [-1,1] => [0,0] Position:Left
+Move 131 :
+7:57:54 AM
+Vasopressingo: Reversed a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 132 :
+7:58:04 AM
+harry_fo3of_: Removed a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 133 :
+7:58:17 AM
+Delta X-ray: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 134 :
+7:59:12 AM
+Vasopressingo: Removed a Blocker at Station [0,-1] => [-1,0] Position:Middle
+Move 135 :
+7:59:29 AM
+harry_fo3of_: Moved a Blocker at Station [1,-2] => [0,-1] Position:Middle
+Move 136 :
+7:59:48 AM
+Delta X-ray: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Vasopressingo has to remove 2 orphaned rings
+harry_fo3of_ has to remove 5 orphaned rings
+Move 137 :
+8:00:18 AM
+Vasopressingo: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 138 :
+8:00:25 AM
+harry_fo3of_: Removed a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Vasopressingo has to remove 3 orphaned rings
+Move 139 :
+8:00:43 AM
+Delta X-ray: Reversed a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 140 :
+8:00:56 AM
+Vasopressingo: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 141 :
+8:01:06 AM
+harry_fo3of_: Added a Large Ring at Station [0,-1]
+Move 142 :
+8:01:12 AM
+Delta X-ray: Added a Medium Ring at Station [1,0]
+The end of the game: Delta X-ray wins!

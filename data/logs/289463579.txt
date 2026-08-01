@@ -1,0 +1,84 @@
+Game log
+Move 1 :8/6/2022 11:04:10 AM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :11:06:10 AM
+AkStr: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 4 :11:06:26 AM
+saymaysan: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 5 :11:06:34 AM
+AkStr: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :11:06:53 AM
+saymaysan: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 7 :11:08:15 AM
+AkStr: Added a Small Ring at Station [0,1]
+Move 8 :11:09:05 AM
+saymaysan: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 9 :11:09:12 AM
+AkStr: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 10 :11:09:24 AM
+saymaysan: Added a Large Ring at Station [1,0]
+Move 11 :11:09:32 AM
+AkStr: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 12 :11:09:42 AM
+saymaysan: Added a Large Ring at Station [1,1]
+Move 13 :11:09:48 AM
+AkStr: Added a Medium Ring at Station [1,0]
+Move 14 :11:09:55 AM
+saymaysan: Added a Large Ring at Station [0,1]
+Move 15 :11:10:00 AM
+AkStr: Added a Medium Ring at Station [1,1]
+Move 16 :11:10:37 AM
+saymaysan: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 17 :11:10:49 AM
+AkStr: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 18 :11:11:01 AM
+saymaysan: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+AkStr has to remove 3 orphaned rings
+Move 19 :11:11:15 AM
+AkStr: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+saymaysan has to remove 3 orphaned rings
+Move 20 :11:11:50 AM
+saymaysan: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 21 :11:11:56 AM
+AkStr: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 22 :11:12:17 AM
+saymaysan: Added a Large Ring at Station [1,0]
+Move 23 :11:12:27 AM
+AkStr: Added a Large Ring at Station [0,1]
+Move 24 :11:13:00 AM
+saymaysan: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 25 :11:13:10 AM
+AkStr: Added a Medium Ring at Station [1,0]
+Move 26 :11:13:38 AM
+saymaysan: Added a Medium Ring at Station [0,1]
+Move 27 :11:14:08 AM
+AkStr: Added a Small Ring at Station [1,0]
+Move 28 :11:14:37 AM
+saymaysan: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 29 :11:15:06 AM
+AkStr: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 30 :11:15:14 AM
+saymaysan: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 31 :11:15:20 AM
+AkStr: Added a Large Ring at Station [1,1]
+Move 32 :11:15:52 AM
+saymaysan: Added a Large Ring at Station [0,-1]
+Move 33 :11:16:14 AM
+AkStr: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 34 :11:16:31 AM
+saymaysan: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 35 :11:16:39 AM
+AkStr: Added a Medium Ring at Station [1,1]
+Move 36 :11:17:22 AM
+saymaysan: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 37 :11:17:27 AM
+AkStr: Added a Small Ring at Station [0,1]
+Move 38 :11:18:32 AM
+saymaysan: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 39 :11:19:09 AM
+AkStr: Added a Medium Ring at Station [1,-1]
+Move 40 :11:19:18 AM
+saymaysan: Added a Medium Ring at Station [0,-1]
+Move 41 :11:19:24 AM
+AkStr: Added a Small Ring at Station [0,-1]
+The end of the game: AkStr wins!

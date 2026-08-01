@@ -1,0 +1,155 @@
+Move 1 :
+6/2/2020 1:34:37 AM
+The colors of Pat have been chosen according to their preferences. Change my preferences.
+Move 2 :
+1:36:30 AM
+Pat: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+1:38:48 AM
+GinoLoSpazzino: Moved a Blocker at Station [0,0] => [1,0] Position:Right
+Move 4 :
+1:39:02 AM
+Pat: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :
+1:39:20 AM
+GinoLoSpazzino: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 6 :
+1:39:33 AM
+Pat: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+1:39:58 AM
+GinoLoSpazzino: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 8 :
+1:40:07 AM
+Pat: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 9 :
+1:40:23 AM
+GinoLoSpazzino: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 10 :
+1:40:59 AM
+Pat: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 11 :
+1:41:13 AM
+GinoLoSpazzino: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 12 :
+1:41:34 AM
+Pat: Added a Black Bridge at Station [0,0] => [0,1] Position:Left
+Move 13 :
+1:41:43 AM
+GinoLoSpazzino: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 14 :
+1:43:22 AM
+Pat: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 15 :
+1:43:35 AM
+GinoLoSpazzino: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 16 :
+1:43:41 AM
+Pat: Added a Medium Ring at Station [-1,0]
+Move 17 :
+1:43:58 AM
+GinoLoSpazzino: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 18 :
+1:44:38 AM
+Pat: Added a Small Ring at Station [-1,0]
+Move 19 :
+1:44:46 AM
+GinoLoSpazzino: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 20 :
+1:45:21 AM
+Pat: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 21 :
+1:45:29 AM
+GinoLoSpazzino: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 22 :
+1:45:43 AM
+Pat: Added a Large Ring at Station [-1,0]
+Move 23 :
+1:45:52 AM
+GinoLoSpazzino: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 24 :
+1:46:57 AM
+Pat: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 25 :
+1:47:04 AM
+GinoLoSpazzino: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 26 :
+1:47:33 AM
+Pat: Moved a Base Post at Station [-1,0]
+Move 27 :
+1:47:41 AM
+GinoLoSpazzino: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 28 :
+1:49:08 AM
+Pat: Added a Medium Ring at Station [0,-1]
+Move 29 :
+1:49:39 AM
+GinoLoSpazzino: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 30 :
+1:49:46 AM
+Pat: Added a Medium Ring at Station [-1,1]
+Move 31 :
+1:49:56 AM
+GinoLoSpazzino: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 32 :
+1:50:03 AM
+Pat: Added a Large Ring at Station [-1,1]
+Move 33 :
+1:50:11 AM
+GinoLoSpazzino: Added a Medium Ring at Station [1,0]
+Move 34 :
+1:50:27 AM
+Pat: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 35 :
+1:50:32 AM
+GinoLoSpazzino: Added a Large Ring at Station [1,0]
+Move 36 :
+1:50:44 AM
+Pat: Added a Large Ring at Station [0,1]
+Move 37 :
+1:50:52 AM
+GinoLoSpazzino: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Pat has to remove 1 orphaned rings
+Move 38 :
+1:51:19 AM
+Pat: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 39 :
+1:51:39 AM
+GinoLoSpazzino: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 40 :
+1:51:46 AM
+Pat: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 41 :
+1:51:58 AM
+GinoLoSpazzino: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 42 :
+1:52:14 AM
+Pat: Added a Large Ring at Station [0,1]
+Move 43 :
+1:52:36 AM
+GinoLoSpazzino: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 44 :
+1:52:41 AM
+Pat: Added a Large Ring at Station [-1,-1]
+Move 45 :
+1:53:53 AM
+GinoLoSpazzino: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 46 :
+1:53:57 AM
+Pat: Added a Large Ring at Station [1,1]
+Move 47 :
+1:54:06 AM
+GinoLoSpazzino: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 48 :
+1:54:10 AM
+Pat: Added a Medium Ring at Station [0,1]
+Move 49 :
+1:54:39 AM
+GinoLoSpazzino: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 50 :
+1:54:44 AM
+Pat: Added a Small Ring at Station [1,0]
+Move 51 :
+1:54:55 AM
+GinoLoSpazzino: Reversed a White Bridge at Station [0,0] => [1,0] Position:Middle
+The end of the game: Pat wins!

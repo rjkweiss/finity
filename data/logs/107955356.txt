@@ -1,0 +1,172 @@
+Move 1 :
+8/20/2020 2:36:05 PM
+Rematch with the exact same players detected: player order has been swapped.
+Move 2 :
+2:36:33 PM
+aamarks2002: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+2:36:59 PM
+Piratey Pete: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+2:37:12 PM
+aamarks2002: Added a Large Ring at Station [-1,0]
+Move 5 :
+2:37:19 PM
+Piratey Pete: Added a Large Ring at Station [1,0]
+Move 6 :
+2:37:46 PM
+aamarks2002: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 7 :
+2:37:55 PM
+Piratey Pete: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 8 :
+2:38:01 PM
+aamarks2002: Added a Large Ring at Station [0,-1]
+Move 9 :
+2:38:11 PM
+Piratey Pete: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 10 :
+2:38:35 PM
+aamarks2002: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 11 :
+2:38:48 PM
+Piratey Pete: Added a Large Ring at Station [1,1]
+Move 12 :
+2:38:53 PM
+aamarks2002: Added a Large Ring at Station [1,-1]
+Move 13 :
+2:39:01 PM
+Piratey Pete: Added a Medium Ring at Station [1,0]
+Move 14 :
+2:39:19 PM
+aamarks2002: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 15 :
+2:39:40 PM
+Piratey Pete: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 16 :
+2:39:53 PM
+aamarks2002: Added a Small Ring at Station [1,0]
+Move 17 :
+2:40:00 PM
+Piratey Pete: Added a Medium Ring at Station [1,1]
+Move 18 :
+2:40:06 PM
+aamarks2002: Added a Small Ring at Station [1,1]
+Move 19 :
+2:40:28 PM
+Piratey Pete: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 20 :
+2:40:39 PM
+aamarks2002: Added a Large Ring at Station [0,1]
+Move 21 :
+2:40:44 PM
+Piratey Pete: Added a Medium Ring at Station [0,1]
+Move 22 :
+2:41:52 PM
+aamarks2002: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Piratey Pete has to remove 5 orphaned rings
+Move 23 :
+2:42:32 PM
+Piratey Pete: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+aamarks2002 has to remove 4 orphaned rings
+Move 24 :
+2:43:32 PM
+aamarks2002: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 25 :
+2:43:46 PM
+Piratey Pete: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 26 :
+2:44:00 PM
+aamarks2002: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 27 :
+2:44:11 PM
+Piratey Pete: Added a Large Ring at Station [1,0]
+Move 28 :
+2:44:42 PM
+aamarks2002: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 29 :
+2:44:58 PM
+Piratey Pete: Added a Medium Ring at Station [1,0]
+Move 30 :
+2:45:19 PM
+aamarks2002: Added a Small Ring at Station [1,-1]
+Move 31 :
+2:45:27 PM
+Piratey Pete: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+aamarks2002 has to remove 1 orphaned rings
+Move 32 :
+2:46:11 PM
+aamarks2002: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Piratey Pete has to remove 2 orphaned rings
+Move 33 :
+2:46:20 PM
+Piratey Pete: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+aamarks2002 has to remove 2 orphaned rings
+Move 34 :
+2:46:42 PM
+aamarks2002: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 35 :
+2:46:55 PM
+Piratey Pete: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 36 :
+2:47:05 PM
+aamarks2002: Added a Small Ring at Station [0,1]
+Move 37 :
+2:47:22 PM
+Piratey Pete: Added a Large Ring at Station [1,0]
+Move 38 :
+2:48:13 PM
+aamarks2002: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 39 :
+2:48:37 PM
+Piratey Pete: Added a Medium Ring at Station [1,0]
+Move 40 :
+2:48:53 PM
+aamarks2002: Added a Small Ring at Station [1,1]
+Move 41 :
+2:48:59 PM
+Piratey Pete: Added a Small Ring at Station [1,0]
+Move 42 :
+2:51:38 PM
+aamarks2002: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 43 :
+2:51:53 PM
+Piratey Pete: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Middle
+aamarks2002 has to remove 2 orphaned rings
+Move 44 :
+2:52:29 PM
+aamarks2002: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 45 :
+2:52:55 PM
+Piratey Pete: Added a Small Ring at Station [1,1]
+Move 46 :
+2:54:11 PM
+aamarks2002: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 47 :
+2:54:17 PM
+Piratey Pete: Added a Medium Ring at Station [1,1]
+Move 48 :
+2:54:42 PM
+aamarks2002: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 49 :
+2:55:00 PM
+Piratey Pete: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 50 :
+2:55:35 PM
+aamarks2002: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 51 :
+2:55:45 PM
+Piratey Pete: Added a Small Ring at Station [0,1]
+Move 52 :
+2:57:00 PM
+aamarks2002: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 53 :
+2:57:19 PM
+Piratey Pete: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 54 :
+2:57:51 PM
+aamarks2002: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 55 :
+2:58:01 PM
+Piratey Pete: Added a Medium Ring at Station [0,1]
+The end of the game: Piratey Pete wins!

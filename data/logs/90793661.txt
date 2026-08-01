@@ -1,0 +1,156 @@
+Move 1 :
+5/26/2020 4:11:35 PM
+The colors of whotimwait have been chosen according to their preferences. Change my preferences.
+Move 2 :
+4:12:57 PM
+whotimwait: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+4:26:38 PM
+bloodies: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+4:50:19 PM
+whotimwait: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 5 :
+5:16:53 PM
+bloodies: Added a Large Ring at Station [1,0]
+Move 6 :
+5/27/2020 10:05:11 AM
+whotimwait: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :
+5/28/2020 6:32:12 AM
+bloodies: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 8 :
+6:32:28 AM
+whotimwait: Added a Small Ring at Station [0,1]
+Move 9 :
+6:33:12 AM
+bloodies: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 10 :
+12:51:59 PM
+whotimwait: Added a Medium Ring at Station [1,0]
+Move 11 :
+5/29/2020 9:27:54 AM
+bloodies: Added a Small Ring at Station [1,0]
+Move 12 :
+9:47:32 AM
+whotimwait: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 13 :
+5/30/2020 3:40:33 PM
+bloodies: Added a Small Ring at Station [1,1]
+Move 14 :
+3:43:27 PM
+whotimwait: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 15 :
+3:43:39 PM
+bloodies: Added a Medium Ring at Station [0,1]
+Move 16 :
+3:44:04 PM
+whotimwait: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Middle
+bloodies has to remove 2 orphaned rings
+Move 17 :
+3:45:47 PM
+bloodies: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+whotimwait has to remove 1 orphaned rings
+Move 18 :
+3:46:25 PM
+whotimwait: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+bloodies has to remove 2 orphaned rings
+Move 19 :
+3:46:44 PM
+bloodies: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :
+3:47:18 PM
+whotimwait: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 21 :
+3:47:28 PM
+bloodies: Added a Small Ring at Station [1,0]
+Move 22 :
+3:47:55 PM
+whotimwait: Added a Black Bridge at Station [1,1] => [0,1] Position:Left
+Move 23 :
+3:48:27 PM
+bloodies: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 24 :
+3:48:43 PM
+whotimwait: Added a Small Ring at Station [1,1]
+Move 25 :
+3:49:14 PM
+bloodies: Added a Medium Ring at Station [1,1]
+Move 26 :
+3:49:45 PM
+whotimwait: Removed a Black Bridge at Station [1,0] => [1,1] Position:Right
+bloodies has to remove 1 orphaned rings
+Move 27 :
+3:50:26 PM
+bloodies: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 28 :
+3:53:18 PM
+whotimwait: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 29 :
+3:53:51 PM
+bloodies: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 30 :
+3:54:02 PM
+whotimwait: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 31 :
+3:54:23 PM
+bloodies: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 32 :
+3:56:05 PM
+whotimwait: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 33 :
+3:56:57 PM
+bloodies: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 34 :
+3:58:34 PM
+whotimwait: Moved a Base Post at Station [1,1]
+Move 35 :
+4:01:41 PM
+bloodies: Added a Small Ring at Station [0,-1]
+Move 36 :
+4:02:36 PM
+whotimwait: Added a Small Ring at Station [-1,1]
+Move 37 :
+4:02:58 PM
+bloodies: Added a Small Ring at Station [-1,-1]
+Move 38 :
+4:03:24 PM
+whotimwait: Added a Small Ring at Station [-1,0]
+Move 39 :
+4:05:23 PM
+bloodies: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 40 :
+4:06:19 PM
+whotimwait: Added a Medium Ring at Station [0,1]
+Move 41 :
+4:06:37 PM
+bloodies: Added a Medium Ring at Station [1,1]
+Move 42 :
+4:08:09 PM
+whotimwait: Removed a Black Bridge at Station [1,0] => [1,1] Position:Right
+bloodies has to remove 1 orphaned rings
+Move 43 :
+4:10:13 PM
+bloodies: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 44 :
+4:13:16 PM
+whotimwait: Added a Medium Ring at Station [-1,1]
+Move 45 :
+4:13:41 PM
+bloodies: Added a Medium Ring at Station [-1,-1]
+Move 46 :
+4:14:48 PM
+whotimwait: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 47 :
+4:15:06 PM
+bloodies: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 48 :
+4:16:13 PM
+whotimwait: Added a Large Ring at Station [0,1]
+Move 49 :
+4:16:35 PM
+bloodies: Added a Medium Ring at Station [0,-1]
+Move 50 :
+4:19:22 PM
+whotimwait: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: whotimwait wins!

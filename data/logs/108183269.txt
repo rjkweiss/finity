@@ -1,0 +1,132 @@
+Move 3 :
+8/22/2020 12:39:39 AM
+ngiamjz: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 4 :
+12:40:52 AM
+Jeradogs: Added a White Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 5 :
+12:41:09 AM
+ngiamjz: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 6 :
+12:41:36 AM
+Jeradogs: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 7 :
+12:42:17 AM
+ngiamjz: Added a Black Bridge at Station [0,0] => [-1,0] Position:Right
+Move 8 :
+12:43:11 AM
+Jeradogs: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 9 :
+12:44:16 AM
+ngiamjz: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 10 :
+12:44:34 AM
+Jeradogs: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 11 :
+12:44:41 AM
+ngiamjz: Added a Small Ring at Station [-1,0]
+Move 12 :
+12:44:58 AM
+Jeradogs: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 13 :
+12:45:39 AM
+ngiamjz: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 14 :
+12:45:48 AM
+Jeradogs: Added a Large Ring at Station [0,-1]
+Move 15 :
+12:46:53 AM
+ngiamjz: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 16 :
+12:47:04 AM
+Jeradogs: Added a Medium Ring at Station [0,-1]
+Move 17 :
+12:47:17 AM
+ngiamjz: Added a Medium Ring at Station [-1,0]
+Move 18 :
+12:47:24 AM
+Jeradogs: Added a Small Ring at Station [0,-1]
+Move 19 :
+12:47:40 AM
+ngiamjz: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 20 :
+12:48:12 AM
+Jeradogs: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 21 :
+12:48:32 AM
+ngiamjz: Added a Small Ring at Station [-1,-1]
+Move 22 :
+12:48:56 AM
+Jeradogs: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 23 :
+12:49:05 AM
+ngiamjz: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 24 :
+12:49:20 AM
+Jeradogs: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 25 :
+12:50:31 AM
+ngiamjz: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 26 :
+12:50:38 AM
+Jeradogs: Added a Large Ring at Station [1,0]
+Move 27 :
+12:50:43 AM
+ngiamjz: Added a Medium Ring at Station [-1,-1]
+Move 28 :
+12:50:50 AM
+Jeradogs: Added a Medium Ring at Station [1,0]
+Move 29 :
+12:50:57 AM
+ngiamjz: Moved a Base Post at Station [-1,-1]
+Move 30 :
+12:51:10 AM
+Jeradogs: Added a Small Ring at Station [1,0]
+Move 31 :
+12:51:18 AM
+ngiamjz: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :
+12:51:35 AM
+Jeradogs: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 33 :
+12:51:44 AM
+ngiamjz: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Jeradogs has to remove 3 orphaned rings
+Move 34 :
+12:52:28 AM
+Jeradogs: Added a Large Ring at Station [1,1]
+Move 35 :
+12:52:48 AM
+ngiamjz: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 36 :
+12:53:37 AM
+Jeradogs: Moved a Base Post at Station [1,0]
+Jeradogs has to remove 1 orphaned rings
+Move 37 :
+12:53:50 AM
+ngiamjz: Added a Small Ring at Station [0,-1]
+Move 38 :
+12:54:51 AM
+Jeradogs: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 39 :
+12:54:59 AM
+ngiamjz: Added a Small Ring at Station [1,-1]
+Move 40 :
+12:55:09 AM
+Jeradogs: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 41 :
+12:55:17 AM
+ngiamjz: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 42 :
+12:55:25 AM
+Jeradogs: Added a Large Ring at Station [0,1]
+Move 43 :
+12:55:32 AM
+ngiamjz: Added a Medium Ring at Station [0,-1]
+Move 44 :
+12:55:39 AM
+Jeradogs: Added a Medium Ring at Station [0,1]
+Move 45 :
+12:55:57 AM
+ngiamjz: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+The end of the game: ngiamjz wins!

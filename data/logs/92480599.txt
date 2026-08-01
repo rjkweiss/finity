@@ -1,0 +1,141 @@
+Move 3 :
+6/2/2020 5:20:41 AM
+deszczyk: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 4 :
+5:22:13 AM
+tan_oduvan: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 5 :
+5:22:26 AM
+deszczyk: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+5:23:01 AM
+tan_oduvan: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 7 :
+5:23:54 AM
+deszczyk: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 8 :
+5:24:13 AM
+tan_oduvan: Added a Large Ring at Station [1,0]
+Move 9 :
+5:24:20 AM
+deszczyk: Added a Medium Ring at Station [-1,0]
+Move 10 :
+5:26:01 AM
+tan_oduvan: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 11 :
+5:26:54 AM
+deszczyk: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 12 :
+5:28:13 AM
+tan_oduvan: Removed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 13 :
+5:28:40 AM
+deszczyk: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 14 :
+5:28:47 AM
+tan_oduvan: Added a Medium Ring at Station [1,0]
+Move 15 :
+5:29:11 AM
+deszczyk: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+tan_oduvan has to remove 2 orphaned rings
+Move 16 :
+5:29:56 AM
+tan_oduvan: Reversed a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 17 :
+5:30:06 AM
+deszczyk: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 18 :
+5:30:14 AM
+tan_oduvan: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 19 :
+5:30:28 AM
+deszczyk: Added a Small Ring at Station [-1,-1]
+Move 20 :
+5:30:47 AM
+tan_oduvan: Added a Large Ring at Station [1,0]
+Move 21 :
+5:30:58 AM
+deszczyk: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+tan_oduvan has to remove 1 orphaned rings
+Move 22 :
+5:33:34 AM
+tan_oduvan: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 23 :
+5:33:53 AM
+deszczyk: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 24 :
+5:34:16 AM
+tan_oduvan: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 25 :
+5:34:28 AM
+deszczyk: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 26 :
+5:35:04 AM
+tan_oduvan: Added a Black Bridge at Station [0,0] => [1,0] Position:Left
+Move 27 :
+5:35:39 AM
+deszczyk: Added a Small Ring at Station [0,-1]
+Move 28 :
+5:36:41 AM
+tan_oduvan: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 29 :
+5:36:56 AM
+deszczyk: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 30 :
+5:37:17 AM
+tan_oduvan: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 31 :
+5:37:28 AM
+deszczyk: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 32 :
+5:37:33 AM
+tan_oduvan: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 33 :
+5:37:40 AM
+deszczyk: Added a Large Ring at Station [1,-1]
+Move 34 :
+5:37:47 AM
+tan_oduvan: Added a White Bridge at Station [1,0] => [0,1] Position:Right
+Move 35 :
+5:38:02 AM
+deszczyk: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 36 :
+5:38:26 AM
+tan_oduvan: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 37 :
+5:38:34 AM
+deszczyk: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 38 :
+5:38:55 AM
+tan_oduvan: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 39 :
+5:39:05 AM
+deszczyk: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 40 :
+5:39:20 AM
+tan_oduvan: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 41 :
+5:39:27 AM
+deszczyk: Added a Small Ring at Station [0,1]
+Move 42 :
+5:39:40 AM
+tan_oduvan: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 43 :
+5:39:57 AM
+deszczyk: Added a Large Ring at Station [1,0]
+Move 44 :
+5:40:06 AM
+tan_oduvan: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 45 :
+5:40:20 AM
+deszczyk: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 46 :
+5:40:51 AM
+tan_oduvan: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 47 :
+5:41:00 AM
+deszczyk: Added a Small Ring at Station [1,1]
+Move 48 :
+5:41:08 AM
+tan_oduvan concedes the game.
+The end of the game: deszczyk wins!

@@ -1,0 +1,79 @@
+Move 1 :
+4/29/2020 8:28:56 AM
+The colors of januszk0 have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8:29:41 AM
+januszk0: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+8:37:45 AM
+Jak: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+8:41:56 AM
+januszk0: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 5 :
+8:42:33 AM
+Jak: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 6 :
+8:43:07 AM
+januszk0: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 7 :
+8:44:08 AM
+Jak: Added a Small Ring at Station [1,0]
+Move 8 :
+8:44:22 AM
+januszk0: Added a Small Ring at Station [-1,0]
+Move 9 :
+8:44:45 AM
+Jak: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 10 :
+8:45:18 AM
+januszk0: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 11 :
+8:45:57 AM
+Jak: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+8:46:19 AM
+januszk0: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 13 :
+8:47:53 AM
+Jak: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 14 :
+8:48:20 AM
+januszk0: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 15 :
+8:48:49 AM
+Jak: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 16 :
+8:49:21 AM
+januszk0: Added a Medium Ring at Station [-1,-1]
+Move 17 :
+8:49:39 AM
+Jak: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 18 :
+8:49:49 AM
+januszk0: Added a Medium Ring at Station [0,-1]
+Move 19 :
+8:50:10 AM
+Jak: Added a Medium Ring at Station [1,1]
+Move 20 :
+8:50:24 AM
+januszk0: Added a Medium Ring at Station [1,-1]
+Move 21 :
+8:50:43 AM
+Jak: Added a Medium Ring at Station [1,0]
+Move 22 :
+8:50:55 AM
+januszk0: Added a Medium Ring at Station [-1,0]
+Move 23 :
+8:54:39 AM
+Jak: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 24 :
+8:55:07 AM
+januszk0: Added a Large Ring at Station [-1,-1]
+Move 25 :
+8:55:47 AM
+Jak: Moved a Blocker at Station [0,0] => [-1,0] Position:Left
+Move 26 :
+8:56:01 AM
+januszk0: Added a Large Ring at Station [0,-1]
+The end of the game: januszk0 wins!

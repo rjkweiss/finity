@@ -1,0 +1,452 @@
+Move 1 :
+8/18/2020 10:33:18 AM
+The colors of Hulmus Gerrik have been chosen according to their preferences. Change my preferences.
+Move 2 :
+10:34:48 AM
+bibi6: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 3 :
+10:36:21 AM
+Hulmus Gerrik: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 4 :
+10:38:30 AM
+Astyanaxx: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+10:55:47 AM
+Andy99: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :
+11:05:19 AM
+bibi6: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 7 :
+11:43:27 AM
+Hulmus Gerrik: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 8 :
+12:38:23 PM
+Astyanaxx: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 9 :
+1:10:57 PM
+Andy99: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 10 :
+1:15:59 PM
+bibi6: Added a Small Ring at Station [-1,1]
+Move 11 :
+4:15:57 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,-1]
+Move 12 :
+11:07:28 PM
+Astyanaxx: Added a Medium Ring at Station [-1,1]
+Move 13 :
+8/19/2020 4:35:53 AM
+Andy99: Added a Large Ring at Station [1,-1]
+Move 14 :
+8:35:39 AM
+bibi6: Added a Large Ring at Station [-1,1]
+Move 15 :
+9:25:41 AM
+Hulmus Gerrik: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 16 :
+9:27:37 AM
+Astyanaxx: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 17 :
+9:28:41 AM
+Andy99: Moved a Base Post at Station [1,-1]
+Move 18 :
+9:34:23 AM
+bibi6: Added a Small Ring at Station [0,1]
+Move 19 :
+10:12:18 AM
+Hulmus Gerrik: Added a Small Ring at Station [1,-2]
+Move 20 :
+10:14:00 AM
+Astyanaxx: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+bibi6 has to remove 1 orphaned rings
+Move 21 :
+10:48:47 AM
+Andy99: Added a Small Ring at Station [1,0]
+Move 22 :
+11:01:35 AM
+bibi6: Moved a Base Post at Station [-1,1]
+Move 23 :
+11:42:01 AM
+Hulmus Gerrik: Added a Black Bridge at Station [1,-2] => [1,-1] Position:Right
+Move 24 :
+11:46:32 AM
+Astyanaxx: Added a White Bridge at Station [-1,2] => [0,1] Position:Middle
+Move 25 :
+11:48:35 AM
+Andy99: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 26 :
+11:53:11 AM
+bibi6: Added a Small Ring at Station [0,1]
+Move 27 :
+12:18:54 PM
+Hulmus Gerrik: Moved a Base Post at Station [1,0]
+Move 28 :
+12:30:14 PM
+Astyanaxx: Added a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 29 :
+12:51:48 PM
+Andy99: Added a Medium Ring at Station [1,0]
+Move 30 :
+1:13:26 PM
+bibi6: Added a Medium Ring at Station [0,1]
+Move 31 :
+1:17:23 PM
+Hulmus Gerrik: Removed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Andy99 has to remove 2 orphaned rings
+Move 32 :
+1:19:25 PM
+Astyanaxx: Removed a White Bridge at Station [-1,1] => [0,1] Position:Right
+bibi6 has to remove 2 orphaned rings
+Move 33 :
+1:23:08 PM
+Andy99: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Hulmus Gerrik has to remove 2 orphaned rings
+Move 34 :
+1:35:03 PM
+bibi6: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Astyanaxx has to remove 1 orphaned rings
+Move 35 :
+1:35:45 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 36 :
+1:47:24 PM
+Astyanaxx: Added a Small Ring at Station [-1,2]
+Move 37 :
+3:01:05 PM
+Andy99: Added a Small Ring at Station [0,-1]
+Move 38 :
+3:12:28 PM
+bibi6: Added a Small Ring at Station [0,1]
+Move 39 :
+3:20:54 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,-1]
+Move 40 :
+11:55:09 PM
+Astyanaxx: Moved a Base Post at Station [-1,2]
+Move 41 :
+8/20/2020 6:14:26 AM
+Andy99: Removed a White Bridge at Station [1,0] => [1,-1] Position:Right
+Hulmus Gerrik has to remove 1 orphaned rings
+Move 42 :
+9:16:04 AM
+bibi6: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 43 :
+9:20:10 AM
+Hulmus Gerrik: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 44 :
+9:23:14 AM
+Astyanaxx: Added a Medium Ring at Station [0,1]
+Move 45 :
+9:25:11 AM
+Andy99: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 46 :
+9:25:39 AM
+bibi6: Added a Large Ring at Station [0,1]
+Move 47 :
+10:50:06 AM
+Hulmus Gerrik: Added a Small Ring at Station [1,-1]
+Move 48 :
+10:53:39 AM
+Astyanaxx: Added a Medium Ring at Station [-1,1]
+Move 49 :
+11:06:49 AM
+Andy99: Added a Black Bridge at Station [1,-2] => [0,-1] Position:Right
+Move 50 :
+11:08:45 AM
+bibi6: Added a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 51 :
+11:09:41 AM
+Hulmus Gerrik: Moved a Base Post at Station [0,-1]
+Move 52 :
+12:32:40 PM
+Astyanaxx: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 53 :
+1:00:40 PM
+Andy99: Added a Small Ring at Station [1,-2]
+Move 54 :
+10:11:36 PM
+bibi6: Added a Medium Ring at Station [-1,2]
+Move 55 :
+8/21/2020 9:05:14 AM
+Hulmus Gerrik: Added a Medium Ring at Station [1,-2]
+Move 56 :
+9:14:25 AM
+Astyanaxx: Added a Small Ring at Station [-1,0]
+Move 57 :
+9:20:58 AM
+Andy99: Added a Large Ring at Station [1,-2]
+Move 58 :
+12:08:44 PM
+bibi6: Added a Large Ring at Station [-1,2]
+Move 59 :
+12:22:22 PM
+Hulmus Gerrik: Added a Medium Ring at Station [1,-1]
+Move 60 :
+12:36:34 PM
+Astyanaxx: Removed a Black Bridge at Station [-1,1] => [-1,2] Position:Middle
+bibi6 has to remove 2 orphaned rings
+Move 61 :
+12:41:35 PM
+Andy99: Added a Medium Ring at Station [0,-1]
+Move 62 :
+2:08:44 PM
+bibi6: Removed a White Bridge at Station [-1,2] => [0,1] Position:Middle
+Astyanaxx has to remove 3 orphaned rings
+Move 63 :
+2:30:20 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 64 :
+11:41:54 PM
+Astyanaxx: Reversed a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 65 :
+8/22/2020 2:27:32 AM
+Andy99: Added a Large Ring at Station [0,-1]
+Move 66 :
+9:02:00 AM
+bibi6: Added a Small Ring at Station [-1,0]
+Move 67 :
+2:40:24 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,0]
+Move 68 :
+11:19:39 PM
+Astyanaxx: Added a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Move 69 :
+11:28:49 PM
+Andy99: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 70 :
+8/23/2020 2:23:35 AM
+bibi6: Added a Medium Ring at Station [-1,0]
+Move 71 :
+10:40:25 AM
+Hulmus Gerrik: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 72 :
+11:41:40 AM
+Astyanaxx: Added a Medium Ring at Station [0,1]
+Move 73 :
+1:00:39 PM
+Andy99: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 74 :
+11:40:49 PM
+bibi6: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 75 :
+8/24/2020 7:34:43 AM
+Hulmus Gerrik: Added a Small Ring at Station [1,1]
+Move 76 :
+8:21:46 AM
+Astyanaxx: Added a Medium Ring at Station [-1,1]
+Move 77 :
+8:38:47 AM
+Andy99: Added a Small Ring at Station [-1,-1]
+Move 78 :
+11:36:45 AM
+bibi6: Added a Medium Ring at Station [1,1]
+Move 79 :
+12:15:29 PM
+Hulmus Gerrik: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 80 :
+12:19:07 PM
+Astyanaxx: Added a Large Ring at Station [-1,0]
+Move 81 :
+12:37:56 PM
+Andy99: Added a Medium Ring at Station [1,0]
+Move 82 :
+1:32:30 PM
+bibi6: Added a Large Ring at Station [1,0]
+Move 83 :
+2:14:05 PM
+Hulmus Gerrik: Added a White Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 84 :
+2:18:51 PM
+Astyanaxx: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+bibi6 has to remove 2 orphaned rings
+Move 85 :
+2:53:21 PM
+Andy99: Added a Medium Ring at Station [1,1]
+Move 86 :
+10:38:43 PM
+bibi6: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 87 :
+8/25/2020 8:51:15 AM
+Hulmus Gerrik: Added a Large Ring at Station [1,0]
+Move 88 :
+8:56:47 AM
+Astyanaxx: Moved a Base Post at Station [0,1]
+Move 89 :
+9:10:13 AM
+Andy99: Added a Small Ring at Station [2,-1]
+Move 90 :
+10:59:34 PM
+bibi6: Added a Large Ring at Station [1,1]
+Move 91 :
+8/26/2020 7:07:22 AM
+Hulmus Gerrik: Added a Medium Ring at Station [2,-1]
+Move 92 :
+7:10:32 AM
+Astyanaxx: Added a Medium Ring at Station [-1,2]
+Move 93 :
+7:35:12 AM
+Andy99: Added a Large Ring at Station [2,-1]
+Move 94 :
+11:43:38 AM
+bibi6: Moved a Base Post at Station [-1,2]
+Move 95 :
+12:28:24 PM
+Hulmus Gerrik: Added a White Bridge at Station [2,-1] => [1,0] Position:Right
+Move 96 :
+12:29:13 PM
+Astyanaxx: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 97 :
+12:31:50 PM
+Andy99: Added a White Bridge at Station [2,-1] => [1,-1] Position:Left
+Move 98 :
+1:05:53 PM
+bibi6: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 99 :
+1:19:55 PM
+Hulmus Gerrik: Removed a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 100 :
+1:43:44 PM
+Astyanaxx: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 101 :
+2:10:31 PM
+Andy99: Added a Black Bridge at Station [2,-1] => [1,0] Position:Middle
+Move 102 :
+2:11:54 PM
+bibi6: Added a Black Bridge at Station [-2,1] => [-1,1] Position:Middle
+Move 103 :
+2:15:48 PM
+Hulmus Gerrik: Removed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Andy99 has to remove 6 orphaned rings
+Move 104 :
+2:33:10 PM
+Astyanaxx: Added a Small Ring at Station [-2,1]
+Move 105 :
+2:35:39 PM
+Andy99: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Hulmus Gerrik has to remove 7 orphaned rings
+Move 106 :
+10:54:38 PM
+bibi6: Added a Small Ring at Station [1,1]
+Move 107 :
+8/27/2020 5:47:37 AM
+Hulmus Gerrik: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 108 :
+5:48:28 AM
+Astyanaxx: Added a Black Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 109 :
+6:12:43 AM
+Andy99: Added a Small Ring at Station [1,0]
+Move 110 :
+11:40:31 AM
+bibi6: Added a Medium Ring at Station [-2,1]
+Move 111 :
+2:04:45 PM
+Hulmus Gerrik: Added a Small Ring at Station [-1,-1]
+Move 112 :
+3:08:07 PM
+Astyanaxx: Removed a White Bridge at Station [-1,2] => [0,1] Position:Left
+bibi6 has to remove 9 orphaned rings
+Move 113 :
+3:32:44 PM
+Andy99: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 114 :
+10:05:33 PM
+bibi6: Reversed a White Bridge at Station [0,1] => [-1,2] Position:Middle
+Astyanaxx has to remove 2 orphaned rings
+Move 115 :
+8/28/2020 8:57:56 AM
+Hulmus Gerrik: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 116 :
+9:57:36 AM
+Astyanaxx: Added a Small Ring at Station [-1,0]
+Move 117 :
+10:02:47 AM
+Andy99: Added a Small Ring at Station [0,-1]
+Move 118 :
+10:33:28 PM
+bibi6: Added a Small Ring at Station [0,1]
+Move 119 :
+8/29/2020 6:06:49 AM
+Hulmus Gerrik: Added a Medium Ring at Station [-1,0]
+Move 120 :
+9:06:15 AM
+Astyanaxx: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 121 :
+9:20:30 AM
+Andy99: Added a Small Ring at Station [1,-2]
+Move 122 :
+11:24:24 PM
+bibi6: Added a Small Ring at Station [-1,1]
+Move 123 :
+8/30/2020 6:42:07 AM
+Hulmus Gerrik: Added a Medium Ring at Station [-2,1]
+Move 124 :
+7:28:02 AM
+Astyanaxx: Added a Large Ring at Station [-2,1]
+Move 125 :
+8:18:49 AM
+Andy99: Added a Medium Ring at Station [0,-1]
+Move 126 :
+10:19:43 AM
+bibi6: Added a Small Ring at Station [1,1]
+Move 127 :
+4:21:06 PM
+Hulmus Gerrik: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Andy99 has to remove 3 orphaned rings
+Move 128 :
+8/31/2020 2:59:30 AM
+Astyanaxx: Added a Large Ring at Station [-1,1]
+Move 129 :
+6:26:30 AM
+Andy99: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 130 :
+9:41:21 AM
+bibi6: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Right
+bibi6 has to remove 1 orphaned rings
+Move 131 :
+12:57:38 PM
+Hulmus Gerrik: Added a White Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 132 :
+1:01:42 PM
+Astyanaxx: Added a White Bridge at Station [0,1] => [-1,2] Position:Right
+Move 133 :
+1:03:15 PM
+Andy99: Added a Small Ring at Station [0,-1]
+Move 134 :
+1:04:30 PM
+bibi6: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 135 :
+1:05:04 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,-2]
+Move 136 :
+1:24:52 PM
+Astyanaxx: Added a Black Bridge at Station [-1,2] => [-1,1] Position:Middle
+Move 137 :
+1:30:41 PM
+Andy99: Added a Medium Ring at Station [1,-2]
+Move 138 :
+1:32:54 PM
+bibi6: Added a Small Ring at Station [-1,1]
+Move 139 :
+1:39:10 PM
+Hulmus Gerrik: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 140 :
+1:40:11 PM
+Astyanaxx: Removed a White Bridge at Station [-1,2] => [0,1] Position:Middle
+bibi6 has to remove 3 orphaned rings
+Move 141 :
+1:44:06 PM
+Andy99: Added a Medium Ring at Station [0,-1]
+Move 142 :
+1:45:44 PM
+bibi6: Added a White Bridge at Station [-1,2] => [-1,1] Position:Right
+Move 143 :
+1:58:46 PM
+Hulmus Gerrik: Added a Small Ring at Station [1,-1]
+Move 144 :
+2:45:01 PM
+Astyanaxx: Added a Small Ring at Station [-1,1]
+Move 145 :
+2:59:25 PM
+Andy99: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+The end of the game: Andy99 wins!

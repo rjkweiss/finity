@@ -1,0 +1,113 @@
+Move 2 :
+8/23/2020 12:52:03 PM
+CamusGrey27: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+12:53:22 PM
+PandorasPlight: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+12:53:42 PM
+CamusGrey27: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :
+12:55:26 PM
+PandorasPlight: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 6 :
+12:55:39 PM
+CamusGrey27: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 7 :
+12:56:01 PM
+PandorasPlight: Added a Small Ring at Station [0,-1]
+Move 8 :
+12:56:17 PM
+CamusGrey27: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 9 :
+12:56:32 PM
+PandorasPlight: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 10 :
+12:57:00 PM
+CamusGrey27: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 11 :
+12:57:32 PM
+PandorasPlight: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 12 :
+12:57:47 PM
+CamusGrey27: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :
+12:58:29 PM
+PandorasPlight: Added a Large Ring at Station [-1,-1]
+Move 14 :
+12:58:46 PM
+CamusGrey27: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 15 :
+12:59:16 PM
+PandorasPlight: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 16 :
+12:59:26 PM
+CamusGrey27: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 17 :
+1:00:06 PM
+PandorasPlight: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 18 :
+1:00:17 PM
+CamusGrey27: Added a Large Ring at Station [0,1]
+Move 19 :
+1:00:29 PM
+PandorasPlight: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 20 :
+1:00:42 PM
+CamusGrey27: Added a Large Ring at Station [1,1]
+Move 21 :
+1:00:57 PM
+PandorasPlight: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 22 :
+1:01:08 PM
+CamusGrey27: Added a Large Ring at Station [1,0]
+Move 23 :
+1:01:26 PM
+PandorasPlight: Added a Medium Ring at Station [0,-1]
+Move 24 :
+1:01:58 PM
+CamusGrey27: Added a Small Ring at Station [0,1]
+Move 25 :
+1:02:08 PM
+PandorasPlight: Moved a Base Post at Station [0,-1]
+Move 26 :
+1:02:20 PM
+CamusGrey27: Added a Medium Ring at Station [1,1]
+Move 27 :
+1:02:28 PM
+PandorasPlight: Added a Large Ring at Station [1,-1]
+Move 28 :
+1:02:36 PM
+CamusGrey27: Moved a Base Post at Station [0,1]
+Move 29 :
+1:02:42 PM
+PandorasPlight: Added a Medium Ring at Station [1,-1]
+Move 30 :
+1:02:49 PM
+CamusGrey27: Added a Large Ring at Station [-1,1]
+Move 31 :
+1:02:55 PM
+PandorasPlight: Added a Large Ring at Station [-1,0]
+Move 32 :
+1:03:02 PM
+CamusGrey27: Added a Small Ring at Station [1,1]
+Move 33 :
+1:03:08 PM
+PandorasPlight: Added a Small Ring at Station [1,-1]
+Move 34 :
+1:03:15 PM
+CamusGrey27: Added a Medium Ring at Station [-1,1]
+Move 35 :
+1:03:24 PM
+PandorasPlight: Moved a Base Post at Station [1,-1]
+PandorasPlight has to remove 1 orphaned rings
+Move 36 :
+1:04:14 PM
+CamusGrey27: Moved a Base Post at Station [-1,1]
+Move 37 :
+1:04:25 PM
+PandorasPlight: Added a Medium Ring at Station [-1,-1]
+Move 38 :
+1:04:48 PM
+CamusGrey27: Added a Medium Ring at Station [0,1]
+The end of the game: CamusGrey27 wins!

@@ -1,0 +1,94 @@
+Move 1 :
+8/9/2020 8:14:19 PM
+The colors of catalina1777, Dirty Patronus have been chosen according to their preferences. Change my preferences.
+Move 2 :
+8:22:37 PM
+catalina1777: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+8:25:52 PM
+Dirty Patronus: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 4 :
+8:28:39 PM
+catalina1777: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 :
+8:30:35 PM
+Dirty Patronus: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 6 :
+8:35:02 PM
+catalina1777: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+8:38:28 PM
+Dirty Patronus: Added a Large Ring at Station [0,-1]
+Move 8 :
+8:39:48 PM
+catalina1777: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 9 :
+8:40:51 PM
+Dirty Patronus: Added a Large Ring at Station [-1,0]
+Move 10 :
+8:44:50 PM
+catalina1777: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 11 :
+8:45:11 PM
+Dirty Patronus: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 12 :
+8:49:04 PM
+catalina1777: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 13 :
+8:52:36 PM
+Dirty Patronus: Added a Large Ring at Station [-1,1]
+Move 14 :
+8/10/2020 6:34:52 AM
+catalina1777: Added a Small Ring at Station [-1,0]
+Move 15 :
+8:36:19 AM
+Dirty Patronus: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 16 :
+8:39:33 AM
+catalina1777: Added a Medium Ring at Station [-1,0]
+Move 17 :
+8:41:25 AM
+Dirty Patronus: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 18 :
+8:41:55 AM
+catalina1777: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 19 :
+8:42:15 AM
+Dirty Patronus: Added a Large Ring at Station [0,1]
+Move 20 :
+8:42:31 AM
+catalina1777: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 21 :
+8:43:14 AM
+Dirty Patronus: Added a Large Ring at Station [1,1]
+Move 22 :
+8:43:46 AM
+catalina1777: Added a Small Ring at Station [0,-1]
+Move 23 :
+8:44:21 AM
+Dirty Patronus: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 24 :
+8:51:45 AM
+catalina1777: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 25 :
+8:53:37 AM
+Dirty Patronus: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 26 :
+8:54:28 AM
+catalina1777: Added a Small Ring at Station [0,1]
+Move 27 :
+8:54:41 AM
+Dirty Patronus: Added a Medium Ring at Station [0,1]
+Move 28 :
+8:55:24 AM
+catalina1777: Reversed a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 29 :
+8:55:42 AM
+Dirty Patronus: Added a Medium Ring at Station [-1,1]
+Move 30 :
+8:55:48 AM
+catalina1777: Added a Small Ring at Station [1,1]
+Move 31 :
+8:55:57 AM
+Dirty Patronus: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+The end of the game: Dirty Patronus wins!

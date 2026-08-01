@@ -1,0 +1,55 @@
+Move 1 : 7/9/2022 2:12:40 PM
+The colors of fugalolo have been chosen according to their preferences. Change my preferences.
+Move 2 : 11:26:43 PM
+Lucidorchid: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 : 11:31:56 PM
+fugalolo: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 : 11:37:15 PM
+Lucidorchid: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 5 : 11:46:16 PM
+fugalolo: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 : 7/10/2022 12:01:46 AM
+Lucidorchid: Added a Black Bridge at Station [0,1] => [1,0] Position:Left
+Move 7 : 12:19:56 AM
+fugalolo: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 8 : 12:20:44 AM
+Lucidorchid: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 9 : 12:23:00 AM
+fugalolo: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 10 : 12:28:45 AM
+Lucidorchid: Added a Small Ring at Station [0,1]
+Move 11 : 12:57:09 AM
+fugalolo: Added a Small Ring at Station [1,0]
+Move 12 : 4:34:31 AM
+Lucidorchid: Added a Medium Ring at Station [1,0]
+Move 13 : 4:47:29 AM
+fugalolo: Added a Medium Ring at Station [0,1]
+Move 14 : 4:52:17 AM
+Lucidorchid: Added a Small Ring at Station [1,-1]
+Move 15 : 4:54:44 AM
+fugalolo: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 16 : 7:18:06 AM
+Lucidorchid: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 17 : 7:20:34 AM
+fugalolo: Added a Small Ring at Station [-1,1]
+Move 18 : 11:31:58 PM
+Lucidorchid: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 19 : 7/11/2022 12:04:05 AM
+fugalolo: Added a Medium Ring at Station [-1,1]
+Move 20 : 12:30:02 AM
+Lucidorchid: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 21 : 12:41:16 AM
+fugalolo: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 22 : 5:42:59 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 23 : 5:49:32 AM
+fugalolo: Added a Small Ring at Station [-1,0]
+Move 24 : 6:00:29 AM
+Lucidorchid: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 25 : 6:02:38 AM
+fugalolo: Added a Medium Ring at Station [0,-1]
+Move 26 : 6:07:54 AM
+Lucidorchid: Added a Medium Ring at Station [-1,0]
+Move 27 : 6:09:36 AM
+fugalolo: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+The end of the game: fugalolo wins!

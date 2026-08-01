@@ -1,0 +1,72 @@
+Game log
+Move 1 :5/19/2021 3:45:10 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :3:48:35 PM
+cristian grindcore: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :4:15:28 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :4:23:17 PM
+cristian grindcore: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 5 :4:56:11 PM
+tony1021: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 6 :5:02:20 PM
+cristian grindcore: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 7 :5:27:54 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :5:58:51 PM
+cristian grindcore: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 9 :5/20/2021 7:20:22 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 10 :7:43:57 PM
+cristian grindcore: Reversed a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 11 :8:04:19 PM
+tony1021: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 12 :8:10:10 PM
+cristian grindcore: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 13 :10:05:08 PM
+tony1021: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 14 :5/21/2021 9:38:27 AM
+cristian grindcore: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 15 :10:57:15 AM
+tony1021: Added a Small Ring at Station [1,0]
+Move 16 :11:02:23 AM
+cristian grindcore: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 17 :11:08:23 AM
+tony1021: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :11:10:22 AM
+cristian grindcore: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 19 :11:59:40 AM
+tony1021: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 20 :12:40:36 PM
+cristian grindcore: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 21 :1:56:25 PM
+tony1021: Moved a Base Post at Station [1,1]
+Move 22 :1:59:00 PM
+cristian grindcore: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 23 :2:25:41 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 24 :2:44:47 PM
+cristian grindcore: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 25 :5:57:52 PM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 26 :5/22/2021 10:27:38 AM
+cristian grindcore: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 27 :10:41:12 AM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 28 :1:04:32 PM
+cristian grindcore: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 29 :2:06:08 PM
+tony1021: Added a Small Ring at Station [-1,0]
+Move 30 :2:12:17 PM
+cristian grindcore: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 31 :2:13:50 PM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 32 :3:34:22 PM
+cristian grindcore: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 33 :7:06:59 PM
+tony1021: Added a Medium Ring at Station [0,-1]
+Move 34 :5/23/2021 8:59:25 AM
+cristian grindcore: Removed a Blocker at Station [1,-1] => [0,0] Position:Left
+Move 35 :5:08:39 PM
+tony1021: Added a Large Ring at Station [0,-1]
+The end of the game: tony1021 wins!

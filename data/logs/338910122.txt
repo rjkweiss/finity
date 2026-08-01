@@ -1,0 +1,91 @@
+Game log
+Move 1 :1/23/2023 6:24:21 AM
+The colors of mikkashar have been chosen according to their preferences. Change my preferences.
+Move 2 :8:03:01 AM
+mikkashar: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :8:59:00 AM
+Vladonite: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 4 :9:07:39 AM
+mikkashar: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 5 :10:44:22 AM
+Vladonite: Added a Black Bridge at Station [0,0] => [-1,0] Position:Left
+Move 6 :10:57:06 AM
+mikkashar: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :2:50:59 PM
+Vladonite: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 8 :3:53:18 PM
+mikkashar: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 9 :4:17:35 PM
+Vladonite: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 10 :4:22:19 PM
+mikkashar: Added a Small Ring at Station [0,1]
+Move 11 :11:06:52 PM
+Vladonite: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 12 :1/24/2023 12:32:09 AM
+mikkashar: Added a Small Ring at Station [1,1]
+Move 13 :12:43:46 AM
+Vladonite: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 14 :1:55:26 AM
+mikkashar: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 15 :2:49:55 AM
+Vladonite: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 16 :8:01:06 AM
+mikkashar: Added a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 17 :9:55:55 AM
+Vladonite: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :9:59:44 AM
+mikkashar: Added a Medium Ring at Station [0,1]
+Move 19 :10:00:55 AM
+Vladonite: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 20 :10:03:52 AM
+mikkashar: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 21 :3:02:51 PM
+Vladonite: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 22 :5:16:09 PM
+mikkashar: Added a Large Ring at Station [0,1]
+Move 23 :10:54:39 PM
+Vladonite: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 24 :1/25/2023 1:48:00 AM
+mikkashar: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 25 :4:58:26 PM
+Vladonite: Moved a Blocker at Station [0,0] => [1,0] Position:Middle
+Move 26 :8:49:49 PM
+mikkashar: Moved a Base Post at Station [0,1]
+mikkashar has to remove 1 orphaned rings
+Move 27 :10:55:03 PM
+Vladonite: Moved a Blocker at Station [1,0] => [1,-1] Position:Middle
+Move 28 :10:56:21 PM
+mikkashar: Added a Small Ring at Station [-1,1]
+Move 29 :10:56:55 PM
+Vladonite: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 30 :10:59:00 PM
+mikkashar: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 31 :11:07:23 PM
+Vladonite: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 32 :11:08:35 PM
+mikkashar: Added a Small Ring at Station [1,1]
+Move 33 :1/26/2023 3:51:44 PM
+Vladonite: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 34 :4:25:32 PM
+mikkashar: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 35 :4:28:18 PM
+Vladonite: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 36 :4:32:04 PM
+mikkashar: Added a Small Ring at Station [1,0]
+Move 37 :10:45:50 PM
+Vladonite: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 38 :1/27/2023 7:04:11 AM
+mikkashar: Removed a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 39 :7:22:43 AM
+Vladonite: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 40 :7:23:24 AM
+mikkashar: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 41 :7:25:45 AM
+Vladonite: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 42 :7:30:11 AM
+mikkashar: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 43 :7:57:58 AM
+Vladonite: Reversed a White Bridge at Station [1,0] => [0,0] Position:Left
+Move 44 :8:05:12 AM
+mikkashar: Added a Medium Ring at Station [1,0]
+The end of the game: mikkashar wins!

@@ -1,0 +1,102 @@
+Game log
+Move 1 :11/30/2022 5:36:12 PM
+The colors of SixPigeons have been chosen according to their preferences. Change my preferences.
+Move 2 :5:37:12 PM
+keikeiya: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :7:25:40 PM
+SixPigeons: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :12/1/2022 4:25:12 AM
+keikeiya: Added a Small Ring at Station [0,1]
+Move 5 :4:34:44 AM
+SixPigeons: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 6 :4:35:46 AM
+keikeiya: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 7 :4:36:24 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 8 :4:37:18 AM
+keikeiya: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 9 :4:37:36 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 10 :4:38:58 AM
+keikeiya: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 11 :4:39:11 AM
+SixPigeons: Added a Small Ring at Station [1,0]
+Move 12 :4:44:48 AM
+keikeiya: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 13 :4:53:05 AM
+SixPigeons: Added a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 14 :12/2/2022 5:24:38 PM
+keikeiya: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 15 :9:23:44 PM
+SixPigeons: Added a Small Ring at Station [1,1]
+Move 16 :9:25:47 PM
+keikeiya: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 17 :9:32:29 PM
+SixPigeons: Added a White Bridge at Station [-1,0] => [0,0] Position:Left
+Move 18 :11:59:10 PM
+keikeiya: Added a Medium Ring at Station [1,1]
+Move 19 :12/3/2022 12:13:54 AM
+SixPigeons: Removed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+keikeiya has to remove 1 orphaned rings
+Move 20 :1:59:31 AM
+keikeiya: Moved a Blocker at Station [1,1] => [0,1] Position:Middle
+Move 21 :2:24:36 AM
+SixPigeons: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 22 :2:25:47 AM
+keikeiya: Added a Medium Ring at Station [1,0]
+Move 23 :2:26:06 AM
+SixPigeons: Removed a Black Bridge at Station [0,1] => [1,0] Position:Middle
+keikeiya has to remove 1 orphaned rings
+Move 24 :2:27:26 AM
+keikeiya: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 25 :2:30:50 AM
+SixPigeons: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 26 :2:32:12 AM
+keikeiya: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 27 :2:32:26 AM
+SixPigeons: Added a Medium Ring at Station [1,0]
+Move 28 :2:33:02 AM
+keikeiya: Added a Black Bridge at Station [0,-1] => [0,0] Position:Left
+Move 29 :2:33:37 AM
+SixPigeons: Added a Large Ring at Station [1,0]
+Move 30 :2:58:10 AM
+keikeiya: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 31 :3:19:58 AM
+SixPigeons: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 32 :3:36:09 AM
+keikeiya: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 33 :3:56:01 AM
+SixPigeons: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 34 :5:19:56 AM
+keikeiya: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 35 :6:13:47 PM
+SixPigeons: Removed a Black Bridge at Station [1,1] => [1,0] Position:Left
+Move 36 :7:12:20 PM
+keikeiya: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 37 :7:27:12 PM
+SixPigeons: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 38 :7:29:25 PM
+keikeiya: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 39 :8:00:08 PM
+SixPigeons: Moved a Base Post at Station [1,0]
+Move 40 :8:12:20 PM
+keikeiya: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 41 :8:51:06 PM
+SixPigeons: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+Move 42 :12/4/2022 2:54:17 PM
+keikeiya: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 43 :4:47:17 PM
+SixPigeons: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 44 :12/5/2022 5:25:44 AM
+keikeiya: Added a Small Ring at Station [-1,0]
+Move 45 :6:03:42 PM
+SixPigeons: Added a Medium Ring at Station [1,1]
+Move 46 :12/6/2022 2:14:50 AM
+keikeiya: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 47 :3:17:48 AM
+SixPigeons: Added a Small Ring at Station [1,-1]
+Move 48 :3:25:00 AM
+keikeiya: Added a Small Ring at Station [-1,-1]
+Move 49 :3:39:39 AM
+SixPigeons: Added a Medium Ring at Station [1,-1]
+The end of the game: SixPigeons wins!

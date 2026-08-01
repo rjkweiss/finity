@@ -1,0 +1,224 @@
+Move 2 :
+8/22/2020 7:03:20 PM
+k-1032: Added a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 3 :
+7:04:35 PM
+pscmps: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 4 :
+7:05:02 PM
+washiii: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 5 :
+7:06:34 PM
+mouhu_screen: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 6 :
+7:07:18 PM
+k-1032: Added a Black Bridge at Station [-1,0] => [-2,1] Position:Middle
+Move 7 :
+7:08:16 PM
+pscmps: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 8 :
+7:08:48 PM
+washiii: Added a Medium Ring at Station [1,0]
+Move 9 :
+7:09:33 PM
+mouhu_screen: Added a White Bridge at Station [0,0] => [-1,1] Position:Right
+Move 10 :
+7:11:16 PM
+k-1032: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 11 :
+7:11:29 PM
+pscmps: Added a Black Bridge at Station [0,-1] => [1,-2] Position:Right
+Move 12 :
+7:11:55 PM
+washiii: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+7:14:46 PM
+mouhu_screen: Added a White Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 14 :
+7:14:53 PM
+k-1032: Added a Small Ring at Station [-1,1]
+Move 15 :
+7:15:10 PM
+pscmps: Added a Medium Ring at Station [1,-1]
+Move 16 :
+7:17:42 PM
+washiii: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 17 :
+7:17:54 PM
+mouhu_screen: Added a Small Ring at Station [1,-1]
+Move 18 :
+7:18:03 PM
+k-1032: Added a Small Ring at Station [0,1]
+Move 19 :
+7:18:56 PM
+pscmps: Added a Black Bridge at Station [1,-1] => [2,-1] Position:Right
+Move 20 :
+7:19:35 PM
+washiii: Added a Black Bridge at Station [1,0] => [2,-1] Position:Right
+Move 21 :
+7:19:45 PM
+mouhu_screen: Added a Small Ring at Station [2,-1]
+Move 22 :
+7:19:52 PM
+k-1032: Added a Small Ring at Station [1,0]
+Move 23 :
+7:20:15 PM
+pscmps: Added a Medium Ring at Station [2,-1]
+Move 24 :
+7:20:37 PM
+washiii: Reversed a Black Bridge at Station [1,-1] => [2,-1] Position:Right
+pscmps has to remove 1 orphaned rings
+Move 25 :
+7:22:05 PM
+mouhu_screen: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+k-1032 has to remove 1 orphaned rings
+washiii has to remove 1 orphaned rings
+Move 26 :
+7:22:21 PM
+k-1032: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 27 :
+7:22:49 PM
+pscmps: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+k-1032 has to remove 2 orphaned rings
+Move 28 :
+7:23:11 PM
+washiii: Added a Medium Ring at Station [1,0]
+Move 29 :
+7:23:23 PM
+mouhu_screen: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 30 :
+7:24:14 PM
+k-1032: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 31 :
+7:24:48 PM
+pscmps: Added a Black Bridge at Station [1,-1] => [1,-2] Position:Middle
+Move 32 :
+7:25:55 PM
+washiii: Moved a Blocker at Station [0,1] => [1,0] Position:Right
+Move 33 :
+7:26:10 PM
+mouhu_screen: Reversed a Black Bridge at Station [0,0] => [-1,0] Position:Middle
+Move 34 :
+7:27:08 PM
+k-1032: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 35 :
+7:27:19 PM
+pscmps: Added a Medium Ring at Station [1,-2]
+Move 36 :
+7:27:48 PM
+washiii: Added a Black Bridge at Station [1,0] => [1,1] Position:Middle
+Move 37 :
+7:27:55 PM
+mouhu_screen: Added a Small Ring at Station [0,1]
+Move 38 :
+7:28:03 PM
+k-1032: Added a Medium Ring at Station [-1,1]
+Move 39 :
+7:28:28 PM
+pscmps: Added a White Bridge at Station [1,-2] => [0,-1] Position:Middle
+Move 40 :
+7:29:10 PM
+washiii: Added a Small Ring at Station [-1,1]
+Move 41 :
+7:29:39 PM
+mouhu_screen: Added a Black Bridge at Station [1,-1] => [2,-1] Position:Middle
+Move 42 :
+7:30:03 PM
+k-1032: Added a Medium Ring at Station [0,1]
+Move 43 :
+7:30:48 PM
+pscmps: Added a Medium Ring at Station [2,-1]
+Move 44 :
+7:31:51 PM
+washiii: Moved a Base Post at Station [-1,1]
+washiii has to remove 1 orphaned rings
+Move 45 :
+7:33:32 PM
+mouhu_screen: Reversed a White Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 46 :
+7:33:46 PM
+k-1032: Added a White Bridge at Station [-1,1] => [-2,1] Position:Right
+Move 47 :
+7:34:41 PM
+pscmps: Added a Small Ring at Station [1,0]
+Move 48 :
+7:35:06 PM
+washiii: Added a Small Ring at Station [-1,0]
+Move 49 :
+7:35:47 PM
+mouhu_screen: Moved a Blocker at Station [2,-1] => [1,-1] Position:Right
+Move 50 :
+7:35:58 PM
+k-1032: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 51 :
+7:36:21 PM
+pscmps: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+mouhu_screen has to remove 2 orphaned rings
+Move 52 :
+7:37:40 PM
+washiii: Added a Black Bridge at Station [-2,1] => [-1,0] Position:Left
+Move 53 :
+7:38:20 PM
+mouhu_screen: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+k-1032 has to remove 1 orphaned rings
+Move 54 :
+7:39:02 PM
+k-1032: Reversed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 55 :
+7:39:25 PM
+pscmps: Added a Medium Ring at Station [0,1]
+Move 56 :
+7:40:00 PM
+washiii: Added a Small Ring at Station [-2,1]
+Move 57 :
+7:40:06 PM
+mouhu_screen: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+pscmps has to remove 5 orphaned rings
+Move 58 :
+7:40:43 PM
+k-1032: Moved a Blocker at Station [-1,1] => [0,1] Position:Right
+Move 59 :
+7:41:33 PM
+pscmps: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 60 :
+7:41:49 PM
+washiii: Moved a Blocker at Station [-2,1] => [-1,1] Position:Right
+Move 61 :
+7:43:35 PM
+mouhu_screen: Reversed a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 62 :
+7:45:18 PM
+k-1032: Added a Medium Ring at Station [-2,1]
+Move 63 :
+7:45:39 PM
+pscmps: Added a Small Ring at Station [1,-1]
+Move 64 :
+7:46:57 PM
+washiii: Reversed a White Bridge at Station [-1,0] => [-2,1] Position:Left
+k-1032 has to remove 1 orphaned rings
+Move 65 :
+7:47:23 PM
+mouhu_screen: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 66 :
+7:49:27 PM
+k-1032: Moved a Base Post at Station [0,1]
+Move 67 :
+7:49:54 PM
+pscmps: Moved a Blocker at Station [1,-1] => [0,-1] Position:Left
+Move 68 :
+7:50:05 PM
+washiii: Added a Medium Ring at Station [-2,1]
+Move 69 :
+7:50:14 PM
+mouhu_screen: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Right
+k-1032 has to remove 1 orphaned rings
+Move 70 :
+7:50:32 PM
+k-1032: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 71 :
+7:50:40 PM
+pscmps: Added a Small Ring at Station [2,-1]
+Move 72 :
+7:50:46 PM
+washiii: Added a Medium Ring at Station [-1,0]
+The end of the game: washiii wins!

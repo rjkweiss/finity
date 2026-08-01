@@ -1,0 +1,76 @@
+Move 2 :
+8/22/2020 8:27:21 PM
+averagegamercat: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :
+9:46:33 PM
+Victoria_Kyoo : Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :
+9:47:50 PM
+averagegamercat: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 5 :
+10:01:57 PM
+Victoria_Kyoo : Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 6 :
+10:03:10 PM
+averagegamercat: Added a Large Ring at Station [0,1]
+Move 7 :
+8/23/2020 8:13:36 AM
+Victoria_Kyoo : Added a White Bridge at Station [-1,-1] => [-1,0] Position:Right
+Move 8 :
+8:21:38 AM
+averagegamercat: Added a Medium Ring at Station [0,1]
+Move 9 :
+8:29:48 AM
+Victoria_Kyoo : Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 10 :
+7:43:08 PM
+averagegamercat: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 11 :
+8:05:29 PM
+Victoria_Kyoo : Added a White Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 12 :
+8:06:28 PM
+averagegamercat: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 13 :
+8:06:50 PM
+Victoria_Kyoo : Added a Black Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 14 :
+8:08:21 PM
+averagegamercat: Added a Large Ring at Station [1,1]
+Move 15 :
+8:12:20 PM
+Victoria_Kyoo : Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 16 :
+8:12:30 PM
+averagegamercat: Added a Large Ring at Station [1,0]
+Move 17 :
+8:12:44 PM
+Victoria_Kyoo : Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 18 :
+8:12:51 PM
+averagegamercat: Added a Medium Ring at Station [1,0]
+Move 19 :
+8:13:10 PM
+Victoria_Kyoo : Added a Large Ring at Station [0,-1]
+Move 20 :
+8:13:17 PM
+averagegamercat: Added a Medium Ring at Station [1,1]
+Move 21 :
+8:13:27 PM
+Victoria_Kyoo : Added a Large Ring at Station [-1,-1]
+Move 22 :
+8:13:36 PM
+averagegamercat: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 23 :
+8:13:46 PM
+Victoria_Kyoo : Added a Large Ring at Station [-1,0]
+Move 24 :
+8:13:57 PM
+averagegamercat: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 25 :
+8:14:27 PM
+Victoria_Kyoo : Added a Medium Ring at Station [-1,-1]
+Move 26 :
+8:14:35 PM
+averagegamercat: Added a Small Ring at Station [0,1]
+The end of the game: averagegamercat wins!

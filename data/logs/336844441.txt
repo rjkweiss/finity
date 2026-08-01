@@ -1,0 +1,105 @@
+Game log
+Move 2 :1/15/2023 4:26:04 PM
+Swinkels: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :4:26:24 PM
+L-Crunch: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 4 :4:26:35 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 5 :4:27:13 PM
+L-Crunch: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 6 :4:27:37 PM
+Swinkels: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 7 :4:27:57 PM
+L-Crunch: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 8 :4:28:06 PM
+Swinkels: Added a White Bridge at Station [0,1] => [-1,1] Position:Right
+Move 9 :4:28:47 PM
+L-Crunch: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 10 :4:29:05 PM
+Swinkels: Added a Small Ring at Station [-1,0]
+Move 11 :4:29:16 PM
+L-Crunch: Reversed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 12 :4:29:23 PM
+Swinkels: Moved a Base Post at Station [-1,0]
+Move 13 :4:29:32 PM
+L-Crunch: Added a Small Ring at Station [1,0]
+Move 14 :4:29:59 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 15 :4:30:58 PM
+L-Crunch: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 16 :4:31:10 PM
+Swinkels: Added a Small Ring at Station [-1,1]
+Move 17 :4:33:31 PM
+L-Crunch: Moved a Base Post at Station [1,0]
+Move 18 :4:33:40 PM
+Swinkels: Added a Small Ring at Station [0,1]
+Move 19 :4:34:25 PM
+L-Crunch: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 20 :4:35:11 PM
+Swinkels: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 21 :4:35:26 PM
+L-Crunch: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 22 :4:35:38 PM
+Swinkels: Added a Small Ring at Station [0,-1]
+Move 23 :4:35:46 PM
+L-Crunch: Moved a Base Post at Station [1,1]
+Move 24 :4:36:17 PM
+Swinkels: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 25 :4:36:27 PM
+L-Crunch: Added a Small Ring at Station [1,-1]
+Move 26 :4:39:06 PM
+Swinkels: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 27 :4:40:39 PM
+L-Crunch: Removed a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 28 :4:40:45 PM
+Swinkels: Added a Medium Ring at Station [0,1]
+Move 29 :4:40:51 PM
+L-Crunch: Added a Medium Ring at Station [1,0]
+Move 30 :4:40:58 PM
+Swinkels: Added a Large Ring at Station [0,1]
+Move 31 :4:41:04 PM
+L-Crunch: Added a Large Ring at Station [1,0]
+Move 32 :4:41:09 PM
+Swinkels: Added a Medium Ring at Station [0,-1]
+Move 33 :4:41:52 PM
+L-Crunch: Added a Medium Ring at Station [1,-1]
+Move 34 :4:41:58 PM
+Swinkels: Added a Large Ring at Station [0,-1]
+Move 35 :4:42:26 PM
+L-Crunch: Added a Large Ring at Station [1,-1]
+Move 36 :4:42:33 PM
+Swinkels: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 37 :4:44:27 PM
+L-Crunch: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 38 :4:44:35 PM
+Swinkels: Added a Small Ring at Station [-1,-1]
+Move 39 :4:47:43 PM
+L-Crunch: Moved a Blocker at Station [-1,-1] => [-1,0] Position:Middle
+Move 40 :4:47:57 PM
+Swinkels: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 41 :4:51:12 PM
+L-Crunch: Added a Black Bridge at Station [1,0] => [0,1] Position:Right
+Move 42 :4:51:32 PM
+Swinkels: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 43 :4:51:58 PM
+L-Crunch: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 44 :4:52:08 PM
+Swinkels: Added a Medium Ring at Station [-1,-1]
+Move 45 :4:52:20 PM
+L-Crunch: Moved a Base Post at Station [0,1]
+Move 46 :4:53:30 PM
+Swinkels: Added a Large Ring at Station [-1,-1]
+Move 47 :4:54:48 PM
+L-Crunch: Reversed a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 48 :4:55:00 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 49 :4:57:29 PM
+L-Crunch: Reversed a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 50 :4:57:37 PM
+Swinkels: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 51 :4:58:08 PM
+L-Crunch: Moved a Base Post at Station [1,0]
+L-Crunch has to remove 3 orphaned rings
+Move 52 :4:58:18 PM
+Swinkels: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+The end of the game: Swinkels wins!

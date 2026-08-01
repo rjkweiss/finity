@@ -1,0 +1,62 @@
+Game log
+Move 1 :10/24/2022 7:47:07 AM
+The colors of Babztriol have been chosen according to their preferences. Change my preferences.
+Move 2 :10/25/2022 6:47:32 AM
+EvilGM123: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :8:18:05 AM
+Babztriol: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :8:50:17 AM
+EvilGM123: Added a Large Ring at Station [0,1]
+Move 5 :9:06:13 AM
+Babztriol: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :12:24:01 PM
+EvilGM123: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 7 :12:33:40 PM
+Babztriol: Added a Small Ring at Station [0,-1]
+Move 8 :2:27:19 PM
+EvilGM123: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 9 :2:28:38 PM
+Babztriol: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 10 :2:34:05 PM
+EvilGM123: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 11 :2:37:24 PM
+Babztriol: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 12 :10/26/2022 5:47:35 AM
+EvilGM123: Added a Large Ring at Station [1,1]
+Move 13 :7:01:59 AM
+Babztriol: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 14 :12:21:52 PM
+EvilGM123: Added a Medium Ring at Station [0,1]
+Move 15 :12:51:55 PM
+Babztriol: Added a White Bridge at Station [1,0] => [1,1] Position:Left
+Move 16 :1:23:50 PM
+EvilGM123: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 17 :1:24:50 PM
+Babztriol: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :1:25:47 PM
+EvilGM123: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 19 :1:27:03 PM
+Babztriol: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 20 :1:55:38 PM
+EvilGM123: Added a Small Ring at Station [1,0]
+Move 21 :2:07:36 PM
+Babztriol: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 22 :10/28/2022 5:34:28 AM
+EvilGM123: Added a Medium Ring at Station [1,1]
+Move 23 :11/2/2022 3:22:14 PM
+Babztriol: Added a Medium Ring at Station [1,0]
+Move 24 :3:29:30 PM
+EvilGM123: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 25 :4:02:34 PM
+Babztriol: Added a Small Ring at Station [1,1]
+Move 26 :11/3/2022 1:57:10 AM
+EvilGM123: Added a Small Ring at Station [1,-1]
+Move 27 :5:17:51 AM
+Babztriol: Added a Large Ring at Station [1,0]
+Move 28 :5:32:08 AM
+EvilGM123: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 29 :6:01:10 AM
+Babztriol: Added a Medium Ring at Station [0,-1]
+Move 30 :7:59:03 AM
+EvilGM123: Added a Large Ring at Station [0,-1]
+The end of the game: EvilGM123 wins!

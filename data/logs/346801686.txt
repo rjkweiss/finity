@@ -1,0 +1,55 @@
+Game log
+Move 1 :2/15/2023 4:23:13 PM
+The colors of tony1021 have been chosen according to their preferences. Change my preferences.
+Move 2 :4:57:50 PM
+BillFraser: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :2/16/2023 6:25:56 PM
+tony1021: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :7:14:18 PM
+BillFraser: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 5 :9:52:20 PM
+tony1021: Added a Small Ring at Station [1,0]
+Move 6 :11:02:18 PM
+BillFraser: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 7 :11:11:57 PM
+tony1021: Moved a Base Post at Station [1,0]
+Move 8 :2/17/2023 9:11:46 AM
+BillFraser: Added a Small Ring at Station [0,1]
+Move 9 :2/18/2023 7:24:01 AM
+tony1021: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 10 :9:20:36 PM
+BillFraser: Added a Medium Ring at Station [0,1]
+Move 11 :10:18:14 PM
+tony1021: Added a Small Ring at Station [1,-1]
+Move 12 :10:25:06 PM
+BillFraser: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 13 :10:29:37 PM
+tony1021: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 14 :11:01:07 PM
+BillFraser: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 15 :2/19/2023 11:45:31 AM
+tony1021: Added a Black Bridge at Station [-1,0] => [0,0] Position:Left
+Move 16 :6:24:19 PM
+BillFraser: Added a Medium Ring at Station [1,0]
+Move 17 :2/22/2023 3:52:48 PM
+tony1021: Removed a Black Bridge at Station [0,1] => [1,0] Position:Right
+BillFraser has to remove 1 orphaned rings
+Move 18 :5:55:47 PM
+BillFraser: Moved a Base Post at Station [0,1]
+Move 19 :7:02:28 PM
+tony1021: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 20 :8:39:18 PM
+BillFraser: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 21 :9:47:24 PM
+tony1021: Added a Small Ring at Station [0,-1]
+Move 22 :11:44:38 PM
+BillFraser: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 23 :2/23/2023 7:04:26 AM
+tony1021: Added a Medium Ring at Station [1,-1]
+Move 24 :8:56:01 AM
+BillFraser: Added a Small Ring at Station [-1,1]
+Move 25 :10:25:54 AM
+tony1021: Added a Large Ring at Station [1,-1]
+Move 26 :1:59:15 PM
+BillFraser concedes the game.
+The end of the game: tony1021 wins!

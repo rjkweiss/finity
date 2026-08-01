@@ -1,0 +1,269 @@
+Move 3 :
+8/10/2020 8:24:30 AM
+OtioseWitch: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 4 :
+8:24:55 AM
+Commander Arthur: Added a White Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 5 :
+8:25:19 AM
+OtioseWitch: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 6 :
+8:25:31 AM
+Commander Arthur: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 7 :
+8:25:51 AM
+OtioseWitch: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 8 :
+8:26:41 AM
+Commander Arthur: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 9 :
+8:26:59 AM
+OtioseWitch: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 10 :
+8:27:16 AM
+Commander Arthur: Added a Medium Ring at Station [0,-1]
+Move 11 :
+8:27:24 AM
+OtioseWitch: Added a Large Ring at Station [0,1]
+Move 12 :
+8:27:55 AM
+Commander Arthur: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 13 :
+8:28:11 AM
+OtioseWitch: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 14 :
+8:28:18 AM
+Commander Arthur: Added a Large Ring at Station [-1,0]
+Move 15 :
+8:28:49 AM
+OtioseWitch: Added a Medium Ring at Station [1,1]
+Move 16 :
+8:29:42 AM
+Commander Arthur: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 17 :
+8:30:15 AM
+OtioseWitch: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 18 :
+8:30:29 AM
+Commander Arthur: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 19 :
+8:33:46 AM
+OtioseWitch: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 20 :
+8:34:01 AM
+Commander Arthur: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 21 :
+8:35:20 AM
+OtioseWitch: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 22 :
+8:37:09 AM
+Commander Arthur: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 23 :
+8:37:52 AM
+OtioseWitch: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 24 :
+8:38:06 AM
+Commander Arthur: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 25 :
+8:38:16 AM
+OtioseWitch: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 26 :
+8:38:28 AM
+Commander Arthur: Added a Large Ring at Station [1,0]
+Move 27 :
+8:38:42 AM
+OtioseWitch: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 28 :
+8:40:49 AM
+Commander Arthur: Removed a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 29 :
+8:41:09 AM
+OtioseWitch: Added a Medium Ring at Station [1,0]
+Move 30 :
+8:41:18 AM
+Commander Arthur: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 31 :
+8:42:11 AM
+OtioseWitch: Added a Small Ring at Station [1,0]
+Move 32 :
+8:42:31 AM
+Commander Arthur: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 33 :
+8:43:09 AM
+OtioseWitch: Added a Large Ring at Station [1,1]
+Move 34 :
+8:43:22 AM
+Commander Arthur: Added a Large Ring at Station [-1,1]
+Move 35 :
+8:43:51 AM
+OtioseWitch: Added a Medium Ring at Station [0,1]
+Move 36 :
+8:44:41 AM
+Commander Arthur: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 37 :
+8:45:00 AM
+OtioseWitch: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Commander Arthur has to remove 1 orphaned rings
+Move 38 :
+8:45:50 AM
+Commander Arthur: Added a Small Ring at Station [0,1]
+Move 39 :
+8:46:10 AM
+OtioseWitch: Added a Large Ring at Station [1,-1]
+Move 40 :
+8:46:21 AM
+Commander Arthur: Added a Large Ring at Station [1,0]
+Move 41 :
+8:46:29 AM
+OtioseWitch: Added a Medium Ring at Station [1,-1]
+Move 42 :
+8:47:30 AM
+Commander Arthur: Added a Small Ring at Station [1,1]
+Move 43 :
+8:47:39 AM
+OtioseWitch: Reversed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Commander Arthur has to remove 4 orphaned rings
+Move 44 :
+8:48:23 AM
+Commander Arthur: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+OtioseWitch has to remove 2 orphaned rings
+Move 45 :
+8:48:35 AM
+OtioseWitch: Added a Large Ring at Station [1,0]
+Move 46 :
+8:48:46 AM
+Commander Arthur: Reversed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 47 :
+8:50:34 AM
+OtioseWitch: Reversed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 48 :
+8:50:43 AM
+Commander Arthur: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 49 :
+8:52:41 AM
+OtioseWitch: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 50 :
+8:52:50 AM
+Commander Arthur: Added a White Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 51 :
+8:53:46 AM
+OtioseWitch: Added a Small Ring at Station [1,1]
+Move 52 :
+8:54:08 AM
+Commander Arthur: Added a Large Ring at Station [-1,1]
+Move 53 :
+8:54:50 AM
+OtioseWitch: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+Move 54 :
+8:54:59 AM
+Commander Arthur: Added a Small Ring at Station [0,1]
+Move 55 :
+8:57:32 AM
+OtioseWitch: Added a Medium Ring at Station [-1,0]
+Move 56 :
+8:57:47 AM
+Commander Arthur: Removed a White Bridge at Station [-1,1] => [0,1] Position:Left
+OtioseWitch has to remove 8 orphaned rings
+Commander Arthur has to remove 1 orphaned rings
+Move 57 :
+8:58:47 AM
+OtioseWitch: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Commander Arthur has to remove 2 orphaned rings
+Move 58 :
+8:59:08 AM
+Commander Arthur: Added a Small Ring at Station [0,-1]
+Move 59 :
+8:59:46 AM
+OtioseWitch: Added a Large Ring at Station [-1,0]
+Move 60 :
+9:00:02 AM
+Commander Arthur: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 61 :
+9:00:20 AM
+OtioseWitch: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 62 :
+9:00:27 AM
+Commander Arthur: Added a Small Ring at Station [-1,0]
+Move 63 :
+9:01:59 AM
+OtioseWitch: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 64 :
+9:02:18 AM
+Commander Arthur: Added a Large Ring at Station [-1,1]
+Move 65 :
+9:02:57 AM
+OtioseWitch: Reversed a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 66 :
+9:03:27 AM
+Commander Arthur: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 67 :
+9:04:14 AM
+OtioseWitch: Added a Large Ring at Station [0,1]
+Move 68 :
+9:04:25 AM
+Commander Arthur: Added a Small Ring at Station [0,1]
+Move 69 :
+9:05:16 AM
+OtioseWitch: Added a Medium Ring at Station [0,1]
+Move 70 :
+9:05:41 AM
+Commander Arthur: Removed a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 71 :
+9:07:01 AM
+OtioseWitch: Added a Medium Ring at Station [1,1]
+Move 72 :
+9:07:10 AM
+Commander Arthur: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 73 :
+9:07:17 AM
+OtioseWitch: Added a Large Ring at Station [1,1]
+Move 74 :
+9:07:36 AM
+Commander Arthur: Added a Small Ring at Station [1,0]
+Move 75 :
+9:07:43 AM
+OtioseWitch: Added a Large Ring at Station [1,0]
+Move 76 :
+9:08:07 AM
+Commander Arthur: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 77 :
+9:08:22 AM
+OtioseWitch: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 78 :
+9:09:17 AM
+Commander Arthur: Added a Small Ring at Station [1,1]
+Move 79 :
+9:09:33 AM
+OtioseWitch: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 80 :
+9:09:46 AM
+Commander Arthur: Removed a White Bridge at Station [1,1] => [1,0] Position:Middle
+OtioseWitch has to remove 1 orphaned rings
+Move 81 :
+9:10:22 AM
+OtioseWitch: Reversed a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 82 :
+9:10:34 AM
+Commander Arthur: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 83 :
+9:10:49 AM
+OtioseWitch: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 84 :
+9:11:49 AM
+Commander Arthur: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 85 :
+9:12:19 AM
+OtioseWitch: Added a Medium Ring at Station [1,0]
+Move 86 :
+9:12:33 AM
+Commander Arthur: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 87 :
+9:12:55 AM
+OtioseWitch: Added a Medium Ring at Station [1,-1]
+Move 88 :
+9:13:11 AM
+Commander Arthur: Added a Large Ring at Station [-1,-1]
+Move 89 :
+9:13:25 AM
+OtioseWitch: Added a Large Ring at Station [0,-1]
+The end of the game: OtioseWitch wins!

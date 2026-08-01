@@ -1,0 +1,94 @@
+Move 1 :
+6/2/2020 7:40:15 PM
+The colors of yaolu have been chosen according to their preferences. Change my preferences.
+Move 2 :
+7:41:29 PM
+krokus: Added a White Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 3 :
+7:41:45 PM
+yaolu: Added a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 4 :
+7:41:59 PM
+krokus: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Left
+Move 5 :
+7:42:08 PM
+yaolu: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 6 :
+7:42:39 PM
+krokus: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 7 :
+7:43:42 PM
+yaolu: Added a Small Ring at Station [1,0]
+Move 8 :
+7:44:37 PM
+krokus: Moved a Blocker at Station [0,0] => [1,0] Position:Left
+Move 9 :
+7:44:49 PM
+yaolu: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 10 :
+7:45:04 PM
+krokus: Moved a Blocker at Station [1,1] => [1,0] Position:Right
+Move 11 :
+7:45:40 PM
+yaolu: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 12 :
+7:46:16 PM
+krokus: Added a Black Bridge at Station [1,0] => [0,1] Position:Middle
+Move 13 :
+7:46:51 PM
+yaolu: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 14 :
+7:47:53 PM
+krokus: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 15 :
+7:48:31 PM
+yaolu: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 16 :
+7:49:30 PM
+krokus: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 17 :
+7:49:48 PM
+yaolu: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 18 :
+7:50:00 PM
+krokus: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 19 :
+7:50:45 PM
+yaolu: Added a Black Bridge at Station [1,0] => [0,0] Position:Middle
+Move 20 :
+7:52:27 PM
+krokus: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 21 :
+7:52:39 PM
+yaolu: Added a Small Ring at Station [1,1]
+Move 22 :
+7:52:59 PM
+krokus: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 23 :
+7:53:14 PM
+yaolu: Added a Medium Ring at Station [1,0]
+Move 24 :
+7:53:32 PM
+krokus: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 25 :
+7:53:44 PM
+yaolu: Added a Small Ring at Station [0,1]
+Move 26 :
+7:54:04 PM
+krokus: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 27 :
+7:54:16 PM
+yaolu: Added a Medium Ring at Station [1,1]
+Move 28 :
+7:54:23 PM
+krokus: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 29 :
+7:54:37 PM
+yaolu: Added a Medium Ring at Station [0,1]
+Move 30 :
+7:55:13 PM
+krokus: Reversed a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 31 :
+7:55:19 PM
+yaolu: Added a Large Ring at Station [1,0]
+The end of the game: yaolu wins!

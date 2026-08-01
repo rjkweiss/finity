@@ -1,0 +1,147 @@
+Game log
+Move 2 :7/22/2022 4:19:39 PM
+MadisonSilver: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 3 :11:07:32 PM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 4 :11:09:41 PM
+MadisonSilver: Added a White Bridge at Station [0,1] => [1,1] Position:Right
+Move 5 :7/23/2022 12:37:39 AM
+Lucidorchid: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 6 :10:11:16 AM
+MadisonSilver: Added a Black Bridge at Station [0,1] => [-1,1] Position:Left
+Move 7 :6:52:27 PM
+Lucidorchid: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :10:55:53 PM
+MadisonSilver: Added a White Bridge at Station [1,1] => [0,1] Position:Middle
+Move 9 :11:28:40 PM
+Lucidorchid: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 10 :11:34:55 PM
+MadisonSilver: Added a Small Ring at Station [0,1]
+Move 11 :7/24/2022 5:49:10 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 12 :10:12:38 AM
+MadisonSilver: Added a Small Ring at Station [1,1]
+Move 13 :11:43:13 PM
+Lucidorchid: Added a Medium Ring at Station [0,-1]
+Move 14 :11:45:20 PM
+MadisonSilver: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 15 :11:46:42 PM
+Lucidorchid: Moved a Blocker at Station [1,1] => [1,0] Position:Left
+Move 16 :7/25/2022 10:55:49 AM
+MadisonSilver: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 17 :7/26/2022 6:19:07 AM
+Lucidorchid: Added a White Bridge at Station [1,0] => [1,-1] Position:Left
+Move 18 :8:33:31 AM
+MadisonSilver: Added a Small Ring at Station [1,0]
+Move 19 :7/27/2022 7:26:07 AM
+Lucidorchid: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 20 :9:47:57 AM
+MadisonSilver: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :10:58:38 PM
+Lucidorchid: Added a Small Ring at Station [-1,-1]
+Move 22 :11:01:38 PM
+MadisonSilver: Reversed a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Lucidorchid has to remove 1 orphaned rings
+Move 23 :11:02:57 PM
+Lucidorchid: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 24 :11:14:01 PM
+MadisonSilver: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 25 :7/28/2022 7:24:14 AM
+Lucidorchid: Added a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 26 :8:41:29 AM
+MadisonSilver: Added a Small Ring at Station [-1,0]
+Move 27 :7/31/2022 5:17:16 AM
+Lucidorchid: Added a Medium Ring at Station [-1,0]
+Move 28 :7:24:54 AM
+MadisonSilver: Removed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Lucidorchid has to remove 1 orphaned rings
+Move 29 :11:00:49 AM
+Lucidorchid: Removed a White Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 30 :11:08:15 AM
+MadisonSilver: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 31 :11:20:42 AM
+Lucidorchid: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 32 :11:50:51 AM
+MadisonSilver: Moved a Base Post at Station [0,-1]
+MadisonSilver has to remove 3 orphaned rings
+Move 33 :8/1/2022 1:37:23 AM
+Lucidorchid: Moved a Blocker at Station [0,0] => [-1,1] Position:Middle
+Move 34 :7:05:23 PM
+MadisonSilver: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Lucidorchid has to remove 2 orphaned rings
+Move 35 :9:30:29 PM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 36 :10:09:22 PM
+MadisonSilver: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 37 :8/2/2022 2:16:03 AM
+Lucidorchid: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 38 :8:26:01 AM
+MadisonSilver: Added a White Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 39 :8/5/2022 12:47:50 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 40 :12:49:20 AM
+MadisonSilver: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Lucidorchid has to remove 1 orphaned rings
+Move 41 :12:51:07 AM
+Lucidorchid: Moved a Blocker at Station [0,0] => [1,-1] Position:Middle
+Move 42 :7:14:49 AM
+MadisonSilver: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 43 :8/7/2022 6:38:00 AM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 44 :8:18:58 AM
+MadisonSilver: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 45 :8/8/2022 3:47:45 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 46 :7:21:30 AM
+MadisonSilver: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Lucidorchid has to remove 1 orphaned rings
+Move 47 :8/10/2022 1:07:11 AM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 48 :7:29:41 AM
+MadisonSilver: Added a Small Ring at Station [-1,1]
+Move 49 :7:52:37 AM
+Lucidorchid: Added a Small Ring at Station [1,0]
+Move 50 :8:04:05 AM
+MadisonSilver: Added a Small Ring at Station [0,1]
+Move 51 :8/11/2022 5:12:28 AM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 52 :7:06:40 AM
+MadisonSilver: Added a Medium Ring at Station [-1,1]
+Move 53 :8/12/2022 6:08:03 AM
+Lucidorchid: Added a Small Ring at Station [0,-1]
+Move 54 :8:14:51 AM
+MadisonSilver: Added a Medium Ring at Station [-1,0]
+Move 55 :8/13/2022 5:35:29 AM
+Lucidorchid: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 56 :7:40:10 AM
+MadisonSilver: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 57 :8/14/2022 12:59:55 AM
+Lucidorchid: Removed a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 58 :7:58:57 AM
+MadisonSilver: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 59 :8/16/2022 1:00:57 AM
+Lucidorchid: Added a Small Ring at Station [-1,-1]
+Move 60 :7:35:03 AM
+MadisonSilver: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Lucidorchid has to remove 2 orphaned rings
+Move 61 :8/17/2022 4:02:40 AM
+Lucidorchid: Added a Medium Ring at Station [1,0]
+Move 62 :7:30:24 AM
+MadisonSilver: Added a Small Ring at Station [-1,-1]
+Move 63 :8/18/2022 1:50:58 AM
+Lucidorchid: Moved a Blocker at Station [0,0] => [0,-1] Position:Middle
+Move 64 :7:39:51 AM
+MadisonSilver: Moved a Base Post at Station [-1,-1]
+Move 65 :8:31:09 PM
+Lucidorchid: Added a Large Ring at Station [1,0]
+Move 66 :10:11:13 PM
+MadisonSilver: Added a Small Ring at Station [0,-1]
+Move 67 :8/19/2022 7:14:35 PM
+Lucidorchid: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 68 :7:28:15 PM
+MadisonSilver: Added a Medium Ring at Station [0,-1]
+Move 69 :8/20/2022 3:24:09 AM
+Lucidorchid: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 70 :7:55:36 AM
+MadisonSilver: Added a White Bridge at Station [0,-1] => [0,0] Position:Right
+The end of the game: MadisonSilver wins!

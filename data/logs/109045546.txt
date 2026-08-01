@@ -1,0 +1,125 @@
+Move 2 :
+8/27/2020 12:48:34 AM
+hiihiii: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 3 :
+12:48:48 AM
+HeaHeaLeo: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 4 :
+12:49:00 AM
+hiihiii: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 5 :
+12:49:09 AM
+HeaHeaLeo: Moved a Blocker at Station [-1,1] => [0,1] Position:Middle
+Move 6 :
+12:49:30 AM
+hiihiii: Added a Medium Ring at Station [0,1]
+Move 7 :
+12:49:54 AM
+HeaHeaLeo: Added a Small Ring at Station [0,-1]
+Move 8 :
+12:50:07 AM
+hiihiii: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 9 :
+12:50:20 AM
+HeaHeaLeo: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 10 :
+12:50:32 AM
+hiihiii: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 11 :
+12:50:43 AM
+HeaHeaLeo: Added a Small Ring at Station [-1,-1]
+Move 12 :
+12:50:50 AM
+hiihiii: Added a Small Ring at Station [-1,0]
+Move 13 :
+12:50:55 AM
+HeaHeaLeo: Added a Medium Ring at Station [0,-1]
+Move 14 :
+12:51:08 AM
+hiihiii: Added a Medium Ring at Station [-1,0]
+Move 15 :
+12:51:18 AM
+HeaHeaLeo: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 16 :
+12:51:23 AM
+hiihiii: Added a Small Ring at Station [1,0]
+Move 17 :
+12:51:28 AM
+HeaHeaLeo: Added a Medium Ring at Station [1,0]
+Move 18 :
+12:51:42 AM
+hiihiii: Added a Black Bridge at Station [1,0] => [1,1] Position:Right
+Move 19 :
+12:51:57 AM
+HeaHeaLeo: Added a Black Bridge at Station [1,1] => [1,0] Position:Right
+Move 20 :
+12:52:08 AM
+hiihiii: Removed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+HeaHeaLeo has to remove 1 orphaned rings
+Move 21 :
+12:52:32 AM
+HeaHeaLeo: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 22 :
+12:52:42 AM
+hiihiii: Added a Small Ring at Station [1,1]
+Move 23 :
+12:52:53 AM
+HeaHeaLeo: Added a Large Ring at Station [0,-1]
+Move 24 :
+12:53:00 AM
+hiihiii: Added a Medium Ring at Station [1,0]
+Move 25 :
+12:53:07 AM
+HeaHeaLeo: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Left
+Move 26 :
+12:53:27 AM
+hiihiii: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 27 :
+12:53:35 AM
+HeaHeaLeo: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 28 :
+12:54:01 AM
+hiihiii: Added a Large Ring at Station [1,0]
+Move 29 :
+12:54:12 AM
+HeaHeaLeo: Added a Medium Ring at Station [-1,-1]
+Move 30 :
+12:54:23 AM
+hiihiii: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 31 :
+12:54:37 AM
+HeaHeaLeo: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 32 :
+12:54:46 AM
+hiihiii: Added a Large Ring at Station [-1,0]
+Move 33 :
+12:54:54 AM
+HeaHeaLeo: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 34 :
+12:55:01 AM
+hiihiii: Added a Large Ring at Station [0,1]
+Move 35 :
+12:55:32 AM
+HeaHeaLeo: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 36 :
+12:55:44 AM
+hiihiii: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 37 :
+12:56:02 AM
+HeaHeaLeo: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 38 :
+12:56:13 AM
+hiihiii: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 39 :
+12:57:48 AM
+HeaHeaLeo: Reversed a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 40 :
+12:58:02 AM
+hiihiii: Added a Small Ring at Station [0,1]
+Move 41 :
+12:58:29 AM
+HeaHeaLeo: Added a White Bridge at Station [0,0] => [1,0] Position:Middle
+Move 42 :
+12:58:46 AM
+hiihiii: Reversed a White Bridge at Station [0,0] => [0,1] Position:Middle
+The end of the game: hiihiii wins!

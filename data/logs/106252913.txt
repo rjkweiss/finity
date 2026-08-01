@@ -1,0 +1,106 @@
+Move 2 :
+8/10/2020 4:48:45 PM
+GonzaP12: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 3 :
+4:49:00 PM
+Andy99: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 4 :
+4:49:08 PM
+GonzaP12: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Right
+Move 5 :
+4:49:17 PM
+Andy99: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 6 :
+4:49:30 PM
+GonzaP12: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 7 :
+4:49:49 PM
+Andy99: Added a Large Ring at Station [1,0]
+Move 8 :
+4:50:14 PM
+GonzaP12: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 9 :
+4:50:19 PM
+Andy99: Moved a Base Post at Station [1,0]
+Move 10 :
+4:50:28 PM
+GonzaP12: Added a Large Ring at Station [-1,0]
+Move 11 :
+4:51:01 PM
+Andy99: Added a Large Ring at Station [1,-1]
+Move 12 :
+4:52:47 PM
+GonzaP12: Added a Medium Ring at Station [0,1]
+Move 13 :
+4:53:15 PM
+Andy99: Moved a Base Post at Station [1,-1]
+Move 14 :
+4:54:01 PM
+GonzaP12: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 15 :
+4:54:11 PM
+Andy99: Added a Small Ring at Station [1,0]
+Move 16 :
+4:54:39 PM
+GonzaP12: Moved a Base Post at Station [-1,-1]
+GonzaP12 has to remove 1 orphaned rings
+Move 17 :
+4:54:51 PM
+Andy99: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 18 :
+4:54:59 PM
+GonzaP12: Added a Large Ring at Station [-1,1]
+Move 19 :
+4:55:47 PM
+Andy99: Added a Small Ring at Station [0,1]
+Move 20 :
+4:55:57 PM
+GonzaP12: Added a Medium Ring at Station [0,1]
+Move 21 :
+4:56:13 PM
+Andy99: Reversed a Black Bridge at Station [-1,1] => [0,1] Position:Right
+GonzaP12 has to remove 1 orphaned rings
+Move 22 :
+4:56:25 PM
+GonzaP12: Reversed a White Bridge at Station [1,0] => [0,1] Position:Left
+Andy99 has to remove 1 orphaned rings
+Move 23 :
+4:56:38 PM
+Andy99: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 24 :
+4:56:47 PM
+GonzaP12: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 25 :
+4:56:57 PM
+Andy99: Added a Small Ring at Station [0,1]
+Move 26 :
+4:57:05 PM
+GonzaP12: Added a Medium Ring at Station [0,1]
+Move 27 :
+4:57:15 PM
+Andy99: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 28 :
+4:57:24 PM
+GonzaP12: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 29 :
+4:57:32 PM
+Andy99: Added a Large Ring at Station [0,1]
+Move 30 :
+4:57:41 PM
+GonzaP12: Added a Medium Ring at Station [1,0]
+Move 31 :
+4:57:52 PM
+Andy99: Added a Small Ring at Station [-1,1]
+Move 32 :
+4:58:26 PM
+GonzaP12: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 33 :
+4:58:36 PM
+Andy99: Added a Medium Ring at Station [-1,1]
+Move 34 :
+4:59:01 PM
+GonzaP12: Added a Small Ring at Station [1,-1]
+Move 35 :
+4:59:12 PM
+Andy99: Added a White Bridge at Station [-1,1] => [0,0] Position:Middle
+The end of the game: Andy99 wins!

@@ -1,0 +1,124 @@
+Move 1 :
+6/2/2020 5:56:31 PM
+Rematch with the exact same players detected: player order has been swapped.
+Move 3 :
+5:57:33 PM
+damnerd: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 4 :
+5:57:44 PM
+jaqueline_mafra: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 5 :
+5:57:57 PM
+damnerd: Added a Small Ring at Station [-1,0]
+Move 6 :
+5:58:13 PM
+jaqueline_mafra: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 7 :
+5:58:36 PM
+damnerd: Added a Large Ring at Station [-1,0]
+Move 8 :
+5:58:46 PM
+jaqueline_mafra: Added a White Bridge at Station [1,1] => [0,1] Position:Right
+Move 9 :
+5:59:25 PM
+damnerd: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 10 :
+5:59:40 PM
+jaqueline_mafra: Added a Small Ring at Station [1,0]
+Move 11 :
+5:59:50 PM
+damnerd: Moved a Base Post at Station [-1,0]
+Move 12 :
+5:59:58 PM
+jaqueline_mafra: Added a Small Ring at Station [1,1]
+Move 13 :
+6:00:08 PM
+damnerd: Added a Small Ring at Station [-1,1]
+Move 14 :
+6:00:18 PM
+jaqueline_mafra: Added a Small Ring at Station [0,1]
+Move 15 :
+6:00:36 PM
+damnerd: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 16 :
+6:00:44 PM
+jaqueline_mafra: Added a Large Ring at Station [0,1]
+Move 17 :
+6:02:08 PM
+damnerd: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 18 :
+6:03:15 PM
+jaqueline_mafra: Added a Medium Ring at Station [0,1]
+Move 19 :
+6:03:48 PM
+damnerd: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 20 :
+6:04:22 PM
+jaqueline_mafra: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 21 :
+6:04:57 PM
+damnerd: Added a Small Ring at Station [-1,-1]
+Move 22 :
+6:05:07 PM
+jaqueline_mafra: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 23 :
+6:05:45 PM
+damnerd: Added a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 24 :
+6:05:56 PM
+jaqueline_mafra: Added a Medium Ring at Station [1,1]
+Move 25 :
+6:06:31 PM
+damnerd: Added a Small Ring at Station [0,-1]
+Move 26 :
+6:06:37 PM
+jaqueline_mafra: Added a Medium Ring at Station [1,0]
+Move 27 :
+6:06:57 PM
+damnerd: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 28 :
+6:07:26 PM
+jaqueline_mafra: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 29 :
+6:08:25 PM
+damnerd: Added a Small Ring at Station [1,-1]
+Move 30 :
+6:08:50 PM
+jaqueline_mafra: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 31 :
+6:10:43 PM
+damnerd: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 32 :
+6:11:20 PM
+jaqueline_mafra: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 33 :
+6:12:07 PM
+damnerd: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 34 :
+6:12:15 PM
+jaqueline_mafra: Moved a Base Post at Station [1,0]
+Move 35 :
+6:12:20 PM
+damnerd: Added a Medium Ring at Station [0,-1]
+Move 36 :
+6:12:26 PM
+jaqueline_mafra: Added a Medium Ring at Station [1,-1]
+Move 37 :
+6:12:42 PM
+damnerd: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 38 :
+6:12:50 PM
+jaqueline_mafra: Added a Large Ring at Station [1,-1]
+Move 39 :
+6:12:56 PM
+damnerd: Added a Black Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 40 :
+6:13:02 PM
+jaqueline_mafra: Moved a Base Post at Station [1,-1]
+Move 41 :
+6:13:43 PM
+damnerd: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 42 :
+6:13:50 PM
+jaqueline_mafra: Added a Large Ring at Station [1,0]
+The end of the game: jaqueline_mafra wins!

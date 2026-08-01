@@ -1,0 +1,149 @@
+Move 2 :
+8/19/2020 1:38:31 PM
+Marco9457: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+1:39:09 PM
+Ceatough87: Added a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 4 :
+1:39:23 PM
+Marco9457: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+1:40:21 PM
+Ceatough87: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 6 :
+1:40:35 PM
+Marco9457: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 7 :
+1:41:33 PM
+Ceatough87: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 8 :
+1:41:40 PM
+Marco9457: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 9 :
+1:42:12 PM
+Ceatough87: Added a White Bridge at Station [0,0] => [0,-1] Position:Right
+Move 10 :
+1:42:24 PM
+Marco9457: Added a Black Bridge at Station [0,1] => [1,1] Position:Left
+Move 11 :
+1:42:34 PM
+Ceatough87: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 12 :
+1:42:48 PM
+Marco9457: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 13 :
+1:43:02 PM
+Ceatough87: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 14 :
+1:43:41 PM
+Marco9457: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 15 :
+1:43:51 PM
+Ceatough87: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 16 :
+1:44:10 PM
+Marco9457: Added a Small Ring at Station [0,1]
+Move 17 :
+1:44:19 PM
+Ceatough87: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 18 :
+1:44:30 PM
+Marco9457: Added a Medium Ring at Station [0,1]
+Move 19 :
+1:44:41 PM
+Ceatough87: Added a Small Ring at Station [0,-1]
+Move 20 :
+1:45:08 PM
+Marco9457: Added a Small Ring at Station [1,1]
+Move 21 :
+1:45:18 PM
+Ceatough87: Added a Medium Ring at Station [0,-1]
+Move 22 :
+1:46:00 PM
+Marco9457: Added a Small Ring at Station [-1,0]
+Move 23 :
+1:46:28 PM
+Ceatough87: Added a Medium Ring at Station [-1,-1]
+Move 24 :
+1:46:38 PM
+Marco9457: Added a Black Bridge at Station [0,1] => [0,0] Position:Right
+Move 25 :
+1:47:07 PM
+Ceatough87: Added a Large Ring at Station [-1,-1]
+Move 26 :
+1:47:25 PM
+Marco9457: Added a Black Bridge at Station [0,0] => [0,1] Position:Middle
+Move 27 :
+1:47:51 PM
+Ceatough87: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 28 :
+1:48:05 PM
+Marco9457: Removed a Black Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 29 :
+1:49:13 PM
+Ceatough87: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 30 :
+1:49:42 PM
+Marco9457: Added a Large Ring at Station [0,1]
+Move 31 :
+1:49:57 PM
+Ceatough87: Reversed a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 32 :
+1:51:13 PM
+Marco9457: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 33 :
+1:51:46 PM
+Ceatough87: Reversed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 34 :
+1:52:18 PM
+Marco9457: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 35 :
+1:52:34 PM
+Ceatough87: Removed a White Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 36 :
+1:52:43 PM
+Marco9457: Reversed a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Ceatough87 has to remove 4 orphaned rings
+Move 37 :
+1:54:11 PM
+Ceatough87: Reversed a White Bridge at Station [0,-1] => [1,-1] Position:Middle
+Move 38 :
+1:54:20 PM
+Marco9457: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 39 :
+1:54:32 PM
+Ceatough87: Reversed a White Bridge at Station [0,0] => [0,-1] Position:Right
+Move 40 :
+1:54:44 PM
+Marco9457: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 41 :
+1:54:56 PM
+Ceatough87: Added a White Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 42 :
+1:55:07 PM
+Marco9457: Added a White Bridge at Station [1,0] => [1,1] Position:Middle
+Move 43 :
+1:55:29 PM
+Ceatough87: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 44 :
+1:55:39 PM
+Marco9457: Added a White Bridge at Station [1,1] => [1,0] Position:Left
+Move 45 :
+1:55:53 PM
+Ceatough87: Added a Small Ring at Station [0,-1]
+Move 46 :
+1:56:02 PM
+Marco9457: Added a Small Ring at Station [1,0]
+Move 47 :
+1:56:19 PM
+Ceatough87: Added a Small Ring at Station [-1,-1]
+Move 48 :
+1:56:27 PM
+Marco9457: Added a Medium Ring at Station [1,0]
+Move 49 :
+1:56:35 PM
+Ceatough87: Added a Medium Ring at Station [-1,0]
+Move 50 :
+1:56:40 PM
+Marco9457: Added a Medium Ring at Station [1,1]
+The end of the game: Marco9457 wins!

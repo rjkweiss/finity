@@ -1,0 +1,433 @@
+Move 2 :
+9/4/2020 2:35:27 PM
+sophiazambrano: Added a Black Bridge at Station [-1,0] => [0,0] Position:Right
+Move 3 :
+2:37:28 PM
+Leonardo Fuentes: Added a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 4 :
+2:38:44 PM
+sophiazambrano: Added a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 5 :
+2:39:17 PM
+Leonardo Fuentes: Added a Black Bridge at Station [0,-1] => [0,0] Position:Right
+Move 6 :
+2:39:36 PM
+sophiazambrano: Added a White Bridge at Station [-1,1] => [0,1] Position:Left
+Move 7 :
+2:40:01 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 8 :
+2:40:34 PM
+sophiazambrano: Added a Large Ring at Station [0,1]
+Move 9 :
+2:41:20 PM
+Leonardo Fuentes: Added a Medium Ring at Station [1,0]
+Move 10 :
+2:42:30 PM
+sophiazambrano: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 11 :
+2:42:52 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 12 :
+2:43:25 PM
+sophiazambrano: Added a Medium Ring at Station [0,1]
+Move 13 :
+2:44:02 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 14 :
+2:44:24 PM
+sophiazambrano: Added a Black Bridge at Station [1,1] => [0,1] Position:Middle
+Move 15 :
+2:45:43 PM
+Leonardo Fuentes: Added a Large Ring at Station [1,0]
+Move 16 :
+2:46:32 PM
+sophiazambrano: Removed a White Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 17 :
+2:49:29 PM
+Leonardo Fuentes: Added a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 18 :
+2:49:52 PM
+sophiazambrano: Added a Small Ring at Station [0,1]
+Move 19 :
+2:50:23 PM
+Leonardo Fuentes: Moved a Base Post at Station [1,0]
+Move 20 :
+2:50:54 PM
+sophiazambrano: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 21 :
+2:51:16 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 22 :
+2:51:46 PM
+sophiazambrano: Added a Large Ring at Station [-1,0]
+Move 23 :
+2:52:25 PM
+Leonardo Fuentes: Added a Large Ring at Station [1,-1]
+Move 24 :
+2:52:44 PM
+sophiazambrano: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 25 :
+2:52:56 PM
+Leonardo Fuentes: Added a Small Ring at Station [0,-1]
+Move 26 :
+2:53:08 PM
+sophiazambrano: Added a Medium Ring at Station [-1,-1]
+Move 27 :
+2:54:15 PM
+Leonardo Fuentes: Added a Medium Ring at Station [0,-1]
+Move 28 :
+2:54:34 PM
+sophiazambrano: Removed a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+sophiazambrano has to remove 1 orphaned rings
+Move 29 :
+2:55:01 PM
+Leonardo Fuentes: Moved a Base Post at Station [0,-1]
+Leonardo Fuentes has to remove 3 orphaned rings
+Move 30 :
+2:55:27 PM
+sophiazambrano: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 31 :
+2:55:59 PM
+Leonardo Fuentes: Added a Black Bridge at Station [0,0] => [1,0] Position:Middle
+Move 32 :
+2:57:37 PM
+sophiazambrano: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 33 :
+2:57:48 PM
+Leonardo Fuentes: Reversed a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 34 :
+2:58:07 PM
+sophiazambrano: Added a Medium Ring at Station [-1,0]
+Move 35 :
+3:01:25 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 36 :
+3:02:19 PM
+sophiazambrano: Moved a Base Post at Station [0,1]
+sophiazambrano has to remove 2 orphaned rings
+Move 37 :
+3:03:01 PM
+Leonardo Fuentes: Added a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 38 :
+3:05:10 PM
+sophiazambrano: Added a Medium Ring at Station [1,1]
+Move 39 :
+3:16:24 PM
+Leonardo Fuentes: Moved a Blocker at Station [0,-1] => [-1,0] Position:Right
+Move 40 :
+3:17:14 PM
+sophiazambrano: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 41 :
+3:17:29 PM
+Leonardo Fuentes: Moved a Base Post at Station [1,-1]
+Move 42 :
+3:18:27 PM
+sophiazambrano: Moved a Base Post at Station [-1,1]
+sophiazambrano has to remove 1 orphaned rings
+Move 43 :
+3:22:45 PM
+Leonardo Fuentes: Added a Medium Ring at Station [1,0]
+Move 44 :
+3:23:25 PM
+sophiazambrano: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 45 :
+3:23:42 PM
+Leonardo Fuentes: Removed a White Bridge at Station [1,0] => [1,-1] Position:Right
+Move 46 :
+3:24:19 PM
+sophiazambrano: Added a Large Ring at Station [-1,0]
+Move 47 :
+3:24:47 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 48 :
+3:25:30 PM
+sophiazambrano: Removed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 49 :
+3:25:42 PM
+Leonardo Fuentes: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Leonardo Fuentes has to remove 1 orphaned rings
+Move 50 :
+3:26:35 PM
+sophiazambrano: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 51 :
+3:26:53 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 52 :
+3:27:39 PM
+sophiazambrano: Moved a Blocker at Station [0,0] => [0,1] Position:Middle
+Move 53 :
+3:28:24 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 54 :
+3:28:47 PM
+sophiazambrano: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 55 :
+3:29:18 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 56 :
+3:30:08 PM
+sophiazambrano: Added a Medium Ring at Station [-1,0]
+Move 57 :
+3:30:14 PM
+Leonardo Fuentes: Added a Small Ring at Station [1,0]
+Move 58 :
+3:30:24 PM
+sophiazambrano: Added a Small Ring at Station [-1,0]
+Move 59 :
+3:32:29 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 60 :
+3:32:42 PM
+sophiazambrano: Removed a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 61 :
+3:32:55 PM
+Leonardo Fuentes: Added a White Bridge at Station [0,0] => [1,-1] Position:Middle
+Move 62 :
+3:33:10 PM
+sophiazambrano: Added a White Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 63 :
+3:33:17 PM
+Leonardo Fuentes: Added a Medium Ring at Station [1,0]
+Move 64 :
+3:33:59 PM
+sophiazambrano: Removed a White Bridge at Station [-1,1] => [-1,0] Position:Right
+sophiazambrano has to remove 3 orphaned rings
+Move 65 :
+3:34:23 PM
+Leonardo Fuentes: Added a Large Ring at Station [1,0]
+Move 66 :
+3:34:40 PM
+sophiazambrano: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 67 :
+3:35:41 PM
+Leonardo Fuentes: Moved a Blocker at Station [0,1] => [1,0] Position:Middle
+Move 68 :
+3:36:34 PM
+sophiazambrano: Added a White Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 69 :
+3:36:49 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 70 :
+3:37:48 PM
+sophiazambrano: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Middle
+Move 71 :
+3:38:03 PM
+Leonardo Fuentes: Added a Large Ring at Station [0,-1]
+Move 72 :
+3:40:31 PM
+sophiazambrano: Moved a Blocker at Station [0,0] => [-1,0] Position:Right
+Move 73 :
+3:40:42 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,-1] => [0,0] Position:Right
+Move 74 :
+3:45:11 PM
+sophiazambrano: Removed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 75 :
+3:45:59 PM
+Leonardo Fuentes: Reversed a White Bridge at Station [1,0] => [0,0] Position:Right
+Move 76 :
+3:49:53 PM
+sophiazambrano: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 77 :
+3:51:26 PM
+Leonardo Fuentes: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 78 :
+3:51:50 PM
+sophiazambrano: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 79 :
+3:51:58 PM
+Leonardo Fuentes: Added a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 80 :
+3:52:37 PM
+sophiazambrano: Added a Black Bridge at Station [1,0] => [1,1] Position:Left
+Move 81 :
+3:52:50 PM
+Leonardo Fuentes: Added a Medium Ring at Station [-1,-1]
+Move 82 :
+3:55:29 PM
+sophiazambrano: Moved a Base Post at Station [0,1]
+Move 83 :
+3:56:21 PM
+Leonardo Fuentes: Added a Large Ring at Station [-1,-1]
+Move 84 :
+3:57:01 PM
+sophiazambrano: Added a Large Ring at Station [1,1]
+Move 85 :
+3:57:08 PM
+Leonardo Fuentes: Added a Small Ring at Station [-1,-1]
+Move 86 :
+3:57:28 PM
+sophiazambrano: Added a Large Ring at Station [-1,1]
+Move 87 :
+3:58:12 PM
+Leonardo Fuentes: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 88 :
+4:00:22 PM
+sophiazambrano: Added a Large Ring at Station [-1,0]
+Move 89 :
+4:03:05 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 90 :
+4:03:27 PM
+sophiazambrano: Added a Medium Ring at Station [-1,0]
+Move 91 :
+4:04:29 PM
+Leonardo Fuentes: Removed a White Bridge at Station [0,0] => [1,0] Position:Left
+Move 92 :
+4:04:44 PM
+sophiazambrano: Added a Small Ring at Station [-1,0]
+Move 93 :
+4:04:51 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,0] => [0,0] Position:Right
+Move 94 :
+4:05:10 PM
+sophiazambrano: Added a Black Bridge at Station [-1,1] => [0,0] Position:Left
+Move 95 :
+4:06:05 PM
+Leonardo Fuentes: Removed a White Bridge at Station [1,-1] => [1,0] Position:Right
+Leonardo Fuentes has to remove 3 orphaned rings
+Move 96 :
+4:06:24 PM
+sophiazambrano: Added a Medium Ring at Station [1,1]
+Move 97 :
+4:07:18 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 98 :
+4:07:56 PM
+sophiazambrano: Added a Small Ring at Station [1,1]
+Move 99 :
+4:11:53 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Leonardo Fuentes has to remove 3 orphaned rings
+Move 100 :
+4:12:05 PM
+sophiazambrano: Added a Medium Ring at Station [-1,1]
+Move 101 :
+4:12:17 PM
+Leonardo Fuentes: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 102 :
+4:12:57 PM
+sophiazambrano: Added a Small Ring at Station [-1,1]
+Move 103 :
+4:13:42 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 104 :
+4:14:32 PM
+sophiazambrano: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 105 :
+4:15:29 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,-1] => [1,0] Position:Right
+Move 106 :
+4:15:48 PM
+sophiazambrano: Added a White Bridge at Station [0,-1] => [-1,0] Position:Left
+Move 107 :
+4:16:56 PM
+Leonardo Fuentes: Removed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 108 :
+4:17:17 PM
+sophiazambrano: Removed a White Bridge at Station [0,1] => [-1,1] Position:Middle
+sophiazambrano has to remove 6 orphaned rings
+Move 109 :
+4:17:52 PM
+Leonardo Fuentes: Added a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 110 :
+4:18:10 PM
+sophiazambrano: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 111 :
+4:19:21 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 112 :
+4:19:42 PM
+sophiazambrano: Added a Large Ring at Station [-1,1]
+Move 113 :
+4:20:08 PM
+Leonardo Fuentes: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 114 :
+4:20:55 PM
+sophiazambrano: Added a Medium Ring at Station [-1,1]
+Move 115 :
+4:21:07 PM
+Leonardo Fuentes: Moved a Base Post at Station [0,-1]
+Move 116 :
+4:21:49 PM
+sophiazambrano: Added a Small Ring at Station [-1,1]
+Move 117 :
+4:22:00 PM
+Leonardo Fuentes: Added a Small Ring at Station [-1,-1]
+Move 118 :
+4:22:11 PM
+sophiazambrano: Moved a Base Post at Station [1,1]
+sophiazambrano has to remove 6 orphaned rings
+Move 119 :
+4:22:28 PM
+Leonardo Fuentes: Added a Medium Ring at Station [-1,-1]
+Move 120 :
+4:22:39 PM
+sophiazambrano: Added a Large Ring at Station [1,0]
+Move 121 :
+4:22:53 PM
+Leonardo Fuentes: Removed a Black Bridge at Station [-1,-1] => [0,-1] Position:Middle
+Move 122 :
+4:23:28 PM
+sophiazambrano: Added a Large Ring at Station [0,1]
+Move 123 :
+4:23:47 PM
+Leonardo Fuentes: Added a Medium Ring at Station [-1,0]
+Move 124 :
+4:24:03 PM
+sophiazambrano: Added a Medium Ring at Station [0,1]
+Move 125 :
+4:25:40 PM
+Leonardo Fuentes: Reversed a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 126 :
+4:25:53 PM
+sophiazambrano: Added a Large Ring at Station [-1,1]
+Move 127 :
+4:28:53 PM
+Leonardo Fuentes: Reversed a White Bridge at Station [0,-1] => [0,0] Position:Middle
+Move 128 :
+4:29:04 PM
+sophiazambrano: Added a Medium Ring at Station [1,0]
+Move 129 :
+4:29:14 PM
+Leonardo Fuentes: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 130 :
+4:29:24 PM
+sophiazambrano: Added a Small Ring at Station [0,1]
+Move 131 :
+4:29:53 PM
+Leonardo Fuentes: Added a Small Ring at Station [-1,0]
+Move 132 :
+4:30:34 PM
+sophiazambrano: Added a Small Ring at Station [-1,1]
+Move 133 :
+4:31:06 PM
+Leonardo Fuentes: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 134 :
+4:31:16 PM
+sophiazambrano: Added a Medium Ring at Station [-1,1]
+Move 135 :
+4:31:23 PM
+Leonardo Fuentes: Added a Large Ring at Station [-1,-1]
+Move 136 :
+4:31:32 PM
+sophiazambrano: Added a Small Ring at Station [1,0]
+Move 137 :
+4:31:38 PM
+Leonardo Fuentes: Added a Large Ring at Station [-1,0]
+Move 138 :
+4:32:15 PM
+sophiazambrano: Reversed a Black Bridge at Station [1,0] => [1,1] Position:Left
+sophiazambrano has to remove 6 orphaned rings
+Move 139 :
+4:35:20 PM
+Leonardo Fuentes: Reversed a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 140 :
+4:36:08 PM
+sophiazambrano: Reversed a White Bridge at Station [1,1] => [1,0] Position:Middle
+sophiazambrano has to remove 3 orphaned rings
+Move 141 :
+4:36:15 PM
+Leonardo Fuentes: Reversed a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+The end of the game: Leonardo Fuentes wins!

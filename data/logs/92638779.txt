@@ -1,0 +1,202 @@
+Move 3 :
+6/2/2020 5:20:47 PM
+jaqueline_mafra: Added a White Bridge at Station [0,0] => [0,1] Position:Right
+Move 4 :
+5:22:41 PM
+damnerd: Added a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 5 :
+5:24:15 PM
+jaqueline_mafra: Added a Black Bridge at Station [0,0] => [-1,1] Position:Middle
+Move 6 :
+5:24:25 PM
+damnerd: Added a Small Ring at Station [1,0]
+Move 7 :
+5:24:51 PM
+jaqueline_mafra: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 8 :
+5:25:32 PM
+damnerd: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+Move 9 :
+5:25:40 PM
+jaqueline_mafra: Added a Large Ring at Station [0,1]
+Move 10 :
+5:26:56 PM
+damnerd: Added a Black Bridge at Station [1,0] => [0,0] Position:Left
+Move 11 :
+5:27:14 PM
+jaqueline_mafra: Added a Medium Ring at Station [0,1]
+Move 12 :
+5:27:37 PM
+damnerd: Added a Medium Ring at Station [1,0]
+Move 13 :
+5:27:56 PM
+jaqueline_mafra: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 14 :
+5:28:06 PM
+damnerd: Added a Large Ring at Station [1,0]
+Move 15 :
+5:29:10 PM
+jaqueline_mafra: Moved a Base Post at Station [0,1]
+Move 16 :
+5:29:31 PM
+damnerd: Moved a Base Post at Station [1,0]
+Move 17 :
+5:29:40 PM
+jaqueline_mafra: Added a Large Ring at Station [1,1]
+Move 18 :
+5:30:30 PM
+damnerd: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 19 :
+5:30:57 PM
+jaqueline_mafra: Added a Medium Ring at Station [1,1]
+Move 20 :
+5:31:06 PM
+damnerd: Reversed a Black Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 21 :
+5:31:19 PM
+jaqueline_mafra: Added a Small Ring at Station [1,1]
+Move 22 :
+5:31:28 PM
+damnerd: Added a Medium Ring at Station [1,-1]
+Move 23 :
+5:31:45 PM
+jaqueline_mafra: Moved a Base Post at Station [-1,1]
+jaqueline_mafra has to remove 3 orphaned rings
+Move 24 :
+5:32:17 PM
+damnerd: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 25 :
+5:32:37 PM
+jaqueline_mafra: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 26 :
+5:32:46 PM
+damnerd: Moved a Base Post at Station [1,-1]
+damnerd has to remove 3 orphaned rings
+Move 27 :
+5:33:59 PM
+jaqueline_mafra: Added a Small Ring at Station [0,1]
+Move 28 :
+5:34:37 PM
+damnerd: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 29 :
+5:35:06 PM
+jaqueline_mafra: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 30 :
+5:35:22 PM
+damnerd: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 31 :
+5:36:02 PM
+jaqueline_mafra: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 32 :
+5:36:20 PM
+damnerd: Moved a Base Post at Station [0,-1]
+Move 33 :
+5:37:43 PM
+jaqueline_mafra: Moved a Base Post at Station [0,1]
+Move 34 :
+5:38:14 PM
+damnerd: Moved a Base Post at Station [1,-1]
+Move 35 :
+5:38:42 PM
+jaqueline_mafra: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 36 :
+5:39:07 PM
+damnerd: Added a Large Ring at Station [0,-1]
+Move 37 :
+5:39:17 PM
+jaqueline_mafra: Added a Large Ring at Station [-1,1]
+Move 38 :
+5:39:26 PM
+damnerd: Moved a Base Post at Station [0,-1]
+Move 39 :
+5:39:35 PM
+jaqueline_mafra: Added a Medium Ring at Station [-1,1]
+Move 40 :
+5:40:11 PM
+damnerd: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Right
+Move 41 :
+5:40:54 PM
+jaqueline_mafra: Added a White Bridge at Station [0,1] => [0,0] Position:Middle
+Move 42 :
+5:41:30 PM
+damnerd: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 43 :
+5:42:05 PM
+jaqueline_mafra: Added a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 44 :
+5:42:46 PM
+damnerd: Added a Small Ring at Station [1,0]
+Move 45 :
+5:43:11 PM
+jaqueline_mafra: Added a Medium Ring at Station [1,1]
+Move 46 :
+5:43:59 PM
+damnerd: Added a White Bridge at Station [1,0] => [1,1] Position:Right
+Move 47 :
+5:44:14 PM
+jaqueline_mafra: Added a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 48 :
+5:44:21 PM
+damnerd: Added a Small Ring at Station [1,1]
+Move 49 :
+5:44:29 PM
+jaqueline_mafra: Added a Large Ring at Station [1,1]
+Move 50 :
+5:45:44 PM
+damnerd: Moved a Blocker at Station [-1,-1] => [0,-1] Position:Middle
+Move 51 :
+5:48:33 PM
+jaqueline_mafra: Moved a Base Post at Station [1,1]
+jaqueline_mafra has to remove 5 orphaned rings
+Move 52 :
+5:50:03 PM
+damnerd: Added a Medium Ring at Station [1,0]
+Move 53 :
+5:50:45 PM
+jaqueline_mafra: Reversed a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 54 :
+5:51:03 PM
+damnerd: Added a Black Bridge at Station [1,1] => [1,0] Position:Middle
+Move 55 :
+5:51:11 PM
+jaqueline_mafra: Added a Small Ring at Station [0,1]
+Move 56 :
+5:51:24 PM
+damnerd: Removed a Black Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 57 :
+5:51:37 PM
+jaqueline_mafra: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 58 :
+5:51:51 PM
+damnerd: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 59 :
+5:52:00 PM
+jaqueline_mafra: Added a Small Ring at Station [-1,1]
+Move 60 :
+5:52:11 PM
+damnerd: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 61 :
+5:52:20 PM
+jaqueline_mafra: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 62 :
+5:52:32 PM
+damnerd: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 63 :
+5:53:06 PM
+jaqueline_mafra: Removed a White Bridge at Station [1,1] => [0,1] Position:Left
+Move 64 :
+5:53:20 PM
+damnerd: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 65 :
+5:53:27 PM
+jaqueline_mafra: Removed a White Bridge at Station [0,1] => [1,1] Position:Left
+Move 66 :
+5:53:57 PM
+damnerd: Added a Small Ring at Station [1,-1]
+Move 67 :
+5:54:04 PM
+jaqueline_mafra: Added a Medium Ring at Station [0,1]
+Move 68 :
+5:54:13 PM
+damnerd: Added a Small Ring at Station [-1,0]
+The end of the game: damnerd wins!

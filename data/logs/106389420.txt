@@ -1,0 +1,95 @@
+Move 2 :
+8/11/2020 11:35:44 AM
+you live only once: Added a Black Bridge at Station [-1,1] => [0,1] Position:Left
+Move 3 :
+11:36:18 AM
+evisia: Added a Black Bridge at Station [1,0] => [1,-1] Position:Left
+Move 4 :
+11:36:40 AM
+you live only once: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 5 :
+11:36:58 AM
+evisia: Added a Black Bridge at Station [1,-1] => [1,0] Position:Left
+Move 6 :
+11:37:08 AM
+you live only once: Added a Large Ring at Station [0,1]
+Move 7 :
+11:37:23 AM
+evisia: Added a Large Ring at Station [1,0]
+Move 8 :
+11:37:37 AM
+you live only once: Added a Black Bridge at Station [0,1] => [1,1] Position:Middle
+Move 9 :
+11:37:54 AM
+evisia: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 10 :
+11:38:20 AM
+you live only once: Added a Black Bridge at Station [0,1] => [1,0] Position:Middle
+Move 11 :
+11:38:57 AM
+evisia: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 12 :
+11:39:18 AM
+you live only once: Added a Black Bridge at Station [1,1] => [0,1] Position:Right
+Move 13 :
+11:39:36 AM
+evisia: Added a White Bridge at Station [-1,-1] => [-1,0] Position:Left
+Move 14 :
+11:39:53 AM
+you live only once: Added a Large Ring at Station [1,1]
+Move 15 :
+11:40:42 AM
+evisia: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Left
+Move 16 :
+11:40:52 AM
+you live only once: Added a White Bridge at Station [1,1] => [1,0] Position:Middle
+Move 17 :
+11:41:16 AM
+evisia: Added a Large Ring at Station [0,-1]
+Move 18 :
+11:41:31 AM
+you live only once: Added a Medium Ring at Station [1,0]
+Move 19 :
+11:41:48 AM
+evisia: Added a Large Ring at Station [-1,-1]
+Move 20 :
+11:41:56 AM
+you live only once: Reversed a Black Bridge at Station [0,-1] => [-1,-1] Position:Middle
+evisia has to remove 1 orphaned rings
+Move 21 :
+11:42:26 AM
+evisia: Added a Black Bridge at Station [0,-1] => [-1,-1] Position:Left
+Move 22 :
+11:42:34 AM
+you live only once: Added a Large Ring at Station [1,-1]
+Move 23 :
+11:43:45 AM
+evisia: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Middle
+Move 24 :
+11:44:12 AM
+you live only once: Added a White Bridge at Station [0,-1] => [1,-1] Position:Left
+Move 25 :
+11:44:32 AM
+evisia: Added a Large Ring at Station [-1,-1]
+Move 26 :
+11:44:40 AM
+you live only once: Added a Medium Ring at Station [0,-1]
+Move 27 :
+11:44:51 AM
+evisia: Added a Small Ring at Station [0,-1]
+Move 28 :
+11:45:00 AM
+you live only once: Added a Medium Ring at Station [1,-1]
+Move 29 :
+11:45:39 AM
+evisia: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 30 :
+11:45:51 AM
+you live only once: Added a Small Ring at Station [1,0]
+Move 31 :
+11:45:57 AM
+evisia: Added a Large Ring at Station [-1,0]
+Move 32 :
+11:46:05 AM
+you live only once: Added a White Bridge at Station [1,0] => [0,0] Position:Middle
+The end of the game: you live only once wins!

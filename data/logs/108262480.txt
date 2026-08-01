@@ -1,0 +1,204 @@
+Move 2 :
+8/22/2020 9:19:51 AM
+chunchungchi: Added a White Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 3 :
+9:24:47 AM
+Wong Benjamin: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 4 :
+9:25:06 AM
+Ko Pak Tin Boaz: Added a White Bridge at Station [0,1] => [-1,1] Position:Left
+Move 5 :
+9:25:52 AM
+Donald81: Added a White Bridge at Station [0,1] => [1,1] Position:Middle
+Move 6 :
+9:26:13 AM
+chunchungchi: Added a Large Ring at Station [-1,1]
+Move 7 :
+9:26:26 AM
+Wong Benjamin: Added a Small Ring at Station [-1,0]
+Move 8 :
+9:26:33 AM
+Ko Pak Tin Boaz: Added a Medium Ring at Station [-1,1]
+Move 9 :
+9:26:49 AM
+Donald81: Added a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Move 10 :
+9:27:55 AM
+chunchungchi: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Middle
+Move 11 :
+9:28:17 AM
+Wong Benjamin: Added a White Bridge at Station [-1,1] => [-1,2] Position:Middle
+Move 12 :
+9:28:29 AM
+Ko Pak Tin Boaz: Added a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Move 13 :
+9:28:45 AM
+Donald81: Added a White Bridge at Station [1,0] => [0,1] Position:Middle
+Move 14 :
+9:28:54 AM
+chunchungchi: Added a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Move 15 :
+9:29:07 AM
+Wong Benjamin: Added a Small Ring at Station [-1,1]
+Move 16 :
+9:29:15 AM
+Ko Pak Tin Boaz: Added a Small Ring at Station [-2,1]
+Move 17 :
+9:29:36 AM
+Donald81: Added a Small Ring at Station [0,1]
+Move 18 :
+9:29:44 AM
+chunchungchi: Added a Medium Ring at Station [-2,1]
+Move 19 :
+9:29:58 AM
+Wong Benjamin: Added a White Bridge at Station [0,-1] => [1,-2] Position:Middle
+Move 20 :
+9:30:08 AM
+Ko Pak Tin Boaz: Added a Medium Ring at Station [-1,0]
+Move 21 :
+9:30:42 AM
+Donald81: Added a White Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 22 :
+9:32:42 AM
+chunchungchi: Reversed a White Bridge at Station [-2,1] => [-1,0] Position:Middle
+Ko Pak Tin Boaz has to remove 1 orphaned rings
+Move 23 :
+9:33:13 AM
+Wong Benjamin: Added a Medium Ring at Station [-1,0]
+Move 24 :
+9:33:49 AM
+Ko Pak Tin Boaz: Added a White Bridge at Station [-2,1] => [-1,0] Position:Right
+Move 25 :
+9:34:19 AM
+Donald81: Added a Small Ring at Station [1,-1]
+Move 26 :
+9:34:55 AM
+chunchungchi: Added a Medium Ring at Station [-1,2]
+Move 27 :
+9:35:04 AM
+Wong Benjamin: Added a Large Ring at Station [-2,1]
+Move 28 :
+9:35:18 AM
+Ko Pak Tin Boaz: Reversed a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Wong Benjamin has to remove 4 orphaned rings
+Move 29 :
+9:35:54 AM
+Donald81: Added a Small Ring at Station [0,-1]
+Move 30 :
+9:37:16 AM
+chunchungchi: Reversed a White Bridge at Station [-1,1] => [-2,1] Position:Middle
+Ko Pak Tin Boaz has to remove 1 orphaned rings
+Move 31 :
+9:37:29 AM
+Wong Benjamin: Added a White Bridge at Station [0,-1] => [-1,0] Position:Right
+Move 32 :
+9:37:51 AM
+Ko Pak Tin Boaz: Added a Small Ring at Station [-1,1]
+Move 33 :
+9:38:11 AM
+Donald81: Added a Large Ring at Station [-1,0]
+Move 34 :
+9:38:57 AM
+chunchungchi: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Donald81 has to remove 3 orphaned rings
+Move 35 :
+9:39:13 AM
+Wong Benjamin: Added a Large Ring at Station [-1,0]
+Move 36 :
+9:39:52 AM
+Ko Pak Tin Boaz: Reversed a White Bridge at Station [1,0] => [0,1] Position:Middle
+Donald81 has to remove 1 orphaned rings
+Move 37 :
+9:40:13 AM
+Donald81: Reversed a White Bridge at Station [0,1] => [-1,1] Position:Left
+Ko Pak Tin Boaz has to remove 2 orphaned rings
+Move 38 :
+9:40:51 AM
+chunchungchi: Added a Medium Ring at Station [-1,1]
+Move 39 :
+9:41:01 AM
+Wong Benjamin: Added a Large Ring at Station [-2,1]
+Move 40 :
+9:41:54 AM
+Ko Pak Tin Boaz: Added a Small Ring at Station [1,0]
+Move 41 :
+9:43:11 AM
+Donald81: Added a White Bridge at Station [1,0] => [2,-1] Position:Middle
+Move 42 :
+9:43:50 AM
+chunchungchi: Added a Black Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 43 :
+9:44:36 AM
+Wong Benjamin: Added a Small Ring at Station [-1,0]
+Move 44 :
+9:45:35 AM
+Ko Pak Tin Boaz: Added a Medium Ring at Station [1,1]
+Move 45 :
+9:45:55 AM
+Donald81: Added a Large Ring at Station [2,-1]
+Move 46 :
+9:46:24 AM
+chunchungchi: Added a Large Ring at Station [0,1]
+Move 47 :
+9:46:30 AM
+Wong Benjamin: Added a Small Ring at Station [-1,1]
+Move 48 :
+9:47:27 AM
+Ko Pak Tin Boaz: Moved a Blocker at Station [1,1] => [1,0] Position:Middle
+Move 49 :
+9:47:40 AM
+Donald81: Added a White Bridge at Station [2,-1] => [1,-1] Position:Middle
+Move 50 :
+9:48:13 AM
+chunchungchi: Added a Large Ring at Station [1,0]
+Move 51 :
+9:48:32 AM
+Wong Benjamin: Added a Medium Ring at Station [0,1]
+Move 52 :
+9:49:07 AM
+Ko Pak Tin Boaz: Added a Medium Ring at Station [2,-1]
+Move 53 :
+9:49:23 AM
+Donald81: Added a Large Ring at Station [1,-1]
+Move 54 :
+9:49:42 AM
+chunchungchi: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 55 :
+9:50:03 AM
+Wong Benjamin: Added a Black Bridge at Station [0,1] => [1,0] Position:Right
+Move 56 :
+9:50:35 AM
+Ko Pak Tin Boaz: Added a Medium Ring at Station [1,0]
+Move 57 :
+9:50:45 AM
+Donald81: Added a Large Ring at Station [0,-1]
+Move 58 :
+9:51:41 AM
+chunchungchi: Added a Small Ring at Station [0,1]
+Move 59 :
+9:52:09 AM
+Wong Benjamin: Reversed a White Bridge at Station [0,1] => [1,0] Position:Middle
+Ko Pak Tin Boaz has to remove 3 orphaned rings
+Move 60 :
+9:52:36 AM
+Ko Pak Tin Boaz: Added a White Bridge at Station [0,1] => [1,0] Position:Left
+Move 61 :
+9:53:07 AM
+Donald81: Added a Medium Ring at Station [-1,0]
+Move 62 :
+9:53:20 AM
+chunchungchi: Added a Black Bridge at Station [-1,2] => [-1,1] Position:Right
+Move 63 :
+9:53:28 AM
+Wong Benjamin: Added a Medium Ring at Station [1,0]
+Move 64 :
+9:54:30 AM
+Ko Pak Tin Boaz: Added a Small Ring at Station [1,0]
+Move 65 :
+9:55:24 AM
+Donald81: Reversed a White Bridge at Station [1,0] => [1,-1] Position:Middle
+Donald81 has to remove 1 orphaned rings
+Move 66 :
+9:55:37 AM
+chunchungchi: Added a Black Bridge at Station [0,1] => [0,0] Position:Middle
+The end of the game: chunchungchi wins!

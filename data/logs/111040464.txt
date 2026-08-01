@@ -1,0 +1,140 @@
+Move 2 :
+9/7/2020 11:20:52 AM
+forf001: Added a White Bridge at Station [-1,1] => [0,1] Position:Right
+Move 3 :
+11:21:21 AM
+bibi6: Added a White Bridge at Station [1,-1] => [1,0] Position:Right
+Move 4 :
+11:21:39 AM
+forf001: Added a White Bridge at Station [0,1] => [1,0] Position:Right
+Move 5 :
+11:22:20 AM
+bibi6: Added a Small Ring at Station [1,0]
+Move 6 :
+11:22:35 AM
+forf001: Reversed a White Bridge at Station [1,-1] => [1,0] Position:Right
+bibi6 has to remove 1 orphaned rings
+Move 7 :
+11:22:50 AM
+bibi6: Added a White Bridge at Station [1,-1] => [1,0] Position:Middle
+Move 8 :
+11:23:10 AM
+forf001: Added a Black Bridge at Station [1,0] => [1,-1] Position:Right
+Move 9 :
+11:23:21 AM
+bibi6: Added a Small Ring at Station [1,0]
+Move 10 :
+11:24:33 AM
+forf001: Added a Small Ring at Station [0,1]
+Move 11 :
+11:24:43 AM
+bibi6: Reversed a White Bridge at Station [-1,1] => [0,1] Position:Right
+forf001 has to remove 1 orphaned rings
+Move 12 :
+11:24:56 AM
+forf001: Added a White Bridge at Station [-1,1] => [0,1] Position:Middle
+Move 13 :
+11:25:10 AM
+bibi6: Added a Medium Ring at Station [1,0]
+Move 14 :
+11:26:00 AM
+forf001: Added a Small Ring at Station [0,1]
+Move 15 :
+11:27:01 AM
+bibi6: Moved a Base Post at Station [0,1]
+Move 16 :
+11:27:45 AM
+forf001: Added a Large Ring at Station [1,0]
+Move 17 :
+11:27:55 AM
+bibi6: Added a Small Ring at Station [1,-1]
+Move 18 :
+11:28:31 AM
+forf001: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+forf001 has to remove 1 orphaned rings
+bibi6 has to remove 3 orphaned rings
+Move 19 :
+11:28:43 AM
+bibi6: Added a Small Ring at Station [-1,1]
+Move 20 :
+11:30:06 AM
+forf001: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 21 :
+11:31:46 AM
+bibi6: Reversed a White Bridge at Station [1,0] => [0,1] Position:Left
+Move 22 :
+11:33:07 AM
+forf001: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 23 :
+11:33:47 AM
+bibi6: Added a Small Ring at Station [1,0]
+Move 24 :
+11:34:03 AM
+forf001: Reversed a White Bridge at Station [0,1] => [1,0] Position:Right
+bibi6 has to remove 1 orphaned rings
+Move 25 :
+11:34:26 AM
+bibi6: Added a White Bridge at Station [0,1] => [1,0] Position:Middle
+Move 26 :
+11:36:34 AM
+forf001: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 27 :
+11:36:49 AM
+bibi6: Added a Small Ring at Station [1,0]
+Move 28 :
+11:37:27 AM
+forf001: Added a White Bridge at Station [0,0] => [0,1] Position:Middle
+Move 29 :
+11:38:08 AM
+bibi6: Added a Small Ring at Station [1,-1]
+Move 30 :
+11:38:42 AM
+forf001: Added a Black Bridge at Station [0,1] => [-1,1] Position:Right
+Move 31 :
+11:38:50 AM
+bibi6: Added a Medium Ring at Station [1,0]
+Move 32 :
+11:39:42 AM
+forf001: Added a Black Bridge at Station [0,0] => [-1,0] Position:Left
+Move 33 :
+11:39:52 AM
+bibi6: Added a Medium Ring at Station [1,-1]
+Move 34 :
+11:40:28 AM
+forf001: Added a White Bridge at Station [-1,1] => [-1,0] Position:Right
+Move 35 :
+11:40:36 AM
+bibi6: Added a Large Ring at Station [1,-1]
+Move 36 :
+11:40:42 AM
+forf001: Added a Small Ring at Station [-1,0]
+Move 37 :
+11:40:59 AM
+bibi6: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Right
+Move 38 :
+11:41:24 AM
+forf001: Added a White Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 39 :
+11:41:33 AM
+bibi6: Added a Black Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 40 :
+11:42:26 AM
+forf001: Added a Medium Ring at Station [0,1]
+Move 41 :
+11:42:39 AM
+bibi6: Moved a Base Post at Station [1,0]
+bibi6 has to remove 1 orphaned rings
+Move 42 :
+11:42:52 AM
+forf001: Added a Medium Ring at Station [-1,0]
+Move 43 :
+11:43:03 AM
+bibi6: Added a Small Ring at Station [0,-1]
+Move 44 :
+11:44:21 AM
+forf001: Moved a Base Post at Station [0,1]
+forf001 has to remove 2 orphaned rings
+Move 45 :
+11:44:34 AM
+bibi6: Added a Small Ring at Station [-1,0]
+The end of the game: bibi6 wins!

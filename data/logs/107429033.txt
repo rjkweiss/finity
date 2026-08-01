@@ -1,0 +1,125 @@
+Move 3 :
+8/17/2020 11:51:11 AM
+bibi6: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 4 :
+11:51:36 AM
+tayutama777: Added a Black Bridge at Station [-1,0] => [-1,-1] Position:Left
+Move 5 :
+11:51:57 AM
+bibi6: Added a Small Ring at Station [-1,0]
+Move 6 :
+11:52:06 AM
+tayutama777: Reversed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+bibi6 has to remove 1 orphaned rings
+Move 7 :
+11:52:26 AM
+bibi6: Added a White Bridge at Station [-1,-1] => [0,-1] Position:Right
+Move 8 :
+11:52:41 AM
+tayutama777: Added a Black Bridge at Station [1,-1] => [0,-1] Position:Middle
+Move 9 :
+11:52:52 AM
+bibi6: Added a White Bridge at Station [0,-1] => [-1,-1] Position:Middle
+Move 10 :
+11:52:59 AM
+tayutama777: Added a Black Bridge at Station [0,-1] => [1,-1] Position:Right
+Move 11 :
+11:53:09 AM
+bibi6: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Middle
+Move 12 :
+11:53:14 AM
+tayutama777: Added a Small Ring at Station [0,-1]
+Move 13 :
+11:53:43 AM
+bibi6: Added a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 14 :
+11:53:56 AM
+tayutama777: Added a Small Ring at Station [-1,-1]
+Move 15 :
+11:54:04 AM
+bibi6: Added a Small Ring at Station [-1,0]
+Move 16 :
+11:54:11 AM
+tayutama777: Moved a Base Post at Station [-1,0]
+Move 17 :
+11:54:52 AM
+bibi6: Added a White Bridge at Station [0,-1] => [-1,0] Position:Middle
+Move 18 :
+11:55:04 AM
+tayutama777: Added a Black Bridge at Station [-1,0] => [0,-1] Position:Left
+Move 19 :
+11:55:48 AM
+bibi6: Added a Black Bridge at Station [-1,-1] => [-1,0] Position:Middle
+Move 20 :
+11:55:59 AM
+tayutama777: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+bibi6 has to remove 1 orphaned rings
+Move 21 :
+11:57:20 AM
+bibi6: Added a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+Move 22 :
+11:57:32 AM
+tayutama777: Added a Medium Ring at Station [-1,-1]
+Move 23 :
+11:57:44 AM
+bibi6: Added a Medium Ring at Station [-1,0]
+Move 24 :
+11:58:08 AM
+tayutama777: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Middle
+bibi6 has to remove 1 orphaned rings
+Move 25 :
+11:58:36 AM
+bibi6: Added a Black Bridge at Station [-1,1] => [0,0] Position:Middle
+Move 26 :
+11:58:50 AM
+tayutama777: Moved a Blocker at Station [-1,0] => [-1,1] Position:Middle
+Move 27 :
+11:59:06 AM
+bibi6: Added a Black Bridge at Station [0,0] => [0,-1] Position:Middle
+Move 28 :
+11:59:15 AM
+tayutama777: Added a White Bridge at Station [-1,1] => [-1,0] Position:Left
+Move 29 :
+12:00:28 PM
+bibi6: Reversed a Black Bridge at Station [-1,0] => [-1,1] Position:Left
+Move 30 :
+12:00:35 PM
+tayutama777: Added a Medium Ring at Station [0,-1]
+Move 31 :
+12:00:47 PM
+bibi6: Added a Medium Ring at Station [-1,0]
+Move 32 :
+12:00:52 PM
+tayutama777: Removed a Black Bridge at Station [-1,1] => [-1,0] Position:Right
+bibi6 has to remove 1 orphaned rings
+Move 33 :
+12:02:13 PM
+bibi6: Moved a Blocker at Station [-1,0] => [-1,1] Position:Left
+Move 34 :
+12:02:21 PM
+tayutama777: Added a Large Ring at Station [-1,-1]
+Move 35 :
+12:02:39 PM
+bibi6: Added a Black Bridge at Station [-1,1] => [0,1] Position:Right
+Move 36 :
+12:02:45 PM
+tayutama777: Added a Black Bridge at Station [-1,0] => [0,0] Position:Middle
+Move 37 :
+12:02:52 PM
+bibi6: Added a Small Ring at Station [0,1]
+Move 38 :
+12:02:59 PM
+tayutama777: Added a Large Ring at Station [0,-1]
+Move 39 :
+12:03:15 PM
+bibi6: Added a Black Bridge at Station [0,1] => [-1,1] Position:Middle
+Move 40 :
+12:03:22 PM
+tayutama777: Added a Small Ring at Station [1,-1]
+Move 41 :
+12:04:11 PM
+bibi6: Added a White Bridge at Station [-1,0] => [-1,-1] Position:Right
+Move 42 :
+12:04:17 PM
+tayutama777: Added a Black Bridge at Station [1,-1] => [0,0] Position:Middle
+The end of the game: tayutama777 wins!
