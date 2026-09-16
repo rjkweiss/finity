@@ -10,13 +10,13 @@ import {
   occupiesHighPoint,
   getAllArrows,
   getAllBlockers,
-  getAllRings,
   arrowCount,
   ringCount,
-  canBlockSlot,
   isRedundant,
-  canMakeArrowMoveInSlot,
 } from '../src/engine';
+import { possibleMoves } from '../src/possible-moves';
+import { STATION_SLOTS } from '../src/topology';
+
 import type {
   FinityGameState,
   GameConfig,
@@ -451,46 +451,124 @@ describe('Turn management', () => {
   });
 });
 
+describe('turnsSinceRingChange — forced-draw counter', () => {
+  /** Drop an arrow directly onto the board, bypassing move generation, so a
+   *  position can be reached without burning turns that would themselves
+   *  disturb the counter under test. */
+  function putArrow(
+    state: FinityGameState,
+    from: StationName,
+    to: StationName,
+    channel: 'L' | 'C' | 'R',
+    color: 'b' | 'w',
+  ): number {
+    const slotId = STATION_SLOTS[from][to]![channel]!;
+    state.board.slots[slotId].contains = {
+      type: 'arrow', color, fromStation: from, toStation: to, slotId,
+    };
+    return slotId;
+  }
+
+  /** First arrow placement offered — a structurally unproductive move: it
+   *  adds no ring and severs no support. */
+  function anyArrowPlacement(state: FinityGameState): MoveAction {
+    const move = possibleMoves(state).find(
+      (m) => m.type === 'place' && m.pieceToAdd?.type === 'arrow',
+    );
+    if (!move) throw new Error('fixture: no arrow placement available');
+    return move;
+  }
+
+  function totalRings(state: FinityGameState): number {
+    return Object.values(state.board.stations)
+      .reduce((n, st) => n + st.rings.filter(Boolean).length, 0);
+  }
+
+  it('starts at zero', () => {
+    expect(createTestGame().turnsSinceRingChange).toBe(0);
+  });
+
+  it('increments on a move that neither adds nor removes a ring', () => {
+    const game = createTestGame();
+    game.turnsSinceRingChange = 5;
+    const before = totalRings(game);
+
+    const next = applyMove(game, anyArrowPlacement(game));
+
+    expect(totalRings(next)).toBe(before); // fixture sanity
+    expect(next.turnsSinceRingChange).toBe(6);
+  });
+
+  it('resets to zero when a ring is placed', () => {
+    // Cyan's base post sits on N. A black bridge N -> NW matches
+    // pattern[0] = 'b', which makes NW reachable and a small ring legal
+    // there. Random play almost never reaches a ring placement, so this
+    // position is built by hand.
+    const game = createTestGame(make2PlayerConfig());
+    putArrow(game, 'N', 'NW', 'C', 'b');
+    game.turnsSinceRingChange = 7;
+
+    const ringMove = possibleMoves(game).find(
+      (m) => m.type === 'place' && m.pieceToAdd?.type === 'ring',
+    );
+    expect(ringMove).toBeDefined(); // fixture sanity
+
+    const next = applyMove(game, ringMove!);
+    expect(next.board.stations.NW.rings.filter(Boolean)).toHaveLength(1);
+    expect(next.turnsSinceRingChange).toBe(0);
+  });
+
+  it('resets to zero when a reversal orphans a ring', () => {
+    // The counter must respond to rings LEAVING the board, not only to
+    // rings being placed. Reversing N -> NW severs the only support for
+    // the cyan ring on NW, so clearOrphans sweeps it.
+    const game = createTestGame(make2PlayerConfig());
+    const slotId = putArrow(game, 'N', 'NW', 'C', 'b');
+    game.board.stations.NW.rings[0] = { type: 'ring', color: 'cyan', size: 's' };
+    game.turnsSinceRingChange = 4;
+
+    const arrow = game.board.slots[slotId].contains as ArrowState;
+    const next = applyMove(game, {
+      type: 'replace',
+      pieceToRemove: arrow,
+      pieceToAdd: { ...arrow, fromStation: 'NW', toStation: 'N' },
+    });
+
+    // The reversal must actually orphan, or the test proves nothing.
+    expect(next.board.stations.NW.rings.filter(Boolean)).toHaveLength(0);
+    expect(next.turnsSinceRingChange).toBe(0);
+  });
+
+  it('ends the game once the counter reaches DRAW_ROUND_LIMIT x players', () => {
+    // Rulebook p.8: ten rounds with no ring added or removed forces a
+    // draw. Ten ROUNDS is twenty turns at two players, so the threshold
+    // scales with player count.
+    const game = createTestGame(make2PlayerConfig());
+    game.turnsSinceRingChange = 19;
+
+    const next = applyMove(game, anyArrowPlacement(game));
+
+    expect(next.turnsSinceRingChange).toBe(20);
+    expect(next.playStatus).toBe('over');
+    expect(next.winners).toHaveLength(0); // a draw, not a win
+  });
+
+  it('does not end the game one turn short of the threshold', () => {
+    // Pins the boundary. An off-by-one here shortens every game in the
+    // corpus by a full turn and shifts the draw rate.
+    const game = createTestGame();
+    game.turnsSinceRingChange = 17;
+
+    const next = applyMove(game, anyArrowPlacement(game));
+
+    expect(next.turnsSinceRingChange).toBe(18);
+    expect(next.playStatus).toBe('playing');
+  });
+});
+
 // =============================================================
 // Validation Helpers
 // =============================================================
-
-describe('canMakeArrowMoveInSlot — no-undo rule', () => {
-  it('allows any move when history is empty', () => {
-    const game = createTestGame();
-    expect(canMakeArrowMoveInSlot(game, 1, 'b', 'place')).toBe(true);
-    expect(canMakeArrowMoveInSlot(game, 1, 'b', 'remove')).toBe(true);
-    expect(canMakeArrowMoveInSlot(game, 1, 'b', 'replace')).toBe(true);
-  });
-
-  it('blocks placing arrow that was just removed from same slot', () => {
-    let game = createTestGame();
-    // Place arrow
-    game = applyMove(game, placeArrowMove('b', 'C', 'N', 1));
-    // Remove it
-    const removeMove: MoveAction = {
-      type: 'remove',
-      pieceToRemove: { type: 'arrow', color: 'b', fromStation: 'C', toStation: 'N', slotId: 1 },
-    };
-    game = applyMove(game, removeMove);
-
-    // Now trying to place same color arrow in same slot should be blocked
-    expect(canMakeArrowMoveInSlot(game, 1, 'b', 'place')).toBe(false);
-  });
-
-  it('allows placing different color arrow in same slot after removal', () => {
-    let game = createTestGame();
-    game = applyMove(game, placeArrowMove('b', 'C', 'N', 1));
-    const removeMove: MoveAction = {
-      type: 'remove',
-      pieceToRemove: { type: 'arrow', color: 'b', fromStation: 'C', toStation: 'N', slotId: 1 },
-    };
-    game = applyMove(game, removeMove);
-
-    // Different color should be allowed
-    expect(canMakeArrowMoveInSlot(game, 1, 'w', 'place')).toBe(true);
-  });
-});
 
 describe('isRedundant', () => {
   it('returns false when no neighbor has same color+direction', () => {

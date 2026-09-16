@@ -80,7 +80,6 @@ export {
     outArrows,
     canBlockSlot,
     isRedundant,
-    canMakeArrowMoveInSlot,
 } from './engine';
 
 // Path analysis

@@ -57,6 +57,7 @@ export interface FinityGameState {
     turnsSinceRingChange: number;        // For deadlock detection
     zobristHash: string;
     prevBoardHash?: string;
+    endReason?: EndReason;
 }
 
 export interface BoardState {
@@ -176,9 +177,20 @@ export interface GameRecord {
     metadata?: Record<string, unknown>;
 }
 
+export type EndReason = 'path_complete' | 'forced_draw';
+
 export interface GameResult {
     winners: PlayerColor[];
-    reason: 'path_complete' | 'concession' | 'deadlock' | 'timeout' | 'forfeit';
+    reason:
+    | 'path_complete'
+    | 'forced_draw'
+    | 'repetition'
+    | 'move_cap'
+    | 'concession'
+    | 'deadlock'
+    | 'timeout'
+    | 'forfeit';
+    forfeitedBy?: PlayerColor;
     finalState: FinityGameState;
     totalMoves: number;
     durationMs: number;

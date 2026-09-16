@@ -108,6 +108,8 @@ export class GameOrchestrator {
     private currentAbort: AbortController | null = null;
     private startedAt: number;
     private result: GameResult | null = null;
+    private stopReason: GameResult['reason'] | null = null;
+    private forfeitedBy: PlayerColor | null = null;
 
     private listeners: { [K in keyof OrchestratorEvents]: Set<OrchestratorEvents[K]> } = {
         state: new Set(),
@@ -222,6 +224,9 @@ export class GameOrchestrator {
         this.abortCurrentTurn({ kind: 'new-game' });
         this.playMode = 'paused';
         this.result = null;
+        this.stopReason = null;
+        this.forfeitedBy = null;
+
         this.startedAt = this.now();
         this.state = toState ?? this.initialState;
         this.recorder?.begin?.(this.state);
@@ -240,6 +245,12 @@ export class GameOrchestrator {
     }
 
     // ---- the turn -------------------------------------------------------------
+    private endByDefault(color: PlayerColor, reason: GameResult['reason']): void {
+        this.stopReason = reason;
+        this.forfeitedBy = color;
+        this.state = { ...this.state, playStatus: 'over' };
+        this.finishGame();
+    }
 
     private async playTurn(): Promise<void> {
         if (this.turnInFlight) throw new Error('A turn is already in flight');
@@ -271,7 +282,10 @@ export class GameOrchestrator {
             try {
                 move = await this.callWithAbort(agent, color, snapshot, ac, moveIndex, budget);
             } catch (err) {
-                if (err instanceof MoveTimeoutError) throw err;
+                if (err instanceof MoveTimeoutError) {
+                    this.endByDefault(color, 'timeout');
+                    throw err;
+                }
                 if (err instanceof MoveAbortedError) return; // cancelled externally — don't advance
                 throw err;
             }
@@ -279,6 +293,7 @@ export class GameOrchestrator {
             // The engine has no standalone validateMove(); possibleMoves() is the legality
             // oracle. Only enforce membership when guarding untrusted agents (Phase 6).
             if (this.validateMoves && !this.isLegal(color, move)) {
+                this.endByDefault(color, 'forfeit');
                 throw new IllegalMoveError(color, move, 'not in possibleMoves()');
             }
 
@@ -290,6 +305,7 @@ export class GameOrchestrator {
                 this.positionCounts.set(this.state.zobristHash, n);
                 if (n >= this.repetitionLimit) {
                     this.state = { ...this.state, playStatus: 'over' };
+                    this.stopReason = 'repetition';
                 }
             }
 
@@ -297,6 +313,7 @@ export class GameOrchestrator {
             if (this.maxMoves != null && this.state.playStatus === 'playing'
                 && this.state.moveHistory.length >= this.maxMoves) {
                     this.state = { ...this.state, playStatus: 'over' };
+                    this.stopReason = 'move_cap';
             }
 
             this.recorder?.recordMove(move, color, this.state);
@@ -387,14 +404,21 @@ export class GameOrchestrator {
         // The engine knows *that* the game is over; deriving *why* (path_complete vs
         // deadlock draw) ideally comes from the engine too. See PHASE2-NOTES "MISS #5".
         const reason: GameResult['reason'] =
-            this.state.winners.length > 0 ? 'path_complete' : 'deadlock';
+            this.stopReason
+            ?? this.state.endReason
+            ?? (this.state.winners.length > 0 ? 'path_complete' : 'forced_draw');
+
         this.result = {
             winners: this.state.winners,
             reason,
+            forfeitedBy: this.forfeitedBy ?? undefined,
             finalState: this.state,
             totalMoves: this.state.moveHistory.length,
             durationMs: this.now() - this.startedAt,
         };
+        this.stopReason = null;
+        this.forfeitedBy = null;
+
         this.playMode = 'paused';
         for (const agent of this.allAgents()) agent.onGameEnd?.(this.result);
         this.recorder?.finalize(this.result);

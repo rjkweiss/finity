@@ -67,6 +67,7 @@ export interface PathBundle {
     readonly reachable: Set<StationName>; // union of stations over legal
     readonly longest: number; // longest legal path, measured in stations (not crossings)
     readonly hasFull: boolean; // A legal 9-station path terminating at center exists
+    readonly fullDistinct: number; // distinct stations on the best legal full path, 0 if none
 }
 
 // =============================================================
@@ -86,7 +87,11 @@ const CACHE = new WeakMap<FinityGameState, Map<string, CacheEntry>>();
  * applyMove refreshes zobristHash as its final act,
  * so every stale entry misses on the next read and is rebuilt.
  */
-const cacheEntry = (state: FinityGameState, color: PlayerColor, from: StationName | null): CacheEntry => {
+const cacheEntry = (
+    state: FinityGameState,
+    color: PlayerColor,
+    from: StationName | null
+): CacheEntry => {
     let byKey = CACHE.get(state);
     if (!byKey) {
         byKey = new Map();
@@ -120,16 +125,24 @@ export const invalidatePathCache = (state: FinityGameState): void => {
  * Full path analysis for `color`, starting from `fromStation` or the player's base post.
  * Cached per state object.
  */
-export const analyzePaths = (state: FinityGameState, color: PlayerColor, fromStation?: StationName): PathBundle => {
+export const analyzePaths = (
+    state: FinityGameState,
+    color: PlayerColor,
+    fromStation?: StationName
+): PathBundle => {
     const start = fromStation ?? basePostStation(state, color);
     return cacheEntry(state, color, start).bundle;
 };
 
 const emptyBundle = (): PathBundle => {
-    return { all: [], legal: [], reachable: new Set(), longest: 0, hasFull: false };
+    return { all: [], legal: [], reachable: new Set(), longest: 0, hasFull: false, fullDistinct: 0 };
 };
 
-const buildBundle = (state: FinityGameState, color: PlayerColor, start: StationName | null): PathBundle => {
+const buildBundle = (
+    state: FinityGameState,
+    color: PlayerColor,
+    start: StationName | null
+): PathBundle => {
     if (!start) return emptyBundle();
 
     const active = new Set(Object.keys(state.board.stations) as StationName[]);
@@ -177,16 +190,23 @@ const buildBundle = (state: FinityGameState, color: PlayerColor, start: StationN
     const reachable = new Set<StationName>();
     let longest = 0;
     let hasFull = false;
+    let fullDistinct = 0;
 
     for (const path of all) {
         if (!hasEnoughRings(state, color, path.stations)) continue;
         legal.push(path);
         for (const s of path.stations) reachable.add(s);
         if (path.stations.length > longest) longest = path.stations.length;
-        if (path.stations.length === FULL_PATH_LENGTH && path.stations[path.stations.length - 1] === 'C') { hasFull = true; }
+        if (path.stations.length === FULL_PATH_LENGTH && path.stations[path.stations.length - 1] === 'C') {
+            hasFull = true;
+
+            // track distinct stations per paths for simultaneous completion tiebreak ranks on
+            const distinct = new Set(path.stations).size;
+            if (distinct > fullDistinct) fullDistinct = distinct;
+        }
     }
 
-    return { all, legal, reachable, longest, hasFull };
+    return { all, legal, reachable, longest, hasFull, fullDistinct };
 };
 
 /** station|arrowColor -> outgoing arrows */
@@ -271,6 +291,17 @@ export const hasFullPath = (
 ): boolean => {
     return analyzePaths(state, color).hasFull;
 }
+
+/**
+ * Distinct stations covered by the player's best legal full path, or 0 if they have none.
+ * Used only to rank players who complete on the same turn
+ */
+export const fullPathStationCount = (
+    state: FinityGameState,
+    color: PlayerColor
+): number => {
+    return analyzePaths(state, color).fullDistinct;
+};
 
 /**
  * Get all legal paths from the player's base post (or a specified station).

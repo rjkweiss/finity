@@ -47,6 +47,42 @@ const ARROW_COLORS: ArrowColor[] = ['b', 'w'];
 /** Opponent blockers become removable once there are 20 bridges or more on the board. */
 const BLOCKER_REMOVE_MIN_ARROWS = 20;
 
+/** Each player has eight rings of each size (24 in total) */
+const RING_SUPPLY_PER_SIZE = 8;
+
+/** thirty-two bridges of each color, shared by all players */
+const ARROW_SUPPLY_PER_COLOR = 32;
+
+/** Rings of each size belonging to `color` currently on the board. Counted in
+ *  one pass and hoisted out of the generator loops: these are the hottest
+ *  functions in search, so per-candidate recounting is not affordable.
+ */
+const ringsOnBoard = (
+    state: FinityGameState,
+    color: PlayerColor
+): Record<'s' | 'm' | 'l', number> => {
+    const counts = { s: 0, m: 0, l: 0 };
+    for (const station of Object.values(state.board.stations)) {
+        for (const ring of station.rings) {
+            if (ring && ring.color === color) counts[ring.size]++;
+        }
+    }
+    return counts;
+}
+
+/** Bridges of each colour currently on the board. Bridges are a shared pool,
+ *  not owned by a player, so this is not parameterised by PlayerColor.
+ *  Counts slots directly rather than via getAllArrows, which allocates.
+ */
+const arrowsOnBoard = (state: FinityGameState): Record<ArrowColor, number> => {
+    const counts = { b: 0, w: 0 };
+    for (const slot of state.board.slots) {
+        const piece = slot.contains;
+        if (piece && piece.type === 'arrow') counts[piece.color]++;
+    }
+    return counts;
+}
+
 // =============================================================
 // Public API
 // =============================================================
@@ -104,6 +140,7 @@ const possibleRingMoves = (
 ): MoveAction[] => {
     const moves: MoveAction[] = [];
     const reachable = reachableStations(state, color);
+    const supply = ringsOnBoard(state, color);
 
     for (const name of reachable) {
         if (name === 'C') continue;
@@ -114,6 +151,9 @@ const possibleRingMoves = (
 
         const size = topmostOpening(station);
         if (!size) continue;
+
+        // supply cap: a ring can only be placed if one of that size is left in hand
+        if (supply[size] >= RING_SUPPLY_PER_SIZE) continue;
 
         moves.push({
             type: 'place',
@@ -254,6 +294,15 @@ const possibleArrowPlaceMoves = (
 ): MoveAction[] => {
     const moves: MoveAction[] = [];
 
+    // Hoisted: arrowsOnBoard scans all 72 slots and supply cannot change within a single generation pass
+    const onBoard = arrowsOnBoard(state);
+    const exhausted: Record<ArrowColor, boolean> = {
+        b: onBoard.b >= ARROW_SUPPLY_PER_COLOR,
+        w: onBoard.w >= ARROW_SUPPLY_PER_COLOR,
+    };
+
+    if (exhausted.b && exhausted.w) return moves;
+
     for (const fromName of Object.keys(state.board.stations) as StationName[]) {
         const fromSlots = STATION_SLOTS[fromName];
         if (!fromSlots) continue;
@@ -269,6 +318,7 @@ const possibleArrowPlaceMoves = (
                 if (!canBlockSlot(state, slotId, color, 'arrow')) continue;
 
                 for (const arrowColor of ARROW_COLORS) {
+                    if (exhausted[arrowColor]) continue;
                     if (isRedundant(state, slotId, toName, arrowColor)) continue;
                     if (violatesReplacementRule(state, slotId, arrowColor)) continue;
 

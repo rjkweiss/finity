@@ -37,7 +37,9 @@ import {
 
 import {
     reachableStations,
-    hasFullPath
+    hasFullPath,
+    fullPathStationCount,
+    invalidatePathCache
 } from './path-analyzer';
 
 import { computeZobristHash } from './zobrist';
@@ -353,40 +355,6 @@ export const isRedundant = (
     return false;
 }
 
-/** Check no-immediate-undo rule for arrow moves */
-export const canMakeArrowMoveInSlot = (
-    state: FinityGameState,
-    slotId: number,
-    arrowColor: ArrowColor,
-    moveType: 'place' | 'remove' | 'replace',
-): boolean => {
-    if (state.moveHistory.length === 0) return true;
-
-    const lastMove = state.moveHistory[state.moveHistory.length - 1].move;
-
-    if (moveType === 'place' && lastMove.type === 'remove') {
-        const removed = lastMove.pieceToRemove;
-        if (removed?.type === 'arrow' && removed.color === arrowColor && removed.slotId === slotId) {
-            return false;
-        }
-    }
-
-    if (moveType === 'remove' && lastMove.type === 'place') {
-        const added = lastMove.pieceToAdd;
-        if (added?.type === 'arrow' && added.color === arrowColor && (added as ArrowState).slotId === slotId) {
-            return false;
-        }
-    }
-
-    if (moveType === 'replace' && lastMove.type === 'replace') {
-        const added = lastMove.pieceToAdd;
-        if (added?.type === 'arrow' && added.color === arrowColor && (added as ArrowState).slotId === slotId) {
-            return false;
-        }
-    }
-
-    return true;
-}
 
 // =============================================================
 // Move Application (returns NEW state, never mutates)
@@ -403,6 +371,7 @@ export const applyMove = (
     // Deep clone the state
     const next: FinityGameState = structuredClone(state) as unknown as FinityGameState;
     next.prevBoardHash = boardHash(state);
+    next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
 
     const { type, pieceToAdd, pieceToRemove } = move;
 
@@ -443,12 +412,9 @@ export const applyMove = (
 
     next.moveHistory = [...next.moveHistory, recorded];
 
-    // Deadlock / draw bookkeeping - A productive move is one that changes
-    // the TOTAL number of rings on the board - a ring placement or orphan sweep that removed one
-    if (getAllRings(next).length !== getAllRings(state).length) {
+    // Deadlock / draw bookkeeping
+    if (move.type === 'place' && move.pieceToAdd?.type === 'ring') {
         next.turnsSinceRingChange = 0;
-    } else {
-        next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
     }
 
 
@@ -459,6 +425,7 @@ export const applyMove = (
 
     // Refresh the position hash last, so side-to-move (turnIndex) is final
     next.zobristHash = computeZobristHash(next);
+    invalidatePathCache(next); // bundles cached mid-mutation are now unreachable
 
     return next;
 }
@@ -604,6 +571,10 @@ const advanceTurn = (state: FinityGameState): void => {
 }
 
 const checkVictory = (state: FinityGameState): void => {
+    // A single move can complete paths for more than one player at once, because bridges are shared resources
+    // simultaneous completions must be ranked rather than pushed in player order
+    const newWinners: PlayerColor[] = [];
+
     for (const color of state.config.playerColors) {
         // skip if current color is in the winner's list
         if (state.winners.includes(color)) continue;
@@ -611,13 +582,27 @@ const checkVictory = (state: FinityGameState): void => {
         //  victory requires both the ring threshold and a complete supported path
         // (9 stations ending at center)
         if (ringCount(state, color) >= 7 && hasFullPath(state, color)) {
-            state.winners.push(color);
+            newWinners.push(color);
         }
+    }
+
+    if (newWinners.length === 1) {
+        state.winners.push(newWinners[0]);
+    } else if (newWinners.length > 1) {
+        // player with more distinct stations wins on a tie break
+        const ranked = newWinners.map((color) => ({
+            color,
+            distinct: fullPathStationCount(state, color),
+            rings: ringCount(state, color),
+        })).sort((x, y) => (y.distinct - x.distinct) || (y.rings - x.rings));
+
+        for (const entry of ranked) state.winners.push(entry.color);
     }
 
     // Game is over when all but one player has won
     if (state.winners.length >= state.config.playerColors.length - 1) {
         state.playStatus = 'over';
+        state.endReason = state.winners.length > 0 ? 'path_complete': 'forced_draw';
         return;
     }
 
@@ -626,5 +611,6 @@ const checkVictory = (state: FinityGameState): void => {
     const drawTurnLimit = DRAW_ROUND_LIMIT * state.config.playerColors.length;
     if (state.turnsSinceRingChange >= drawTurnLimit) {
         state.playStatus = 'over';
+        state.endReason = 'forced_draw';
     }
 }
