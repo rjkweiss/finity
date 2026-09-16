@@ -10,26 +10,10 @@
  *   arrow place, arrow reverse, arrow remove.
  *
  * Every candidate is gated through the same validators `applyMove` relies on
- * (canBlockSlot, canMakeArrowMoveInSlot, isRedundant, occupiesHighPoint) plus
+ * (canBlockSlot, violatesReplacementRule, isRedundant, occupiesHighPoint) plus
  * reachableStations from the path analyzer, so a generated move can never be
  * rejected at apply time.
  *
- * NOTE FOR REVIEW — the original AI generator (GameState.possible_moves) and
- * the human UI (game_manager.generate_move_preview) DISAGREE on two points.
- * The UI is the authoritative definition of what a player may actually do, so
- * this port follows the UI (the genuinely-playable set), which differs from
- * possible_moves on:
- *   (A) Ring placement excludes center 'C'. possible_moves omitted this guard
- *       (relying on C filling up), but the UI's 'ring' branch forbids '0,0'.
- *       Without the guard the AI proposes illegal center rings once C is on a
- *       reachable path. For strict possible_moves parity, delete the marked
- *       `name === 'C'` guard below.
- *   (B) Arrow removal applies the no-undo guard. possible_moves omitted it; the
- *       UI's 'rem-arrow' branch includes can_make_arrow_move_in_slot(...,'remove').
- *       For strict possible_moves parity, delete the marked guard below.
- *
- * Worth raising with Tony: the original's AI and human move sets weren't
- * identical on these two points.
  */
 
 import type {
@@ -49,15 +33,18 @@ import {
     getAllBlockers,
     canBlockSlot,
     isRedundant,
-    canMakeArrowMoveInSlot,
+    applyMove
 } from './engine';
+
+import { applyKingmakerRestrictions } from './kingmaker';
+import { filterImmediateUndo, violatesReplacementRule } from './no-undo';
 
 import { reachableStations } from './path-analyzer';
 import { STATION_SLOTS, SLOT_TO_STATIONS } from './topology';
 
 const ARROW_COLORS: ArrowColor[] = ['b', 'w'];
 
-/** Opponent blockers become removable only past this many arrows on the board. */
+/** Opponent blockers become removable once there are 20 bridges or more on the board. */
 const BLOCKER_REMOVE_MIN_ARROWS = 20;
 
 // =============================================================
@@ -69,11 +56,11 @@ const BLOCKER_REMOVE_MIN_ARROWS = 20;
  * Mirrors GameState.possible_moves(color): a flat concat of the seven
  * per-type generators below.
  */
-export function possibleMoves(
+export const possibleMoves = (
     state: FinityGameState,
     color: PlayerColor = currentPlayer(state),
-): MoveAction[] {
-    return [
+): MoveAction[] => {
+    const generated = [
         ...possibleRingMoves(state, color),
         ...possibleBasePostMoves(state, color),
         ...possibleBlockerMoves(state, color),
@@ -82,7 +69,24 @@ export function possibleMoves(
         ...possibleArrowReverseMoves(state),
         ...possibleArrowRemoveMoves(state, color),
     ];
+
+    return applyKingmakerRestrictions(
+        state,
+        color,
+        generated
+    );
 }
+
+/**
+ * PossibleMoves PLUS the state-based no-immediate-undo rule.
+ * Orchestrator and UI call legalMoves so the rule is enforced exactly where a move actually gets played
+ */
+export const legalMoves = (
+    state: FinityGameState,
+    color: PlayerColor = currentPlayer(state),
+): MoveAction[] => {
+    return filterImmediateUndo(state, possibleMoves(state, color), applyMove);
+};
 
 // =============================================================
 // 1. Ring placement
@@ -93,27 +97,28 @@ export function possibleMoves(
  * and is not the player's own base-post station. Ring size is the station's
  * topmost opening (s → m → l). No per-player supply cap (matches original).
  *
- * QUIRK (A): aligned with the UI — center 'C' is excluded. For strict
- * possible_moves parity, remove the marked `name === 'C'` guard below.
  */
-function possibleRingMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleRingMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
     const reachable = reachableStations(state, color);
 
     for (const name of reachable) {
-        if (name === 'C') continue;                      // (A) UI-aligned center guard
+        if (name === 'C') continue;
         const station = state.board.stations[name as StationName];
         if (!station) continue;
-        if (stationRingCount(station) >= 3) continue;   // station full
-        if (station.basePost === color) continue;        // not your own base post
+        if (stationRingCount(station) >= 3) continue;
+        if (station.basePost === color) continue;
 
         const size = topmostOpening(station);
-        if (!size) continue;                              // unreachable given <3, keeps types tight
+        if (!size) continue;
 
         moves.push({
             type: 'place',
             pieceToAdd: { type: 'ring', color, size },
-            station: name as StationName,                 // placeRing reads move.station
+            station: name as StationName,
         });
     }
 
@@ -129,7 +134,10 @@ function possibleRingMoves(state: FinityGameState, color: PlayerColor): MoveActi
  * that station as the new path start, at least one reachable station still
  * holds one of the player's rings (new_path_has_rings).
  */
-function possibleBasePostMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleBasePostMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
 
     for (const name of Object.keys(state.board.stations) as StationName[]) {
@@ -143,20 +151,30 @@ function possibleBasePostMoves(state: FinityGameState, color: PlayerColor): Move
     return moves;
 }
 
-function canMoveBasePost(state: FinityGameState, name: StationName, color: PlayerColor): boolean {
+const canMoveBasePost = (
+    state: FinityGameState,
+    name: StationName,
+    color: PlayerColor
+): boolean => {
     const station = state.board.stations[name];
     if (!station) return false;
     if (station.basePost) return false;   // destination must have no base post
     if (name === 'C') return false;        // never the center
+
     return newPathHasRings(state, name, color);
 }
 
-function newPathHasRings(state: FinityGameState, fromStation: StationName, color: PlayerColor): boolean {
+const newPathHasRings = (
+    state: FinityGameState,
+    fromStation: StationName,
+    color: PlayerColor
+): boolean => {
     const reachable = reachableStations(state, color, fromStation);
     for (const name of reachable) {
         const st = state.board.stations[name as StationName];
         if (st && st.rings.some(r => r !== null && r.color === color)) return true;
     }
+
     return false;
 }
 
@@ -166,11 +184,15 @@ function newPathHasRings(state: FinityGameState, fromStation: StationName, color
 
 /**
  * Each of the player's blockers may move to any empty slot (both endpoint
- * stations active) that passes the first-move restriction. Note the original
- * checks only `contains === null` here — NOT the `blocked` interference flag —
- * so blockers may sit in interfered slots.
+ * stations active) that passes the first-move restriction.
+ *
+ * CHECK W/ TONY: original checks only `contains === null` here — NOT the `blocked` interference flag —
+ * so blockers may sit in interfered slots. Is this desired behavior?
  */
-function possibleBlockerMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleBlockerMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
     const ownBlockers = getAllBlockers(state).filter(b => b.color === color);
     if (ownBlockers.length === 0) return moves;
@@ -200,9 +222,12 @@ function possibleBlockerMoves(state: FinityGameState, color: PlayerColor): MoveA
  * Opponent blockers may be removed only once the board holds more than
  * BLOCKER_REMOVE_MIN_ARROWS arrows.
  */
-function possibleBlockerRemoveMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleBlockerRemoveMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
-    if (getAllArrows(state).length <= BLOCKER_REMOVE_MIN_ARROWS) return moves;
+    if (getAllArrows(state).length < BLOCKER_REMOVE_MIN_ARROWS) return moves;
 
     for (const blocker of getAllBlockers(state)) {
         if (blocker.color !== color) {
@@ -223,7 +248,10 @@ function possibleBlockerRemoveMoves(state: FinityGameState, color: PlayerColor):
  * orientation implied by the slot's owning station, kept if non-redundant
  * and not an immediate undo.
  */
-function possibleArrowPlaceMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleArrowPlaceMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
 
     for (const fromName of Object.keys(state.board.stations) as StationName[]) {
@@ -242,7 +270,7 @@ function possibleArrowPlaceMoves(state: FinityGameState, color: PlayerColor): Mo
 
                 for (const arrowColor of ARROW_COLORS) {
                     if (isRedundant(state, slotId, toName, arrowColor)) continue;
-                    if (!canMakeArrowMoveInSlot(state, slotId, arrowColor, 'place')) continue;
+                    if (violatesReplacementRule(state, slotId, arrowColor)) continue;
 
                     moves.push({
                         type: 'place',
@@ -272,12 +300,11 @@ function possibleArrowPlaceMoves(state: FinityGameState, color: PlayerColor): Mo
  * Redundancy is checked against the post-reversal destination, i.e. the
  * arrow's current fromStation.
  */
-function possibleArrowReverseMoves(state: FinityGameState): MoveAction[] {
+const possibleArrowReverseMoves = (state: FinityGameState): MoveAction[] => {
     const moves: MoveAction[] = [];
 
     for (const arrow of getAllArrows(state)) {
         if (isRedundant(state, arrow.slotId, arrow.fromStation, arrow.color)) continue;
-        if (!canMakeArrowMoveInSlot(state, arrow.slotId, arrow.color, 'replace')) continue;
 
         moves.push({
             type: 'replace',
@@ -301,12 +328,12 @@ function possibleArrowReverseMoves(state: FinityGameState): MoveAction[] {
 
 /**
  * The player may remove arrows that point INTO a station whose high point they
- * occupy.
- *
- * QUIRK (B): aligned with the UI — the no-undo guard is applied. For strict
- * possible_moves parity, remove the marked canMakeArrowMoveInSlot check below.
+ * occupy.  Bridges pointing into the center are excluded.
  */
-function possibleArrowRemoveMoves(state: FinityGameState, color: PlayerColor): MoveAction[] {
+const possibleArrowRemoveMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
     const moves: MoveAction[] = [];
 
     for (const stationName of Object.keys(state.board.stations) as StationName[]) {
@@ -321,9 +348,11 @@ function possibleArrowRemoveMoves(state: FinityGameState, color: PlayerColor): M
                 const slotId = channels[channel];
                 const piece = state.board.slots[slotId].contains;
                 if (
-                    piece && piece.type === 'arrow' && piece.toStation === stationName &&
-                    canMakeArrowMoveInSlot(state, slotId, piece.color, 'remove')  // (B) UI-aligned no-undo
+                    piece && piece.type === 'arrow' && piece.toStation === stationName
                 ) {
+                    // A bridge leading to the center station cannot be removed in one move
+                    // it can be reversed and then removed later
+                    if (piece.toStation === 'C') continue;
                     moves.push({ type: 'remove', pieceToRemove: piece });
                 }
             }
@@ -338,7 +367,7 @@ function possibleArrowRemoveMoves(state: FinityGameState, color: PlayerColor): M
 // =============================================================
 
 /** Both stations a slot connects are active on the current board. */
-function stationsActive(state: FinityGameState, slotId: number): boolean {
+const stationsActive = (state: FinityGameState, slotId: number): boolean => {
     const pair = SLOT_TO_STATIONS[slotId];
     if (!pair) return false;
     return pair[0] in state.board.stations && pair[1] in state.board.stations;

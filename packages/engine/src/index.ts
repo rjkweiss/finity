@@ -30,7 +30,6 @@ export type {
     Channel,
     GamePiece,
     BoardTopology,
-    PlayerAgent,
     UserAgent,
     AgentStats,
     MatchRecord,

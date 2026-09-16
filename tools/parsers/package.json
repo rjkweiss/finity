@@ -5,8 +5,9 @@
   "description": "Data parsers — BGA game logs and HTML path patterns to GameRecord format",
   "type": "module",
   "scripts": {
-    "parse:bga": "tsx src/bga-parser.ts",
-    "parse:paths": "tsx src/html-path-parser.ts"
+    "parse:bga": "tsx src/game-log-parser.ts",
+    "parse:paths": "tsx src/path-pattern-parser.ts",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@finity/engine": "*",

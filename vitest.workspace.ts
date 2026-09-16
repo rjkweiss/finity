@@ -5,5 +5,6 @@ export default defineWorkspace([
   { test: { name: 'agents', root: './packages/agents' } },
   { test: { name: 'recorder', root: './packages/recorder' } },
   { test: { name: 'server', root: './server' } },
+  { test: { name: 'parsers', root: './tools' } },
   './packages/client/vite.config.ts',
 ]);

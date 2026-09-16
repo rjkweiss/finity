@@ -111,7 +111,7 @@ describe('possibleMoves — UI-aligned rule decisions', () => {
 });
 
 // =============================================================
-// Blocker removal threshold (>20 arrows)
+// Blocker removal threshold (>=20 arrows)
 // =============================================================
 
 describe('possibleMoves — opponent blocker removal threshold', () => {
@@ -131,23 +131,20 @@ describe('possibleMoves — opponent blocker removal threshold', () => {
         return next;
     }
 
-    it('no opponent-blocker-remove moves at or below 20 arrows', () => {
-        const game = stuffArrows(make2p(), 20);
-        expect(getAllArrows(game).length).toBe(20);
+    it('no opponent-blocker-remove moves below 20 arrows', () => {
+        const game = stuffArrows(make2p(), 19);
+        expect(getAllArrows(game).length).toBe(19);
         const kinds = countByKind(possibleMoves(game, 'cyan'));
         expect(kinds['remove:blocker']).toBeUndefined();
     });
 
-    it('opponent blockers become removable past 20 arrows', () => {
-        const game = stuffArrows(make2p(), 21);
-        expect(getAllArrows(game).length).toBe(21);
-        const removeBlockers = possibleMoves(game, 'cyan').filter(
-            m => m.type === 'remove' && m.pieceToRemove?.type === 'blocker',
-        );
-        // red starts with 2 blockers; all become removable by cyan
-        expect(removeBlockers.length).toBe(2);
-        for (const m of removeBlockers) {
-            expect((m.pieceToRemove as { color: string }).color).toBe('red');
-        }
+    it('opponent blockers become removable at exactly 20 arrows', () => {
+        // Rulebook p.6: "if there are twenty bridges or more currently placed
+        // on the board". Twenty is inclusive — this boundary was previously
+        // off by one and required twenty-one.
+        const game = stuffArrows(make2p(), 20);
+        expect(getAllArrows(game).length).toBe(20);
+        const kinds = countByKind(possibleMoves(game, 'cyan'));
+        expect(kinds['remove:blocker']).toBe(2); // both opponent blockers
     });
 });

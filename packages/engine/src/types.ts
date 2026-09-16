@@ -56,6 +56,7 @@ export interface FinityGameState {
     pathPattern: ArrowColor[];           // The 8-cone sequence
     turnsSinceRingChange: number;        // For deadlock detection
     zobristHash: string;
+    prevBoardHash?: string;
 }
 
 export interface BoardState {
@@ -253,23 +254,4 @@ export interface BoardTopology {
 
     /** slot index → [stationA, stationB] */
     slotStations: [StationName, StationName][];
-}
-
-// =============================================================
-// Player Agent Interface
-// =============================================================
-
-export interface PlayerAgent {
-    id: string;
-    label: string;
-    description: string;
-    author: string;
-    type: 'human-local' | 'human-remote' | 'ai-builtin' | 'ai-custom' | 'ai-ml';
-
-    move(color: PlayerColor, state: FinityGameState): Promise<MoveAction>;
-
-    onGameStart?(config: GameConfig): void;
-    onGameEnd?(result: GameResult): void;
-    onOpponentMove?(move: RecordedMove): void;
-    dispose?(): void;
 }

@@ -1,7 +1,7 @@
 /**
  * Finity Game Engine — Core
  *
- * Pure functions only. No side effects, no DOM, no randomness.
+ * Pure consts only. No side effects, no DOM, no randomness.
  * Given the same inputs, always produces the same outputs.
  * applyMove returns a NEW state; it never mutates the input.
  */
@@ -18,12 +18,10 @@ import type {
     BasePostMove,
     MoveAction,
     RecordedMove,
-    ValidationResult,
     PlayerColor,
     ArrowColor,
     StationName,
     Channel,
-    GamePiece,
 } from './types';
 
 import {
@@ -33,9 +31,6 @@ import {
 import {
     buildTopology,
     STATION_SLOTS,
-    STATIONS_BY_PLAYER_COUNT,
-    START_STATIONS,
-    toStationName,
     getSlotInterferences,
     getSlotNeighbors,
 } from './topology';
@@ -46,6 +41,7 @@ import {
 } from './path-analyzer';
 
 import { computeZobristHash } from './zobrist';
+import { boardHash } from './no-undo';
 
 // =============================================================
 // Tunables
@@ -53,8 +49,7 @@ import { computeZobristHash } from './zobrist';
 
 /**
  * Number of full rounds without any change to the total ring count after which
- * the game is declared a draw (deadlock). Scaled by player count into a turn
- * limit inside checkVictory. Provisional — confirm against BGA's rule with Tony.
+ * the game is declared a draw (deadlock). Scaled by player count into a turn limit inside checkVictory
  */
 export const DRAW_ROUND_LIMIT = 10;
 
@@ -68,10 +63,10 @@ export const DRAW_ROUND_LIMIT = 10;
  * pathPattern must be provided (the engine doesn't generate randomness).
  * The caller is responsible for generating the path pattern.
  */
-export function createGame(
+export const createGame = (
     config: GameConfig,
     pathPattern: ArrowColor[],
-): FinityGameState {
+): FinityGameState => {
     const { playerColors, boardSize } = config;
     const topology = buildTopology(boardSize);
     const board = createInitialBoard(topology.stations, playerColors, topology.startStations);
@@ -87,7 +82,7 @@ export function createGame(
         winners: [],
         pathPattern,
         turnsSinceRingChange: 0,
-        zobristHash: '0',  // set just below
+        zobristHash: '0',
     };
 
     game.zobristHash = computeZobristHash(game);
@@ -97,11 +92,11 @@ export function createGame(
 /**
  * Create the initial board state with base posts and center rings.
  */
-function createInitialBoard(
+const createInitialBoard = (
     stations: StationName[],
     playerColors: PlayerColor[],
     startStations: StationName[],
-): BoardState {
+): BoardState => {
     // Initialize all stations
     const stationMap: Record<string, StationState> = {};
     for (const name of stations) {
@@ -127,20 +122,18 @@ function createInitialBoard(
     });
 
     // Place initial rings on center station (one large ring per player, reverse order)
-    // In the original code: players reversed, each gets a 'l' (large) ring
-    // The center station rings array is [small, medium, large] but initial setup
-    // pushes large rings. With 4 players, only 3 ring slots exist on center.
-    // Original code pushes to the rings array which is separate from the [s,m,l] slots.
-    // For the new design: center gets one large ring per player (up to 3),
-    // with the last player's ring being "on top" (smallest position).
-    const centerRings: [RingState | null, RingState | null, RingState | null] = [null, null, null];
     const reversedColors = [...playerColors].reverse();
-    reversedColors.forEach((color, i) => {
-        if (i < 3) {
-            centerRings[i] = { type: 'ring', color, size: 'l' };
-        }
-    });
+    const centreStack: RingState[] = reversedColors.map((color) => ({
+        type: 'ring', color, size: 'l',
+    }));
+    const centerRings: [RingState | null, RingState | null, RingState | null] = [
+        centreStack[0] ?? null, centreStack[1] ?? null, centreStack[2] ?? null,
+    ];
+    const centreOverflow = centreStack.slice(3);
     stationMap['C'].rings = centerRings;
+    if (centreOverflow.length > 0) {
+        console.warn(`[finity] ${centreOverflow.length} centre ring(s) have no slot in the [s,m,l] triple`);
+    }
 
     // Initialize all 72 slots as empty
     const slots: SlotState[] = Array.from({ length: 72 }, (_, i) => ({
@@ -176,39 +169,49 @@ function createInitialBoard(
 // =============================================================
 
 /** Get the color of the current player */
-export function currentPlayer(state: FinityGameState): PlayerColor {
+export const currentPlayer = (state: FinityGameState): PlayerColor => {
     return state.config.playerColors[state.turnIndex];
 }
 
 /** Check if the game is over */
-export function isGameOver(state: FinityGameState): boolean {
+export const isGameOver = (state: FinityGameState): boolean => {
     return state.playStatus === 'over';
 }
 
 /** Get the ring count on a station */
-export function stationRingCount(station: StationState): number {
+export const stationRingCount = (station: StationState): number => {
     return station.rings.filter(r => r !== null).length;
 }
 
 /** Get the topmost opening size on a station */
-export function topmostOpening(station: StationState): 's' | 'm' | 'l' | null {
+export const topmostOpening = (
+    station: StationState
+): 's' | 'm' | 'l' | null => {
     if (!station.rings[0]) return 's';
     if (!station.rings[1]) return 'm';
     if (!station.rings[2]) return 'l';
+
     return null; // station is full
 }
 
 /** Which color controls a station (highest/innermost piece)? */
-export function stationControlledBy(station: StationState): PlayerColor | null {
+export const stationControlledBy = (
+    station: StationState
+): PlayerColor | null => {
     if (station.basePost) return station.basePost;
     if (station.rings[0]) return station.rings[0].color;
     if (station.rings[1]) return station.rings[1].color;
     if (station.rings[2]) return station.rings[2].color;
+
     return null;
 }
 
 /** Does the color occupy the high point on a station? */
-export function occupiesHighPoint(state: FinityGameState, color: PlayerColor, stationName: StationName): boolean {
+export const occupiesHighPoint = (
+    state: FinityGameState,
+    color: PlayerColor,
+    stationName: StationName
+): boolean => {
     const station = state.board.stations[stationName];
     if (!station) return false;
 
@@ -220,21 +223,23 @@ export function occupiesHighPoint(state: FinityGameState, color: PlayerColor, st
 }
 
 /** Get all arrows currently on the board */
-export function getAllArrows(state: FinityGameState): ArrowState[] {
+export const getAllArrows = (state: FinityGameState): ArrowState[] => {
     return state.board.slots
         .filter(s => s.contains?.type === 'arrow')
         .map(s => s.contains as ArrowState);
 }
 
 /** Get all blockers currently on the board */
-export function getAllBlockers(state: FinityGameState): BlockerState[] {
+export const getAllBlockers = (state: FinityGameState): BlockerState[] => {
     return state.board.slots
         .filter(s => s.contains?.type === 'blocker')
         .map(s => s.contains as BlockerState);
 }
 
 /** Get all rings on the board */
-export function getAllRings(state: FinityGameState): (RingState & { station: StationName })[] {
+export const getAllRings = (
+    state: FinityGameState
+): (RingState & { station: StationName })[] => {
     const rings: (RingState & { station: StationName })[] = [];
     for (const [name, station] of Object.entries(state.board.stations)) {
         for (const ring of station.rings) {
@@ -247,12 +252,12 @@ export function getAllRings(state: FinityGameState): (RingState & { station: Sta
 }
 
 /** Count arrows on the board */
-export function arrowCount(state: FinityGameState): number {
+export const arrowCount = (state: FinityGameState): number => {
     return state.board.slots.filter(s => s.contains?.type === 'arrow').length;
 }
 
 /** Count rings for a color */
-export function ringCount(state: FinityGameState, color: PlayerColor): number {
+export const ringCount = (state: FinityGameState, color: PlayerColor): number => {
     let count = 0;
     for (const station of Object.values(state.board.stations)) {
         for (const ring of station.rings) {
@@ -263,7 +268,11 @@ export function ringCount(state: FinityGameState, color: PlayerColor): number {
 }
 
 /** Get outgoing arrows from a station of a specific color */
-export function outArrows(state: FinityGameState, stationName: StationName, arrowColor: ArrowColor): ArrowState[] {
+export const outArrows = (
+    state: FinityGameState,
+    stationName: StationName,
+    arrowColor: ArrowColor
+): ArrowState[] => {
     const arrows: ArrowState[] = [];
     const stationSlots = STATION_SLOTS[stationName];
     if (!stationSlots) return arrows;
@@ -289,12 +298,12 @@ export function outArrows(state: FinityGameState, stationName: StationName, arro
 // =============================================================
 
 /** Check if placing in a slot would violate first-move restrictions */
-export function canBlockSlot(
+export const canBlockSlot = (
     state: FinityGameState,
     slotId: number,
     playerColor: PlayerColor,
     moveType: 'arrow' | 'blocker',
-): boolean {
+): boolean => {
     // First move restriction only applies on the very first move
     if (state.moveHistory.length > 0) return true;
 
@@ -302,6 +311,7 @@ export function canBlockSlot(
 
     for (const stationName of activeStations) {
         const station = state.board.stations[stationName];
+
         // Check stations with opponent base posts
         if (station.basePost && station.basePost !== playerColor) {
             const stationSlots = STATION_SLOTS[stationName];
@@ -323,12 +333,12 @@ export function canBlockSlot(
 }
 
 /** Check if an arrow is redundant (same color+direction in a neighbor slot) */
-export function isRedundant(
+export const isRedundant = (
     state: FinityGameState,
     slotId: number,
     toStation: StationName,
     arrowColor: ArrowColor,
-): boolean {
+): boolean => {
     const neighbors = getSlotNeighbors(slotId);
     for (const neighborId of neighbors) {
         const neighbor = state.board.slots[neighborId];
@@ -344,12 +354,12 @@ export function isRedundant(
 }
 
 /** Check no-immediate-undo rule for arrow moves */
-export function canMakeArrowMoveInSlot(
+export const canMakeArrowMoveInSlot = (
     state: FinityGameState,
     slotId: number,
     arrowColor: ArrowColor,
     moveType: 'place' | 'remove' | 'replace',
-): boolean {
+): boolean => {
     if (state.moveHistory.length === 0) return true;
 
     const lastMove = state.moveHistory[state.moveHistory.length - 1].move;
@@ -386,9 +396,13 @@ export function canMakeArrowMoveInSlot(
  * Apply a move to the game state.
  * Returns a new FinityGameState. The input is NOT modified.
  */
-export function applyMove(state: FinityGameState, move: MoveAction): FinityGameState {
+export const applyMove = (
+    state: FinityGameState,
+    move: MoveAction
+): FinityGameState => {
     // Deep clone the state
     const next: FinityGameState = structuredClone(state) as unknown as FinityGameState;
+    next.prevBoardHash = boardHash(state);
 
     const { type, pieceToAdd, pieceToRemove } = move;
 
@@ -406,9 +420,10 @@ export function applyMove(state: FinityGameState, move: MoveAction): FinityGameS
         }
     } else if (type === 'replace') {
         if (pieceToAdd && isArrow(pieceToAdd)) {
-            // Arrow reversal: remove old, place new
-            if (pieceToRemove) removeArrow(next, pieceToRemove as ArrowState);
+            // Arrow reversal: remove old, place new, Then sweep orphans once against the finished board
+            if (pieceToRemove) removeArrow(next, pieceToRemove as ArrowState, false);
             placeArrow(next, pieceToAdd);
+            reevaluateRingSupport(next);
         } else if (pieceToAdd && isBlocker(pieceToAdd)) {
             // Blocker move: remove from old slot, place in new
             if (pieceToRemove) removeBlocker(next, pieceToRemove as BlockerState);
@@ -425,6 +440,7 @@ export function applyMove(state: FinityGameState, move: MoveAction): FinityGameS
         timestamp: Date.now(),
         moveIndex: next.moveHistory.length,
     };
+
     next.moveHistory = [...next.moveHistory, recorded];
 
     // Deadlock / draw bookkeeping - A productive move is one that changes
@@ -451,7 +467,7 @@ export function applyMove(state: FinityGameState, move: MoveAction): FinityGameS
 // Internal Mutation Helpers (operate on the cloned state)
 // =============================================================
 
-function placeArrow(state: FinityGameState, arrow: ArrowState): void {
+const placeArrow = (state: FinityGameState, arrow: ArrowState): void => {
     const slot = state.board.slots[arrow.slotId];
     slot.contains = { ...arrow };
 
@@ -462,7 +478,14 @@ function placeArrow(state: FinityGameState, arrow: ArrowState): void {
     }
 }
 
-function removeArrow(state: FinityGameState, arrow: ArrowState): void {
+/**
+ * sweepOrphans pass false when this removal is one half of a compound move (arrow reversal).
+ */
+const removeArrow = (
+    state: FinityGameState,
+    arrow: ArrowState,
+    sweepOrphans = true
+): void => {
     const slot = state.board.slots[arrow.slotId];
     slot.contains = null;
 
@@ -473,10 +496,14 @@ function removeArrow(state: FinityGameState, arrow: ArrowState): void {
     }
 
     // Reevaluate ring support — orphan check for all players
-    reevaluateRingSupport(state);
+    if (sweepOrphans) reevaluateRingSupport(state);
 }
 
-function placeRing(state: FinityGameState, ring: RingState, move: MoveAction): void {
+const placeRing = (
+    state: FinityGameState,
+    ring: RingState,
+    move: MoveAction
+): void => {
     // target station is carried on the move (rings don't store their own station; once placed
     // position in board.stations[name].rings is the truth)
     const stationName = move.station;
@@ -494,22 +521,26 @@ function placeRing(state: FinityGameState, ring: RingState, move: MoveAction): v
     state.turnsSinceRingChange = 0;
 }
 
-function removeRing(state: FinityGameState, stationName: StationName, size: 's' | 'm' | 'l'): void {
+const removeRing = (
+    state: FinityGameState,
+    stationName: StationName,
+    size: 's' | 'm' | 'l'
+): void => {
     const station = state.board.stations[stationName];
     const sizeIndex = size === 's' ? 0 : size === 'm' ? 1 : 2;
     station.rings[sizeIndex] = null;
     state.turnsSinceRingChange = 0;
 }
 
-function removeBlocker(state: FinityGameState, blocker: BlockerState): void {
+const removeBlocker = (state: FinityGameState, blocker: BlockerState): void => {
     state.board.slots[blocker.slotId].contains = null;
 }
 
-function placeBlockerInSlot(state: FinityGameState, blocker: BlockerState): void {
+const placeBlockerInSlot = (state: FinityGameState, blocker: BlockerState): void => {
     state.board.slots[blocker.slotId].contains = { ...blocker };
 }
 
-function moveBasePost(state: FinityGameState, move: BasePostMove): void {
+const moveBasePost = (state: FinityGameState, move: BasePostMove): void => {
     // Remove base post from current station
     for (const station of Object.values(state.board.stations)) {
         if (station.basePost === move.color) {
@@ -517,6 +548,7 @@ function moveBasePost(state: FinityGameState, move: BasePostMove): void {
             break;
         }
     }
+
     // Place on new station
     state.board.stations[move.toStation].basePost = move.color;
 
@@ -524,14 +556,14 @@ function moveBasePost(state: FinityGameState, move: BasePostMove): void {
     reevaluateRingSupport(state);
 }
 
-function reevaluateRingSupport(state: FinityGameState): void {
+const reevaluateRingSupport = (state: FinityGameState): void => {
     // Check all players for orphaned rings
     for (const color of state.config.playerColors) {
         clearOrphans(state, color);
     }
 }
 
-function clearOrphans(state: FinityGameState, color: PlayerColor): void {
+const clearOrphans = (state: FinityGameState, color: PlayerColor): void  => {
     // A ring is "orphaned" when its station can no longer be reached by any legal
     // path from the player's base post. Removing an arrow, reversing one, or
     // moving a base post can sever support, so this runs after every structural change
@@ -554,7 +586,7 @@ function clearOrphans(state: FinityGameState, color: PlayerColor): void {
 // Turn Management
 // =============================================================
 
-function advanceTurn(state: FinityGameState): void {
+const advanceTurn = (state: FinityGameState): void => {
     checkVictory(state);
 
     if (state.playStatus === 'over') {
@@ -571,7 +603,7 @@ function advanceTurn(state: FinityGameState): void {
     }
 }
 
-function checkVictory(state: FinityGameState): void {
+const checkVictory = (state: FinityGameState): void => {
     for (const color of state.config.playerColors) {
         // skip if current color is in the winner's list
         if (state.winners.includes(color)) continue;
@@ -589,7 +621,7 @@ function checkVictory(state: FinityGameState): void {
         return;
     }
 
-    // deadlock / draw -- if the board has gone too long with no change in
+    // deadlock / draw - if the board has gone too long with no change in
     // the total ring count, no one can make progress
     const drawTurnLimit = DRAW_ROUND_LIMIT * state.config.playerColors.length;
     if (state.turnsSinceRingChange >= drawTurnLimit) {
