@@ -245,12 +245,63 @@ export class GameOrchestrator {
     }
 
     // ---- the turn -------------------------------------------------------------
-    private endByDefault(color: PlayerColor, reason: GameResult['reason']): void {
+    private markDefauly(color: PlayerColor, reason: GameResult['reason']): void {
+        if (this.state.defaulted.includes(color)) return;
+
         this.stopReason = reason;
         this.forfeitedBy = color;
-        this.state = { ...this.state, playStatus: 'over' };
-        this.finishGame();
+        this.state = {
+            ...this.state,
+            defaulted: [...this.state.defaulted, color]
+        };
+
+        const remaining = this.state.config.playerColors.filter(
+            (c) => !this.state.winners.includes(c) && !this.state.defaulted.includes(c)
+        );
+
+        if (remaining.length <= 1) {
+            // the last player standing finishes ahead of every defaulter
+            const winners = remaining.length === 1
+                ? [...this.state.winners, remaining[0]]
+                : this.state.winners;
+            this.state = {
+                ...this.state,
+                winners,
+                playStatus: 'over',
+                ranking: [
+                    ...winners.map((w) => [w]),
+                    ...(this.state.defaulted.length > 0 ? [[...this.state.defaulted]]: [])
+                ],
+            };
+            this.finishGame();
+            return;
+        }
+
+        // Hand the turn on - engine skips defaulted players in advanceTurn
+        this.state = { ...this.state, turnIndex: this.nextActiveTurnIndex() };
+        this.notifyState();
+
     }
+
+    private nextActiveTurnIndex(): number {
+        const colors = this.state.config.playerColors;
+        let idx = this.state.turnIndex;
+        for (let i = 0; i < colors.length; i++) {
+            idx = (idx + 1) % colors.length;
+            const c = colors[idx];
+
+            if (!this.state.winners.includes(c) && !this.state.defaulted.includes(c)) return idx;
+        }
+
+        return this.state.turnIndex;
+    }
+
+    // private endByDefault(color: PlayerColor, reason: GameResult['reason']): void {
+    //     this.stopReason = reason;
+    //     this.forfeitedBy = color;
+    //     this.state = { ...this.state, playStatus: 'over' };
+    //     this.finishGame();
+    // }
 
     private async playTurn(): Promise<void> {
         if (this.turnInFlight) throw new Error('A turn is already in flight');
@@ -283,7 +334,7 @@ export class GameOrchestrator {
                 move = await this.callWithAbort(agent, color, snapshot, ac, moveIndex, budget);
             } catch (err) {
                 if (err instanceof MoveTimeoutError) {
-                    this.endByDefault(color, 'timeout');
+                    this.markDefauly(color, 'timeout');
                     throw err;
                 }
                 if (err instanceof MoveAbortedError) return; // cancelled externally — don't advance
@@ -293,7 +344,7 @@ export class GameOrchestrator {
             // The engine has no standalone validateMove(); possibleMoves() is the legality
             // oracle. Only enforce membership when guarding untrusted agents (Phase 6).
             if (this.validateMoves && !this.isLegal(color, move)) {
-                this.endByDefault(color, 'forfeit');
+                this.markDefauly(color, 'forfeit');
                 throw new IllegalMoveError(color, move, 'not in possibleMoves()');
             }
 
@@ -403,9 +454,10 @@ export class GameOrchestrator {
     private finishGame(): void {
         // The engine knows *that* the game is over; deriving *why* (path_complete vs
         // deadlock draw) ideally comes from the engine too. See PHASE2-NOTES "MISS #5".
+        const engineReason = this.state.endReason;
         const reason: GameResult['reason'] =
             this.stopReason
-            ?? this.state.endReason
+            ?? (engineReason === 'simultaneous_completion' ? 'path_complete' : engineReason)
             ?? (this.state.winners.length > 0 ? 'path_complete' : 'forced_draw');
 
         this.result = {

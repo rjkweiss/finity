@@ -36,19 +36,21 @@ export const isKingmakerRestricted = (
     state: FinityGameState,
     color: PlayerColor,
 ): boolean => {
-    const players = state.config.playerColors;
+    // only players still in the game counts (3+ players) is when kingmaker is active
+    const players = state.config.playerColors.filter(
+        (c) => !state.winners.includes(c) && !state.defaulted.includes(c)
+    );
     if (players.length < 3) return false;
 
-    const mine = longestPathCrossings(state, color); // length measured in crossings, not stations
+    const mine = longestPathCrossings(state, color);
 
     let leaders = 0;
     for (const other of players) {
         if (other === color) continue;
-        // To check: A player who has already won is still a player for this comparison;
-        // if that turns out to be wrong, need to filter on state.winners here.
         if (longestPathCrossings(state, other) - mine > KINGMAKER_GAP) leaders++;
         if (leaders >= KINGMAKER_MIN_LEADERS) return true;
     }
+
     return false;
 }
 

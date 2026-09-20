@@ -132,6 +132,7 @@ export function computeZobristHash(state: FinityGameState): string {
             if (ci >= 0) h ^= basePostKey(stationIdx, ci);
         }
         // Ring position IS the size index: [0]=small, [1]=medium, [2]=large.
+        if (name === 'C') continue;
         for (let sizeIdx = 0; sizeIdx < st.rings.length; sizeIdx++) {
             const ring = st.rings[sizeIdx];
             if (!ring) continue;

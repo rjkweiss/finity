@@ -11,7 +11,4 @@
   },
   "include": ["src/**/*.ts",],
   "exclude": ["tests", "dist"],
-  "references": [
-    { "path": "../engine" }
-  ]
 }

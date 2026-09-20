@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "run": "tsx src/runner.ts",
-    "export": "tsx src/export.ts"
+    "export": "tsx src/export.ts",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@finity/engine": "*",

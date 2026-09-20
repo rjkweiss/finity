@@ -68,6 +68,7 @@ export interface PathBundle {
     readonly longest: number; // longest legal path, measured in stations (not crossings)
     readonly hasFull: boolean; // A legal 9-station path terminating at center exists
     readonly fullDistinct: number; // distinct stations on the best legal full path, 0 if none
+    readonly bestDistinct: number; // distinct stations on the best legal path of any length
 }
 
 // =============================================================
@@ -135,7 +136,15 @@ export const analyzePaths = (
 };
 
 const emptyBundle = (): PathBundle => {
-    return { all: [], legal: [], reachable: new Set(), longest: 0, hasFull: false, fullDistinct: 0 };
+    return {
+        all: [],
+        legal: [],
+        reachable: new Set(),
+        longest: 0,
+        hasFull: false,
+        fullDistinct: 0,
+        bestDistinct: 0,
+    };
 };
 
 const buildBundle = (
@@ -191,22 +200,25 @@ const buildBundle = (
     let longest = 0;
     let hasFull = false;
     let fullDistinct = 0;
+    let bestDistinct = 0;
 
     for (const path of all) {
         if (!hasEnoughRings(state, color, path.stations)) continue;
         legal.push(path);
         for (const s of path.stations) reachable.add(s);
         if (path.stations.length > longest) longest = path.stations.length;
+        const pathDistinct = new Set(path.stations).size;
+        if (pathDistinct > bestDistinct) bestDistinct = pathDistinct;
+
         if (path.stations.length === FULL_PATH_LENGTH && path.stations[path.stations.length - 1] === 'C') {
             hasFull = true;
 
             // track distinct stations per paths for simultaneous completion tiebreak ranks on
-            const distinct = new Set(path.stations).size;
-            if (distinct > fullDistinct) fullDistinct = distinct;
+            if (pathDistinct > fullDistinct) fullDistinct = pathDistinct;
         }
     }
 
-    return { all, legal, reachable, longest, hasFull, fullDistinct };
+    return { all, legal, reachable, longest, hasFull, fullDistinct, bestDistinct };
 };
 
 /** station|arrowColor -> outgoing arrows */
@@ -304,6 +316,18 @@ export const fullPathStationCount = (
 };
 
 /**
+ * Distinct stations covered by the player's best legal path of ANY length.
+ * This is the forced-draw tiebreak measure (Q7): in a forced draw nobody holds a
+ * full path, so fullPathStationCount would be zero for everyone.
+ */
+export const bestPathStationCount = (
+    state: FinityGameState,
+    color: PlayerColor
+): number => {
+    return analyzePaths(state, color).bestDistinct;
+}
+
+/**
  * Get all legal paths from the player's base post (or a specified station).
  * Legal paths follow the path pattern AND have enough rings on intermediate stations.
  */
@@ -328,18 +352,6 @@ export const rawPaths = (
  * This is a key evaluation metric for AI agents.
  */
 export const longestLegalPathLength = (
-    state: FinityGameState,
-    color: PlayerColor
-): number => {
-    return analyzePaths(state, color).longest;
-}
-
-/**
- * @deprecated -- to delete once all imports are updated
- * Get the longest legal path that is also ring-supported.
- * "Supported" means every intermediate station has the player's rings.
- */
-export const longestSupportedPathLength = (
     state: FinityGameState,
     color: PlayerColor
 ): number => {

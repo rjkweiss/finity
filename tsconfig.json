@@ -12,11 +12,4 @@
     "declarationMap": true,
     "sourceMap": true
   },
-  "references": [
-    { "path": "packages/engine" },
-    { "path": "packages/agents" },
-    { "path": "packages/recorder" },
-    { "path": "packages/client" },
-    { "path": "server" }
-  ]
 }

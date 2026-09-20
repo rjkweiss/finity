@@ -39,6 +39,7 @@ import {
     reachableStations,
     hasFullPath,
     fullPathStationCount,
+    bestPathStationCount,
     invalidatePathCache
 } from './path-analyzer';
 
@@ -73,12 +74,13 @@ export const createGame = (
     const topology = buildTopology(boardSize);
     const board = createInitialBoard(topology.stations, playerColors, topology.startStations);
 
-    const game: FinityGameState =  {
+    const game: FinityGameState = {
         version: 1,
         gsId: '',  // assigned externally (by orchestrator or DB)
         config,
         board,
         turnIndex: 0,
+        defaulted: [],
         playStatus: 'playing',
         moveHistory: [],
         winners: [],
@@ -123,19 +125,13 @@ const createInitialBoard = (
         }
     });
 
-    // Place initial rings on center station (one large ring per player, reverse order)
+    // Place initial rings on the center station: one large ring per player
     const reversedColors = [...playerColors].reverse();
-    const centreStack: RingState[] = reversedColors.map((color) => ({
-        type: 'ring', color, size: 'l',
-    }));
-    const centerRings: [RingState | null, RingState | null, RingState | null] = [
-        centreStack[0] ?? null, centreStack[1] ?? null, centreStack[2] ?? null,
+    stationMap['C'].rings = [
+        reversedColors[0] ? { type: 'ring', color: reversedColors[0], size: 'l' } as RingState : null,
+        reversedColors[1] ? { type: 'ring', color: reversedColors[1], size: 'l' } as RingState : null,
+        reversedColors[2] ? { type: 'ring', color: reversedColors[2], size: 'l' } as RingState : null,
     ];
-    const centreOverflow = centreStack.slice(3);
-    stationMap['C'].rings = centerRings;
-    if (centreOverflow.length > 0) {
-        console.warn(`[finity] ${centreOverflow.length} centre ring(s) have no slot in the [s,m,l] triple`);
-    }
 
     // Initialize all 72 slots as empty
     const slots: SlotState[] = Array.from({ length: 72 }, (_, i) => ({
@@ -169,6 +165,35 @@ const createInitialBoard = (
 // =============================================================
 // State Queries
 // =============================================================
+
+/** Get the color of the current player */
+export const PATH_INDICATOR_SUPPLY: Readonly<Record<ArrowColor, number>> = { b: 6, w: 6 };
+
+/** Length of the path pattern drawn at setup */
+export const PATH_PATTERN_LENGTH = 8;
+
+/**
+ * Draw the path pattern for a game - Indicators are drawn one at a time from a shared pool of six black and six
+ * white, WITHOUT replacement.
+ */
+export const drawPathPattern = (rng: () => number = Math.random): ArrowColor[] => {
+    const pool: Record<ArrowColor, number> = { ...PATH_INDICATOR_SUPPLY };
+    const pattern: ArrowColor[] = [];
+
+    for (let i = 0; i < PATH_PATTERN_LENGTH; i++) {
+        const remaining = pool.b + pool.w;
+        // Exhausting the pool would mean the supply constants disagree with the
+        // pattern length; fail loudly rather than emit a short pattern.
+        if (remaining <= 0) {
+            throw new Error('[finity] path indicator supply exhausted before the pattern was complete');
+        }
+        const color: ArrowColor = rng() * remaining < pool.b ? 'b' : 'w';
+        pool[color]--;
+        pattern.push(color);
+    }
+
+    return pattern;
+};
 
 /** Get the color of the current player */
 export const currentPlayer = (state: FinityGameState): PlayerColor => {
@@ -481,7 +506,7 @@ const placeRing = (
 
     // ring's size determine its slot: [small, medium, large] => [0, 1, 2]
     // applyMove assumes the move was already validated by possibleMoves
-    const sizeIndex = ring.size === 's' ? 0: ring.size === 'm' ? 1: 2;
+    const sizeIndex = ring.size === 's' ? 0 : ring.size === 'm' ? 1 : 2;
     if (station.rings[sizeIndex]) return;  // slot already occupied
     station.rings[sizeIndex] = { type: 'ring', color: ring.color, size: ring.size };
 
@@ -530,7 +555,7 @@ const reevaluateRingSupport = (state: FinityGameState): void => {
     }
 }
 
-const clearOrphans = (state: FinityGameState, color: PlayerColor): void  => {
+const clearOrphans = (state: FinityGameState, color: PlayerColor): void => {
     // A ring is "orphaned" when its station can no longer be reached by any legal
     // path from the player's base post. Removing an arrow, reversing one, or
     // moving a base post can sever support, so this runs after every structural change
@@ -564,10 +589,66 @@ const advanceTurn = (state: FinityGameState): void => {
     const playerCount = state.config.playerColors.length;
     state.turnIndex = (state.turnIndex + 1) % playerCount;
 
-    // Skip winners in multiplayer games
-    while (state.winners.includes(state.config.playerColors[state.turnIndex])) {
+    // Skip winners in multiplayer games - also any defaulters
+    while (isFinished(state, state.config.playerColors[state.turnIndex])) {
         state.turnIndex = (state.turnIndex + 1) % playerCount;
     }
+}
+
+export const isFinished = (state: FinityGameState, color: PlayerColor): boolean =>
+    state.winners.includes(color) || state.defaulted.includes(color);
+
+/** Players still taking turns. */
+export const continuingPlayers = (state: FinityGameState): PlayerColor[] =>
+    state.config.playerColors.filter((c) => !isFinished(state, c));
+
+/**
+ * The shared tiebreak - Ranks players by distinct stations covered on their
+ * best path, then by rings on the board. Returns ordered groups; a group with
+ * more than one member is a genuine tie and stays level rather than being
+ * broken arbitrarily.
+ */
+const rankByTiebreak = (
+    state: FinityGameState,
+    players: PlayerColor[],
+    metric: (state: FinityGameState, color: PlayerColor) => number
+): PlayerColor[][] => {
+    const scored = players.map((color) => ({
+        color,
+        distinct: metric(state, color),
+        rings: ringCount(state, color),
+    })).sort((x, y) => (y.distinct - x.distinct) || (y.rings - x.rings));
+
+    const groups: PlayerColor[][] = [];
+    for (const entry of scored) {
+        const top = groups[groups.length - 1];
+        const prev = top ? scored[scored.findIndex((s) => s.color === top[0])] : null;
+        if (prev && prev.distinct === entry.distinct && prev.rings === entry.rings) {
+            top.push(entry.color);
+        } else {
+            groups.push([entry.color]);
+        }
+    }
+
+    return groups;
+}
+
+/**
+ * Final standings: finishers in order, then remaining players by tiebreak,
+ *  then defaulters last.
+ */
+const buildRanking = (state: FinityGameState): PlayerColor[][] => {
+    const ranking: PlayerColor[][] = state.winners.map((w) => [w]);
+
+    const rest = state.config.playerColors.filter(
+        (c) => !state.winners.includes(c) && !state.defaulted.includes(c)
+    );
+    if (rest.length > 0) {
+        ranking.push(...rankByTiebreak(state, rest, bestPathStationCount));
+    }
+    if (state.defaulted.length > 0) ranking.push([...state.defaulted]);
+
+    return ranking;
 }
 
 const checkVictory = (state: FinityGameState): void => {
@@ -602,7 +683,7 @@ const checkVictory = (state: FinityGameState): void => {
     // Game is over when all but one player has won
     if (state.winners.length >= state.config.playerColors.length - 1) {
         state.playStatus = 'over';
-        state.endReason = state.winners.length > 0 ? 'path_complete': 'forced_draw';
+        state.endReason = state.winners.length > 0 ? 'path_complete' : 'forced_draw';
         return;
     }
 

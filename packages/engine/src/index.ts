@@ -89,7 +89,6 @@ export {
     hasFullPath,
     legalPaths,
     longestLegalPathLength,
-    longestSupportedPathLength,
     reachableStationCount,
 } from './path-analyzer';
 

@@ -54,10 +54,19 @@ export interface FinityGameState {
     moveHistory: RecordedMove[];
     winners: PlayerColor[];
     pathPattern: ArrowColor[];           // The 8-cone sequence
-    turnsSinceRingChange: number;        // For deadlock detection
+    turnsSinceRingChange: number;
     zobristHash: string;
     prevBoardHash?: string;
     endReason?: EndReason;
+    /** Players who defaulted (timeout or illegal move) are skipped in the turn order, excluded from
+     * the anti-kingmaker comparison, and placed last in the final ranking
+    */
+    defaulted: PlayerColor[];
+    /**
+     * Final standings as ordered groups; members of a group are tied. Set once
+     *  when the game ends. Ties are genuine draws, not arbitrary orderings.
+     */
+    ranking?: PlayerColor[][];
 }
 
 export interface BoardState {
@@ -177,7 +186,10 @@ export interface GameRecord {
     metadata?: Record<string, unknown>;
 }
 
-export type EndReason = 'path_complete' | 'forced_draw';
+export type EndReason =
+    |'path_complete'
+    | 'forced_draw'
+    | 'simultaneous_completion';
 
 export interface GameResult {
     winners: PlayerColor[];
