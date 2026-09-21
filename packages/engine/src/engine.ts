@@ -125,7 +125,8 @@ const createInitialBoard = (
         }
     });
 
-    // Place initial rings on the center station: one large ring per player
+    // Place initial rings on the center station: one large ring per player, bottom to top in reverse seating order
+
     const reversedColors = [...playerColors].reverse();
     stationMap['C'].rings = [
         reversedColors[0] ? { type: 'ring', color: reversedColors[0], size: 'l' } as RingState : null,

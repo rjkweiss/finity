@@ -93,7 +93,8 @@ export {
 } from './path-analyzer';
 
 export {
-    possibleMoves
+    possibleMoves,
+    legalMoves
 } from './possible-moves';
 
 export { evaluate, DEFAULT_WEIGHTS, type EvalWeights } from './evaluation';

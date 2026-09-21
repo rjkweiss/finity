@@ -96,9 +96,13 @@ export const possibleMoves = (
     state: FinityGameState,
     color: PlayerColor = currentPlayer(state),
 ): MoveAction[] => {
+    const trapped = isBasePostTrapped(state, color);
     const generated = [
         ...possibleRingMoves(state, color),
-        ...possibleBasePostMoves(state, color),
+        ...(trapped
+            ? possibleTeleportMoves(state, color)
+            : possibleBasePostMoves(state, color)
+        ),
         ...possibleBlockerMoves(state, color),
         ...possibleBlockerRemoveMoves(state, color),
         ...possibleArrowPlaceMoves(state, color),
@@ -203,6 +207,61 @@ const canMoveBasePost = (
 
     return newPathHasRings(state, name, color);
 }
+
+// =============================================================
+// Teleport
+// =============================================================
+
+/**
+ * A base post is trapped when ALL stations adjacent to it are completely filled by opponent's rings
+ * The center station is excluded from adjacency check since it is always have a ring for each player
+ */
+export const isBasePostTrapped = (
+    state: FinityGameState,
+    color: PlayerColor
+): boolean => {
+    const base = (Object.keys(state.board.stations) as StationName[])
+        .find((n) => state.board.stations[n]?.basePost === color);
+    if (!base) return false;
+
+    const neighbors = (Object.keys(STATION_SLOTS[base] ?? {}) as StationName[])
+        .filter((n) => n!== 'C' && state.board.stations[n]);
+
+    if (neighbors.length === 0) return false;
+
+    return neighbors.every((n) => {
+        const st = state.board.stations[n]!;
+        if (stationRingCount(st) < 3) return false;
+        return st.rings.every((r) => r === null || r.color !== color);
+    });
+
+};
+
+/**
+ * A trapped player may spend a turn teleporting their base post to an EMPTY station -- one with no rings on it at all
+ * If no empty stations exists, this returns nothing and the trapped player falls back to bridge and blocker moves only
+ */
+const possibleTeleportMoves = (
+    state: FinityGameState,
+    color: PlayerColor
+): MoveAction[] => {
+    const moves: MoveAction[] = [];
+
+    for (const name of Object.keys(state.board.stations) as StationName[]) {
+        if (name === 'C') continue;
+        const st = state.board.stations[name];
+        if (!st) continue;
+        if (st.basePost) continue;
+        if (stationRingCount(st) > 0) continue;
+
+        moves.push({
+            type: 'replace',
+            pieceToAdd: { type: 'basePost', color, toStation: name },
+        });
+    }
+
+    return moves;
+};
 
 const newPathHasRings = (
     state: FinityGameState,

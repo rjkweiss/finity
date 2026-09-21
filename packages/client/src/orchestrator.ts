@@ -8,6 +8,7 @@ import {
     currentPlayer,
     isGameOver,
     possibleMoves,
+    legalMoves as engineLegalMoves,
     type ArrowColor,
     type FinityGameState,
     type GameConfig,
@@ -135,7 +136,7 @@ export class GameOrchestrator {
         this.timeouts = { ...DEFAULT_TIMEOUTS, ...(opts.timeouts ?? {}) };
         this.validateMoves = opts.validateMoves ?? false;
         this.turnDelayMs = Math.max(0, opts.turnDelayMs ?? 0);
-        this.repetitionLimit = opts.repetitionLimit === undefined ? 3 : opts.repetitionLimit;
+        this.repetitionLimit = opts.repetitionLimit ?? null;
         this.maxMoves = opts.maxMoves === undefined ? 1000 : opts.maxMoves;
         this.startedAt = this.now();
         for (const agent of this.allAgents()) agent.onGameStart?.(opts.config);
@@ -156,7 +157,8 @@ export class GameOrchestrator {
         return currentPlayer(this.state);
     }
     legalMoves(): MoveAction[] {
-        return possibleMoves(this.state, this.currentColor());
+        // implements the filtered legal moves from possible moves
+        return engineLegalMoves(this.state, this.currentColor());
     }
     agentFor(color: PlayerColor): PlayerAgent | undefined {
         return this.agents[color];
@@ -296,13 +298,6 @@ export class GameOrchestrator {
         return this.state.turnIndex;
     }
 
-    // private endByDefault(color: PlayerColor, reason: GameResult['reason']): void {
-    //     this.stopReason = reason;
-    //     this.forfeitedBy = color;
-    //     this.state = { ...this.state, playStatus: 'over' };
-    //     this.finishGame();
-    // }
-
     private async playTurn(): Promise<void> {
         if (this.turnInFlight) throw new Error('A turn is already in flight');
         if (this.isOver()) return;
@@ -437,7 +432,7 @@ export class GameOrchestrator {
     }
 
     private isLegal(color: PlayerColor, move: MoveAction): boolean {
-        return possibleMoves(this.state, color).some((m) => sameMove(m, move));
+        return engineLegalMoves(this.state, color).some((m) => sameMove(m, move));
     }
 
     private allAgents(): PlayerAgent[] {
