@@ -19,6 +19,7 @@ import type { MoveCategory } from '../rendering/moveInputHandler';
 import FinityCanvas from './FinityCanvas';
 import PlayerPanel from './PlayerPanel';
 import MoveLog from './MoveLog';
+import { positionAt, historyLabel, type ViewIndex } from '../HistoryNav';
 
 /** Click tolerance in px. Slots (L/C/R channels) sit ~30px apart, so keep this modest
  *  and rely on snapping to the nearest *legal* target. Tune to taste. */
@@ -31,7 +32,9 @@ export interface PlayViewProps {
   config?: GameConfig;
   agents?: AgentMap;
   pathPattern?: ArrowColor[];
+  viewIndex?: ViewIndex;
   onAgentChange?: (color: PlayerColor, sel: string) => void;
+
 }
 
 /** The engine takes the cone pattern as input, so pattern generation is a client concern. */
@@ -66,20 +69,7 @@ const MOVE_TYPE_LABEL: Record<string, string> = {
 
 const MSG_DISMISS_MS = 2600;
 
-/** PlayerPanel's move-type dropdown -> input category filter. */
-// const MOVE_TYPE_TO_CATEGORY: Record<string, MoveCategory | null> = {
-//   select: null,
-//   'b-arrow': 'arrow',
-//   'w-arrow': 'arrow',
-//   ring: 'ring',
-//   'base-post': 'basePost',
-//   blocker: 'blocker',
-//   'rev-arrow': 'reverse',
-//   'rem-arrow': 'remove',
-//   'opp-blocker': 'remove',
-// };
-
-export function PlayView({ orchestrator, config, agents, pathPattern, onAgentChange }: PlayViewProps) {
+export function PlayView({ orchestrator, config, agents, pathPattern, viewIndex, onAgentChange, }: PlayViewProps) {
   const orch = useMemo(() => {
     if (orchestrator) return orchestrator;
     if (!config || !agents) throw new Error('PlayView needs either an orchestrator or config+agents');
@@ -87,6 +77,17 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
   }, [orchestrator, config, agents, pathPattern]);
 
   const { state, currentColor, isOver, result, isAwaitingHumanInput, input } = useOrchestrator(orch);
+
+  // An earlier position, when stepping back through history
+  const viewed = useMemo(
+    () => (viewIndex == null ? null : positionAt(orch.getInitialState(), state.moveHistory, viewIndex)),
+    [orch, viewIndex, state.moveHistory],
+  );
+  const historyMsg = historyLabel(viewIndex ?? null, state.moveHistory.length);
+
+  // click handler is bound once, so it reads the view through a ref
+  const viewIndexRef = useRef(viewIndex);
+  viewIndexRef.current = viewIndex;
 
   // Same geometry the renderer uses, so pixel clicks line up with drawn pieces.
   const layout = useMemo(() => computeLayout(state.config.boardSize), [state.config.boardSize]);
@@ -137,6 +138,10 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
   // because FinityCanvas binds its mouse handler once in setup().
   const handleCanvasClick = useCallback(
     (x: number, y: number) => {
+      if (viewIndexRef.current != null) {
+        flash('Viewing an earlier position. Press ⏭ to return to the live game. ');
+        return;
+      }
       if (orch.isOver()) return;
       const color = orch.currentColor();
       const agent = orch.agentFor(color);
@@ -196,19 +201,19 @@ export function PlayView({ orchestrator, config, agents, pathPattern, onAgentCha
         <div id="players_1_3">{left.map(panel)}</div>
 
         <div id="finity">
-          {(inputMsg ?? persistentHint) && (
+          {(historyMsg ?? inputMsg ?? persistentHint) && (
             <div className="finity-input-msg" role="status">
               {inputMsg ?? persistentHint}
             </div>
           )}
           <FinityCanvas
-            gameState={state}
+            gameState={viewed ?? state}
             layout={layout}
             onCanvasClick={handleCanvasClick}
-            highlightTargets={highlights}
+            highlightTargets={viewed ? []: highlights}
           />
 
-          {phase.phase === 'disambiguating' && (
+          {phase.phase === 'disambiguating' && !viewed && (
             <div className="finity-disambig" role="dialog" aria-label="Choose move">
               {phase.options.map((opt) => (
                 <button key={opt.id} type="button" onClick={() => input.selectOption(opt.id)}>

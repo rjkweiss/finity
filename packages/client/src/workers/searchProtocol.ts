@@ -6,7 +6,7 @@ import type { FinityGameState, MoveAction, PlayerColor } from '@finity/engine';
 import type { Difficulty } from '@finity/agents';
 
 export type WorkerRequest =
-    | { kind: 'init'; difficulty: Difficulty; playerCount: number }
+    | { kind: 'init'; difficulty: Difficulty; playerCount: number, seed?: number }
     | { kind: 'move'; requestId: number; color: PlayerColor; state: FinityGameState; moveIndex: number };
 
 export type WorkerResponse =

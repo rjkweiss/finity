@@ -56,6 +56,8 @@ import { boardHash } from './no-undo';
  */
 export const DRAW_ROUND_LIMIT = 10;
 
+export const DEFAULT_REPETITION_LIMIT = 3;
+
 
 // =============================================================
 // Game Creation
@@ -90,6 +92,7 @@ export const createGame = (
     };
 
     game.zobristHash = computeZobristHash(game);
+    game.positionCounts = { [game.zobristHash]: 1 };
     return game;
 }
 
@@ -394,8 +397,10 @@ export const applyMove = (
     state: FinityGameState,
     move: MoveAction
 ): FinityGameState => {
-    // Deep clone the state
+    // Deep clone everything except the repetition counts
+    const { positionCounts, ...rest } = state;
     const next: FinityGameState = structuredClone(state) as unknown as FinityGameState;
+    next.positionCounts = positionCounts;
     next.prevBoardHash = boardHash(state);
     next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
 
@@ -452,7 +457,7 @@ export const applyMove = (
     // Refresh the position hash last, so side-to-move (turnIndex) is final
     next.zobristHash = computeZobristHash(next);
     invalidatePathCache(next); // bundles cached mid-mutation are now unreachable
-
+    if (next.playStatus !== 'over') recordPosition(next);
     return next;
 }
 
@@ -651,6 +656,21 @@ const buildRanking = (state: FinityGameState): PlayerColor[][] => {
 
     return ranking;
 }
+
+/**
+ * Count this position and void the game if it has now occurred `repetitionLimit` times.
+ */
+const recordPosition = (state: FinityGameState): void => {
+    const key = boardHash(state);
+    const n = (state.positionCounts?.[state.zobristHash] ?? 0) + 1;
+    state.positionCounts = { ...state.positionCounts, [key]: n };
+
+    const limit = state.config.repetitionLimit ?? DEFAULT_REPETITION_LIMIT;
+    if (limit > 0 && n >= limit) {
+        state.playStatus = 'over';
+        state.endReason = 'repetition';
+    }
+};
 
 const checkVictory = (state: FinityGameState): void => {
     // A single move can complete paths for more than one player at once, because bridges are shared resources

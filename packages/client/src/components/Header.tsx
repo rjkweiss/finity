@@ -14,6 +14,8 @@ interface HeaderProps {
   onStep?: () => void;
   playerCount?: number;
   onPlayerCountChange?: (n: 2 | 3 | 4) => void;
+  onStepBack?: () => void;
+  onFastForward?: () => void;
 }
 
 const NAV_ITEMS: { view: View; label: string }[] = [
@@ -26,7 +28,8 @@ const NAV_ITEMS: { view: View; label: string }[] = [
 export default function Header({
   activeView, onNavigate,
   onReset, onPlay, onPause, onStep,
-  playerCount, onPlayerCountChange
+  playerCount, onPlayerCountChange,
+  onStepBack, onFastForward
 }: HeaderProps) {
   return (
     <div id="header">
@@ -90,11 +93,13 @@ export default function Header({
             outlineImg="img/noun-step-bwd-outline.png"
             solidImg="img/noun-step-bwd-solid.png"
             alt="step back"
+            onClick={onStepBack}
           />
           <ControlButton
             outlineImg="img/noun-ff-outline.png"
             solidImg="img/noun-ff-solid.png"
             alt="fast forward"
+            onClick={onFastForward}
           />
         </div>
       </div>

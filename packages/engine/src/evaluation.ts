@@ -10,9 +10,11 @@
  * i.e. how easily an opponent could orphan your supported rings.
  */
 
-import type { FinityGameState, PlayerColor } from "./types";
+import type { FinityGameState, PlayerColor, StationName } from "./types";
 import { getAllArrows, occupiesHighPoint, stationControlledBy } from "./engine";
-import { analyzePaths, orphanExposure, reachableStationCount } from "./path-analyzer";
+import { analyzePaths, orphanExposure, reachableStationCount, reachableStations } from "./path-analyzer";
+import { STATION_SLOTS } from "./topology";
+import { layeredPlan, UNREACHABLE } from "./layered";
 
 // =============================================================
 // 1. Longest bridge path (offense)
@@ -115,6 +117,73 @@ export const orphanVulnerability = (state: FinityGameState, color: PlayerColor):
 // =============================================================
 // Combined evaluation
 // =============================================================
+
+const channelCounts = (
+    state: FinityGameState,
+    color: PlayerColor
+): {closed: number; doubled: number} => {
+    const frontier = reachableStations(state, color);
+    let closed = 0;
+    let doubled = 0;
+
+    for (const from of frontier) {
+        const neighbors = STATION_SLOTS[from];
+        if (!neighbors) continue;
+
+        for (const to of Object.keys(neighbors) as StationName[]) {
+            if (!state.board.stations[to]) continue;
+            const triplet = neighbors[to];
+            if (!triplet) continue;
+
+            let open = 0;
+            for (const slotId of [triplet.L, triplet.C, triplet.R]) {
+                const slot = state.board.slots[slotId];
+                if (slot && !slot.contains && !slot.blocked) open++;
+            }
+
+            if (open === 0) closed++;
+            else if (open >= 2) doubled++;
+        }
+    }
+
+    return { closed, doubled };
+};
+
+/**
+ * Directions out of your reachable set that can no longer be built in
+ */
+export const closedChannels = (state: FinityGameState, color: PlayerColor): number => channelCounts(state, color).closed;
+
+/** Directions with redundant capacity - not closable in one opponent move */
+export const channelRedundancy = (
+    state: FinityGameState,
+    color: PlayerColor
+): number => channelCounts(state, color).doubled;
+
+// =============================================================
+// 9-10. Distance to completion (rings)
+// =============================================================
+
+/**
+ * How close a player is to completing a path, in [0, 1]. Built on the layered
+ * planner's `movesToWin`, which counts missing arrows AND missing rings, so a
+ * ring on the route scores directly — the legacy terms only reward a ring when
+ * it happens to extend a supported path or take a high point.
+ *
+ * Bounded rather than linear: going from 3 moves to 2 matters far more than
+ * from 12 to 11, and "no route at all" is not merely "very far".
+ */
+const PROGRESS_SCALE = 6;
+
+export const progress = (state: FinityGameState, color: PlayerColor): number => {
+    const m = layeredPlan(state, color).movesToWin;
+    return m === UNREACHABLE ? 0 : PROGRESS_SCALE / (PROGRESS_SCALE + m);
+};
+
+/** Rings still needed along the cheapest route. Higher is worse. */
+export const ringDeficit = (state: FinityGameState, color: PlayerColor): number =>
+    layeredPlan(state, color).ringDeficit;
+
 export interface EvalWeights {
     longestBridgePath: number;
     longestSupportedPath: number;
@@ -122,6 +191,10 @@ export interface EvalWeights {
     controlledStationCount: number;
     stationPairStrength: number;
     orphanVulnerability: number; // if negative, vulnerability is bad
+    closedChannels: number;
+    channelRedundancy: number;
+    progress: number; // closeness to a complete path; rewards rings directly
+    ringDeficit: number; // negative: rings still to place on the route
 }
 
 /** Starting weights — tune against self-play(later -> ML tuned on headless self-play) */
@@ -132,6 +205,10 @@ export const DEFAULT_WEIGHTS: EvalWeights = {
     controlledStationCount: 2.0,
     stationPairStrength: 1.0,
     orphanVulnerability: -2.5,
+    closedChannels: -4.0,
+    channelRedundancy: 1.5,
+    progress: 20.0,
+    ringDeficit: -1.0,
 };
 
 /**
@@ -150,6 +227,10 @@ export const evaluate = (
         weights.reachableStationCount * reachableStationCount(state, color) +
         weights.controlledStationCount * controlledStationCount(state, color) +
         weights.stationPairStrength * stationPairStrength(state, color) +
-        weights.orphanVulnerability * orphanVulnerability(state, color)
+        weights.orphanVulnerability * orphanVulnerability(state, color) +
+        weights.closedChannels * closedChannels(state, color) +
+        weights.channelRedundancy * channelRedundancy(state, color) +
+        weights.progress * progress(state, color) +
+        weights.ringDeficit * ringDeficit(state, color)
     );
 }

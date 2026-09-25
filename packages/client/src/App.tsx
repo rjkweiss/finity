@@ -23,6 +23,7 @@ import ReplayView from './components/ReplayView';
 import { GameOrchestrator, type AgentMap } from './orchestrator';
 import { GameRecorder, agentInfoMap } from '@finity/recorder';
 import { WorkerSearchAgent } from './agents/workerSearchAgent';
+import { navigateHistory, type HistoryAction, type ViewIndex } from './HistoryNav';
 
 type View = 'play' | 'agents' | 'history' | 'lobby';
 
@@ -115,6 +116,37 @@ export default function App() {
     prevOrch.current = orch;
   }, [orch]);
 
+  // What the board shows: null = the live game, k = the position after k moves
+  const [viewIndex, setViewIndex] = useState<ViewIndex>(null);
+  useEffect(() => setViewIndex(null), [orch]); // new game starts live
+
+  const nav = (action: HistoryAction) => {
+    setViewIndex((v) =>
+      navigateHistory(
+        v,
+        orch.getState().moveHistory.length,
+        action,
+        orch.getInitialState().moveHistory.length
+      )
+    );
+
+    <Header
+      activeView={activeView}
+      onNavigate={setActiveView}
+      onPlay={() => { setViewIndex(null); orch.play().catch(() => undefined); }}
+      onPause={() => orch.pause()}
+      onStep={() => {
+        if (viewIndex !== null) nav('forward');
+        else orch.step().catch(() => undefined);
+      }}
+      onStepBack={() => { orch.pause(); nav('back'); }}
+      onFastForward={() => nav('live')}
+      onReset={() => { setViewIndex(null); orch.reset(); }}
+      playerCount={playerCount}
+      onPlayerCountChange={setPlayerCount}
+    />
+  };
+
   return (
     <div className="App">
       <Header
@@ -139,6 +171,7 @@ export default function App() {
             onAgentChange={(color, sel) =>
               setAgentSel((prev) => ({ ...prev, [color]: sel }))
             }
+            viewIndex={viewIndex}
           />
         )}
         {activeView === 'agents' && (

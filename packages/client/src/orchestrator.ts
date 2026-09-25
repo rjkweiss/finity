@@ -7,7 +7,6 @@ import {
     createGame,
     currentPlayer,
     isGameOver,
-    possibleMoves,
     legalMoves as engineLegalMoves,
     type ArrowColor,
     type FinityGameState,
@@ -45,6 +44,8 @@ export interface OrchestratorEvents {
     'turn:end': (info: { color: PlayerColor; moveIndex: number; move: MoveAction }) => void;
     'game:over': (result: GameResult) => void;
     error: (error: Error) => void;
+    /** Play mode let's the UI keep play/pause in sync without polling */
+    mode: (mode: PlayMode) => void;
 }
 
 export interface OrchestratorOptions {
@@ -59,9 +60,9 @@ export interface OrchestratorOptions {
     /** Replay/restore: start from this exact state instead of createGame(). This is how
      *  step 4 injects a known path pattern. */
     initialState?: FinityGameState;
-    /** Phase 6: when true, every move is checked for membership in possibleMoves() before
+    /** Phase 6: when true, every move is checked for membership in legalMoves() before
      *  applying (defends against untrusted agents). The engine has no standalone
-     *  validateMove(), and possibleMoves IS the legality oracle, so this is the check.
+     *  validateMove(), and legal Moves IS the legality oracle, so this is the check.
      *  Default false: Phase 2 sources (human picks, scripted replays) are already legal. */
     validateMoves?: boolean;
     /**
@@ -105,6 +106,7 @@ export class GameOrchestrator {
 
     private playMode: PlayMode = 'paused';
     private turnInFlight = false;
+    private inFlight: Promise<void> | null = null;
     private running = false;
     private currentAbort: AbortController | null = null;
     private startedAt: number;
@@ -117,6 +119,7 @@ export class GameOrchestrator {
         'turn:start': new Set(),
         'turn:end': new Set(),
         'game:over': new Set(),
+        mode: new Set(),
         error: new Set(),
     };
 
@@ -134,16 +137,18 @@ export class GameOrchestrator {
         this.recorder = opts.recorder;
         this.recorder?.begin?.(this.initialState);
         this.timeouts = { ...DEFAULT_TIMEOUTS, ...(opts.timeouts ?? {}) };
-        this.validateMoves = opts.validateMoves ?? false;
+        this.validateMoves = opts.validateMoves ?? true;
         this.turnDelayMs = Math.max(0, opts.turnDelayMs ?? 0);
-        this.repetitionLimit = opts.repetitionLimit ?? null;
+        this.repetitionLimit = opts.repetitionLimit ?? 5;
         this.maxMoves = opts.maxMoves === undefined ? 1000 : opts.maxMoves;
         this.startedAt = this.now();
         for (const agent of this.allAgents()) agent.onGameStart?.(opts.config);
     }
 
     // ---- read access (the hook's snapshot source) -----------------------------
-
+    getInitialState(): FinityGameState {
+        return this.initialState;
+    }
     getState(): FinityGameState {
         return this.state;
     }
@@ -191,13 +196,17 @@ export class GameOrchestrator {
 
     async play(): Promise<GameResult | null> {
         // set the mode first so play() acts as "resume" when a loop is already running
-        this.playMode = 'playing';
+        this.setPlayMode('playing');
         if (this.running) return this.result
         this.running = true;
 
         try {
             while (this.playMode === 'playing' && !this.isOver()) {
-                await this.playTurn();
+                if (this.inFlight) {
+                    await this.inFlight.catch(() => undefined);
+                } else {
+                    await this.runTurn();
+                }
                 await this.interTurnDelay();
             }
         } finally {
@@ -208,14 +217,32 @@ export class GameOrchestrator {
     }
 
     pause(): void {
-        this.playMode = 'paused';
+        this.setPlayMode('paused');
     }
 
     async step(): Promise<void> {
-        if (this.running || this.turnInFlight) {
-            throw new Error('Cannot step while a turn is in flight');
+        if (this.running) {
+            this.pause();
+            return;
         }
-        await this.playTurn();
+        if (this.inFlight || this.isOver()) return;
+        await this.runTurn();
+    }
+
+    /** Play one turn, recording it as the in-flight turn until it settles */
+    private runTurn(): Promise<void> {
+        const turn: Promise<void> = this.playTurn().finally(() => {
+            if (this.inFlight === turn) this.inFlight = null;
+        });
+        this.inFlight = turn;
+
+        return turn;
+    }
+
+    private setPlayMode(mode: PlayMode): void {
+        if (this.playMode === mode) return;
+        this.playMode = mode;
+        this.emit('mode', mode);
     }
 
     abortCurrentTurn(reason: AbortReason): void {
@@ -224,7 +251,7 @@ export class GameOrchestrator {
 
     reset(toState?: FinityGameState): void {
         this.abortCurrentTurn({ kind: 'new-game' });
-        this.playMode = 'paused';
+        this.setPlayMode('paused');
         this.result = null;
         this.stopReason = null;
         this.forfeitedBy = null;
@@ -238,7 +265,7 @@ export class GameOrchestrator {
 
     dispose(): void {
         // stop the play() loop once the aborted turn unwinds
-        this.playMode = 'paused';
+        this.setPlayMode('paused');
         this.abortCurrentTurn({ kind: 'disposed' });
         for (const agent of this.allAgents()) agent.dispose?.();
         (Object.keys(this.listeners) as (keyof OrchestratorEvents)[]).forEach((k) =>
@@ -247,7 +274,7 @@ export class GameOrchestrator {
     }
 
     // ---- the turn -------------------------------------------------------------
-    private markDefauly(color: PlayerColor, reason: GameResult['reason']): void {
+    private markDefault(color: PlayerColor, reason: GameResult['reason']): void {
         if (this.state.defaulted.includes(color)) return;
 
         this.stopReason = reason;
@@ -329,18 +356,18 @@ export class GameOrchestrator {
                 move = await this.callWithAbort(agent, color, snapshot, ac, moveIndex, budget);
             } catch (err) {
                 if (err instanceof MoveTimeoutError) {
-                    this.markDefauly(color, 'timeout');
+                    this.markDefault(color, 'timeout');
                     throw err;
                 }
                 if (err instanceof MoveAbortedError) return; // cancelled externally — don't advance
                 throw err;
             }
 
-            // The engine has no standalone validateMove(); possibleMoves() is the legality
+            // The engine has no standalone validateMove(); legalMoves() is the legality
             // oracle. Only enforce membership when guarding untrusted agents (Phase 6).
             if (this.validateMoves && !this.isLegal(color, move)) {
-                this.markDefauly(color, 'forfeit');
-                throw new IllegalMoveError(color, move, 'not in possibleMoves()');
+                this.markDefault(color, 'forfeit');
+                throw new IllegalMoveError(color, move, 'not in legalMoves()');
             }
 
             this.state = applyMove(this.state, move);
@@ -370,7 +397,7 @@ export class GameOrchestrator {
             if (this.isOver()) this.finishGame();
         } catch (err) {
             const e = err instanceof Error ? err : new Error(String(err));
-            this.playMode = 'paused';
+            this.setPlayMode('paused');
             this.emit('error', e);
             throw e;
         } finally {
@@ -466,7 +493,7 @@ export class GameOrchestrator {
         this.stopReason = null;
         this.forfeitedBy = null;
 
-        this.playMode = 'paused';
+        this.setPlayMode('paused');
         for (const agent of this.allAgents()) agent.onGameEnd?.(this.result);
         this.recorder?.finalize(this.result);
         this.emit('game:over', this.result);

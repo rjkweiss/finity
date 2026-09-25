@@ -3,8 +3,19 @@
 // client, so the move-categorization logic here mirrors the client's
 // moveInputHandler categories rather than importing them.
 
-import type { FinityGameState, MoveAction, PlayerColor } from "@finity/engine";
+import { FinityGameState, MoveAction, PlayerColor, SLOT_INTERFERENCES, SLOT_TO_STATIONS } from "@finity/engine";
 import { MoveAbortedError, type AbortReason, type MoveContext } from "./interface";
+
+/** slot -> the slots whose arrow would interfere with (block) it */
+const ATTACKERS: Record<number, number[]> = (() => {
+    const out: Record<number, number[]> = {};
+    for (const [t, blocked] of Object.entries(SLOT_INTERFERENCES)) {
+        for (const x of blocked) (out[x] ??= []).push(Number(t));
+    }
+
+    return out;
+})();
+
 
 // -------------------------------------------------------------------------
 // Move Categorization
@@ -41,6 +52,39 @@ export function moveCategory(move: MoveAction): MoveCategory {
         default:
             return 'remove';
     }
+}
+
+export function blockingExposure(state: FinityGameState, move: MoveAction): number {
+    const add = move.pieceToAdd;
+    if (move.type !== 'place' || !add || add.type !== 'arrow') return 0;
+
+    const s = add.slotId;
+    const base = s - (s % 3);
+    const triplet = [base, base + 1, base + 2];
+    const denied = new Set(SLOT_INTERFERENCES[s] ?? []);
+    const slots = state.board.slots;
+    const onBoard = (id: number): boolean => {
+        const pair = SLOT_TO_STATIONS[id];
+        return !!pair && !!state.board.stations[pair[0]] && !!state.board.stations[pair[1]];
+    };
+
+    let threats = 0;
+    for (const x of triplet) {
+        if (x === s) continue;
+        const xs = slots[x];
+
+        // only open doubling slots matter
+        if (!xs || xs.contains || xs.blocked) continue;
+        for (const t of ATTACKERS[x] ?? []) {
+            if (triplet.includes(t) || denied.has(t) || !onBoard(t)) continue;
+            const ts = slots[t];
+            // opponent can't use it
+            if (!ts || ts.contains || ts.blocked) continue;
+            threats++;
+        }
+    }
+
+    return threats;
 }
 
 // -------------------------------------------------------------------------
@@ -119,57 +163,25 @@ export function throwIfAborted(ctx: MoveContext): void {
 }
 
 // -------------------------------------------------------------------------
-// Position key for transposition tables. The engine's zobristHash is currently
-// a stub ('0'), so agents compute their own compact key from board contents +
-// side to move. Not cryptographic — just stable and collision-cheap.
-// -------------------------------------------------------------------------
-export function positionKey(state: FinityGameState): string {
-    const board = state.board;
-    let s = `t${state.turnIndex};`;
-
-    // stations: ring occupancy by color initial per size slot, plus base post
-    for (const name of Object.keys(board.stations).sort()) {
-        const st = board.stations[name as keyof typeof board.stations];
-        const r = st.rings
-            .map((ring) => (ring ? ring.color[0] : '.'))
-            .join('');
-        s += `${name}: ${r}${st.basePost ? st.basePost[0]: '.'}`;
-    }
-
-    // slots: type + color + orientation for arrows
-    for (const slot of board.slots) {
-        const c = slot.contains;
-        if (!c) {
-            s += '_';
-        } else if (c.type === 'arrow') {
-            s += `a${c.color}${c.fromStation}>${c.toStation}`;
-        } else {
-            s += `k${c.color[0]}`;
-        }
-    }
-
-    return s;
-}
-
-// -------------------------------------------------------------------------
 // Leaf scoring shared by minimax and MCTS rollouts.
 // -------------------------------------------------------------------------
 export const WIN_SCORE = 1_000_000;
+export const OPPONENT_WEIGHT = 0.6;
 
 /**
- * Zero-sum differential score from `me`'s perspective:
- *  my evaluation minus the strongest opponent's evaluation.
- * Terminal states return large (plus minus) values so the search prefers real wins over
- * heuristic gains, and prefers faster wins via the small depth nudge
+ * Differential score from `me`'s perspective:
+ *  my evaluation minus a weighted share of the strongest opponent's evaluation.
  */
 export function differentialScore(
     state: FinityGameState,
     me: PlayerColor,
     evaluate: (s: FinityGameState, c: PlayerColor) => number,
-    depthLeft = 0
+    depthLeft = 0,
+    opponentWeight: number = OPPONENT_WEIGHT
 ): number {
     if (state.playStatus === 'over') {
         if (state.winners.includes(me)) return WIN_SCORE + depthLeft;
+        if (state.endReason === 'repetition') return -WIN_SCORE - depthLeft;
         if (state.winners.length > 0) return -WIN_SCORE - depthLeft;
         return 0; // draw / deadlock
     }
@@ -183,5 +195,5 @@ export function differentialScore(
     }
 
     if (best_opponent === -Infinity) best_opponent = 0;
-    return mine - best_opponent;
+    return mine - (opponentWeight * best_opponent);
 }

@@ -5,7 +5,7 @@
 // replaced by a seat change.
 
 import { useEffect, useRef, useState } from 'react';
-import type { MoveAction } from '@finity/engine';
+import { MoveAction, slotName } from '@finity/engine';
 import type { GameOrchestrator } from '../orchestrator';
 import { moveCategory, primaryTarget } from '../rendering/moveInputHandler';
 
@@ -16,24 +16,30 @@ export function describeMove(move: MoveAction): string {
             ? ''
             : target.kind === 'station'
                 ? ` on station ${target.station}`
-                : ` at slot ${target.slotId}`;
+                : ` at ${slotName(target.slotId)} (slot ${target.slotId})`;
+
+    const arrow = move.pieceToAdd?.type === 'arrow' ? move.pieceToAdd : undefined;
+    const shade = arrow?.color === 'b' ? 'black ' : arrow?.color === 'w' ? 'white ': '';
+    const heading = arrow ? ` pointing ${arrow.fromStation}->${arrow.toStation}`: '';
 
     switch (moveCategory(move)) {
         case 'ring':
             return `places a ring${where}`;
         case 'basePost':
             return `moves base post${where}`;
-        case 'arrow': {
-            const c = move.pieceToAdd?.type === 'arrow' ? move.pieceToAdd.color : undefined;
-            const shade = c === 'b' ? 'black ' : c === 'w' ? 'white ' : '';
-            return `places a ${shade}arrow${where}`;
-        }
+        case 'arrow':
+            return `places a ${shade}arrow${where}${heading}`;
         case 'reverse':
-            return `reverses an arrow${where}`;
+            return `reverses an arrow${where} to point${heading.replace(' pointing', '')}`;
         case 'blocker':
             return `moves a blocker${where}`;
-        case 'remove':
-            return `removes a piece${where}`;
+        case 'remove': {
+            const r = move.pieceToRemove;
+            const what = r?.type === 'arrow'
+                ? `the ${r.color === 'b' ? 'black' : 'white'} ${r.fromStation}->${r.toStation} arrow`
+                : 'a piece';
+            return `removes ${what}${where}`;
+        }
         default:
             return `moves${where}`;
     }

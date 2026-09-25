@@ -6,7 +6,7 @@
 // Both are trivially fast, but still honor ctx.signal for API uniformity.
 
 import type { FinityGameState, MoveAction, PlayerColor } from "@finity/engine";
-import { possibleMoves } from "@finity/engine";
+import { legalMoves } from "@finity/engine";
 import type { PlayerAgent, MoveContext } from "./interface";
 import { IllegalMoveError } from "./interface";
 import {
@@ -46,7 +46,7 @@ abstract class BaseRandomAgent implements PlayerAgent {
 
     async move(color: PlayerColor, state: FinityGameState, ctx: MoveContext): Promise<MoveAction> {
         throwIfAborted(ctx);
-        const moves = possibleMoves(state, color);
+        const moves = legalMoves(state, color);
         if (moves.length === 0) {
             // no legal move - surface it rather than inventing one
             throw new IllegalMoveError(color, { type: 'remove' }, 'no legal moves available');

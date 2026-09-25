@@ -11,6 +11,7 @@
 import type { PlayerAgent } from './interface';
 import { MinimaxAgent } from './ai-minimax';
 import { MCTSAgent } from './ai-mcts';
+import { seededRng } from './ai-common';
 
 export type Difficulty = 'easy' | 'medium' | 'hard';
 
@@ -24,9 +25,9 @@ interface Budget {
 }
 
 const BUDGETS: Record<Difficulty, Budget> = {
-    easy: { maxDepth: 2, timeMs: 300, rolloutDepth: 20 },
-    medium: { maxDepth: 3, timeMs: 1000, rolloutDepth: 30 },
-    hard: { maxDepth: 4, timeMs: 2500, rolloutDepth: 40 },
+    easy: { maxDepth: 2, timeMs: 300, rolloutDepth: 4 },
+    medium: { maxDepth: 3, timeMs: 1000, rolloutDepth: 6 },
+    hard: { maxDepth: 4, timeMs: 2500, rolloutDepth: 8 },
 };
 
 /**
@@ -34,14 +35,21 @@ const BUDGETS: Record<Difficulty, Budget> = {
  * 2-player uses exact alpha-beta minimax; 3-4 player uses MCTS (minimax's
  * two-sided assumption doesn't hold with three-plus independent opponents).
  */
-export function createBuiltinAgent(difficulty: Difficulty, playerCount: number): PlayerAgent {
+export function createBuiltinAgent(
+    difficulty: Difficulty,
+    playerCount: number,
+    seed?: number,
+): PlayerAgent {
     const b = BUDGETS[difficulty];
+    const s = seed ?? (Math.random() * 2 ** 32) >>> 0;
+
     if (playerCount <= 2) {
         return new MinimaxAgent({
             id: `ai-minimax-${difficulty}`,
             label: `Minimax (${difficulty})`,
             maxDepth: b.maxDepth,
             timeMs: b.timeMs,
+            seed: s,
         });
     }
 
@@ -50,5 +58,6 @@ export function createBuiltinAgent(difficulty: Difficulty, playerCount: number):
         label: `MCTS (${difficulty})`,
         timeMs: b.timeMs,
         rolloutDepth: b.rolloutDepth,
+        rng: seededRng(s),
     });
 }

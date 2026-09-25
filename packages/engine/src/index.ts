@@ -60,6 +60,8 @@ export {
     getSlotInterferences,
     getSlotNeighbors,
     buildTopology,
+    slotName,
+    slotChannel
 } from './topology';
 
 // Engine core
@@ -80,6 +82,7 @@ export {
     outArrows,
     canBlockSlot,
     isRedundant,
+    DEFAULT_REPETITION_LIMIT
 } from './engine';
 
 // Path analysis
@@ -101,4 +104,4 @@ export { evaluate, DEFAULT_WEIGHTS, type EvalWeights } from './evaluation';
 
 export { computeZobristHash } from './zobrist';
 
-// optional -- make individual heuristics public from evaluation
+export { layeredPlan, movesToWin, type LayeredPlan } from './layered';

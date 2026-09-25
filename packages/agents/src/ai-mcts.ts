@@ -17,6 +17,7 @@
 import type { FinityGameState, MoveAction, PlayerColor, EvalWeights } from '@finity/engine';
 import {
     possibleMoves,
+    legalMoves,
     applyMove,
     currentPlayer,
     isGameOver,
@@ -84,12 +85,14 @@ export class MCTSAgent implements PlayerAgent {
     private readonly evalWeights: EvalWeights;
     private readonly rng: Rng;
 
+    public lastIterations = 0;
+
     constructor(opts: MctsOptions = {}) {
         this.id = opts.id ?? 'ai-mcts';
         this.label = opts.label ?? 'MCTS';
         this.timeMs = Math.max(1, opts.timeMs ?? 1000);
         this.maxIterations = Math.max(1, opts.maxIterations ?? 100_000);
-        this.rolloutDepth = Math.max(1, opts.rolloutDepth ?? 30);
+        this.rolloutDepth = Math.max(1, opts.rolloutDepth ?? 6);
         this.explore = opts.explore ?? Math.SQRT2;
         this.weights = opts.weights ?? DEFAULT_CATEGORY_WEIGHTS;
         this.evalWeights = opts.evalWeights ?? DEFAULT_WEIGHTS;
@@ -98,13 +101,13 @@ export class MCTSAgent implements PlayerAgent {
 
     async move(color: PlayerColor, state: FinityGameState, ctx: MoveContext): Promise<MoveAction> {
         throwIfAborted(ctx);
-        const rootMoves = possibleMoves(state, color);
+        const rootMoves = legalMoves(state, color);
         if (rootMoves.length === 0) {
             throw new IllegalMoveError(color, { type: 'remove' }, 'no legal moves available');
         }
         if (rootMoves.length === 1) return rootMoves[0];
 
-        const root = this.makeNode(state, null, null);
+        const root = this.makeNode(state, null, null, rootMoves);
         const deadline = Date.now() + this.timeMs;
 
         let iters = 0;
@@ -116,6 +119,9 @@ export class MCTSAgent implements PlayerAgent {
             this.backpropagate(expanded, reward);
             iters++;
         }
+        this.lastIterations = iters;
+        const perChild = root.children.length ? root.visits / root.children.length : 0;
+        console.log(perChild);
 
         // Robust child: most-visited root move. Fall back to a legal move
         let best: MctsNode | null = null;
@@ -207,6 +213,11 @@ export class MCTSAgent implements PlayerAgent {
         const players = state.config.playerColors;
         const out: Reward = {};
         if (state.playStatus === 'over') {
+            if (state.endReason === 'repetition') {
+                // voided game: a loss for everyone, so nobody is rewarded
+                for (const p of players) out[p] = 0;
+                return out;
+            }
             if (state.winners.length > 0) {
                 for (const p of players) {
                     out[p] = state.winners.includes(p) ? 1 / state.winners.length : 0;
@@ -233,6 +244,7 @@ export class MCTSAgent implements PlayerAgent {
         state: FinityGameState,
         parent: MctsNode | null,
         moveFromParent: MoveAction | null,
+        seedMoves?: MoveAction[],
     ): MctsNode {
         const toMove = currentPlayer(state);
         return {
@@ -241,7 +253,9 @@ export class MCTSAgent implements PlayerAgent {
             parent,
             moveFromParent,
             children: [],
-            untried: isGameOver(state) ? [] : possibleMoves(state, toMove),
+            untried: isGameOver(state)
+                ? []
+                : seedMoves ?? possibleMoves(state, toMove),
             visits: 0,
             reward: {},
         };

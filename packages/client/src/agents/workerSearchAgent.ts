@@ -20,6 +20,7 @@ import type { WorkerRequest, WorkerResponse } from '../workers/searchProtocol';
 export interface WorkerSearchAgentOptions {
     difficulty: Difficulty;
     playerCount: number;
+    seed?: number;
     id?: string;
     label?: string;
 }
@@ -33,12 +34,15 @@ export class WorkerSearchAgent implements PlayerAgent {
 
     private readonly difficulty: Difficulty;
     private readonly playerCount: number;
+    private readonly seed: number;
+
     private worker: Worker | null = null;
     private nextRequestId = 1;
 
     constructor(opts: WorkerSearchAgentOptions) {
         this.difficulty = opts.difficulty;
         this.playerCount = opts.playerCount;
+        this.seed = opts.seed ?? (Math.random() * 2 ** 32) >>> 0;
         this.id = opts.id ?? `ai-worker-${opts.difficulty}`;
         this.label = opts.label ?? `AI (${opts.difficulty})`;
     }
@@ -97,6 +101,7 @@ export class WorkerSearchAgent implements PlayerAgent {
             kind: 'init',
             difficulty: this.difficulty,
             playerCount: this.playerCount,
+            seed: this.seed,
         };
         worker.postMessage(init);
         this.worker = worker;

@@ -10,12 +10,13 @@ import type {
     EvalWeights
 } from "@finity/engine";
 import {
-    possibleMoves,
+    legalMoves,
     applyMove,
     currentPlayer,
     isGameOver,
     evaluate,
-    DEFAULT_WEIGHTS
+    DEFAULT_WEIGHTS,
+    possibleMoves
 } from "@finity/engine";
 import type { PlayerAgent, MoveContext } from "./interface";
 import { IllegalMoveError } from "./interface";
@@ -25,7 +26,10 @@ import {
     type MoveCategory,
     throwIfAborted,
     SearchDeadlineReached,
-    WIN_SCORE
+    WIN_SCORE,
+    Rng,
+    seededRng,
+    blockingExposure
 } from "./ai-common";
 
 
@@ -38,6 +42,9 @@ export interface MinimaxOptions {
     timeMs?: number;
     // evaluation weights: defaults to the engine's DEFAULT_WEIGHTS
     weights?: EvalWeights;
+
+    // seed for breaking ties between equal-scoring root moves
+    seed?: number;
 }
 
 type transposition_table_flag = 'exact' | 'lower' | 'upper';
@@ -53,8 +60,8 @@ interface transposition_table_entry {
 const CATEGORY_ORDER: Record<MoveCategory, number> = {
     ring: 0,
     basePost: 1,
-    reverse: 2,
-    arrow: 3,
+    arrow: 2,
+    reverse: 3,
     blocker: 4,
     remove: 5
 };
@@ -69,6 +76,7 @@ export class MinimaxAgent implements PlayerAgent {
     private readonly maxDepth: number;
     private readonly timeMs: number;
     private readonly weights: EvalWeights;
+    private readonly rng: Rng;
 
     // Per-move search scratch:
     private transposition_table = new Map<string, transposition_table_entry>();
@@ -82,6 +90,7 @@ export class MinimaxAgent implements PlayerAgent {
         this.maxDepth = Math.max(1, opts.maxDepth ?? 3);
         this.timeMs = Math.max(1, opts.timeMs ?? 1000);
         this.weights = opts.weights ?? DEFAULT_WEIGHTS;
+        this.rng = seededRng(opts.seed ?? 0x5eed);
     }
 
     async move(color: PlayerColor, state: FinityGameState, ctx: MoveContext): Promise<MoveAction> {
@@ -91,7 +100,7 @@ export class MinimaxAgent implements PlayerAgent {
         this.deadline = Date.now() + this.timeMs;
         this.transposition_table = new Map();
 
-        const rootMoves = this.ordered(possibleMoves(state, color), null);
+        const rootMoves = this.ordered(state, legalMoves(state, color), null);
         if (rootMoves.length === 0) {
             throw new IllegalMoveError(color, { type: 'remove' }, 'no legal moves available');
         }
@@ -129,6 +138,8 @@ export class MinimaxAgent implements PlayerAgent {
         const moves = this.moveFirst(rootMoves, prevBest);
         let bestMove = moves[0];
         let bestScore = -Infinity;
+        let bestExposure = Infinity;
+        let ties = 1;
 
         for (const move of moves) {
             const child = applyMove(state, move);
@@ -137,9 +148,25 @@ export class MinimaxAgent implements PlayerAgent {
             if (score > bestScore) {
                 bestScore = score;
                 bestMove = move;
+                bestExposure = blockingExposure(state, move);
+                ties = 1;
+            } else if (score === bestScore) {
+                // Reservoir sampling over equal-scoring moves:
+                // each of the k tied moves end up being chose with probability 1/k
+                const e = blockingExposure(state, move);
+                if (e < bestExposure) {
+                    bestMove = move;
+                    bestExposure = e;
+                    ties = 1;
+                } else if (e === bestExposure) {
+                    ties++;
+                    if (this.rng() < 1 / ties) bestMove = move;
+                }
             }
 
-            if (score > alpha) alpha = score;
+            // alpha stays a hair below the best score so that a true tie is searched
+            // exactly and a worse move comes back strictly lower
+            if (score > alpha) alpha = score - 1e-9;
         }
 
         return { move: bestMove, score: bestScore };
@@ -169,7 +196,7 @@ export class MinimaxAgent implements PlayerAgent {
         }
 
         const toMove = currentPlayer(state);
-        const moves = this.ordered(possibleMoves(state, toMove), ttMove);
+        const moves = this.ordered(state, possibleMoves(state, toMove), ttMove);
 
         if (moves.length === 0) return this.leaf(state, depth);
 
@@ -211,11 +238,16 @@ export class MinimaxAgent implements PlayerAgent {
         return currentPlayer(state) === this.me ? fromMe : -fromMe;
     }
 
-    private ordered(moves: MoveAction[], ttMove: MoveAction | null): MoveAction[] {
-        const sorted = [...moves].sort(
-            (a, b) => CATEGORY_ORDER[moveCategory(a)] - CATEGORY_ORDER[moveCategory(b)],
-        );
-        return ttMove ? this.moveFirst(sorted, ttMove) : sorted;
+    private ordered(state: FinityGameState, moves: MoveAction[], ttMove: MoveAction | null): MoveAction[] {
+        // score once per move
+        const keyed = moves.map((m) => ({
+            m,
+            rank: CATEGORY_ORDER[moveCategory(m)] * 10 + blockingExposure(state, m),
+        }));
+        keyed.sort((a, b) => a.rank - b.rank);
+        const sorted = keyed.map((X) => X.m);
+
+        return ttMove ? this.moveFirst(sorted, ttMove): sorted;
     }
 
     private moveFirst(moves: MoveAction[], first: MoveAction): MoveAction[] {

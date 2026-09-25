@@ -16,6 +16,7 @@ export interface GameConfig {
     playerColors: PlayerColor[];
     boardSize: 2 | 3 | 4;
     randomSeed?: string;
+    repetitionLimit?: number;
 }
 
 export type PlayerColor = 'cyan' | 'yellow' | 'red' | 'purple';
@@ -67,6 +68,7 @@ export interface FinityGameState {
      *  when the game ends. Ties are genuine draws, not arbitrary orderings.
      */
     ranking?: PlayerColor[][];
+    positionCounts?: Record<string, number>;
 }
 
 export interface BoardState {
@@ -189,7 +191,8 @@ export interface GameRecord {
 export type EndReason =
     |'path_complete'
     | 'forced_draw'
-    | 'simultaneous_completion';
+    | 'simultaneous_completion'
+    | 'repetition';
 
 export interface GameResult {
     winners: PlayerColor[];

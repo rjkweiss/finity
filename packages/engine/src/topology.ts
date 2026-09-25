@@ -274,6 +274,31 @@ export function getSlotNeighbors(slotId: number): number[] {
  */
 export const SLOT_TO_STATIONS: [StationName, StationName][] = buildSlotStationMap();
 
+/** Channel of a slot within its three-slot group */
+export const slotChannel = (slotId: number): Channel => {
+    const pair = SLOT_TO_STATIONS[slotId];
+    const channels = pair && STATION_SLOTS[pair[0]]?.[pair[1]];
+    if (channels) {
+        for (const k of ['L', 'C', 'R'] as const) {
+            if (channels[k] === slotId) return k;
+        }
+    }
+
+    return 'C';
+}
+
+/**
+ * Human-readable name for a slot: the station pair it bridges plus the channel
+ */
+export const slotName = (slotId: number): string => {
+    const pair = SLOT_TO_STATIONS[slotId];
+    if (!pair) return `slot ${slotId}`;
+    const channel = slotChannel(slotId);
+    const label = channel === 'C' ? 'center': channel === 'L' ? 'left' : 'right';
+
+    return `${pair[0]}-${pair[1]} ${label}`;
+};
+
 function buildSlotStationMap(): [StationName, StationName][] {
     const result: [StationName, StationName][] = new Array(72);
     const seen = new Set<number>();

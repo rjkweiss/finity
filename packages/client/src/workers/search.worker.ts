@@ -24,7 +24,7 @@ scope.onmessage = (e) => {
 
 async function handle(msg: WorkerRequest): Promise<void> {
     if (msg.kind === 'init') {
-        agent = createBuiltinAgent(msg.difficulty, msg.playerCount);
+        agent = createBuiltinAgent(msg.difficulty, msg.playerCount, msg.seed);
         scope.postMessage({ kind: 'ready' });
         return;
     }

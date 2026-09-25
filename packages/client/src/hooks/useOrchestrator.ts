@@ -47,6 +47,8 @@ export function useOrchestrator(orch: GameOrchestrator): UseOrchestrator {
                 orch.on('turn:start', bump),
                 orch.on('turn:end', bump),
                 orch.on('game:over', bump),
+                orch.on('mode', bump),
+                orch.on('error', bump),
             ];
             return () => unsubs.forEach((u) => u());
         },
@@ -99,9 +101,9 @@ export function useOrchestrator(orch: GameOrchestrator): UseOrchestrator {
 
     const controls = useMemo(
         () => ({
-            play: () => void orch.play(),
+            play: () => { orch.play().catch(() => undefined); },
             pause: () => orch.pause(),
-            step: () => void orch.step(),
+            step: () => { orch.step().catch(() => undefined); },
             reset: () => orch.reset(),
             resign: (color: PlayerColor) => orch.abortCurrentTurn({ kind: 'resign', color } as AbortReason),
         }),

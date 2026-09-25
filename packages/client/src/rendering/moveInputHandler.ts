@@ -11,7 +11,7 @@
 
 import {
     ArrowColor,
-    possibleMoves,
+    legalMoves,
     type FinityGameState,
     type MoveAction,
     type PlayerColor,
@@ -40,7 +40,7 @@ export interface MoveInputHandlerOptions {
     /** Called with a completed move. Bind to LocalHumanAgent.submitMove. Returns whether
      *  the orchestrator accepted it (i.e. a human turn was actually awaiting). */
     submit: (move: MoveAction) => boolean;
-    /** Defaults to the engine's possibleMoves; injectable for tests. */
+    /** Defaults to the engine's legalMoves; injectable for tests. */
     getLegalMoves?: (state: FinityGameState, color: PlayerColor) => MoveAction[];
     /** Notified whenever the phase or available targets change, so the UI can redraw. */
     onChange?: () => void;
@@ -59,7 +59,7 @@ export class MoveInputHandler {
 
     constructor(opts: MoveInputHandlerOptions) {
         this.submit = opts.submit;
-        this.getLegalMoves = opts.getLegalMoves ?? possibleMoves;
+        this.getLegalMoves = opts.getLegalMoves ?? legalMoves;
         this.onChange = opts.onChange;
     }
 
