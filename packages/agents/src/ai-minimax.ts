@@ -31,6 +31,7 @@ import {
     seededRng,
     blockingExposure
 } from "./ai-common";
+import { buildRootContext, rootMoveBonus, type RootContext } from "./ai-judgement";
 
 
 export interface MinimaxOptions {
@@ -42,9 +43,11 @@ export interface MinimaxOptions {
     timeMs?: number;
     // evaluation weights: defaults to the engine's DEFAULT_WEIGHTS
     weights?: EvalWeights;
-
     // seed for breaking ties between equal-scoring root moves
     seed?: number;
+    // apply move-level judgement at the root (reversal value, block * impact).
+    // Default true; set false to A/B it in the self-play runner. */
+    rootBonuses?: boolean;
 }
 
 type transposition_table_flag = 'exact' | 'lower' | 'upper';
@@ -72,6 +75,7 @@ export class MinimaxAgent implements PlayerAgent {
     readonly description = 'Alpha-beta minimax with iterative deepening (2-player).';
     readonly author = 'built-in';
     readonly type = 'ai-builtin' as const;
+    readonly rootBonuses: boolean;
 
     private readonly maxDepth: number;
     private readonly timeMs: number;
@@ -83,6 +87,9 @@ export class MinimaxAgent implements PlayerAgent {
     private me!: PlayerColor;
     private deadline = 0;
     private ctx!: MoveContext;
+    private rootCtx!: RootContext;
+    // Root-move bonuses for the current turn, computed once per move
+    private rootBonus = new Map<MoveAction, number>();
 
     constructor(opts: MinimaxOptions = {}) {
         this.id = opts.id ?? 'ai-minimax';
@@ -91,6 +98,7 @@ export class MinimaxAgent implements PlayerAgent {
         this.timeMs = Math.max(1, opts.timeMs ?? 1000);
         this.weights = opts.weights ?? DEFAULT_WEIGHTS;
         this.rng = seededRng(opts.seed ?? 0x5eed);
+        this.rootBonuses = opts.rootBonuses ?? true;
     }
 
     async move(color: PlayerColor, state: FinityGameState, ctx: MoveContext): Promise<MoveAction> {
@@ -99,6 +107,8 @@ export class MinimaxAgent implements PlayerAgent {
         this.ctx = ctx;
         this.deadline = Date.now() + this.timeMs;
         this.transposition_table = new Map();
+        this.rootCtx = buildRootContext(state, color);
+        this.rootBonus = new Map();
 
         const rootMoves = this.ordered(state, legalMoves(state, color), null);
         if (rootMoves.length === 0) {
@@ -115,7 +125,7 @@ export class MinimaxAgent implements PlayerAgent {
                 const result = this.searchRoot(state, rootMoves, depth, best);
                 best = result.move;
                 // A proven win/loss won't change with more depth.
-                if (Math.abs(result.score) >= WIN_SCORE) break;
+                if (Math.abs(result.score) >= WIN_SCORE / 2) break;
             } catch (e) {
                 if (e instanceof SearchDeadlineReached) break;
                 throw e; // MoveAbortedError propagates to the orchestrator
@@ -143,7 +153,19 @@ export class MinimaxAgent implements PlayerAgent {
 
         for (const move of moves) {
             const child = applyMove(state, move);
-            const score = -this.search(child, depth - 1, -beta, -alpha);
+
+            // move-level judgement (reversal value, block impact). It depends on the move
+            // so compute it once per turn, on the first iteration, and reuse it at every depth
+            let bonus = this.rootBonus.get(move);
+            if (bonus === undefined) {
+                bonus = this.rootBonuses ? rootMoveBonus(this.rootCtx, state, child, move): 0;
+                this.rootBonus.set(move, bonus);
+            }
+
+            // search the child against a window shifted by the bonus,
+            // so that pruning is exact for the adjusted score: raw + bonus > alpha
+            // exactly when raw > alpha - bonus
+            const score = -this.search(child, depth - 1, -beta, -(alpha - bonus)) + bonus;
 
             if (score > bestScore) {
                 bestScore = score;

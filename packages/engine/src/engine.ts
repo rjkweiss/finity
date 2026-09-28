@@ -92,7 +92,7 @@ export const createGame = (
     };
 
     game.zobristHash = computeZobristHash(game);
-    game.positionCounts = { [game.zobristHash]: 1 };
+    game.positionCounts = { [boardHash(game)]: 1 };
     return game;
 }
 
@@ -399,7 +399,7 @@ export const applyMove = (
 ): FinityGameState => {
     // Deep clone everything except the repetition counts
     const { positionCounts, ...rest } = state;
-    const next: FinityGameState = structuredClone(state) as unknown as FinityGameState;
+    const next: FinityGameState = structuredClone(rest) as unknown as FinityGameState;
     next.positionCounts = positionCounts;
     next.prevBoardHash = boardHash(state);
     next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
@@ -662,7 +662,7 @@ const buildRanking = (state: FinityGameState): PlayerColor[][] => {
  */
 const recordPosition = (state: FinityGameState): void => {
     const key = boardHash(state);
-    const n = (state.positionCounts?.[state.zobristHash] ?? 0) + 1;
+    const n = (state.positionCounts?.[key] ?? 0) + 1;
     state.positionCounts = { ...state.positionCounts, [key]: n };
 
     const limit = state.config.repetitionLimit ?? DEFAULT_REPETITION_LIMIT;
