@@ -218,6 +218,11 @@ export function escapeValue(ctx: RootContext, after: FinityGameState): number {
     return openChannels(after, ctx.me) > ctx.myOpenChannels ? MOVE_BONUS.escape : 0;
 }
 
+const isOpponentBlocker = (ctx: RootContext, state: FinityGameState, slotId: number): boolean => {
+    const p = state.board.slots[slotId]?.contains;
+    return !!p && p.type === 'blocker' && ctx.opponents.includes(p.color);
+};
+
 const isOpen = (state: FinityGameState, slotId: number): boolean => {
     const slot = state.board.slots[slotId];
     return !!slot && !slot.contains && !slot.blocked;
@@ -250,10 +255,15 @@ export function blockImpact(ctx: RootContext, state: FinityGameState, move: Move
 
     let impact = 0;
     for (const [base, lost] of lostByTriplet) {
-        impact += lost * MOVE_BONUS.blockPerSlot;
-        let open = 0;
-        for (let i = 0; i < 3; i++) if (isOpen(state, base + i)) open++;
-        if (open - lost <= 0) impact += MOVE_BONUS.channelClosed;
+        impact += lost * ctx.bonus.blockPerSlot;
+        // A slot holding one of the opponent's OWN blockers is capacity they
+        // control: they can move that blocker away whenever they need the
+        // channel. So it counts as available to them.
+        let available = 0;
+        for (let i = 0; i < 3; i++) {
+            if (isOpen(state, base + i) || isOpponentBlocker(ctx, state, base + i)) available++;
+        }
+        if (available - lost <= 0) impact += ctx.bonus.channelClosed;
     }
 
     return impact;
