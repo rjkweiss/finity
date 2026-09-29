@@ -18,3 +18,5 @@ export {
     seededRng,
     type Rng,
 } from './ai-common';
+
+export { MOVE_BONUS, type MoveBonus } from './ai-judgement';

@@ -14,6 +14,7 @@ import { DisplayHandler } from '../rendering/displayHandler';
 import type { GameImages } from '../rendering/displayHandler';
 import type { LayoutData } from '../rendering/layout';
 import type { BoardTarget } from '../rendering/moveInputHandler';
+import { MoveMark } from '../rendering/moveMarks';
 
 const PIXEL_WIDTH = 950;
 const PIXEL_HEIGHT = 650;
@@ -28,6 +29,7 @@ interface FinityCanvasProps {
   highlightTargets?: BoardTarget[];
   onCanvasClick?: (x: number, y: number) => void;
   onCanvasMouseMove?: (x: number, y: number) => void;
+  moveMarks?: readonly MoveMark[];
 }
 
 let imgs: Partial<GameImages> = {};
@@ -45,6 +47,7 @@ const FinityCanvas = ({
   highlightTargets,
   onCanvasClick,
   onCanvasMouseMove,
+  moveMarks,
 }: FinityCanvasProps) => {
   // The p5 wiring lives in module-level singletons
   // react-p5 should remove its p5 instance when THIS component unmounts
@@ -124,7 +127,7 @@ const FinityCanvas = ({
 
   const draw = (_p: any) => {
     if (displayHandler) {
-      displayHandler.display(gameState, layout, movePreview, highlightTargets);
+      displayHandler.display(gameState, layout, movePreview, highlightTargets, moveMarks);
     }
   };
 

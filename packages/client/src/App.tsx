@@ -9,7 +9,7 @@
  */
 
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { ArrowColor, GameConfig, GameRecord, PlayerColor } from '@finity/engine';
+import { GameConfig, GameRecord, PlayerColor, generatePathPattern } from '@finity/engine';
 import {
   LocalHumanAgent,
   WeightedRandomAgent,
@@ -23,7 +23,7 @@ import ReplayView from './components/ReplayView';
 import { GameOrchestrator, type AgentMap } from './orchestrator';
 import { GameRecorder, agentInfoMap } from '@finity/recorder';
 import { WorkerSearchAgent } from './agents/workerSearchAgent';
-import { navigateHistory, type HistoryAction, type ViewIndex } from './HistoryNav';
+import { navigateHistory, type HistoryAction, type ViewIndex } from './historyNav';
 
 type View = 'play' | 'agents' | 'history' | 'lobby';
 
@@ -59,7 +59,7 @@ function makeAgent(color: PlayerColor, sel: string, playerCount: number): Player
 
 export default function App() {
   const [activeView, setActiveView] = useState<View>('play');
-  const [playerCount, setPlayerCount] = useState<2|3|4>(2);
+  const [playerCount, setPlayerCount] = useState<2 | 3 | 4>(2);
 
   const config = useMemo<GameConfig>(
     () => ({ playerColors: ALL_COLORS.slice(0, playerCount), boardSize: playerCount }),
@@ -82,10 +82,7 @@ export default function App() {
     return map;
   }, [config, agentSel]);
 
-  const pattern = useMemo<ArrowColor[]>(
-    () => Array.from({ length: 8 }, () => (Math.random() < 0.5 ? 'b' : 'w')),
-    [],
-  );
+  // const pattern = generatePathPattern();
 
   // Rebuilds when the agent map changes -> selecting an agent for a seat starts a new game.
   // The recorder shares the orchestrator's lifetime; the orchestrator drives it through
@@ -93,10 +90,10 @@ export default function App() {
   const { orch, recorder } = useMemo(() => {
     const recorder = new GameRecorder({ agents: agentInfoMap(agents) });
     const orch = new GameOrchestrator({
-      config, agents, pathPattern: pattern, turnDelayMs: TURN_DELAY_MS, recorder,
+      config, agents, pathPattern: generatePathPattern(), turnDelayMs: TURN_DELAY_MS, recorder,
     });
     return { orch, recorder };
-  }, [config, agents, pattern]);
+  }, [config, agents]);
 
   // The last FINISHED game's record — feeds the History tab. `on` returns the
   // unsubscribe, so the effect cleanup is the return value itself.
@@ -120,47 +117,30 @@ export default function App() {
   const [viewIndex, setViewIndex] = useState<ViewIndex>(null);
   useEffect(() => setViewIndex(null), [orch]); // new game starts live
 
-  const nav = (action: HistoryAction) => {
+  const nav = (action: HistoryAction) =>
     setViewIndex((v) =>
       navigateHistory(
         v,
         orch.getState().moveHistory.length,
         action,
-        orch.getInitialState().moveHistory.length
-      )
+        orch.getInitialState().moveHistory.length,
+      ),
     );
-
-    <Header
-      activeView={activeView}
-      onNavigate={setActiveView}
-      onPlay={() => { setViewIndex(null); orch.play().catch(() => undefined); }}
-      onPause={() => orch.pause()}
-      onStep={() => {
-        if (viewIndex !== null) nav('forward');
-        else orch.step().catch(() => undefined);
-      }}
-      onStepBack={() => { orch.pause(); nav('back'); }}
-      onFastForward={() => nav('live')}
-      onReset={() => { setViewIndex(null); orch.reset(); }}
-      playerCount={playerCount}
-      onPlayerCountChange={setPlayerCount}
-    />
-  };
 
   return (
     <div className="App">
       <Header
         activeView={activeView}
         onNavigate={setActiveView}
-        onPlay={() => void orch.play()}
+        onPlay={() => { setViewIndex(null); orch.play().catch(() => undefined); }}
         onPause={() => orch.pause()}
         onStep={() => {
-          // If a loop is running, pausing makes the in-flight turn the "step";
-          // step() itself only advances when idle (it throws mid-flight — swallowed).
-          orch.pause();
-          void orch.step().catch(() => { });
+          if (viewIndex !== null) nav('forward');
+          else orch.step().catch(() => undefined);
         }}
-        onReset={() => orch.reset()}
+        onStepBack={() => { orch.pause(); nav('back'); }}
+        onFastForward={() => nav('live')}
+        onReset={() => { setViewIndex(null); orch.reset(); }}
         playerCount={playerCount}
         onPlayerCountChange={setPlayerCount}
       />
@@ -172,6 +152,10 @@ export default function App() {
               setAgentSel((prev) => ({ ...prev, [color]: sel }))
             }
             viewIndex={viewIndex}
+            onViewIndexChange={(v) => {
+              if (v !== null) orch.pause();
+              setViewIndex(v);
+            }}
           />
         )}
         {activeView === 'agents' && (

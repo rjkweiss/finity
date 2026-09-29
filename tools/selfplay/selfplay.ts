@@ -46,6 +46,8 @@
  *           rolloutDepth=<n>    MCTS playout depth
  *           opponentWeight=<x>  minimax differential weight (see ai-common)
  *           rootBonuses=<0|1>   minimax root move bonuses on/off (default on)
+ *           killerHistory=<0|1> minimax killer/history move ordering on/off (default on)
+ *           b.<name>=<x>        override one root judgement weight, e.g. b.doubleUp=0
  *           w.<term>=<x>        override one evaluation weight
  *
  *   Unknown keys and unknown weight names are errors, not silent no-ops: a
@@ -61,8 +63,8 @@ import { fileURLToPath } from 'node:url';
 import * as engine from '@finity/engine';
 import {
     DEFAULT_WEIGHTS,
+    generatePathPattern,
     longestLegalPathLength,
-    type ArrowColor,
     type EvalWeights,
     type FinityGameState,
     type GameConfig,
@@ -76,6 +78,7 @@ import {
     RandomAgent,
     WeightedRandomAgent,
     createBuiltinAgent,
+    MOVE_BONUS,
     type Difficulty,
     type PlayerAgent,
 } from '@finity/agents';
@@ -116,23 +119,6 @@ export function deriveSeed(parent: number, ...parts: number[]): number {
     return h;
 }
 
-/**
- * The path pattern: 8 cones drawn without replacement from a pool of six
- * black and six white. Drawing without replacement is what the physical game
- * does; independent coin flips would allow patterns like 8 black, which a
- * real draw can never produce.
- */
-export function generatePathPattern(rng: Rng): ArrowColor[] {
-    const pool: ArrowColor[] = ['b', 'b', 'b', 'b', 'b', 'b', 'w', 'w', 'w', 'w', 'w', 'w'];
-    const out: ArrowColor[] = [];
-    for (let i = 0; i < 8; i++) {
-        const j = Math.floor(rng() * pool.length);
-        out.push(pool.splice(j, 1)[0]);
-    }
-
-    return out;
-}
-
 // =============================================================
 // Agent specs
 // =============================================================
@@ -149,10 +135,14 @@ export interface AgentSpec {
     opponentWeight?: number;
     /** 0 turns off minimax's root move bonuses (reversal value, block impact). */
     rootBonuses?: number;
+    /** 0 turns off minimax's killer-move and history ordering. */
+    killerHistory?: number;
     weights: Partial<EvalWeights>;
+    /** Per-agent overrides of minimax's root judgement weights (MOVE_BONUS). */
+    bonus: Record<string, number>;
 }
 
-const NUMERIC_KEYS = ['timeMs', 'maxDepth', 'rolloutDepth', 'opponentWeight', 'rootBonuses'] as const;
+const NUMERIC_KEYS = ['timeMs', 'maxDepth', 'rolloutDepth', 'opponentWeight', 'rootBonuses', 'killerHistory'] as const;
 
 export function parseAgentSpec(text: string): AgentSpec {
     const [kindPart, rest = ''] = text.split(':', 2);
@@ -161,7 +151,7 @@ export function parseAgentSpec(text: string): AgentSpec {
         throw new Error(`Unknown agent kind "${kindPart}". Expected one of: ${KINDS.join(', ')}`);
     }
 
-    const spec: AgentSpec = { kind, label: text, weights: {} };
+    const spec: AgentSpec = { kind, label: text, weights: {}, bonus: {} };
     const weightNames = new Set(Object.keys(DEFAULT_WEIGHTS));
 
     for (const pair of rest.split(',').map((s) => s.trim()).filter(Boolean)) {
@@ -177,6 +167,15 @@ export function parseAgentSpec(text: string): AgentSpec {
 
         const value = raw === 'inf' ? Number.MAX_SAFE_INTEGER : Number(raw);
         if (!Number.isFinite(value)) throw new Error(`Option "${key}" needs a number, got "${raw}"`);
+
+        if (key.startsWith('b.')) {
+            const name = key.slice(2);
+            if (!(name in MOVE_BONUS)) {
+                throw new Error(`Unknown move bonus "${name}". Known: ${Object.keys(MOVE_BONUS).join(', ')}`);
+            }
+            spec.bonus[name] = value;
+            continue;
+        }
 
         if (key.startsWith('w.')) {
             const term = key.slice(2);
@@ -223,6 +222,8 @@ export function buildAgent(
             };
             if (spec.opponentWeight !== undefined) opts.opponentWeight = spec.opponentWeight;
             if (spec.rootBonuses !== undefined) opts.rootBonuses = spec.rootBonuses !== 0;
+            if (spec.killerHistory !== undefined) opts.killerHistory = spec.killerHistory !== 0;
+            if (Object.keys(spec.bonus).length) opts.moveBonus = spec.bonus;
             const agent = new MinimaxAgent(opts as MinimaxOptions);
 
             // Guard against an agent that silently ignores the option.
@@ -569,13 +570,18 @@ export function summarize(rows: GameRow[]): string {
 
         const lengths = list.map((r) => r.moves);
         const errors = list.filter((r) => r.error);
+
         const verdict = (p: number): string =>
             p < 0.05 ? 'unlikely to be chance' : p < 0.2 ? 'suggestive, not conclusive' : 'consistent with chance';
-
         out.push(`\n${matchup}  —  A = ${A}, B = ${B}`);
         out.push(`  ${n} games (${Math.ceil(n / 2)} patterns x 2 seats)\n`);
         out.push(`  Outcome   A wins ${aWins} | B wins ${bWins} | ` +
             [...reasons].map(([k, v]) => `${k} ${v}`).join(' | '));
+        if (aWins + bWins > 0) {
+            // Wins are the only unbiased signal, so they get their own test.
+            const pw = signTest(aWins, bWins);
+            out.push(`            wins sign test p = ${pw < 0.001 ? pw.toExponential(1) : pw.toFixed(3)}: ${verdict(pw)}`);
+        }
 
         const p1 = signTest(g1.a, g1.b);
         out.push(`  Graded    A ahead ${g1.a} | B ahead ${g1.b} | level ${g1.level}` +
@@ -586,6 +592,9 @@ export function summarize(rows: GameRow[]): string {
             out.push(`  Cross-chk A ahead ${g2.a} | B ahead ${g2.b} | level ${g2.level}` +
                 `   (by longestLegalPath, p = ${p2.toFixed(3)})`);
         }
+        const pc = signTest(aWins + g1.a, bWins + g1.b);
+        out.push(`  Combined  A ${aWins + g1.a} | B ${bWins + g1.b}   (wins + graded, p = ` +
+            `${pc < 0.001 ? pc.toExponential(1) : pc.toFixed(3)}: ${verdict(pc)})`);
         out.push(`  Score     A ${mean.toFixed(2)} ± ${ci.toFixed(2)} (95% CI; 0.50 = even)`);
         out.push(`  Length    mean ${Math.round(lengths.reduce((s, x) => s + x, 0) / n)} moves` +
             ` (min ${Math.min(...lengths)}, max ${Math.max(...lengths)})`);
@@ -693,7 +702,7 @@ Options:
 Spec:  kind[:key=value,...]
   kinds  minimax | mcts | random | weighted | easy | medium | hard
   keys   label, timeMs (number or inf), maxDepth, rolloutDepth, opponentWeight,
-         rootBonuses (0 or 1), w.<weight>`;
+         rootBonuses (0 or 1), killerHistory (0 or 1), w.<weight>, b.<bonus>`;
 
 async function main(): Promise<void> {
     const cli = parseCli(process.argv.slice(2));

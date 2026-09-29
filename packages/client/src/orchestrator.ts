@@ -99,11 +99,11 @@ export class GameOrchestrator {
     private readonly now: () => number;
     private readonly initialState: FinityGameState;
     private readonly validateMoves: boolean;
-    private readonly turnDelayMs: number;
     private readonly repetitionLimit: number | null;
     private readonly maxMoves: number | null;
     private readonly positionCounts = new Map<string, number>();
 
+    private turnDelayMs: number;
     private playMode: PlayMode = 'paused';
     private turnInFlight = false;
     private inFlight: Promise<void> | null = null;
@@ -170,6 +170,16 @@ export class GameOrchestrator {
     }
     isOver(): boolean {
         return this.state.playStatus === 'over' || isGameOver(this.state);
+    }
+    /**
+     * Pause between turns so a human can follow AI moves. Takes effect from
+     * the next turn, so it can be changed mid-game (e.g. from a slider).
+     */
+    setTurnDelay(ms: number): void {
+        this.turnDelayMs = Math.max(0, ms);
+    }
+    getTurnDelay(): number {
+        return this.turnDelayMs;
     }
 
     // ---- subscriptions ---------------------------------------------------------
@@ -245,6 +255,18 @@ export class GameOrchestrator {
         this.emit('mode', mode);
     }
 
+    /**
+     * `color` concedes the game - with two players, the other one wins with more players,
+     * the conceder drops out and play continues
+     */
+    concede(color: PlayerColor): void {
+        if (this.isOver() || this.state.defaulted.includes(color)) return;
+
+        // cancel the conceder's pending move, if they are the one on the clock
+        if (this.currentColor() === color) this.abortCurrentTurn({ kind: 'resign', color });
+        this.markDefault(color, 'concession');
+    }
+
     abortCurrentTurn(reason: AbortReason): void {
         this.currentAbort?.abort(reason);
     }
@@ -299,7 +321,7 @@ export class GameOrchestrator {
                 playStatus: 'over',
                 ranking: [
                     ...winners.map((w) => [w]),
-                    ...(this.state.defaulted.length > 0 ? [[...this.state.defaulted]]: [])
+                    ...(this.state.defaulted.length > 0 ? [[...this.state.defaulted]] : [])
                 ],
             };
             this.finishGame();
@@ -307,9 +329,10 @@ export class GameOrchestrator {
         }
 
         // Hand the turn on - engine skips defaulted players in advanceTurn
-        this.state = { ...this.state, turnIndex: this.nextActiveTurnIndex() };
+        if (this.state.config.playerColors[this.state.turnIndex] === color) {
+            this.state = { ...this.state, turnIndex: this.nextActiveTurnIndex() };
+        }
         this.notifyState();
-
     }
 
     private nextActiveTurnIndex(): number {
@@ -385,8 +408,8 @@ export class GameOrchestrator {
             // Absolute cap so no agent pairing can produce an unbounded game
             if (this.maxMoves != null && this.state.playStatus === 'playing'
                 && this.state.moveHistory.length >= this.maxMoves) {
-                    this.state = { ...this.state, playStatus: 'over' };
-                    this.stopReason = 'move_cap';
+                this.state = { ...this.state, playStatus: 'over' };
+                this.stopReason = 'move_cap';
             }
 
             this.recorder?.recordMove(move, color, this.state);

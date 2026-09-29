@@ -10,9 +10,11 @@
 //     possibleMoves() output shapes.
 
 import {
-    ArrowColor,
     legalMoves,
+    slotName,
+    type ArrowColor,
     type FinityGameState,
+    type GamePiece,
     type MoveAction,
     type PlayerColor,
     type StationName,
@@ -34,7 +36,21 @@ export interface DisambigOption {
 
 export type InputPhase =
     | { phase: 'selecting' }
-    | { phase: 'disambiguating'; target: BoardTarget; options: DisambigOption[] };
+    | { phase: 'disambiguating'; target: BoardTarget; options: DisambigOption[] }
+    /** A blocker has been picked up - a ghost follows the pointer and a click drops it */
+    | { phase: 'carrying'; from: number; destinations: number[]; hover: number | null }
+    /** An empty slot with arrow placements was clicked. Ghost arrow points toward whichever of the slot's stations
+     * the pointer is nearer
+     */
+    | {
+        phase: 'aiming';
+        slotId: number;
+        stations: [StationName, StationName];
+        arrows: MoveAction[];
+        others: DisambigOption[];
+        color: ArrowColor;
+        toward: StationName | null;
+    }
 
 export interface MoveInputHandlerOptions {
     /** Called with a completed move. Bind to LocalHumanAgent.submitMove. Returns whether
@@ -88,7 +104,7 @@ export class MoveInputHandler {
     }
 
     /** Optional move-type pre-filter (mirrors the old HumanControlPanel dropdown). */
-    setCategoryFilter(cat: MoveCategory | null, opts?: {arrowColor ?: ArrowColor | null }): void {
+    setCategoryFilter(cat: MoveCategory | null, opts?: { arrowColor?: ArrowColor | null }): void {
         this.categoryFilter = cat;
         this.arrowColorFilter = opts?.arrowColor ?? null;
         this.phase = { phase: 'selecting' };
@@ -117,17 +133,31 @@ export class MoveInputHandler {
 
     /** Targets the player may click right now — used to highlight the board. */
     selectableTargets(): BoardTarget[] {
+        const phase = this.phase;
+        if (phase.phase === 'carrying') {
+            return [...phase.destinations, phase.from].map((slotId) => ({ kind: 'slot', slotId }));
+        }
+        if (phase.phase === 'aiming') {
+            return [{ kind: 'slot', slotId: phase.slotId }];
+        }
+
         const seen = new Set<string>();
         const out: BoardTarget[] = [];
-        for (const m of this.filteredLegal()) {
-            const t = primaryTarget(m);
-            if (!t) continue;
+        const add = (t: BoardTarget) => {
             const k = targetKey(t);
             if (!seen.has(k)) {
                 seen.add(k);
                 out.push(t);
             }
+        };
+
+        for (const m of this.filteredLegal()) {
+            const t = primaryTarget(m);
+            if (t) add(t);
         }
+
+        // Your own blockers that can move are clickable too
+        for (const slotId of this.pickUpSlots()) add({ kind: 'slot', slotId });
         return out;
     }
 
@@ -139,6 +169,32 @@ export class MoveInputHandler {
      */
     selectTarget(target: BoardTarget): boolean {
         if (!this.state) return false;
+        const phase = this.phase;
+
+        if (phase.phase === 'carrying') {
+            if (target.kind !== 'slot') return false;
+            if (target.slotId === phase.from) {
+                this.cancelSelection();
+                return true;
+            }
+            const move = this.blockerMove(phase.from, target.slotId);
+            return move ? this.commit(move) : false;
+        }
+
+        // while aiming, a click places the aimed arrow; a click on some other
+        // target is ignored rather than guessed at
+        if (phase.phase === 'aiming') return false;
+
+        // clicking one of your own movable blockers picks it up
+        if (target.kind === 'slot' && this.pickUpSlots().includes(target.slotId)) {
+            const destinations = this.filteredLegal()
+                .filter((m) => isBlockerMove(m) && m.pieceToRemove!.slotId === target.slotId)
+                .map((m) => (m.pieceToAdd as { slotId: number }).slotId);
+            this.phase = { phase: 'carrying', from: target.slotId, destinations, hover: null };
+            this.onChange?.();
+            return true;
+        }
+
         const k = targetKey(target);
         const candidates = this.filteredLegal().filter((m) => {
             const t = primaryTarget(m);
@@ -146,6 +202,30 @@ export class MoveInputHandler {
         });
 
         if (candidates.length === 0) return false;
+
+        // arrow placements are. aimed with the pointer instead of chosen from direction buttons
+        const arrows = candidates.filter(isArrowPlacement);
+        if (arrows.length > 0 && target.kind === 'slot' && (arrows.length > 1 || candidates.length > 1)) {
+            const first = arrows[0].pieceToAdd as { fromStation: StationName; toStation: StationName };
+            const colors = [...new Set(arrows.map((m) => (m.pieceToAdd as { color: ArrowColor }).color))];
+            const color = this.arrowColorFilter && colors.includes(this.arrowColorFilter)
+                ? this.arrowColorFilter
+                : colors[0];
+            const others = candidates.filter((m) => !isArrowPlacement(m));
+            this.phase = {
+                phase: 'aiming',
+                slotId: target.slotId,
+                stations: [first.fromStation, first.toStation],
+                arrows,
+                others: others.map((move, i) => ({ id: `opt-${i}`, label: disambigLabel(move), move })),
+                color,
+                toward: null,
+            };
+            this.onChange?.();
+
+            return true;
+        }
+
         if (candidates.length === 1) return this.commit(candidates[0]);
 
         this.phase = {
@@ -159,6 +239,104 @@ export class MoveInputHandler {
         };
         this.onChange?.();
         return true;
+    }
+
+    // --------------------- Carrying a blocker -----------------------------------------
+
+    /** slots holding one of the current player's blockers that has somewhere to go */
+    private pickUpSlots(): number[] {
+        const out = new Set<number>();
+        for (const m of this.filteredLegal()) {
+            if (isBlockerMove(m)) out.add(m.pieceToRemove!.slotId);
+        }
+
+        return [...out];
+    }
+
+    private blockerMove(from: number, to: number): MoveAction | undefined {
+        return this.filteredLegal().find(
+            (m) => isBlockerMove(m) && m.pieceToRemove!.slotId === from
+                && (m.pieceToAdd as { slotId: number }).slotId === to,
+        );
+    }
+
+    /** Pointer moved while carrying: the ghost sits on this target if it is a destination. */
+    hoverTarget(target: BoardTarget | null): void {
+        const phase = this.phase;
+        if (phase.phase !== 'carrying') return;
+        const hover = target?.kind === 'slot' && phase.destinations.includes(target.slotId)
+            ? target.slotId
+            : null;
+        if (hover === phase.hover) return;
+        this.phase = { ...phase, hover };
+        this.onChange?.();
+    }
+
+    // ---- aiming an arrow ------------------------------------------------------
+
+    /** Point the arrow toward one of the slot's two stations (the one nearer the pointer). */
+    aimToward(station: StationName): void {
+        const phase = this.phase;
+        if (phase.phase !== 'aiming' || phase.toward === station) return;
+        if (!phase.stations.includes(station)) return;
+        this.phase = { ...phase, toward: station };
+        this.onChange?.();
+    }
+
+    /** Colours available for the aimed arrow at this slot. */
+    aimColors(): ArrowColor[] {
+        const phase = this.phase;
+        if (phase.phase !== 'aiming') return [];
+        return [...new Set(phase.arrows.map((m) => (m.pieceToAdd as { color: ArrowColor }).color))];
+    }
+
+    setAimColor(color: ArrowColor): void {
+        const phase = this.phase;
+        if (phase.phase !== 'aiming' || phase.color === color) return;
+        if (!this.aimColors().includes(color)) return;
+        this.phase = { ...phase, color };
+        this.onChange?.();
+    }
+
+    /** The arrow placement currently aimed, or null if the pointer has not picked a side. */
+    aimedMove(): MoveAction | null {
+        const phase = this.phase;
+        if (phase.phase !== 'aiming') return null;
+        const ofColor = phase.arrows.filter((m) => (m.pieceToAdd as { color: ArrowColor }).color === phase.color);
+        if (phase.toward) {
+            return ofColor.find((m) => (m.pieceToAdd as { toStation: StationName }).toStation === phase.toward) ?? null;
+        }
+        // Only one direction is legal in this colour: no need to aim.
+        return ofColor.length === 1 ? ofColor[0] : null;
+    }
+
+    /** Place the aimed arrow. */
+    confirmAim(): boolean {
+        const move = this.aimedMove();
+        return move ? this.commit(move) : false;
+    }
+
+    /** Resolve one of the non-arrow options offered while aiming. */
+    selectAimOption(optionId: string): boolean {
+        const phase = this.phase;
+        if (phase.phase !== 'aiming') return false;
+        const opt = phase.others.find((o) => o.id === optionId);
+        return opt ? this.commit(opt.move) : false;
+    }
+
+    // ---- ghost preview --------------------------------------------------------
+
+    /** The piece to draw as a ghost: a carried blocker on its hover slot, or the aimed arrow. */
+    preview(): GamePiece | null {
+        const phase = this.phase;
+        if (phase.phase === 'carrying' && phase.hover !== null) {
+            const move = this.blockerMove(phase.from, phase.hover);
+            return (move?.pieceToAdd as GamePiece | undefined) ?? null;
+        }
+        if (phase.phase === 'aiming') {
+            return (this.aimedMove()?.pieceToAdd as GamePiece | undefined) ?? null;
+        }
+        return null;
     }
 
     /** Resolve a disambiguation choice. */
@@ -232,11 +410,24 @@ function disambigLabel(move: MoveAction): string {
         const verb = move.pieceToRemove?.type === 'arrow' ? 'Reverse to' : 'Place';
         return `${verb} ${add.color === 'b' ? 'black' : 'white'} arrow ${add.fromStation}→${add.toStation}`;
     }
-    if (add?.type === 'blocker') return 'Move blocker here';
+    if (add?.type === 'blocker') {
+        // each player has two blockers, and often both can reach the same slot
+        const from = move.pieceToRemove?.type === 'blocker' ? move.pieceToRemove.slotId : undefined;
+        return from !== undefined ? `Move blocker from ${slotName(from)} here` : 'Move blocker here';
+    }
+
     if (move.type === 'remove' && move.pieceToRemove) return `Remove ${move.pieceToRemove.type}`;
     return moveCategory(move);
 }
 
 function targetKey(t: BoardTarget): string {
     return t.kind === 'station' ? `station:${t.station}` : `slot:${t.slotId}`;
+}
+
+function isBlockerMove(m: MoveAction): boolean {
+    return m.pieceToAdd?.type === 'blocker' && m.pieceToRemove?.type === 'blocker';
+}
+
+function isArrowPlacement(m: MoveAction): boolean {
+    return m.type === 'place' && m.pieceToAdd?.type === 'arrow';
 }

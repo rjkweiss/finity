@@ -1,6 +1,7 @@
 /* Finity AI Playground — ported from original App.css */
 
-html, body {
+html,
+body {
   margin: 7.5px 0;
   padding: 0;
   background-color: lightslategray;
@@ -64,21 +65,21 @@ canvas {
 
 .nav-btn {
   padding: 6px 14px;
-  border: 1px solid rgba(255,255,255,0.3);
+  border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 4px;
   background: transparent;
-  color: rgba(255,255,255,0.6);
+  color: rgba(255, 255, 255, 0.6);
   font-size: 13px;
   cursor: pointer;
 }
 
 .nav-btn:hover {
-  background: rgba(255,255,255,0.1);
+  background: rgba(255, 255, 255, 0.1);
   color: white;
 }
 
 .nav-active {
-  background: rgba(255,255,255,0.15);
+  background: rgba(255, 255, 255, 0.15);
   color: white;
 }
 
@@ -117,7 +118,8 @@ canvas {
 }
 
 /* Player panels */
-#players_1_3, #players_2_4 {
+#players_1_3,
+#players_2_4 {
   display: flex;
   flex-direction: column;
 }
@@ -145,10 +147,21 @@ canvas {
   opacity: 1;
 }
 
-#player_cyan   { background-color: rgb(50, 150, 150); }
-#player_yellow { background-color: rgb(255, 255, 0); }
-#player_red    { background-color: rgb(255, 0, 0); }
-#player_purple { background-color: rgb(165, 55, 253); }
+#player_cyan {
+  background-color: rgb(50, 150, 150);
+}
+
+#player_yellow {
+  background-color: rgb(255, 255, 0);
+}
+
+#player_red {
+  background-color: rgb(255, 0, 0);
+}
+
+#player_purple {
+  background-color: rgb(165, 55, 253);
+}
 
 /* Player controls & AI info */
 .player-controls {
@@ -237,10 +250,12 @@ canvas {
   padding: 8px;
   background: rgba(0, 0, 0, 0.35);
 }
+
 .finity-disambig button {
   padding: 4px 10px;
   cursor: pointer;
 }
+
 .finity-result {
   text-align: center;
   font-size: 20px;
@@ -259,6 +274,7 @@ canvas {
   padding: 6px 10px;
   margin-top: 6px;
 }
+
 .move-log div {
   padding: 1px 0;
 }
@@ -371,10 +387,12 @@ canvas {
 }
 
 .replay-movelist {
-  position: relative; /* required: current-move autoscroll uses box-relative offsetTop */
+  position: relative;
+  /* required: current-move autoscroll uses box-relative offsetTop */
   max-height: 520px;
   overflow-y: auto;
-  overscroll-behavior: contain; /* wheel at list edges must not scroll the page */
+  overscroll-behavior: contain;
+  /* wheel at list edges must not scroll the page */
   background: rgba(0, 0, 0, 0.35);
   color: #ddd;
   font-family: monospace;
@@ -405,4 +423,38 @@ canvas {
   font-size: 13px;
   text-align: center;
   padding: 6px 10px;
+}
+
+.move-log-entry {
+  cursor: pointer;
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+.move-log-entry:hover,
+.move-log-entry:focus {
+  background: rgba(255, 255, 255, 0.15);
+  outline: none;
+}
+
+.move-log-entry.is-viewed {
+  background: rgba(255, 102, 204, 0.25);
+  /* matches the last-move magenta */
+}
+
+.turn-delay {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+  font-size: 0.9em;
+}
+
+.finity-disambig button[aria-pressed="true"] {
+  outline: 2px solid rgb(255, 102, 204);
+}
+
+.finity-disambig span {
+  align-self: center;
+  margin-right: 8px;
 }

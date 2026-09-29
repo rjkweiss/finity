@@ -9,6 +9,7 @@ import { MoveAction, slotName } from '@finity/engine';
 import type { GameOrchestrator } from '../orchestrator';
 import { moveCategory, primaryTarget } from '../rendering/moveInputHandler';
 
+
 export function describeMove(move: MoveAction): string {
     const target = primaryTarget(move);
     const where =
@@ -19,8 +20,8 @@ export function describeMove(move: MoveAction): string {
                 : ` at ${slotName(target.slotId)} (slot ${target.slotId})`;
 
     const arrow = move.pieceToAdd?.type === 'arrow' ? move.pieceToAdd : undefined;
-    const shade = arrow?.color === 'b' ? 'black ' : arrow?.color === 'w' ? 'white ': '';
-    const heading = arrow ? ` pointing ${arrow.fromStation}->${arrow.toStation}`: '';
+    const shade = arrow?.color === 'b' ? 'black ' : arrow?.color === 'w' ? 'white ' : '';
+    const heading = arrow ? ` pointing ${arrow.fromStation}->${arrow.toStation}` : '';
 
     switch (moveCategory(move)) {
         case 'ring':
@@ -45,26 +46,49 @@ export function describeMove(move: MoveAction): string {
     }
 }
 
-export default function MoveLog({ orchestrator }: { orchestrator: GameOrchestrator }) {
-    const [entries, setEntries] = useState<string[]>([]);
+interface LogEntry {
+    text: string;
+    move?: MoveAction;
+    moveIndex?: number;
+}
+
+export interface MoveLogProps {
+    orchestrator: GameOrchestrator;
+    /** Hovering a line marks that move on the board */
+    onHover?: (move: MoveAction | null) => void;
+    /** Clicking a line shows the position right after that move */
+    onSelect?: (moveIndex: number) => void;
+    /** The move whose resulting position is on the board, when viewing history */
+    viewedMoveIndex?: number | null;
+}
+export default function MoveLog({ orchestrator, onHover, onSelect, viewedMoveIndex }: MoveLogProps) {
+    const [entries, setEntries] = useState<LogEntry[]>([]);
     const listRef = useRef<HTMLDivElement>(null);
+    // Read through a ref so the subscription effect doesn't resubscribe on every render.
+    const hoverRef = useRef(onHover);
+    hoverRef.current = onHover;
 
     useEffect(() => {
         setEntries([]);
         const offTurn = orchestrator.on('turn:end', ({ color, moveIndex, move }) => {
-            setEntries((prev) => [...prev, `${moveIndex + 1}. ${color} ${describeMove(move)}`]);
+            setEntries((prev) => [...prev, { text: `${moveIndex + 1}. ${color} ${describeMove(move)}`, move, moveIndex }]);
         });
         const offOver = orchestrator.on('game:over', (result) => {
             setEntries((prev) => [
                 ...prev,
-                result.winners.length > 0
-                    ? `★ ${result.winners.join(', ')} wins (${result.reason})`
-                    : `★ game over: ${result.reason}`,
+                {
+                    text: result.winners.length > 0
+                        ? `★ ${result.winners.join(', ')} wins (${result.reason})`
+                        : `★ game over: ${result.reason}`,
+                },
             ]);
         });
-        // reset() re-notifies with an empty moveHistory — clear the log.
+        // reset() re-notifies with an empty moveHistory: clear the log and any hover.
         const offState = orchestrator.subscribe((s) => {
-            if (s.moveHistory.length === 0) setEntries([]);
+            if (s.moveHistory.length === 0) {
+                setEntries([]);
+                hoverRef.current?.(null);
+            }
         });
         return () => {
             offTurn();
@@ -73,18 +97,41 @@ export default function MoveLog({ orchestrator }: { orchestrator: GameOrchestrat
         };
     }, [orchestrator]);
 
-    // Keep the newest move in view.
+    // Keep the newest move in view, but not while browsing history.
     useEffect(() => {
         const el = listRef.current;
-        if (el) el.scrollTop = el.scrollHeight;
-    }, [entries]);
+        if (el && viewedMoveIndex == null) el.scrollTop = el.scrollHeight;
+    }, [entries, viewedMoveIndex]);
 
     if (entries.length === 0) return null;
     return (
-        <div className="move-log" ref={listRef} role="log" aria-label="Move log">
-            {entries.map((line, i) => (
-                <div key={i}>{line}</div>
-            ))}
+        <div className="move-log" ref={listRef} role="log" aria-label="Move log"
+            onMouseLeave={() => onHover?.(null)}>
+            {entries.map((e, i) =>
+                e.move !== undefined && e.moveIndex !== undefined ? (
+                    <div
+                        key={i}
+                        className={'move-log-entry' + (e.moveIndex === viewedMoveIndex ? ' is-viewed' : '')}
+                        role="button"
+                        tabIndex={0}
+                        title="Click to see the board after this move"
+                        onMouseEnter={() => onHover?.(e.move!)}
+                        onFocus={() => onHover?.(e.move!)}
+                        onBlur={() => onHover?.(null)}
+                        onClick={() => onSelect?.(e.moveIndex!)}
+                        onKeyDown={(ev) => {
+                            if (ev.key === 'Enter' || ev.key === ' ') {
+                                ev.preventDefault();
+                                onSelect?.(e.moveIndex!);
+                            }
+                        }}
+                    >
+                        {e.text}
+                    </div>
+                ) : (
+                    <div key={i}>{e.text}</div>
+                ),
+            )}
         </div>
     );
 }

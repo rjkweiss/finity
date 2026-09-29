@@ -22,6 +22,7 @@ import type {
 } from '@finity/engine';
 import type { LayoutData } from './layout';
 import type { BoardTarget } from './moveInputHandler';
+import { MoveMark } from './moveMarks';
 
 export interface GameImages {
   cs: p5.Image;        // center station
@@ -47,8 +48,8 @@ export interface GameImages {
 }
 
 const COLOR_CROPS: Record<string, [number, number, number, number]> = {
-  red:    [0, 0, 300, 300],
-  cyan:   [300, 300, 300, 300],
+  red: [0, 0, 300, 300],
+  cyan: [300, 300, 300, 300],
   purple: [0, 300, 300, 300],
   yellow: [300, 0, 300, 300],
 };
@@ -86,6 +87,7 @@ export class DisplayHandler {
     layout: LayoutData,
     movePreview?: GamePiece | null,
     highlights?: readonly BoardTarget[],
+    marks?: readonly MoveMark[],
   ): void {
     this.scale = layout.scale ?? 1;
     // p5.background overloads don't accept a plain number[] spread in TS, so handle by length
@@ -100,6 +102,9 @@ export class DisplayHandler {
       this.p.background(0);
     }
     this.drawBoard(state, layout);
+    if (marks && marks.length > 0) {
+      this.drawMoveMarks(marks, layout);
+    }
     if (highlights && highlights.length > 0) {
       this.drawHighlights(highlights, layout);
     }
@@ -130,6 +135,81 @@ export class DisplayHandler {
       p.ellipse(pos[0], pos[1], d, d);
     }
     p.pop();
+  }
+  /** Marks for the last move (pulsing) and a hovered move-log line (solid).
+   *  Colours in colorMode(RGB, 1); magenta and white stay distinct from the
+   *  gold legal-target rings. */
+  private static readonly LAST_MOVE: [number, number, number] = [1, 0.4, 0.8];
+  private static readonly HOVER: [number, number, number] = [1, 1, 1];
+
+  private targetPos(t: BoardTarget, layout: LayoutData): [number, number] | undefined {
+    const pos = t.kind === 'station' ? layout.stationPositions[t.station] : layout.slotLayouts[t.slotId]?.midpoint;
+    return pos ?? undefined;
+  }
+
+  private drawMoveMarks(marks: readonly MoveMark[], layout: LayoutData): void {
+    const p = this.p;
+
+    // slow pulse for the last move
+    const pulse = 0.5 + 0.5 * Math.sin(p.millis() / 260);
+
+    for (const m of marks) {
+      const pos = this.targetPos(m.target, layout);
+      if (!pos) continue;
+      const hover = m.style === 'hover';
+      const [r, g, b] = hover ? DisplayHandler.HOVER : DisplayHandler.LAST_MOVE;
+      const alpha = hover ? 1 : 0.35 + 0.6 * pulse;
+      const d = this.sz(m.target.kind === 'station' ? 82 : 42);
+
+      p.push();
+      p.noFill();
+      p.stroke(r, g, b, alpha);
+      p.strokeWeight(Math.max(1.5, hover ? this.sz(4) : this.sz(2.5 + 2 * pulse)));
+      p.ellipse(pos[0], pos[1], d, d);
+
+      if (m.removal) {
+        // nothing is left on the board to see, so mark the empty slot
+        const k = d * 0.3;
+        p.line(pos[0] - k, pos[1] - k, pos[0] + k, pos[1] + k);
+        p.line(pos[0] - k, pos[1] + k, pos[0] + k, pos[1] - k);
+      }
+
+      if (m.origin) {
+        // a blocker that moved: dashed line from the slot it left
+        const o = this.targetPos(m.origin, layout);
+        if (o) {
+          const ctx = (p as unknown as { drawingContext: CanvasRenderingContext2D }).drawingContext;
+          ctx.setLineDash([this.sz(5), this.sz(5)]);
+          p.line(o[0], o[1], pos[0], pos[1]);
+          ctx.setLineDash([]);
+        }
+      }
+
+      if (m.direction) {
+        const from = layout.stationPositions[m.direction.from];
+        const to = layout.stationPositions[m.direction.to];
+        if (from && to) {
+          // arrow head just outside the ring, pointing the way the arrow points
+          const dx = to[0] - from[0];
+          const dy = to[1] - from[1];
+          const len = Math.hypot(dx, dy) || 1;
+          const ux = dx / len;
+          const uy = dy / len;
+          const off = d / 2;
+          const w = this.sz(6);
+          const baseX = pos[0] + ux * off;
+          const baseY = pos[1] + uy * off;
+          p.noStroke();
+          p.fill(r, g, b, alpha);
+          p.triangle(
+            baseX + ux * this.sz(10), baseY + uy * this.sz(10),
+            baseX - uy * w, baseY + ux * w,
+            baseX + uy * w, baseY - ux * w,
+          );
+        }
+      }
+      p.pop();
+    }
   }
 
 

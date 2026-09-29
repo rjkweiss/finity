@@ -31,7 +31,7 @@ import {
     seededRng,
     blockingExposure
 } from "./ai-common";
-import { buildRootContext, rootMoveBonus, type RootContext } from "./ai-judgement";
+import { buildRootContext, rootMoveBonus, type RootContext, type MoveBonus } from "./ai-judgement";
 
 
 export interface MinimaxOptions {
@@ -48,6 +48,15 @@ export interface MinimaxOptions {
     // apply move-level judgement at the root (reversal value, block * impact).
     // Default true; set false to A/B it in the self-play runner. */
     rootBonuses?: boolean;
+    /**
+     * Killer-move and history ordering for interior nodes. Alpha-beta prunes
+     * best when the refuting move is tried first; these remember which moves
+     * caused cutoffs, at each depth (killers) and across the search (history).
+     * Default true; set false to A/B it.
+     */
+    killerHistory?: boolean;
+    /** Override individual root-judgement weights (see MOVE_BONUS), e.g. { doubleUp: 0 } to A/B it. */
+    moveBonus?: Partial<MoveBonus>;
 }
 
 type transposition_table_flag = 'exact' | 'lower' | 'upper';
@@ -76,6 +85,11 @@ export class MinimaxAgent implements PlayerAgent {
     readonly author = 'built-in';
     readonly type = 'ai-builtin' as const;
     readonly rootBonuses: boolean;
+    readonly killerHistory: boolean;
+    readonly moveBonus: Partial<MoveBonus>;
+    /** Instrumentation: interior + leaf nodes visited, and deepest completed iteration, last move. */
+    public nodes = 0;
+    public lastDepth = 0;
 
     private readonly maxDepth: number;
     private readonly timeMs: number;
@@ -90,6 +104,9 @@ export class MinimaxAgent implements PlayerAgent {
     private rootCtx!: RootContext;
     // Root-move bonuses for the current turn, computed once per move
     private rootBonus = new Map<MoveAction, number>();
+    // Per-turn ordering memory: two killer moves per ply, and a history score per move
+    private killers: Array<[MoveAction | null, MoveAction | null]> = [];
+    private history = new Map<string, number>();
 
     constructor(opts: MinimaxOptions = {}) {
         this.id = opts.id ?? 'ai-minimax';
@@ -99,16 +116,22 @@ export class MinimaxAgent implements PlayerAgent {
         this.weights = opts.weights ?? DEFAULT_WEIGHTS;
         this.rng = seededRng(opts.seed ?? 0x5eed);
         this.rootBonuses = opts.rootBonuses ?? true;
+        this.killerHistory = opts.killerHistory ?? true;
+        this.moveBonus = { ...(opts.moveBonus ?? {}) };
     }
 
     async move(color: PlayerColor, state: FinityGameState, ctx: MoveContext): Promise<MoveAction> {
         throwIfAborted(ctx);
         this.me = color;
         this.ctx = ctx;
-        this.deadline = Date.now() + this.timeMs;
+        const deadline = Date.now() + this.timeMs;
         this.transposition_table = new Map();
-        this.rootCtx = buildRootContext(state, color);
+        this.rootCtx = buildRootContext(state, color, this.moveBonus);
         this.rootBonus = new Map();
+        this.killers = [];
+        this.history = new Map();
+        this.nodes = 0;
+        this.lastDepth = 0;
 
         const rootMoves = this.ordered(state, legalMoves(state, color), null);
         if (rootMoves.length === 0) {
@@ -121,16 +144,19 @@ export class MinimaxAgent implements PlayerAgent {
         // Iterative deepening: each completed depth refines `best`; a timeout or
         // hard abort mid-depth discards that depth and keeps the last good one.
         for (let depth = 1; depth <= this.maxDepth; depth++) {
+            // depth 1 always run to completion, whatever the budget
+            this.deadline = depth === 1 ? Infinity : deadline;
             try {
                 const result = this.searchRoot(state, rootMoves, depth, best);
                 best = result.move;
+                this.lastDepth = depth;
                 // A proven win/loss won't change with more depth.
                 if (Math.abs(result.score) >= WIN_SCORE / 2) break;
             } catch (e) {
                 if (e instanceof SearchDeadlineReached) break;
                 throw e; // MoveAbortedError propagates to the orchestrator
             }
-            if (Date.now() >= this.deadline) break;
+            if (Date.now() >= deadline) break;
         }
         return best;
     }
@@ -195,8 +221,9 @@ export class MinimaxAgent implements PlayerAgent {
     }
 
     // Negamax with alpha-beta. Returns the value from the side-to-move's view.
-    private search(state: FinityGameState, depth: number, alpha: number, beta: number): number {
+    private search(state: FinityGameState, depth: number, alpha: number, beta: number, ply = 1): number {
         this.checkBudget();
+        this.nodes++;
 
         if (isGameOver(state) || depth <= 0) {
             return this.leaf(state, depth);
@@ -218,7 +245,7 @@ export class MinimaxAgent implements PlayerAgent {
         }
 
         const toMove = currentPlayer(state);
-        const moves = this.ordered(state, possibleMoves(state, toMove), ttMove);
+        const moves = this.ordered(state, possibleMoves(state, toMove), ttMove, ply);
 
         if (moves.length === 0) return this.leaf(state, depth);
 
@@ -228,14 +255,17 @@ export class MinimaxAgent implements PlayerAgent {
 
         for (const move of moves) {
             const child = applyMove(state, move);
-            const score = -this.search(child, depth - 1, -beta, -alpha);
+            const score = -this.search(child, depth - 1, -beta, -alpha, ply + 1);
             if (score > bestScore) {
                 bestScore = score;
                 bestMove = move;
             }
 
             if (score > alpha) alpha = score;
-            if (alpha >= beta) break; // cutoff
+            if (alpha >= beta) {
+                this.recordCutoff(move, ply, depth);
+                break; // cutoff
+            }
         }
 
         const flag: transposition_table_flag =
@@ -260,16 +290,48 @@ export class MinimaxAgent implements PlayerAgent {
         return currentPlayer(state) === this.me ? fromMe : -fromMe;
     }
 
-    private ordered(state: FinityGameState, moves: MoveAction[], ttMove: MoveAction | null): MoveAction[] {
-        // score once per move
-        const keyed = moves.map((m) => ({
-            m,
-            rank: CATEGORY_ORDER[moveCategory(m)] * 10 + blockingExposure(state, m),
-        }));
+    /**
+     * Move ordering. Everywhere: category, then Tony's blocking exposure. At
+     * interior nodes (ply given) with killerHistory on, the two killer moves
+     * for that ply go first, then moves by history score. The transposition
+     * move, when known, goes before all of them.
+     */
+    private ordered(
+        state: FinityGameState,
+        moves: MoveAction[],
+        ttMove: MoveAction | null,
+        ply?: number,
+    ): MoveAction[] {
+        const useMemory = this.killerHistory && ply !== undefined;
+        const [k1, k2] = useMemory ? (this.killers[ply!] ?? [null, null]): [null, null];
+
+        // score once per move, not once per comparison
+        const keyed = moves.map((m) => {
+            let rank = CATEGORY_ORDER[moveCategory(m)] * 10 + blockingExposure(state, m);
+            if (useMemory) {
+                if (k1 && sameMove(m, k1)) rank = -2_000_000;
+                else if (k2 && sameMove(m, k2)) rank = -1_000_000;
+                else rank -= (this.history.get(historyKey(m)) ?? 0) * 100;
+            }
+            return { m, rank };
+        });
         keyed.sort((a, b) => a.rank - b.rank);
-        const sorted = keyed.map((X) => X.m);
+        const sorted = keyed.map((x) => x.m);
 
         return ttMove ? this.moveFirst(sorted, ttMove): sorted;
+    }
+
+    /** A move refuted this line: remember it at this ply, and credit it overall */
+    private recordCutoff(move: MoveAction, ply: number, depth: number): void {
+        if (!this.killerHistory) return;
+        const slot = this.killers[ply] ?? (this.killers[ply] = [null, null]);
+        if (!slot[0] || !sameMove(slot[0], move)) {
+            slot[1] = slot[0];
+            slot[0] = move;
+        }
+        const key = historyKey(move);
+        // Deeper cutoffs prune more, so they count for more
+        this.history.set(key, (this.history.get(key) ?? 0) + depth * depth);
     }
 
     private moveFirst(moves: MoveAction[], first: MoveAction): MoveAction[] {
@@ -284,6 +346,27 @@ export class MinimaxAgent implements PlayerAgent {
     private checkBudget(): void {
         throwIfAborted(this.ctx);
         if (Date.now() >= this.deadline) throw new SearchDeadlineReached();
+    }
+}
+
+/**
+ * History is keyed by what a move does and where, so the same idea reached by
+ * a different route shares its score
+ */
+function historyKey(m: MoveAction): string {
+    const add = m.pieceToAdd;
+    if (!add) return `x:${m.pieceToRemove?.slotId ?? -1}`;
+    switch(add.type) {
+        case 'ring':
+            return `r:${m.station}`;
+        case 'arrow':
+            return `a:${add.slotId}:${add.color}:${add.fromStation}>${add.toStation}`;
+        case 'blocker':
+            return `b:${m.pieceToRemove?.slotId ?? -1}>${add.slotId}`;
+        case 'basePost':
+            return `p:${add.toStation}`;
+        default:
+            return '?';
     }
 }
 

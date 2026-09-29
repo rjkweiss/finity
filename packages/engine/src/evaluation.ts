@@ -11,7 +11,7 @@
  */
 
 import type { FinityGameState, PlayerColor, StationName } from "./types";
-import { getAllArrows, occupiesHighPoint, stationControlledBy } from "./engine";
+import { getAllArrows, occupiesHighPoint, stationControlledBy, ringCount } from "./engine";
 import { analyzePaths, orphanExposure, reachableStationCount, reachableStations } from "./path-analyzer";
 import { STATION_SLOTS } from "./topology";
 import { layeredPlan, UNREACHABLE } from "./layered";
@@ -184,6 +184,124 @@ export const progress = (state: FinityGameState, color: PlayerColor): number => 
 export const ringDeficit = (state: FinityGameState, color: PlayerColor): number =>
     layeredPlan(state, color).ringDeficit;
 
+
+// =============================================================
+// Rings on the board
+// =============================================================
+
+/**
+ * the number of rings a player has on the board is a good indication of
+ * who is winning. Includes the ring each player starts with on the centre,
+ * matching the engine's ringCount and the seven-ring victory threshold.
+ */
+export const ringsOnBoard = (state: FinityGameState, color: PlayerColor): number =>
+    ringCount(state, color);
+
+/**
+ * rings spread over many stations are a stronger offence, and a bigger
+ * threat, than the same rings stacked on a few. Counts distinct stations
+ * holding at least one of the player's rings, not counting the centre: every
+ * player starts with a ring there, so it says nothing about threat.
+ */
+export const ringSpread = (state: FinityGameState, color: PlayerColor): number => {
+    let n = 0;
+    for (const [name, st] of Object.entries(state.board.stations)) {
+        if (name === 'C') continue;
+        if (st.rings.some((r) => r !== null && r.color === color)) n++;
+    }
+
+    return n;
+};
+
+// =============================================================
+// Base post threats
+// =============================================================
+
+/**
+ * Could `color` move its base post to `station` next turn?
+ *
+ * The engine's rule (possible-moves canMoveBasePost): the station has no base
+ * post, is not the centre, and a path starting there reaches a station holding
+ * one of the player's rings. The starting station counts as reached, and every
+ * legal path's first step must land on a station the player has a ring on. So
+ * this is exactly: the station itself holds one of the player's rings, or an
+ * arrow of the pattern's first colour leads from it to a neighbour (not the
+ * centre) that does. A handful of lookups, where the engine's version
+ * enumerates paths; a test checks the two agree on thousands of positions.
+ */
+export const canRelocateBasePost = (
+    state: FinityGameState,
+    color: PlayerColor,
+    station: StationName,
+    outArrows?: ReadonlyMap<StationName, ReadonlyArray<{ to: StationName; color: string }>>,
+): boolean => {
+    const st = state.board.stations[station];
+    if (!st || st.basePost || station === 'C') return false;
+
+    // The destination is itself on the new path.
+    if (st.rings.some((r) => r !== null && r.color === color)) return true;
+
+    const first = state.pathPattern[0];
+    const arrows = outArrows?.get(station)
+        ?? getAllArrows(state)
+            .filter((a) => a.fromStation === station)
+            .map((a) => ({ to: a.toStation, color: a.color }));
+
+    for (const a of arrows) {
+        if (a.color !== first || a.to === 'C') continue;
+        const target = state.board.stations[a.to];
+        if (target?.rings.some((r) => r !== null && r.color === color)) return true;
+    }
+
+    return false;
+};
+
+const outArrowIndex = (state: FinityGameState) => {
+    const index = new Map<StationName, Array<{ to: StationName; color: string }>>();
+    for (const a of getAllArrows(state)) {
+        const list = index.get(a.fromStation) ?? [];
+        list.push({ to: a.toStation, color: a.color });
+        index.set(a.fromStation, list);
+    }
+
+    return index;
+};
+
+/**
+ * check every base post move the opponent could make, and prejudice
+ * highly against letting them land on a station you control — a base post
+ * takes the high point, so it would capture the station.
+ *
+ * Counts stations whose high point is `color`'s that some opponent could
+ * relocate onto next turn. Higher is worse.
+ */
+export const baseThreatsAgainst = (state: FinityGameState, color: PlayerColor): number => {
+    const arrows = outArrowIndex(state);
+    const opponents = state.config.playerColors.filter((c) => c !== color && !state.winners.includes(c));
+    let n = 0;
+    for (const [name, st] of Object.entries(state.board.stations) as [StationName, typeof state.board.stations[StationName]][]) {
+        if (stationControlledBy(st) !== color) continue;
+        if (opponents.some((o) => canRelocateBasePost(state, o, name, arrows))) n++;
+    }
+
+    return n;
+};
+
+/**
+ * The same threat in the other direction: base post moves as a form of
+ * attack. Counts opponent-controlled stations `color` could relocate onto.
+ */
+export const baseThreatsBy = (state: FinityGameState, color: PlayerColor): number => {
+    const arrows = outArrowIndex(state);
+    let n = 0;
+    for (const [name, st] of Object.entries(state.board.stations) as [StationName, typeof state.board.stations[StationName]][]) {
+        const owner = stationControlledBy(st);
+        if (!owner || owner === color) continue;
+        if (canRelocateBasePost(state, color, name, arrows)) n++;
+    }
+
+    return n;
+};
 export interface EvalWeights {
     longestBridgePath: number;
     longestSupportedPath: number;
@@ -195,6 +313,10 @@ export interface EvalWeights {
     channelRedundancy: number;
     progress: number; // closeness to a complete path; rewards rings directly
     ringDeficit: number; // negative: rings still to place on the route
+    ringsOnBoard: number; // rings on the board show who is winning
+    ringSpread: number;  // rings across many stations are a threat
+    baseThreatsAgainst: number; // stations the opponent's base post could capture
+    baseThreatsBy: number; // stations your base post could capture
 }
 
 /** Starting weights — tune against self-play(later -> ML tuned on headless self-play) */
@@ -209,6 +331,10 @@ export const DEFAULT_WEIGHTS: EvalWeights = {
     channelRedundancy: 1.5,
     progress: 20.0,
     ringDeficit: -1.0,
+    ringsOnBoard: 1.5,
+    ringSpread: 1.0,
+    baseThreatsAgainst: -6.0, // prejudice this highly
+    baseThreatsBy: 1.5,
 };
 
 /**
@@ -231,6 +357,10 @@ export const evaluate = (
         weights.closedChannels * closedChannels(state, color) +
         weights.channelRedundancy * channelRedundancy(state, color) +
         weights.progress * progress(state, color) +
-        weights.ringDeficit * ringDeficit(state, color)
+        weights.ringDeficit * ringDeficit(state, color) +
+        weights.ringsOnBoard * ringsOnBoard(state, color) +
+        weights.ringSpread * ringSpread(state, color) +
+        weights.baseThreatsAgainst * baseThreatsAgainst(state, color) +
+        weights.baseThreatsBy + baseThreatsBy(state, color)
     );
 }

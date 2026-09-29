@@ -103,6 +103,9 @@ export {
 export { evaluate, DEFAULT_WEIGHTS, type EvalWeights } from './evaluation';
 
 export { computeZobristHash } from './zobrist';
+
 export { boardHash, filterImmediateUndo, violatesReplacementRule } from './no-undo';
+
+export { generatePathPattern, PATTERN_POOL, PATTERN_LENGTH } from './pattern';
 
 export { layeredPlan, movesToWin, type LayeredPlan } from './layered';

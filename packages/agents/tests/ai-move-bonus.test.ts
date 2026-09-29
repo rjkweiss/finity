@@ -1,4 +1,4 @@
-// move-level advice, applied at the root of the minimax search:
+// Tony's move-level advice, applied at the root of the minimax search:
 //   - a reversal is worth the most when it orphans opponent rings (more rings,
 //     more value), something when it extends your own route, and is penalised
 //     when it does neither;
@@ -19,8 +19,11 @@ import {
     type MoveAction,
 } from '@finity/engine';
 import {
+    BOXED_IN,
     MOVE_BONUS,
     blockImpact,
+    escapeValue,
+    openChannels,
     buildRootContext,
     reversalValue,
     rootMoveBonus,
@@ -43,6 +46,7 @@ function ctxFor(after: FinityGameState, orphaned: number, routeGain: number): Ro
         oppRings: ringCount(after, 'yellow') + orphaned,
         myPath: longestLegalPathLength(after, 'cyan') - routeGain,
         oppTriplets: new Set(),
+        myOpenChannels: 5,
     };
 }
 
@@ -90,6 +94,7 @@ describe('block impact', () => {
 
     const ctxWatching = (bases: number[]): RootContext => ({
         me: 'cyan', opponents: ['yellow'], oppRings: 0, myPath: 0, oppTriplets: new Set(bases),
+        myOpenChannels: 5,
     });
 
     it('is zero away from the opponent\'s channels', () => {
@@ -120,6 +125,32 @@ describe('block impact', () => {
             pieceToAdd: { type: 'arrow', color: 'b', fromStation: 'C', toStation: 'SE', slotId: 8 },
         } as MoveAction;
         expect(blockImpact(ctxWatching([BASE]), s, arrow)).toBe(MOVE_BONUS.blockPerSlot + MOVE_BONUS.channelClosed);
+    });
+});
+
+describe('base post escape', () => {
+    // At the start, cyan's only reachable station is her base post N, which
+    // has three open channels on the 2-player board (to C, NE and NW).
+    const roomy = start();
+    const ctxWith = (open: number): RootContext => ({
+        me: 'cyan', opponents: ['yellow'], oppRings: 0, myPath: 0, oppTriplets: new Set(), myOpenChannels: open,
+    });
+
+    it('counts the open channels out of your territory', () => {
+        expect(openChannels(roomy, 'cyan')).toBe(3);
+    });
+
+    it('rewards a relocation that frees a boxed-in player', () => {
+        expect(escapeValue(ctxWith(BOXED_IN), roomy)).toBe(MOVE_BONUS.escape);
+        expect(escapeValue(ctxWith(0), roomy)).toBe(MOVE_BONUS.escape);
+    });
+
+    it('gives nothing when you were not boxed in', () => {
+        expect(escapeValue(ctxWith(BOXED_IN + 1), roomy)).toBe(0);
+    });
+
+    it('gives nothing when the move does not add room', () => {
+        expect(escapeValue(ctxWith(3), roomy)).toBe(0);
     });
 });
 
@@ -161,6 +192,27 @@ describe('root search with move bonuses', () => {
                 if (JSON.stringify(m) === JSON.stringify(chosen)) chosenScore = v;
             }
             expect(chosenScore).toBe(best);
+        }
+    });
+});
+
+describe('search budget', () => {
+    it('never plays an unsearched move, however small the budget', async () => {
+        // With a 1 ms budget the old search could run out part-way through
+        // depth 1 and fall back to the first move in its ordering, unsearched.
+        // Now depth 1 always completes, so the choice must match a full
+        // depth-1 search with the same seed.
+        let s = start();
+        const ctx0 = moveCtx();
+        const driver = new MinimaxAgent({ timeMs: Number.MAX_SAFE_INTEGER, maxDepth: 1, seed: 3 });
+        for (let ply = 0; ply < 30 && s.playStatus !== 'over'; ply++) {
+            const c = currentPlayer(s);
+            if (ply >= 10 && ply % 5 === 0) {
+                const rushed = await new MinimaxAgent({ timeMs: 1, maxDepth: 3, seed: 9 }).move(c, s, ctx0);
+                const full = await new MinimaxAgent({ timeMs: Number.MAX_SAFE_INTEGER, maxDepth: 1, seed: 9 }).move(c, s, ctx0);
+                expect(JSON.stringify(rushed)).toBe(JSON.stringify(full));
+            }
+            s = applyMove(s, await driver.move(c, s, moveCtx(ply)));
         }
     });
 });
