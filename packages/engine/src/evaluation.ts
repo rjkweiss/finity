@@ -321,15 +321,15 @@ export interface EvalWeights {
 
 /** Starting weights — tune against self-play(later -> ML tuned on headless self-play) */
 export const DEFAULT_WEIGHTS: EvalWeights = {
-    longestBridgePath: 1.0,
-    longestSupportedPath: 3.0,
+    longestBridgePath: 2.0,         // previous val: 1.0
+    longestSupportedPath: 6.0,      // previous val: 3.0,
     reachableStationCount: 1.5,
     controlledStationCount: 2.0,
-    stationPairStrength: 1.0,
+    stationPairStrength: 2.0,       // previous val: 1.0
     orphanVulnerability: -2.5,
-    closedChannels: -4.0,
+    closedChannels: -2.0,           // previous val: -4.0
     channelRedundancy: 1.5,
-    progress: 20.0,
+    progress: 40.0,                // previous val: 20.0
     ringDeficit: -1.0,
     ringsOnBoard: 1.5,
     ringSpread: 1.0,
