@@ -12,7 +12,7 @@
 
 import type { FinityGameState, PlayerColor, StationName } from "./types";
 import { getAllArrows, occupiesHighPoint, stationControlledBy, ringCount } from "./engine";
-import { analyzePaths, orphanExposure, reachableStationCount, reachableStations } from "./path-analyzer";
+import { analyzePaths, basePostStation, orphanExposure, reachableStationCount, reachableStations } from "./path-analyzer";
 import { STATION_SLOTS } from "./topology";
 import { layeredPlan, UNREACHABLE } from "./layered";
 
@@ -361,6 +361,6 @@ export const evaluate = (
         weights.ringsOnBoard * ringsOnBoard(state, color) +
         weights.ringSpread * ringSpread(state, color) +
         weights.baseThreatsAgainst * baseThreatsAgainst(state, color) +
-        weights.baseThreatsBy + baseThreatsBy(state, color)
+        weights.baseThreatsBy * baseThreatsBy(state, color)
     );
 }

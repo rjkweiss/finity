@@ -18,9 +18,7 @@
  * it is deterministic across runs and processes — the engine stays pure (no
  * ambient Math.random). The hash is stored on FinityGameState as a hex string
  * (the state type is JSON-serializable; bigint is not), and recomputed by
- * applyMove. Incremental XOR updates are a possible optimization, but applyMove
- * already deep-clones the whole state per move, so a full O(board) fold is the
- * same order of cost and far less error-prone.
+ * applyMove.
  */
 
 import type { FinityGameState, PlayerColor, ArrowColor } from './types';

@@ -304,5 +304,10 @@ const buildPlan = (state: FinityGameState, color: PlayerColor): LayeredPlan => {
         if (n > have) ringDeficit += n - have;
     }
 
-    return { movesToWin: goalCost, ringDeficit, route };
+    const charged = route.reduce((n, step) => n + (step.needsRing ? 1 : 0), 0);
+    return {
+        movesToWin: goalCost - charged + ringDeficit,
+        ringDeficit,
+        route
+    };
 };

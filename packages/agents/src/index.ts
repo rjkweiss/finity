@@ -19,4 +19,5 @@ export {
     type Rng,
 } from './ai-common';
 
-export { MOVE_BONUS, type MoveBonus } from './ai-judgement';
+export * from './ai-minimax';
+export * from './ai-judgement';
