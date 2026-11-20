@@ -82,7 +82,8 @@ export {
     outArrows,
     canBlockSlot,
     isRedundant,
-    DEFAULT_REPETITION_LIMIT
+    DEFAULT_REPETITION_LIMIT,
+    DRAW_ROUND_LIMIT
 } from './engine';
 
 // Path analysis
@@ -109,3 +110,5 @@ export { boardHash, filterImmediateUndo, violatesReplacementRule } from './no-un
 export { generatePathPattern, PATTERN_POOL, PATTERN_LENGTH } from './pattern';
 
 export { layeredPlan, movesToWin, type LayeredPlan } from './layered';
+
+export * from './race';

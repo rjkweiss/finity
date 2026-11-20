@@ -40,7 +40,7 @@ const ALL_COLORS: PlayerColor[] = ['cyan', 'yellow', 'red', 'purple'];
 
 /**
  * Map a PlayerPanel dropdown value to a concrete agent.
- * Search AIs (easy/medium/hard) run in a Web Worker; 2-player -> minimax,
+ * Search AIs (easy/medium; hard is coming soon and builds on medium) run in a Web Worker; 2-player -> minimax,
  * 3-4 -> MCTS is decided inside the worker by createBuiltinAgent. The on-thread
  * fallback covers environments without Worker (jsdom / headless tests).
  */

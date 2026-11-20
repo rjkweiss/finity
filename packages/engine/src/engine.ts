@@ -390,6 +390,33 @@ export const isRedundant = (
 // =============================================================
 
 /**
+ * Copy exactly what a move can change; share everything it can't
+ */
+const cloneForMove = (
+    state: FinityGameState
+): FinityGameState => {
+    const stations = {} as FinityGameState['board']['stations'];
+    for (const [name, st] of Object.entries(state.board.stations)) {
+        stations[name as keyof typeof stations] = {
+            ...st,
+            rings: [...st.rings] as typeof st.rings,
+        };
+    }
+
+    return {
+        ...state,
+        board: {
+            ...state.board,
+            slots: state.board.slots.map((slot) => ({ ...slot })),
+            stations,
+        },
+        winners: [...state.winners],
+        ...(state.ranking ? { ranking: state.ranking.map((group) =>[...group]) } : {}),
+        ...(state.defaulted ? { defaulted: [...state.defaulted] } : {}),
+    };
+};
+
+/**
  * Apply a move to the game state.
  * Returns a new FinityGameState. The input is NOT modified.
  */
@@ -398,9 +425,7 @@ export const applyMove = (
     move: MoveAction
 ): FinityGameState => {
     // Deep clone everything except the repetition counts
-    const { positionCounts, ...rest } = state;
-    const next: FinityGameState = structuredClone(rest) as unknown as FinityGameState;
-    next.positionCounts = positionCounts;
+    const next = cloneForMove(state);
     next.prevBoardHash = boardHash(state);
     next.turnsSinceRingChange = state.turnsSinceRingChange + 1;
 

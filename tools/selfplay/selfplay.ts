@@ -78,8 +78,9 @@ import {
     RandomAgent,
     WeightedRandomAgent,
     createBuiltinAgent,
-    MOVE_BONUS,
+    RACE_WEIGHTS,
     type Difficulty,
+    type RaceWeights,
     type PlayerAgent,
 } from '@finity/agents';
 import { GameRecorder, agentInfoMap } from '@finity/recorder';
@@ -140,9 +141,11 @@ export interface AgentSpec {
     weights: Partial<EvalWeights>;
     /** Per-agent overrides of minimax's root judgement weights (MOVE_BONUS). */
     bonus: Record<string, number>;
+    pvs?: number;
+    lmr?: number;
 }
 
-const NUMERIC_KEYS = ['timeMs', 'maxDepth', 'rolloutDepth', 'opponentWeight', 'rootBonuses', 'killerHistory'] as const;
+const NUMERIC_KEYS = ['timeMs', 'maxDepth', 'rolloutDepth', 'opponentWeight', 'rootBonuses', 'killerHistory', 'pvs', 'lmr'] as const;
 
 export function parseAgentSpec(text: string): AgentSpec {
     const [kindPart, rest = ''] = text.split(':', 2);
@@ -152,7 +155,7 @@ export function parseAgentSpec(text: string): AgentSpec {
     }
 
     const spec: AgentSpec = { kind, label: text, weights: {}, bonus: {} };
-    const weightNames = new Set(Object.keys(DEFAULT_WEIGHTS));
+    const weightNames = new Set(Object.keys(kind === 'minimax' ? RACE_WEIGHTS : DEFAULT_WEIGHTS));
 
     for (const pair of rest.split(',').map((s) => s.trim()).filter(Boolean)) {
         const eq = pair.indexOf('=');
@@ -169,12 +172,7 @@ export function parseAgentSpec(text: string): AgentSpec {
         if (!Number.isFinite(value)) throw new Error(`Option "${key}" needs a number, got "${raw}"`);
 
         if (key.startsWith('b.')) {
-            const name = key.slice(2);
-            if (!(name in MOVE_BONUS)) {
-                throw new Error(`Unknown move bonus "${name}". Known: ${Object.keys(MOVE_BONUS).join(', ')}`);
-            }
-            spec.bonus[name] = value;
-            continue;
+            throw new Error(`"${key}": root move bonuses belonged to the old minimax and were removed`);
         }
 
         if (key.startsWith('w.')) {
@@ -199,8 +197,6 @@ export function parseAgentSpec(text: string): AgentSpec {
     return spec;
 }
 
-type MinimaxOptions = NonNullable<ConstructorParameters<typeof MinimaxAgent>[0]>;
-
 export function buildAgent(
     spec: AgentSpec,
     seat: PlayerColor,
@@ -212,32 +208,21 @@ export function buildAgent(
 
     switch (spec.kind) {
         case 'minimax': {
-            const opts: Record<string, unknown> = {
+            // the race minimax: pvs, lmr, opponentWeight, rootBonuses and
+            // killerHistory belonged to the old minimax
+            const removed = (['pvs', 'lmr', 'opponentWeight', 'rootBonuses', 'killerHistory'] as const)
+                .filter((k) => spec[k] !== undefined);
+            if (removed.length) {
+                throw new Error(`${removed.join(', ')}: options of the old minimax, which was removed`);
+            }
+            return new MinimaxAgent({
                 id,
                 label: spec.label,
                 timeMs: spec.timeMs ?? 1000,
-                maxDepth: spec.maxDepth ?? 3,
-                weights,
+                maxDepth: spec.maxDepth ?? 2,
+                weights: spec.weights as Partial<RaceWeights>,
                 seed,
-            };
-            if (spec.opponentWeight !== undefined) opts.opponentWeight = spec.opponentWeight;
-            if (spec.rootBonuses !== undefined) opts.rootBonuses = spec.rootBonuses !== 0;
-            if (spec.killerHistory !== undefined) opts.killerHistory = spec.killerHistory !== 0;
-            if (Object.keys(spec.bonus).length) opts.moveBonus = spec.bonus;
-            const agent = new MinimaxAgent(opts as MinimaxOptions);
-
-            // Guard against an agent that silently ignores the option.
-            if (
-                spec.opponentWeight !== undefined &&
-                (agent as unknown as { opponentWeight?: number }).opponentWeight !== spec.opponentWeight
-            ) {
-                throw new Error(
-                    'MinimaxAgent does not support opponentWeight yet. Add it to MinimaxOptions ' +
-                    'and pass it to differentialScore in leaf() (see docs/selfplay.md).'
-                );
-            }
-
-            return agent;
+            });
         }
         case 'mcts':
             return new MCTSAgent({

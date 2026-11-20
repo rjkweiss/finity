@@ -32,7 +32,7 @@
  *   --games N         games per comparison, even (default 40)
  *   --shards N        parallel processes, at most your core count (default 4)
  *   --time MS         thinking time per move (default 1000, medium)
- *   --depth D         search depth cap (default 3, medium)
+ *   --depth D         search depth cap (default 2, medium)
  *   --max-moves N     move cap per game (default 300)
  *   --seed S          patterns for the screening phase (default 7)
  *   --factors a,b     multipliers to try on each weight (default 0.5,2)
@@ -56,14 +56,14 @@ import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { DEFAULT_WEIGHTS } from '@finity/engine';
-import { MOVE_BONUS } from '@finity/agents';
+import { RACE_WEIGHTS } from '@finity/agents';
 import { readRows, signTest, type GameRow } from './selfplay';
 
 // =============================================================
 // The weights, most important first
 // =============================================================
 
-type DialKind = 'w' | 'b'; // evaluation weight | root move bonus
+type DialKind = 'w'; // evaluation weight (RACE_WEIGHTS of the minimax agent)
 
 interface Dial {
     kind: DialKind;
@@ -73,34 +73,17 @@ interface Dial {
 }
 
 /**
- * Ordering rationale: first the terms with measured impact (the ring and
- * base-post terms produced the 16-0 result), then the terms that shape how
- * the AI builds and converts (progress, supported path), then the ones that
- * shape its fights (reversals, blocking, orphan defence), then the rest.
+ * Ordering rationale: the objective path and urgency are the newest and least
+ * tested terms; race and tempo are the core; fragility and redundancy are 0 by
+ * default (the objective path covers them), so they are tried at +1 and -1.
  */
 const PRIORITY: Dial[] = [
-    { kind: 'w', name: 'ringsOnBoard', why: 'Tony 3; part of the 16-0 result' },
-    { kind: 'w', name: 'ringSpread', why: 'Tony 4; part of the 16-0 result' },
-    { kind: 'w', name: 'baseThreatsAgainst', why: 'Tony 7; part of the 16-0 result, heaviest weight' },
-    { kind: 'w', name: 'progress', why: 'distance to a finished path; the main lever on game length' },
-    { kind: 'w', name: 'longestSupportedPath', why: 'largest original evaluation term' },
-    { kind: 'b', name: 'orphanPerRing', why: 'Tony 1; decides which reversals are worth making' },
-    { kind: 'b', name: 'wastedReversal', why: 'Tony 1; cut wasted reversals from 48% to 17%' },
-    { kind: 'w', name: 'orphanVulnerability', why: 'the main defensive term' },
-    { kind: 'w', name: 'closedChannels', why: 'Tony: blocked channels' },
-    { kind: 'b', name: 'channelClosed', why: 'Tony 2; the bonus behind the opening blunder' },
-    { kind: 'b', name: 'blockPerSlot', why: 'Tony 2; value of each slot a block takes' },
-    { kind: 'w', name: 'controlledStationCount', why: 'high-point control' },
-    { kind: 'w', name: 'baseThreatsBy', why: 'Tony 7, attacking side' },
-    { kind: 'w', name: 'channelRedundancy', why: 'Tony: room to double up' },
-    { kind: 'b', name: 'escape', why: 'base post escape when boxed in' },
-    { kind: 'b', name: 'ownRoute', why: 'Tony 1; reversals toward your own route' },
-    { kind: 'w', name: 'reachableStationCount', why: 'reach' },
-    { kind: 'w', name: 'ringDeficit', why: 'rings still needed on your route' },
-    { kind: 'b', name: 'doubleUp', why: 'Tony 5; no measured effect at default' },
-    { kind: 'b', name: 'idleCentre', why: 'Tony 6; no measured effect at default' },
-    { kind: 'w', name: 'longestBridgePath', why: 'raw arrow reach, ignoring rings' },
-    { kind: 'w', name: 'stationPairStrength', why: 'consolidated structure' },
+    { kind: 'w', name: 'objective', why: "Tony's objective path; hand-set at 4" },
+    { kind: 'w', name: 'urgency', why: 'how sharply the last few moves count; decides when defence beats building' },
+    { kind: 'w', name: 'race', why: 'one move of race distance; the core term' },
+    { kind: 'w', name: 'tempo', why: 'value of being the side to move' },
+    { kind: 'w', name: 'fragility', why: 'undoable steps; 0 since the objective path was added' },
+    { kind: 'w', name: 'redundancy', why: 'tied cheapest routes; 0 since the objective path was added' },
 ];
 
 // =============================================================
@@ -123,7 +106,7 @@ interface Settings {
 
 function parseArgs(argv: string[]): Settings {
     const s: Settings = {
-        name: 'overnight', games: 40, shards: 4, timeMs: 1000, depth: 3, maxMoves: 300,
+        name: 'overnight', games: 40, shards: 4, timeMs: 1000, depth: 2, maxMoves: 300,
         seed: 7, factors: [0.5, 2], only: null, confirm: true, dryRun: false,
     };
     for (let i = 0; i < argv.length; i++) {
@@ -169,7 +152,7 @@ interface Comparison {
 }
 
 function defaultOf(d: Dial): number | undefined {
-    const table = (d.kind === 'w' ? DEFAULT_WEIGHTS : MOVE_BONUS) as unknown as Record<string, number>;
+    const table = RACE_WEIGHTS as unknown as Record<string, number>;
     return table[d.name];
 }
 
