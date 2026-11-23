@@ -49,10 +49,13 @@ export interface ParsedMove {
     orphanedRings?: { player: string; count: number };
 }
 
+/** How the game ended, from the log text. A winner line alone does not mean a complete path. */
+export type ParsedEnding = 'path_complete' | 'concession' | 'forced_draw' | 'abandoned' | 'unfinished';
 export interface ParsedGame {
     players: string[];        // distinct players in first-move order
     moves: ParsedMove[];
     winner: string | null;
+    ending: ParsedEnding;
     unparsed: string[];       // any content lines the grammar missed (should be empty)
 }
 
@@ -89,6 +92,11 @@ const RE_BLOCKER = /^Blocker at Station \[([^\]]+)\] => \[([^\]]+)\] Position:(R
 const RE_BASEPOST = /^Base Post at Station \[([^\]]+)\]$/;
 const RE_ORPHAN = /^(.+?) has to remove (\d+) orphaned rings$/;
 const RE_WIN = /^The end of the game: (.+) wins!$/;
+const RE_CONCEDE = /concedes the game\.?$/;
+const RE_FORCED_DRAW = /^FORCED DRAW\./;
+const RE_ABANDON = /chose to abandon this game/;
+// BGA housekeeping that says nothing about the moves
+const RE_NOISE = /^(End of game( \(tie\))?|Game Log|.+ uses a holiday time joker.*|This real-time table has been switched to turn-based\.|.+ is out of time, so .+ skips .+)$/;
 
 function classify(verb: string, rest: string): ParsedAction | null {
     let m: RegExpMatchArray | null;
@@ -128,6 +136,9 @@ export function parseGameLog(text: string): ParsedGame {
     const unparsed: string[] = [];
     let winner: string | null = null;
     let moveNumber = 0;
+    let conceded = false;
+    let forcedDraw = false;
+    let abandoned = false;
 
     // BGA timestamps: a full "m/d/yyyy h:mm:ss AM" sets the running date; later
     // time-only lines inherit it. The timestamp precedes its move's action line.
@@ -158,6 +169,10 @@ export function parseGameLog(text: string): ParsedGame {
         if (/Rematch with the exact same players/.test(line)) continue;
 
         if ((m = line.match(RE_WIN))) { winner = m[1]; continue; }
+        if (RE_CONCEDE.test(line)) { conceded = true; continue; }
+        if (RE_FORCED_DRAW.test(line)) { forcedDraw = true; continue; }
+        if (RE_ABANDON.test(line)) { abandoned = true; continue; }
+        if (RE_NOISE.test(line)) continue;
 
         if ((m = line.match(RE_ORPHAN))) {
             if (moves.length) {
@@ -178,7 +193,13 @@ export function parseGameLog(text: string): ParsedGame {
         unparsed.push(line);
     }
 
-    return { players, moves, winner, unparsed };
+    const ending: ParsedEnding = forcedDraw ? 'forced_draw'
+        : abandoned ? 'abandoned'
+        : winner && conceded ? 'concession'
+        : winner ? 'path_complete'
+        : 'unfinished'
+
+    return { players, moves, winner, ending, unparsed };
 }
 
 // =============================================================

@@ -8,7 +8,7 @@
  *
  */
 
-import type { ArrowColor, PlayerColor } from '@finity/engine';
+import type { ArrowColor, MoveAction, PlayerColor } from '@finity/engine';
 import { createGame, applyMove, ringCount, hasFullPath } from '@finity/engine';
 import { parseGameLog, toMoveAction, type ParsedGame } from './game-log-parser';
 import { parsePathPatterns } from './path-pattern-parser';
@@ -28,6 +28,7 @@ export function validateReplay(
     game: ParsedGame,
     pattern: ArrowColor[],
     playerColors: [PlayerColor, PlayerColor] = ['cyan', 'yellow'],
+    resolved?: MoveAction[]
 ): ValidationReport {
     const colorOf = new Map<string, PlayerColor>();
     game.players.forEach((p, i) => colorOf.set(p, playerColors[i])); // first mover -> [0] (@N)
@@ -36,12 +37,12 @@ export function validateReplay(
     const failures: string[] = [];
     const [c0, c1] = playerColors;
 
-    for (const mv of game.moves) {
+    for (const [i, mv] of game.moves.entries()) {
         const color = colorOf.get(mv.player)!;
         const before0 = ringCount(state, c0);
         const before1 = ringCount(state, c1);
 
-        state = applyMove(state, toMoveAction(mv.action, color, state));
+        state = applyMove(state, resolved?.[i] ?? toMoveAction(mv.action, color, state));
 
         const removed: Record<PlayerColor, number> = {
             [c0]: Math.max(0, before0 - ringCount(state, c0)),

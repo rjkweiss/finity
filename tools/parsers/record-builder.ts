@@ -11,6 +11,7 @@
 
 import type {
     ArrowColor,
+    MoveAction,
     PlayerColor,
     GameRecord,
     RecordedMove,
@@ -26,6 +27,8 @@ export interface ToGameRecordOptions {
     /** Defaults to ['cyan','yellow']; first mover maps to index 0 (N start). */
     playerColors?: PlayerColor[];
     source?: string;
+    /** Engine moves from strictReplay (blocker identity resolved) */
+    resolved?: MoveAction[];
 }
 
 export function toGameRecord(
@@ -47,7 +50,7 @@ export function toGameRecord(
     for (let i = 0; i < game.moves.length; i++) {
         const pm = game.moves[i];
         const color = colorOf.get(pm.player)!;
-        const move = toMoveAction(pm.action, color, state);
+        const move = opts.resolved?.[i] ?? toMoveAction(pm.action, color, state);
         moves.push({ move, color, timestamp: pm.timestamp ?? 0, moveIndex: i });
         state = applyMove(state, move); // immutable: initialState stays untouched
     }
@@ -64,15 +67,26 @@ export function toGameRecord(
     const firstTs = stamps.length ? stamps[0] : Date.now();
     const lastTs = stamps.length ? stamps[stamps.length - 1] : firstTs;
 
-    const result: GameResult | null = game.winner
-        ? {
-              winners: finalState.winners.slice(),
-              reason: 'path_complete',
-              finalState,
-              totalMoves: moves.length,
-              durationMs: Math.max(0, lastTs - firstTs),
-          }
-        : null;
+    // const result: GameResult | null = game.winner
+    //     ? {
+    //           winners: finalState.winners.slice(),
+    //           reason: 'path_complete',
+    //           finalState,
+    //           totalMoves: moves.length,
+    //           durationMs: Math.max(0, lastTs - firstTs),
+    //       }
+    //     : null;
+    // A winner line is not always a completed path
+    const winnerColor = game.winner ? colorOf.get(game.winner) : undefined;
+    const result: GameResult | null = game.ending === 'unfinished' || game.ending === 'abandoned'
+        ? null
+        : {
+            winners: game.ending === 'forced_draw' ? [] : winnerColor ? [winnerColor] : [],
+            reason: game.ending,
+            finalState,
+            totalMoves: moves.length,
+            durationMs: Math.max(0, lastTs - firstTs),
+        };
 
     return {
         version: 1,
@@ -84,6 +98,11 @@ export function toGameRecord(
         agents,
         moves,
         result,
-        metadata: { source: opts.source ?? 'bga', players: game.players, winnerName: game.winner },
+        metadata: {
+            source: opts.source ?? 'bga',
+            players: game.players,
+            winnerName: game.winner,
+            ending: game.ending
+        },
     };
 }

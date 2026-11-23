@@ -88,6 +88,8 @@ export const violatesReplacementRule = (
     if (state.moveHistory.length === 0) return false;
     const last = state.moveHistory[state.moveHistory.length - 1].move;
     if (last.type !== 'remove') return false;
+    // orphan exception
+    if (state.turnsSinceRingChange === 0) return false;
     const removed = last.pieceToRemove;
     return (
         removed?.type === 'arrow' &&

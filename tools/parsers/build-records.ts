@@ -20,11 +20,12 @@ import { parseGameLog } from './game-log-parser';
 import { parsePathPatterns } from './path-pattern-parser';
 import { toGameRecord } from './record-builder';
 import { validateReplay } from './replay-validator';
-
+import { strictReplay } from './strict-replay';
 export interface BuildSummary {
     matched: string[];                              // had both log + pattern
     validated: string[];                            // matched AND replay-validated
-    invalid: { id: string; failures: string[] }[];  // matched but replay mismatched
+    invalid: { id: string; failures: string[] }[];  // matched but replay mismatched or illegal
+    unparsed: { id: string; lines: string[] }[];    // log lines the grammer did not recognize
     errored: {id: string; error: string }[]         // replay CRASHED (parser/engine threw)
     logOnly: string[];                              // log present, no scraped pattern
     patternOnly: string[];                          // pattern present, no log
@@ -42,7 +43,7 @@ export function buildGameRecords(
     if (outDir && !existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 
     const summary: BuildSummary = {
-        matched: [], validated: [], invalid: [], errored: [], logOnly: [], patternOnly: [],
+        matched: [], validated: [], invalid: [], unparsed: [], errored: [], logOnly: [], patternOnly: [],
     };
     const logIds = new Set<string>();
 
@@ -56,9 +57,20 @@ export function buildGameRecords(
         const game = parseGameLog(readFileSync(join(logsDir, file), 'utf8'));
         summary.matched.push(id);
 
+        if (game.unparsed.length) summary.unparsed.push({ id, lines: game.unparsed });
+
         try {
-            const record = toGameRecord(game, pattern, { gameId: id });
-            const report = validateReplay(game, pattern);
+            const strict = strictReplay(game, pattern);
+            if (!strict.ok) {
+                const f = strict.failure;
+                summary.invalid.push({
+                    id,
+                    failures: [f ? `move ${f.moveNumber} (${f.kind}) : ${f.reason}`: 'strict replay failed']
+                });
+                continue;
+            }
+            const record = toGameRecord(game, pattern, { gameId: id, resolved: strict.moves });
+            const report = validateReplay(game, pattern, undefined, strict.moves);
             if (report.ok) summary.validated.push(id);
             else summary.invalid.push({ id, failures: report.failures });
             if (outDir) writeFileSync(join(outDir, `${id}.json`), JSON.stringify(record, null, 2));
@@ -87,6 +99,8 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
         matched: s.matched.length,
         validated: s.validated.length,
         invalid: s.invalid,
+        unparsedLogs: s.unparsed.length,
+        errored: s.errored,
         logOnly: s.logOnly.length,
         patternOnly: s.patternOnly.length,
     }, null, 2));
