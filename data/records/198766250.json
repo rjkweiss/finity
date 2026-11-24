@@ -510,6 +510,7 @@
       ]
     },
     "turnIndex": 0,
+    "defaulted": [],
     "playStatus": "playing",
     "moveHistory": [],
     "winners": [],
@@ -524,7 +525,10 @@
       "b"
     ],
     "turnsSinceRingChange": 0,
-    "zobristHash": "0"
+    "zobristHash": "4e2732747301ce95",
+    "positionCounts": {
+      "9b77f9fa61aff3ff": 1
+    }
   },
   "agents": {
     "cyan": {
@@ -1605,6 +1609,7 @@
         ]
       },
       "turnIndex": -1,
+      "defaulted": [],
       "playStatus": "over",
       "moveHistory": [
         {
@@ -1619,7 +1624,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 0
         },
         {
@@ -1634,7 +1639,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 1
         },
         {
@@ -1649,7 +1654,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 2
         },
         {
@@ -1664,7 +1669,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 3
         },
         {
@@ -1679,7 +1684,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 4
         },
         {
@@ -1694,7 +1699,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 5
         },
         {
@@ -1709,7 +1714,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 6
         },
         {
@@ -1724,7 +1729,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 7
         },
         {
@@ -1739,7 +1744,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 8
         },
         {
@@ -1754,7 +1759,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 9
         },
         {
@@ -1769,7 +1774,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890496,
+          "timestamp": 1795471317143,
           "moveIndex": 10
         },
         {
@@ -1783,7 +1788,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 11
         },
         {
@@ -1798,7 +1803,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 12
         },
         {
@@ -1812,7 +1817,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 13
         },
         {
@@ -1826,7 +1831,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 14
         },
         {
@@ -1840,7 +1845,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 15
         },
         {
@@ -1854,7 +1859,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 16
         },
         {
@@ -1867,7 +1872,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 17
         },
         {
@@ -1880,7 +1885,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 18
         },
         {
@@ -1894,7 +1899,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 19
         },
         {
@@ -1908,7 +1913,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 20
         },
         {
@@ -1923,7 +1928,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 21
         },
         {
@@ -1937,7 +1942,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 22
         },
         {
@@ -1951,7 +1956,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 23
         },
         {
@@ -1966,7 +1971,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 24
         },
         {
@@ -1980,7 +1985,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 25
         },
         {
@@ -1994,7 +1999,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890497,
+          "timestamp": 1795471317143,
           "moveIndex": 26
         },
         {
@@ -2008,7 +2013,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890498,
+          "timestamp": 1795471317143,
           "moveIndex": 27
         },
         {
@@ -2026,7 +2031,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890498,
+          "timestamp": 1795471317143,
           "moveIndex": 28
         },
         {
@@ -2039,7 +2044,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890498,
+          "timestamp": 1795471317143,
           "moveIndex": 29
         }
       ],
@@ -2056,8 +2061,42 @@
         "w",
         "b"
       ],
-      "turnsSinceRingChange": 0,
-      "zobristHash": "0"
+      "turnsSinceRingChange": 2,
+      "zobristHash": "663b82dade11736c",
+      "positionCounts": {
+        "9b77f9fa61aff3ff": 1,
+        "b7de081730b75a51": 1,
+        "a411021b89fd58ed": 1,
+        "d3a71a457ce76336": 1,
+        "ebf13d530bda37bf": 1,
+        "9c334904826f5304": 1,
+        "e69f6f19bf1e6e7a": 1,
+        "b63672e9581db590": 1,
+        "2b7778e27539e311": 1,
+        "6da719734cc52fe3": 1,
+        "47bbaeb9bab85a21": 1,
+        "6b28fda45f77de60": 1,
+        "e3827a662b01436d": 1,
+        "3345012552c9dc11": 1,
+        "4130a3e18eb979a2": 1,
+        "487d5caccad14996": 1,
+        "968e2c862b24686e": 1,
+        "534c102994ae331e": 1,
+        "72bf9c72fc0d2ced": 1,
+        "54570f9556c564f8": 1,
+        "7bc76b916865ca7b": 1,
+        "dcabfb0bf8d05e73": 1,
+        "de5159eaa8341828": 1,
+        "4334047678d72fca": 1,
+        "91e0c09ec27b96": 1,
+        "2af2b6667f2fea50": 1,
+        "718c53fd08b1829f": 1,
+        "c364b1ecbcee7183": 1,
+        "1a9ec364563b1501": 1,
+        "47c80e81b6b26c9f": 1
+      },
+      "prevBoardHash": "47c80e81b6b26c9f",
+      "endReason": "path_complete"
     },
     "totalMoves": 30,
     "durationMs": 299812000
@@ -2068,6 +2107,7 @@
       "tony1021",
       "SixPigeons"
     ],
-    "winnerName": "SixPigeons"
+    "winnerName": "SixPigeons",
+    "ending": "path_complete"
   }
 }

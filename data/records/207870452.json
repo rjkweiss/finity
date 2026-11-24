@@ -510,6 +510,7 @@
       ]
     },
     "turnIndex": 0,
+    "defaulted": [],
     "playStatus": "playing",
     "moveHistory": [],
     "winners": [],
@@ -524,7 +525,10 @@
       "b"
     ],
     "turnsSinceRingChange": 0,
-    "zobristHash": "0"
+    "zobristHash": "4e2732747301ce95",
+    "positionCounts": {
+      "9b77f9fa61aff3ff": 1
+    }
   },
   "agents": {
     "cyan": {
@@ -2577,6 +2581,7 @@
         ]
       },
       "turnIndex": -1,
+      "defaulted": [],
       "playStatus": "over",
       "moveHistory": [
         {
@@ -2591,7 +2596,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 0
         },
         {
@@ -2606,7 +2611,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 1
         },
         {
@@ -2621,7 +2626,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 2
         },
         {
@@ -2639,7 +2644,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 3
         },
         {
@@ -2654,7 +2659,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 4
         },
         {
@@ -2669,7 +2674,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 5
         },
         {
@@ -2684,7 +2689,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 6
         },
         {
@@ -2699,7 +2704,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890516,
+          "timestamp": 1795471317168,
           "moveIndex": 7
         },
         {
@@ -2714,7 +2719,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 8
         },
         {
@@ -2732,7 +2737,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 9
         },
         {
@@ -2747,7 +2752,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 10
         },
         {
@@ -2761,7 +2766,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 11
         },
         {
@@ -2783,7 +2788,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 12
         },
         {
@@ -2798,7 +2803,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 13
         },
         {
@@ -2813,7 +2818,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 14
         },
         {
@@ -2827,7 +2832,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 15
         },
         {
@@ -2841,7 +2846,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 16
         },
         {
@@ -2856,7 +2861,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 17
         },
         {
@@ -2869,7 +2874,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 18
         },
         {
@@ -2882,7 +2887,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 19
         },
         {
@@ -2897,7 +2902,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 20
         },
         {
@@ -2911,7 +2916,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 21
         },
         {
@@ -2925,7 +2930,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 22
         },
         {
@@ -2940,7 +2945,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 23
         },
         {
@@ -2958,7 +2963,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890517,
+          "timestamp": 1795471317168,
           "moveIndex": 24
         },
         {
@@ -2972,7 +2977,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 25
         },
         {
@@ -2994,7 +2999,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 26
         },
         {
@@ -3009,7 +3014,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 27
         },
         {
@@ -3023,7 +3028,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 28
         },
         {
@@ -3037,7 +3042,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 29
         },
         {
@@ -3051,7 +3056,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 30
         },
         {
@@ -3064,7 +3069,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 31
         },
         {
@@ -3079,7 +3084,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 32
         },
         {
@@ -3097,7 +3102,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 33
         },
         {
@@ -3112,7 +3117,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 34
         },
         {
@@ -3127,7 +3132,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890518,
+          "timestamp": 1795471317168,
           "moveIndex": 35
         },
         {
@@ -3145,7 +3150,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 36
         },
         {
@@ -3160,7 +3165,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 37
         },
         {
@@ -3175,7 +3180,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 38
         },
         {
@@ -3189,7 +3194,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 39
         },
         {
@@ -3211,7 +3216,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 40
         },
         {
@@ -3226,7 +3231,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 41
         },
         {
@@ -3248,7 +3253,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 42
         },
         {
@@ -3263,7 +3268,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 43
         },
         {
@@ -3278,7 +3283,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 44
         },
         {
@@ -3292,7 +3297,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890519,
+          "timestamp": 1795471317168,
           "moveIndex": 45
         },
         {
@@ -3306,7 +3311,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 46
         },
         {
@@ -3320,7 +3325,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 47
         },
         {
@@ -3335,7 +3340,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 48
         },
         {
@@ -3348,7 +3353,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 49
         },
         {
@@ -3361,7 +3366,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 50
         },
         {
@@ -3376,7 +3381,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 51
         },
         {
@@ -3390,7 +3395,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 52
         },
         {
@@ -3412,7 +3417,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 53
         },
         {
@@ -3427,7 +3432,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890520,
+          "timestamp": 1795471317168,
           "moveIndex": 54
         },
         {
@@ -3445,7 +3450,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 55
         },
         {
@@ -3458,7 +3463,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 56
         },
         {
@@ -3471,7 +3476,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 57
         },
         {
@@ -3485,7 +3490,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 58
         },
         {
@@ -3498,7 +3503,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 59
         },
         {
@@ -3512,7 +3517,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 60
         },
         {
@@ -3527,7 +3532,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 61
         },
         {
@@ -3542,7 +3547,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 62
         },
         {
@@ -3556,7 +3561,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890521,
+          "timestamp": 1795471317168,
           "moveIndex": 63
         },
         {
@@ -3571,7 +3576,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 64
         },
         {
@@ -3586,7 +3591,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 65
         },
         {
@@ -3600,7 +3605,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 66
         },
         {
@@ -3622,7 +3627,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 67
         },
         {
@@ -3644,7 +3649,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 68
         },
         {
@@ -3666,7 +3671,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890522,
+          "timestamp": 1795471317168,
           "moveIndex": 69
         },
         {
@@ -3688,7 +3693,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890523,
+          "timestamp": 1795471317168,
           "moveIndex": 70
         },
         {
@@ -3703,7 +3708,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890523,
+          "timestamp": 1795471317168,
           "moveIndex": 71
         },
         {
@@ -3717,7 +3722,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890523,
+          "timestamp": 1795471317168,
           "moveIndex": 72
         },
         {
@@ -3732,7 +3737,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890523,
+          "timestamp": 1795471317169,
           "moveIndex": 73
         },
         {
@@ -3745,7 +3750,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890523,
+          "timestamp": 1795471317169,
           "moveIndex": 74
         },
         {
@@ -3760,7 +3765,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890524,
+          "timestamp": 1795471317169,
           "moveIndex": 75
         },
         {
@@ -3774,7 +3779,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890524,
+          "timestamp": 1795471317169,
           "moveIndex": 76
         },
         {
@@ -3788,7 +3793,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890524,
+          "timestamp": 1795471317169,
           "moveIndex": 77
         },
         {
@@ -3803,7 +3808,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890524,
+          "timestamp": 1795471317169,
           "moveIndex": 78
         },
         {
@@ -3818,7 +3823,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890524,
+          "timestamp": 1795471317169,
           "moveIndex": 79
         },
         {
@@ -3831,7 +3836,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890525,
+          "timestamp": 1795471317169,
           "moveIndex": 80
         },
         {
@@ -3853,7 +3858,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890525,
+          "timestamp": 1795471317169,
           "moveIndex": 81
         },
         {
@@ -3868,7 +3873,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890525,
+          "timestamp": 1795471317169,
           "moveIndex": 82
         },
         {
@@ -3881,7 +3886,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890526,
+          "timestamp": 1795471317169,
           "moveIndex": 83
         },
         {
@@ -3895,7 +3900,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890526,
+          "timestamp": 1795471317169,
           "moveIndex": 84
         },
         {
@@ -3909,7 +3914,7 @@
             }
           },
           "color": "yellow",
-          "timestamp": 1782407890526,
+          "timestamp": 1795471317169,
           "moveIndex": 85
         },
         {
@@ -3923,7 +3928,7 @@
             }
           },
           "color": "cyan",
-          "timestamp": 1782407890526,
+          "timestamp": 1795471317169,
           "moveIndex": 86
         }
       ],
@@ -3941,7 +3946,98 @@
         "b"
       ],
       "turnsSinceRingChange": 0,
-      "zobristHash": "0"
+      "zobristHash": "6d1bb668c997655c",
+      "positionCounts": {
+        "9b77f9fa61aff3ff": 1,
+        "4a9eb2b881208d42": 1,
+        "6c6333c96beae109": 1,
+        "225e39f904a8ce74": 1,
+        "bf4081b5ed77e039": 1,
+        "18306e28f5490663": 1,
+        "5536ab09692cd7d6": 1,
+        "7bc2b216f4a6d393": 1,
+        "e06f233348cf1422": 1,
+        "885e80e28ae4bc39": 1,
+        "f01dfa8101f39a32": 1,
+        "feda4bd1887bf793": 1,
+        "7670cc13fc0d6a9e": 1,
+        "2369a10df4be024b": 1,
+        "ab8ea18d47c85d59": 1,
+        "1e0d6f7ce709440b": 1,
+        "96a7e8be937fd906": 1,
+        "9fea17f3d717e932": 1,
+        "14d88e127b159e9": 1,
+        "27a51b068d7911fc": 1,
+        "656975de5da0e0f": 1,
+        "56ff8aad02d9d5e5": 1,
+        "796feea93c797b66": 1,
+        "de037e33acccef6e": 1,
+        "b5024404bf11a492": 1,
+        "9af525e13de3d7b8": 1,
+        "430f5769d736b33a": 1,
+        "f5a3cb01bc0f0ea9": 1,
+        "10b1f3528bcbb725": 1,
+        "5e3d027bcd30bf6f": 1,
+        "87c770f327e5dbed": 1,
+        "7b68eb5ffd15fa99": 1,
+        "fed524b12054202b": 1,
+        "4cea46f95fc7f2df": 1,
+        "f357162cae9d6642": 1,
+        "ead3e05fa95b5011": 1,
+        "74747f4d59fde0ca": 1,
+        "ac13abfbc01724e5": 1,
+        "3746edffbd208c09": 1,
+        "a9e172ed4d863cd2": 1,
+        "210266b3656c155d": 1,
+        "d8335744a7f31683": 1,
+        "242d37f154ba10c0": 1,
+        "951c45515c43981b": 1,
+        "b9fb6104a3c15b3": 1,
+        "35e0aa8fa2f0025e": 1,
+        "ac4abe56aae19ece": 1,
+        "655f5df89cb9d719": 1,
+        "8e9aed52a4ec8ff1": 1,
+        "a9b749c6533e9ad9": 1,
+        "a0d4f82161abb23a": 1,
+        "8db49a0621ef781c": 1,
+        "ae88fa7d0da131c2": 1,
+        "1c60186cb9fec2de": 1,
+        "2b211555ae99319e": 1,
+        "baf5973f36888b5c": 1,
+        "106f47396aee0d0f": 1,
+        "3d0f251e2aaac729": 1,
+        "833f5ed6db520380": 1,
+        "cdb3afff9da90bca": 1,
+        "7383d4376c51cf63": 1,
+        "eee689abbcb2f881": 1,
+        "b130f1912014904a": 1,
+        "5e72e35a5bb9c530": 1,
+        "878891d2b16ca1b2": 1,
+        "370da7bcbe1843a6": 1,
+        "67e02e7a862b7e1c": 1,
+        "d508cc6b32748d00": 1,
+        "7a26357f0970374": 1,
+        "208d9ec641115a75": 1,
+        "7e864cf7c9586a25": 1,
+        "49c741cede3f9965": 1,
+        "99c843a68ebb1c87": 1,
+        "2b20a1b73ae4ef9b": 1,
+        "64c092609255d68e": 1,
+        "42280187389d9e9b": 1,
+        "3ff12f1bd36f1234": 1,
+        "fa3313b46ce54944": 1,
+        "d5a377b05245e7c7": 1,
+        "5d447730e133b8d5": 1,
+        "aeead4ab1acf1496": 1,
+        "d82c7111ecc5d860": 1,
+        "b86e3c3c9a79a508": 1,
+        "49396c75943420ca": 1,
+        "1630131b1b92e62": 1,
+        "54e3fcadbacbb412": 1,
+        "922538e8b6bc6ce3": 1
+      },
+      "prevBoardHash": "922538e8b6bc6ce3",
+      "endReason": "path_complete"
     },
     "totalMoves": 87,
     "durationMs": 4355495000
@@ -3952,6 +4048,7 @@
       "SixPigeons",
       "tony1021"
     ],
-    "winnerName": "SixPigeons"
+    "winnerName": "SixPigeons",
+    "ending": "path_complete"
   }
 }
